@@ -2,7 +2,7 @@
 title: Women, Equality, and Religious Authority
 summary: Women's participation in Gospel narratives, Paul's coworkers, and restrictive church passages.
 status: draft
-passages: [lk-08-01-03, ro-16-01-16, 1co-14-34-35, 1ti-02-08-15]
+passages: [lk-08-01-03, ro-16-01-16, 1co-14-34-35, 1ti-02-08-15, mk-15-40-47]
 ---
 ## Research question
 

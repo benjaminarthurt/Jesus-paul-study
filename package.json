@@ -8,7 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "node scripts/validate-content.mjs",
-    "test:validator": "node --test tests/frontmatter.test.mjs"
+    "test:validator": "node --test tests/*.test.mjs"
   },
   "dependencies": {
     "astro": "^7.4.12",

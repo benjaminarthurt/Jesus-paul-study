@@ -100,6 +100,26 @@ for (const entry of collection("research/modern-issues")) {
     if (!topicIds.has(id)) errors.push("Unknown topic " + id + " in modern issue " + entry.id);
   }
 }
+
+const validMarkKinds = new Set(["speech", "dialogue", "parable", "action", "context", "disputed", "composite"]);
+const markUnits = passages.filter(p => p.bookId === "mk");
+const chapterSet = new Set();
+for (const p of markUnits) {
+  if (!p.unitType || !validMarkKinds.has(p.unitType)) errors.push("Unknown Mark unitType: " + p.id);
+  const m = /^mk-(\d{2})-(\d{2})-(\d{2})$/.exec(p.id);
+  if (!m) { errors.push("Invalid Mark passage ID " + p.id); continue; }
+  const ch = Number(m[1]), start = Number(m[2]), end = Number(m[3]);
+  if (ch < 1 || ch > 16 || start < 1 || end < start) errors.push("Invalid Mark reference bounds: " + p.id);
+  if (p.reference !== `Mark ${ch}:${start}–${end}`) errors.push("Mark reference/ID mismatch: " + p.id);
+  chapterSet.add(ch);
+  if (p.sourceUrl !== `https://ebible.org/engwebp/MRK${m[1]}.htm`) errors.push("Unexpected primary text link: " + p.id);
+}
+if (chapterSet.size !== 16) errors.push("Mark inventory does not yet cover all 16 chapters");
+const longerEnding = passagesById.get("mk-16-09-20");
+if (!longerEnding || longerEnding.textualStatus !== "disputed-longer-ending" || longerEnding.unitType !== "disputed") {
+  errors.push("Disputed Mark 16:9–20 must carry an explicit textual warning");
+}
+
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exitCode = 1;

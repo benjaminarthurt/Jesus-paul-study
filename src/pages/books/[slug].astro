@@ -7,18 +7,60 @@ export function getStaticPaths() {
 }
 const { book } = Astro.props;
 const refs = passages.filter(p => p.bookId === book.id);
+const chapterOf = (ref: { reference: string }) => Number(ref.reference.match(/(\d+):\d+/)?.[1] || 0);
+const verseOf = (ref: { reference: string }) => Number(ref.reference.match(/\d+:(\d+)/)?.[1] || 0);
+const mark = book.id === "mk";
+const visible = (mark ? refs.filter(ref => !("unitType" in ref && ref.unitType === "composite")) : refs)
+  .sort((a,b) => chapterOf(a) - chapterOf(b) || verseOf(a) - verseOf(b));
+const groups = mark
+  ? Array.from({length:16},(_,i)=>({chapter:i+1,records:visible.filter(ref=>chapterOf(ref)===i+1)}))
+  : [];
+const kindLabels: Record<string,string> = {
+  speech: "Recorded speech",
+  dialogue: "Encounter / dialogue",
+  parable: "Parable",
+  action: "Narrated action",
+  context: "Context / narrative",
+  disputed: "Disputed ending",
+  composite: "Composite reference"
+};
 ---
 <Base title={book.title}>
   <p class="eyebrow">Biblical book index</p>
   <h1>{book.title}</h1>
   <p class="lead">{book.attributionNote}</p>
-  <p class="warning">Coverage is being developed. The references below are only the initial catalog, not an exhaustive account of this book.</p>
-  <section class="study">
-    <h2>Indexed passages ({refs.length})</h2>
-    {refs.length ? refs.map(ref => <div class="reference">
-      <strong>{ref.reference}</strong><span>{ref.summary}</span>
-      <p>{ref.topics.map(t => <a href={`/topics/${t}/`} style="margin-right:1rem">{t.replaceAll("-"," ")}</a>)}</p>
-    </div>) : <p class="muted">Not yet cataloged. This book is on the research roadmap.</p>}
-  </section>
+  {mark ? <>
+    <p class="warning">This is a <strong>draft pericope map</strong>, not a complete catalog of every saying or a source-checked conclusion. Narrative events are not automatically teachings attributed to Jesus. Mark 16:9–20 is marked as a disputed textual ending.</p>
+    <nav class="chapter-nav" aria-label="Jump to Mark chapter">
+      {groups.map(g => <a href={`#chapter-${g.chapter}`}>Chapter {g.chapter}</a>)}
+    </nav>
+    <p class="muted">{visible.length} passage units organized by chapter; the earlier Mark 7:1–23 composite anchor is omitted to avoid duplicating its subunits.</p>
+    {groups.map(group=><section class="chapter-group" id={`chapter-${group.chapter}`}>
+      <div class="chapter-heading">
+        <h2>Chapter {group.chapter}</h2>
+        <a href={`https://ebible.org/engwebp/MRK${String(group.chapter).padStart(2,"0")}.htm`} target="_blank" rel="noopener noreferrer">Read chapter (WEB)</a>
+      </div>
+      {group.records.map(ref=><article class="reference unit">
+        <div class="meta">
+          <strong>{ref.reference}</strong>
+          {"unitType" in ref && ref.unitType && <span class="unit-label" data-kind={ref.unitType}>{kindLabels[ref.unitType] || ref.unitType}</span>}
+          <span class="status" data-state={ref.status}>{ref.status}</span>
+        </div>
+        {"title" in ref && ref.title && <h3>{ref.title}</h3>}
+        <p>{ref.summary}</p>
+        {"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}
+        <div class="meta">{ref.topics.map(t => <a href={`/topics/${t}/`}>{t.replaceAll("-"," ")}</a>)}</div>
+      </article>)}
+    </section>)}
+  </> : <>
+    <p class="warning">Coverage is developing. The references below are only an initial catalog, not an exhaustive account of this book.</p>
+    <section class="study">
+      <h2>Indexed passages ({visible.length})</h2>
+      {visible.length ? visible.map(ref => <div class="reference">
+        <strong>{ref.reference}</strong><span>{ref.summary}</span>
+        <p>{ref.topics.map(t => <a href={`/topics/${t}/`} style="margin-right:1rem">{t.replaceAll("-"," ")}</a>)}</p>
+      </div>) : <p class="muted">Not yet cataloged. This book is on the research roadmap.</p>}
+    </section>
+  </>}
   <p><a href="/books/">All books</a></p>
 </Base>

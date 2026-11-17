@@ -15,6 +15,14 @@
 - `summary`: original paraphrase, **not** a Bible quotation
 - `topics`: slugs of relevant topic pages
 - `status`: research review state
+- Optional `title`: pericope title
+- Optional `unitType`: `speech`, `dialogue`, `parable`, `action`, `context`, `disputed`, or legacy `composite`
+- Optional `sourceUrl`: chapter link used to check the primary text
+- Optional `textualStatus` / `textualNote`: text-critical cautions
+
+`sourceLayer` identifies a literary corpus, **not the speaker** of every verse. For example a Markan narrative can have `sourceLayer: jesus-synoptic` and `unitType: context` even when Jesus does not speak. The older composite Mark 7:1–23 anchor remains for stable references but is hidden on the chapter browser to prevent duplicate display.
+
+These are preliminary literary units, not precise verse-by-verse extraction of words attributed to Jesus.
 
 ## Markdown collections
 
