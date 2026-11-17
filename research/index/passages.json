@@ -1,0 +1,156 @@
+[
+  {
+    "id": "mt-05-17-20",
+    "bookId": "mt",
+    "reference": "Matthew 5:17–20",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus speaks of fulfilling the Law and the continuing importance of its commands.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mk-07-01-23",
+    "bookId": "mk",
+    "reference": "Mark 7:1–23",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus disputes religious traditions concerning purity and defilement.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ga-03-23-25",
+    "bookId": "ga",
+    "reference": "Galatians 3:23–25",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes the Law's supervisory role and a changed relationship to it through faith.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ro-07-01-06",
+    "bookId": "ro",
+    "reference": "Romans 7:1–6",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul uses an analogy about law to discuss a new relationship to service in the Spirit.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lk-06-20-26",
+    "bookId": "lk",
+    "reference": "Luke 6:20–26",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Luke juxtaposes blessings and woes involving poverty, hunger, wealth, and satisfaction.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mk-10-17-31",
+    "bookId": "mk",
+    "reference": "Mark 10:17–31",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus challenges a wealthy man and discusses the difficulty of entering God's kingdom with riches.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mt-25-31-46",
+    "bookId": "mt",
+    "reference": "Matthew 25:31–46",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "The Son of Man's judgment scene centers on treatment of the hungry, stranger, sick, and imprisoned.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "2co-08-01-15",
+    "bookId": "2co",
+    "reference": "2 Corinthians 8:1–15",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul appeals for generosity and equity in support of other believers.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lk-08-01-03",
+    "bookId": "lk",
+    "reference": "Luke 8:1–3",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Women are named as accompanying and supporting Jesus' ministry.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ro-16-01-16",
+    "bookId": "ro",
+    "reference": "Romans 16:1–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul commends women and men among his coworkers and networks.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "1co-14-34-35",
+    "bookId": "1co",
+    "reference": "1 Corinthians 14:34–35",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Text imposes restrictions on women's speech in assembly; its transmission and placement are debated.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "1ti-02-08-15",
+    "bookId": "1ti",
+    "reference": "1 Timothy 2:8–15",
+    "sourceLayer": "paul-disputed",
+    "summary": "Passage places limits on women's teaching and authority, with disputed authorship and interpretation.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mk-10-02-12",
+    "bookId": "mk",
+    "reference": "Mark 10:2–12",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus responds to questions about divorce by appealing to creation and covenant.",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "1co-07-10-16",
+    "bookId": "1co",
+    "reference": "1 Corinthians 7:10–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul differentiates an instruction attributed to the Lord from further guidance on mixed-belief marriages.",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft"
+  }
+]

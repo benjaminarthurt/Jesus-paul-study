@@ -1,0 +1,26 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+import passages from "../../../research/index/passages.json";
+export async function getStaticPaths() {
+  const entries = await getCollection("topics");
+  return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const refs = entry.data.passages.map(id => passages.find(p => p.id === id)).filter(Boolean);
+---
+<Base title={entry.data.title} description={entry.data.summary}>
+  <div class="study">
+    <p class="eyebrow">Research topic</p><h1>{entry.data.title}</h1>
+    <p class="lead">{entry.data.summary}</p>
+    <div class="kicker"><span class="status" data-state={entry.data.status}>{entry.data.status}</span></div>
+    <section class="panel">
+      <h2>Starter passage index</h2>
+      {refs.map(ref => <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span></div>)}
+    </section>
+    <article class="prose"><Content /></article>
+    <p class="warning">This is an evolving research note. Source review and a full counterargument audit remain pending.</p>
+    <p><a href="/topics/">All topics</a></p>
+  </div>
+</Base>

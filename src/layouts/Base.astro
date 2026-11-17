@@ -1,0 +1,42 @@
+---
+import "../styles/site.css";
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = "A historical and textual study of Jesus, Paul, and modern Christianity." } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title} | Jesus & Paul Study</title>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="/" aria-label="Jesus and Paul study home">
+          <span class="brand-symbol" aria-hidden="true">J/P</span>
+          <span>Jesus &amp; Paul <small>THE TEXTUAL STUDY</small></span>
+        </a>
+        <nav aria-label="Main navigation">
+          <a href="/topics/">Topics</a>
+          <a href="/comparisons/">Comparisons</a>
+          <a href="/books/">Books</a>
+          <a href="/modern-issues/">Modern issues</a>
+          <a href="/methodology/">Methodology</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="shell"><slot /></main>
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <p>Research-first biblical and historical reference. Draft material is provisional.</p>
+        <p><a href="/sources/">Sources &amp; review policy</a> · No final findings published yet.</p>
+      </div>
+    </footer>
+  </body>
+</html>

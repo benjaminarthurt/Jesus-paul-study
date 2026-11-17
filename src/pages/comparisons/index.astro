@@ -1,0 +1,15 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection } from "astro:content";
+const entries = (await getCollection("comparisons")).sort((a,b) => a.data.title.localeCompare(b.data.title));
+---
+<Base title="Comparisons">
+  <p class="eyebrow">Passage versus passage</p><h1>Comparisons</h1>
+  <p class="lead">Each case tests a proposed connection or tension, including explanations that might reconcile the passages.</p>
+  <div class="card-grid">
+    {entries.map(item => <article class="card">
+      <div class="meta"><span class="status" data-state={item.data.status}>{item.data.status}</span><span>{item.data.classification.replaceAll("-"," ")}</span></div>
+      <h3><a class="title-link" href={`/comparisons/${item.id}/`}>{item.data.title}</a></h3><p>{item.data.summary}</p>
+    </article>)}
+  </div>
+</Base>

@@ -1,0 +1,23 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+export async function getStaticPaths() {
+  const entries = await getCollection("issues");
+  return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+<Base title={entry.data.title} description={entry.data.summary}>
+  <div class="study">
+    <p class="eyebrow">Modern application dossier</p>
+    <h1>{entry.data.title}</h1><p class="lead">{entry.data.summary}</p>
+    <span class="status" data-state={entry.data.status}>{entry.data.status}</span>
+    <article class="prose"><Content /></article>
+    <section class="panel"><h2>Related biblical themes</h2>
+      <ul>{entry.data.topicRefs.map(t => <li><a href={`/topics/${t}/`}>{t.replaceAll("-"," ")}</a></li>)}</ul>
+    </section>
+    <p class="warning">Ancient texts do not automatically specify present-day legislation or political positions. All policy applications will identify their inferential steps.</p>
+    <p><a href="/modern-issues/">All modern issues</a></p>
+  </div>
+</Base>

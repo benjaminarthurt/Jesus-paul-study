@@ -1,0 +1,164 @@
+[
+  {
+    "id": "mt",
+    "title": "Matthew",
+    "group": "gospels",
+    "attributionNote": "Canonical Gospel; authorship historically debated"
+  },
+  {
+    "id": "mk",
+    "title": "Mark",
+    "group": "gospels",
+    "attributionNote": "Canonical Gospel; authorship historically debated"
+  },
+  {
+    "id": "lk",
+    "title": "Luke",
+    "group": "gospels",
+    "attributionNote": "Canonical Gospel; authorship historically debated"
+  },
+  {
+    "id": "jn",
+    "title": "John",
+    "group": "gospels",
+    "attributionNote": "Canonical Gospel; Johannine authorship debated"
+  },
+  {
+    "id": "ac",
+    "title": "Acts",
+    "group": "acts",
+    "attributionNote": "Narrative source, traditionally linked to Luke"
+  },
+  {
+    "id": "ro",
+    "title": "Romans",
+    "group": "paul-undisputed",
+    "attributionNote": "Generally accepted as authentic Paul"
+  },
+  {
+    "id": "1co",
+    "title": "1 Corinthians",
+    "group": "paul-undisputed",
+    "attributionNote": "Generally accepted as authentic Paul"
+  },
+  {
+    "id": "2co",
+    "title": "2 Corinthians",
+    "group": "paul-undisputed",
+    "attributionNote": "Generally accepted as authentic Paul"
+  },
+  {
+    "id": "ga",
+    "title": "Galatians",
+    "group": "paul-undisputed",
+    "attributionNote": "Generally accepted as authentic Paul"
+  },
+  {
+    "id": "php",
+    "title": "Philippians",
+    "group": "paul-undisputed",
+    "attributionNote": "Generally accepted as authentic Paul"
+  },
+  {
+    "id": "1th",
+    "title": "1 Thessalonians",
+    "group": "paul-undisputed",
+    "attributionNote": "Generally accepted as authentic Paul"
+  },
+  {
+    "id": "phm",
+    "title": "Philemon",
+    "group": "paul-undisputed",
+    "attributionNote": "Generally accepted as authentic Paul"
+  },
+  {
+    "id": "eph",
+    "title": "Ephesians",
+    "group": "paul-disputed",
+    "attributionNote": "Pauline authorship debated"
+  },
+  {
+    "id": "col",
+    "title": "Colossians",
+    "group": "paul-disputed",
+    "attributionNote": "Pauline authorship debated"
+  },
+  {
+    "id": "2th",
+    "title": "2 Thessalonians",
+    "group": "paul-disputed",
+    "attributionNote": "Pauline authorship debated"
+  },
+  {
+    "id": "1ti",
+    "title": "1 Timothy",
+    "group": "paul-disputed",
+    "attributionNote": "Pauline authorship debated; Pastoral Epistle"
+  },
+  {
+    "id": "2ti",
+    "title": "2 Timothy",
+    "group": "paul-disputed",
+    "attributionNote": "Pauline authorship debated; Pastoral Epistle"
+  },
+  {
+    "id": "tit",
+    "title": "Titus",
+    "group": "paul-disputed",
+    "attributionNote": "Pauline authorship debated; Pastoral Epistle"
+  },
+  {
+    "id": "heb",
+    "title": "Hebrews",
+    "group": "other-nt",
+    "attributionNote": "Anonymous work; not treated as written by Paul"
+  },
+  {
+    "id": "jas",
+    "title": "James",
+    "group": "other-nt",
+    "attributionNote": "Authorship debated"
+  },
+  {
+    "id": "1pe",
+    "title": "1 Peter",
+    "group": "other-nt",
+    "attributionNote": "Authorship debated"
+  },
+  {
+    "id": "2pe",
+    "title": "2 Peter",
+    "group": "other-nt",
+    "attributionNote": "Authorship debated"
+  },
+  {
+    "id": "1jn",
+    "title": "1 John",
+    "group": "other-nt",
+    "attributionNote": "Johannine corpus; authorship debated"
+  },
+  {
+    "id": "2jn",
+    "title": "2 John",
+    "group": "other-nt",
+    "attributionNote": "Johannine corpus; authorship debated"
+  },
+  {
+    "id": "3jn",
+    "title": "3 John",
+    "group": "other-nt",
+    "attributionNote": "Johannine corpus; authorship debated"
+  },
+  {
+    "id": "jud",
+    "title": "Jude",
+    "group": "other-nt",
+    "attributionNote": "Authorship debated"
+  },
+  {
+    "id": "rev",
+    "title": "Revelation",
+    "group": "other-nt",
+    "attributionNote": "Attributed to John of Patmos; distinct from presumed Gospel authorship"
+  }
+]
