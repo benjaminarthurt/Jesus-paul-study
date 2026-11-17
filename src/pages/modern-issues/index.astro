@@ -1,0 +1,15 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection } from "astro:content";
+const entries = (await getCollection("issues")).sort((a,b) => a.data.title.localeCompare(b.data.title));
+---
+<Base title="Modern Issues">
+  <p class="eyebrow">Contemporary questions</p><h1>Modern issues</h1>
+  <p class="lead">These dossiers separate explicit ancient instruction from historically situated interpretation and present-day application.</p>
+  <div class="card-grid">
+    {entries.map(item => <article class="card">
+      <span class="status" data-state={item.data.status}>{item.data.status}</span>
+      <h3><a class="title-link" href={`/modern-issues/${item.id}/`}>{item.data.title}</a></h3><p>{item.data.summary}</p>
+    </article>)}
+  </div>
+</Base>

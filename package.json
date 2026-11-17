@@ -1,0 +1,17 @@
+{
+  "name": "jesus-paul-study",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "node scripts/validate-content.mjs",
+    "test:validator": "node --test tests/frontmatter.test.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.4.12",
+    "yaml": "^2.8.1"
+  }
+}

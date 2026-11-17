@@ -1,0 +1,16 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection } from "astro:content";
+const topics = (await getCollection("topics")).sort((a,b) => a.data.title.localeCompare(b.data.title));
+---
+<Base title="Topics" description="Research themes connecting Jesus' teachings, Paul, and other early Christian texts.">
+  <p class="eyebrow">Research by theme</p><h1>Topics</h1>
+  <p class="lead">Each topic gathers relevant references and competing questions. Draft status means the analysis has not yet been source-checked.</p>
+  <div class="card-grid">
+    {topics.map(item => <article class="card">
+      <div class="meta"><span class="status" data-state={item.data.status}>{item.data.status}</span><span>{item.data.passages.length} starter references</span></div>
+      <h3><a class="title-link" href={`/topics/${item.id}/`}>{item.data.title}</a></h3>
+      <p>{item.data.summary}</p>
+    </article>)}
+  </div>
+</Base>

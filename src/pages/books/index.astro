@@ -1,0 +1,22 @@
+---
+import Base from "../../layouts/Base.astro";
+import books from "../../../research/index/books.json";
+const groups = [
+  ["gospels","Four canonical Gospels"],
+  ["acts","Acts"],
+  ["paul-undisputed","Seven generally undisputed Pauline letters"],
+  ["paul-disputed","Six letters with debated Pauline authorship"],
+  ["other-nt","Other New Testament writings"]
+];
+---
+<Base title="Books">
+  <p class="eyebrow">Canonical New Testament</p><h1>Book by book</h1>
+  <p class="lead">The complete 27-book inventory, organized by source and historical authorship distinctions. Listing a book does not certify its traditional attribution.</p>
+  {groups.map(([key,label]) => <section class="group">
+    <h2>{label}</h2>
+    <div class="card-grid">{books.filter(b => b.group === key).map(book => <article class="card">
+      <h3><a class="title-link" href={`/books/${book.id}/`}>{book.title}</a></h3>
+      <p>{book.attributionNote}</p>
+    </article>)}</div>
+  </section>)}
+</Base>

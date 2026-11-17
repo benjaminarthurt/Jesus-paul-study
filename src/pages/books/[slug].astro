@@ -1,0 +1,24 @@
+---
+import Base from "../../layouts/Base.astro";
+import books from "../../../research/index/books.json";
+import passages from "../../../research/index/passages.json";
+export function getStaticPaths() {
+  return books.map(book => ({ params: { slug: book.id }, props: { book } }));
+}
+const { book } = Astro.props;
+const refs = passages.filter(p => p.bookId === book.id);
+---
+<Base title={book.title}>
+  <p class="eyebrow">Biblical book index</p>
+  <h1>{book.title}</h1>
+  <p class="lead">{book.attributionNote}</p>
+  <p class="warning">Coverage is being developed. The references below are only the initial catalog, not an exhaustive account of this book.</p>
+  <section class="study">
+    <h2>Indexed passages ({refs.length})</h2>
+    {refs.length ? refs.map(ref => <div class="reference">
+      <strong>{ref.reference}</strong><span>{ref.summary}</span>
+      <p>{ref.topics.map(t => <a href={`/topics/${t}/`} style="margin-right:1rem">{t.replaceAll("-"," ")}</a>)}</p>
+    </div>) : <p class="muted">Not yet cataloged. This book is on the research roadmap.</p>}
+  </section>
+  <p><a href="/books/">All books</a></p>
+</Base>
