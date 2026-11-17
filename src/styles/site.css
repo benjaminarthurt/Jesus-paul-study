@@ -78,3 +78,7 @@ p {max-width:78ch}
   main {padding-top:1.5rem}
 }
 @media (prefers-reduced-motion:reduce) {html {scroll-behavior:auto}}
+
+/* Override the global anchor hover rule to preserve button text contrast. */
+.button:hover, .button:focus-visible {color:white}
+.button.secondary:hover, .button.secondary:focus-visible {color:var(--teal-dark)}

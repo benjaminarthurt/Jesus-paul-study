@@ -6,7 +6,7 @@ const passageIds = z.array(z.string().min(1));
 
 export const collections = {
   topics: defineCollection({
-    loader: glob({ pattern: "**/*.md", base: "./research/topics" }),
+    loader: glob({ pattern: "*.md", base: "./research/topics" }),
     schema: z.object({
       title: z.string(),
       summary: z.string(),
@@ -15,7 +15,7 @@ export const collections = {
     })
   }),
   comparisons: defineCollection({
-    loader: glob({ pattern: "**/*.md", base: "./research/comparisons" }),
+    loader: glob({ pattern: "*.md", base: "./research/comparisons" }),
     schema: z.object({
       title: z.string(),
       summary: z.string(),
@@ -33,7 +33,7 @@ export const collections = {
     })
   }),
   issues: defineCollection({
-    loader: glob({ pattern: "**/*.md", base: "./research/modern-issues" }),
+    loader: glob({ pattern: "*.md", base: "./research/modern-issues" }),
     schema: z.object({
       title: z.string(),
       summary: z.string(),
