@@ -44,6 +44,7 @@ const evaluationLabels: Record<string,string> = {
     <h2>Contextual witnesses</h2>
     <p class="muted">These texts add background but do not become direct quotations by Jesus or Paul merely by appearing in this comparison.</p>
     {contextRefs.map(ref => ref && <div class="reference">
+      <div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship disputed — contextual witness, not uncontested Paul" : ref.sourceLayer === "acts" ? "Acts — narrative witness, not Paul\u0027s own account" : "Additional contextual witness"}</div>
       <strong>{ref.reference}</strong><span>{ref.summary}</span>
       {"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read the passage in context</a></p>}
     </div>)}

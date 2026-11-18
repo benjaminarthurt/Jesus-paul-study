@@ -125,5 +125,186 @@
     "observation": "The texts speak about continuity of scripture, how God's promises reach fulfillment, inclusion of Gentiles, and moral transformation; these are not necessarily identical questions.",
     "alternateReading": "Matthew's insistence on even minor commandments can still represent a genuine disagreement with claims that all followers are released from specific Torah obligations.",
     "limitation": "Romans 10:4 uses telos, whose interpretation as end, goal or culmination varies. A reconciled reading is a hypothesis, not proof that there is no theological tension."
+  },
+  {
+    "id": "wealth-01-rich-ruler",
+    "title": "The call to relinquish possessions in the rich-ruler encounter",
+    "kind": "textual-observation",
+    "assessment": "tension",
+    "passageIds": [
+      "mk-10-17-31",
+      "mt-19-16-30",
+      "lk-18-18-30"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "shively-2012-mark10"
+    ],
+    "observation": "Mark portrays Jesus instructing one wealthy man to sell his possessions, give to the poor, and follow; the later teaching also describes wealth as a serious impediment to entering the kingdom.",
+    "alternateReading": "The imperative is addressed to a particular person, not stated as a uniform accounting rule for every follower. Yet its placement within broader discipleship teaching makes it difficult to dismiss as irrelevant beyond that encounter.",
+    "limitation": "Matthew and Luke contain versions of a related Gospel tradition, not three independent verbatim historical transcripts. Shively is a pastoral commentator and her application is not a consensus judgment.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-02-luke-reversal",
+    "title": "Luke emphasizes poverty and eschatological reversal",
+    "kind": "textual-observation",
+    "assessment": "tension",
+    "passageIds": [
+      "lk-06-20-26",
+      "lk-12-13-21",
+      "lk-12-22-34",
+      "lk-16-19-31"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "ndekha-2020-luke6"
+    ],
+    "observation": "In Luke, the teaching on the plain addresses the poor and the rich with opposing blessings and woes, while further accounts criticize hoarding, urge almsgiving, and portray a rich person ignoring someone in need.",
+    "alternateReading": "Some interpret Luke's poverty language chiefly as disciples' dependence on God or as an anticipated reversal rather than a blanket claim that material poverty is itself virtuous and wealth itself always culpable.",
+    "limitation": "Ndekha offers a contextually framed panegyric reading with modern Malawian application; this is one argued reading. Luke's descriptions should not automatically be generalized to all four Gospels.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-03-judgment-least",
+    "title": "Matthew 25 ties judgment to acts of care, but the beneficiaries are debated",
+    "kind": "historical-interpretation",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "mt-25-31-46"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "vanzyl-2013-matthew25"
+    ],
+    "observation": "Matthew portrays the Son of Man relating treatment of hungry, thirsty, stranger, unclothed, sick and imprisoned people to treatment of himself.",
+    "alternateReading": "Scholars disagree whether 'the least of these my brothers' refers particularly to Jesus' disciples or emissaries, to needy people in general, or to a deliberately wider ethical horizon that connects both.",
+    "limitation": "A contested audience/beneficiary identification prevents direct inference of a universal civil welfare policy or a claim that charity alone exhausts Matthew's theology of judgment.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-04-paul-equality",
+    "title": "Paul's collection seeks practical relief and reciprocity",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "passageIds": [
+      "2co-08-01-15",
+      "1co-16-01-04",
+      "ro-15-25-28"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "barclay-2023-rich-poverty",
+      "welborn-2013-equality"
+    ],
+    "observation": "Paul organizes contributions across communities and speaks of matching current abundance to others' shortage with an aim of equality; Romans identifies the poor among Jerusalem believers as recipients.",
+    "alternateReading": "The scope is an interchurch project, not a proposed model for state redistribution or a complete prescription for how Christians should organize all property. Interpretations of equality differ.",
+    "limitation": "Barclay's article is examined in full; Welborn's contribution is drawn only from the publisher abstract and must not be cited for unseen arguments or pages.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-05-voluntary-and-means",
+    "title": "Paul's appeal is substantial but distinguishes advice, capacity, and willingness",
+    "kind": "counterexample",
+    "assessment": "tension",
+    "passageIds": [
+      "2co-08-01-15",
+      "2co-09-01-15",
+      "mk-10-17-31"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "barclay-2023-rich-poverty"
+    ],
+    "observation": "In 2 Corinthians 8:8 Paul describes his appeal as not a command; 8:12 concerns one's means and 8:13 avoids transferring distress; 9:7 opposes grudging or compelled contributions.",
+    "alternateReading": "Paul's noncoercive rhetoric can nonetheless create strong communal expectations, and his Macedonian example celebrates giving out of poverty. The difference from the rich-ruler demand need not signal rejection of Jesus' ethic.",
+    "limitation": "Paul's emphasis on a specific fundraising situation and Jesus' challenge to a specific person are not parallel commands addressed to the same audience. Barclay warns that such texts can be abused to pressure poor donors.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-06-poor-within-and-beyond",
+    "title": "Solidarity with the poor appears explicitly in Paul's undisputed letters",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "passageIds": [
+      "ga-02-01-10",
+      "ro-12-09-13",
+      "2co-09-01-15",
+      "ro-15-25-28"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "barclay-2023-rich-poverty"
+    ],
+    "observation": "Galatians 2:10 reports a request to remember the poor, Romans 12 urges sharing with believers in need, and the collection is portrayed as a multi-community commitment to material support.",
+    "alternateReading": "Some of these beneficiaries are identified specifically as fellow believers, especially in Jerusalem. That narrower reference does not automatically establish Paul's position on poverty outside the churches.",
+    "limitation": "The collection's explicit target cannot by itself prove either that Paul denied assistance to nonbelievers or that he taught an unlimited universal redistribution policy.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-07-widow-context",
+    "title": "The widow's offering can signify devotion while raising exploitation concerns",
+    "kind": "historical-interpretation",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "mk-12-38-40",
+      "mk-12-41-44",
+      "mk-14-01-11"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "kubis-2015-widow"
+    ],
+    "observation": "Jesus observes a poor widow contributing from her livelihood immediately after criticism of scribes who exploit widows. The nearby anointing episode also contests assumptions about how costly gifts should be evaluated.",
+    "alternateReading": "Some readings commend the widow as an exemplar of self-giving, while others emphasize the indictment of a system that consumes vulnerable people's resources. Kubiś's abstract argues for a positive reading while acknowledging a negative one.",
+    "limitation": "The article's abstract was inspected, not its full analysis; the narrator records the widow's action, not Jesus ordering impoverished people to surrender their last resources.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-08-zacchaeus-variety",
+    "title": "Luke narrates substantial restitution without a uniform dispossession formula",
+    "kind": "counterexample",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "lk-19-01-10",
+      "lk-18-18-30",
+      "lk-12-22-34"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "ndekha-2020-luke6"
+    ],
+    "observation": "Luke reports Zacchaeus pledging half his property to the poor and restitution for wrongdoing, alongside the rich ruler's distinct call to sell all and the disciples' broader instruction to give alms.",
+    "alternateReading": "Zacchaeus's episode is narrative description rather than a general rule that giving exactly half suffices; juxtaposition may show Luke's emphasis on concrete generosity and repentance in differing situations.",
+    "limitation": "The sources do not supply a single formula for the appropriate percentage of wealth to give. Different audiences, genres, and sequences matter.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
+  },
+  {
+    "id": "wealth-09-acts-cannot-be-paul",
+    "title": "Acts depicts communal sharing but is a separate narrative source",
+    "kind": "source-comparison",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "ac-04-32-37",
+      "1co-16-01-04",
+      "2co-08-01-15"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "barclay-2023-rich-poverty"
+    ],
+    "observation": "Acts describes property-sharing among an early Jerusalem community; Paul's letters independently document an organized transfer of resources from other assemblies toward believers in need.",
+    "alternateReading": "Acts' community portrait may serve a theological and literary ideal, so its details should not be uncritically equated with Paul's independent letters or interpreted as proof of an identical economic institution.",
+    "limitation": "Acts 4's narrated practices cannot be attributed as direct instructions spoken by Jesus or as Paul's first-person eyewitness report.",
+    "comparisonId": "wealth-and-generosity",
+    "status": "draft"
   }
 ]

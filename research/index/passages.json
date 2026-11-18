@@ -22,6 +22,18 @@
     "status": "draft"
   },
   {
+    "id": "1co-16-01-04",
+    "bookId": "1co",
+    "reference": "1 Corinthians 16:1–4",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul instructs church members to set aside contributions according to their means and describes transparent delivery to Jerusalem.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
     "id": "1ti-02-08-15",
     "bookId": "1ti",
     "reference": "1 Timothy 2:8–15",
@@ -33,6 +45,18 @@
     "status": "draft"
   },
   {
+    "id": "1ti-06-06-19",
+    "bookId": "1ti",
+    "reference": "1 Timothy 6:6–19",
+    "sourceLayer": "paul-disputed",
+    "summary": "A later or disputed Pauline letter warns against love of money and instructs wealthy believers in generosity and good deeds.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
     "id": "2co-08-01-15",
     "bookId": "2co",
     "reference": "2 Corinthians 8:1–15",
@@ -41,7 +65,32 @@
     "topics": [
       "wealth-poverty"
     ],
-    "status": "draft"
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+  },
+  {
+    "id": "2co-09-01-15",
+    "bookId": "2co",
+    "reference": "2 Corinthians 9:1–15",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul asks for a promised gift to be ready, connects giving with willing generosity, and describes relief for the saints.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
+  },
+  {
+    "id": "ac-04-32-37",
+    "bookId": "ac",
+    "reference": "Acts 4:32–37",
+    "sourceLayer": "acts",
+    "summary": "Acts narrates believers sharing goods and proceeds from property sales so that needs within the community could be met.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ACT04.htm"
   },
   {
     "id": "ac-15-01-29",
@@ -60,9 +109,10 @@
     "bookId": "ga",
     "reference": "Galatians 2:1–10",
     "sourceLayer": "paul-undisputed",
-    "summary": "Paul recounts meeting Jerusalem leaders over his Gentile mission, noting that Titus was not compelled to be circumcised.",
+    "summary": "Paul recounts recognition of his Gentile mission, notes Titus was not required to be circumcised, and reports the request to remember the poor (v. 10).",
     "topics": [
-      "mosaic-law"
+      "mosaic-law",
+      "wealth-poverty"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
@@ -135,7 +185,8 @@
     "topics": [
       "wealth-poverty"
     ],
-    "status": "draft"
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
   },
   {
     "id": "lk-08-01-03",
@@ -149,6 +200,30 @@
     "status": "draft"
   },
   {
+    "id": "lk-12-13-21",
+    "bookId": "lk",
+    "reference": "Luke 12:13–21",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus declines to arbitrate an inheritance and tells of a rich landowner whose hoarded abundance fails to secure his life.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-12-22-34",
+    "bookId": "lk",
+    "reference": "Luke 12:22–34",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus connects freedom from anxiety about necessities with seeking the kingdom and giving alms from possessions.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
     "id": "lk-16-16-17",
     "bookId": "lk",
     "reference": "Luke 16:16–17",
@@ -159,6 +234,42 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+  },
+  {
+    "id": "lk-16-19-31",
+    "bookId": "lk",
+    "reference": "Luke 16:19–31",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "A parable contrasts an affluent man's life with neglected Lazarus and depicts a reversal after death.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+  },
+  {
+    "id": "lk-18-18-30",
+    "bookId": "lk",
+    "reference": "Luke 18:18–30",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus challenges a ruler to distribute wealth to the poor and follow him, followed by warnings on wealth and entry to the kingdom.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-19-01-10",
+    "bookId": "lk",
+    "reference": "Luke 19:1–10",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Luke describes Zacchaeus promising significant giving and restitution; Jesus announces salvation in this household.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
   },
   {
     "id": "mk-01-01-13",
@@ -1367,6 +1478,30 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT05.htm"
   },
   {
+    "id": "mt-06-19-24",
+    "bookId": "mt",
+    "reference": "Matthew 6:19–24",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus contrasts earthly and heavenly treasure and presents serving God and wealth as competing masters.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+  },
+  {
+    "id": "mt-06-25-34",
+    "bookId": "mt",
+    "reference": "Matthew 6:25–34",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus instructs hearers not to be consumed with anxiety about food and clothing, directing them toward God's kingdom.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+  },
+  {
     "id": "mt-15-01-20",
     "bookId": "mt",
     "reference": "Matthew 15:1–20",
@@ -1379,6 +1514,18 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
   },
   {
+    "id": "mt-19-16-30",
+    "bookId": "mt",
+    "reference": "Matthew 19:16–30",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Matthew narrates Jesus challenging a wealthy questioner to sell possessions, give to the poor and follow, and his subsequent warning about wealth.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
+  },
+  {
     "id": "mt-25-31-46",
     "bookId": "mt",
     "reference": "Matthew 25:31–46",
@@ -1387,7 +1534,8 @@
     "topics": [
       "wealth-poverty"
     ],
-    "status": "draft"
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT25.htm"
   },
   {
     "id": "ro-03-28-31",
@@ -1449,6 +1597,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM10.htm"
   },
   {
+    "id": "ro-12-09-13",
+    "bookId": "ro",
+    "reference": "Romans 12:9–13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul exhorts believers to sincere love, share in the needs of fellow believers, and practice hospitality.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
     "id": "ro-13-08-10",
     "bookId": "ro",
     "reference": "Romans 13:8–10",
@@ -1459,6 +1619,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+  },
+  {
+    "id": "ro-15-25-28",
+    "bookId": "ro",
+    "reference": "Romans 15:25–28",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes bringing contributions from Gentile churches for the poor among the believers in Jerusalem.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
   },
   {
     "id": "ro-16-01-16",

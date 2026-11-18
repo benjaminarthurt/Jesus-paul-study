@@ -6,7 +6,7 @@
     "title": "World English Bible, Protestant 66-book edition (engwebp)",
     "publisher": "eBible.org",
     "year": null,
-    "location": "Matthew 5; Mark 7; Galatians 2–5; Romans 3, 7, 8, 10, 13; Acts 15",
+    "location": "Matthew 5; Mark 7; Galatians 2–5; Romans 3, 7, 8, 10, 13; Acts 15; Luke 6, 12, 16, 18, 19; Mark 10, 12, 14; Matthew 6, 19, 25; 1 Corinthians 16; 2 Corinthians 8–9; Romans 12, 15; Acts 4; 1 Timothy 6",
     "url": "https://ebible.org/engwebp/",
     "accessScope": "full-text",
     "note": "Chapter links in passage records point to this edition. Biblical text is linked, not republished in this repository."
@@ -70,5 +70,77 @@
     "url": "https://www.americanbible.org/engage/bible-resources/articles/the-council-in-jerusalem/",
     "accessScope": "full-text",
     "note": "Accessible comparative overview; distinguish Acts as narrative from Paul's first-person letter."
+  },
+  {
+    "id": "barclay-2023-rich-poverty",
+    "type": "peer-reviewed-article",
+    "author": "John M. G. Barclay",
+    "title": "Rich Poverty: 2 Corinthians 8.1–15 and the Social Meaning of Poverty and Wealth",
+    "publisher": "New Testament Studies 69(3), 243–257 (Cambridge University Press)",
+    "year": 2023,
+    "location": "Full article: Introduction; Macedonians' Wealth-in-Poverty; Corinthians and Christ; Conclusions, especially discussion of 2 Cor 8:1–15",
+    "url": "https://doi.org/10.1017/S002868852200039X",
+    "accessScope": "full-text",
+    "note": "Full open-access article inspected. Interprets wealth in 2 Corinthians 8 in terms of giving and social relations, and explicitly cautions against pressure on poor donors."
+  },
+  {
+    "id": "welborn-2013-equality",
+    "type": "peer-reviewed-article",
+    "author": "L. L. Welborn",
+    "title": "‘That There May Be Equality’: The Contexts and Consequences of a Pauline Ideal",
+    "publisher": "New Testament Studies 59(1), 73–90 (Cambridge University Press)",
+    "year": 2013,
+    "location": "Publisher abstract only; full article behind access restriction",
+    "url": "https://doi.org/10.1017/S0028688512000306",
+    "accessScope": "publisher-abstract-only",
+    "note": "The abstract describes an ideal of economic equality in collection practices. No claims are made about detailed arguments on inaccessible pages."
+  },
+  {
+    "id": "ndekha-2020-luke6",
+    "type": "peer-reviewed-article",
+    "author": "Louis Ndekha",
+    "title": "Praising the poor and blaming the rich: A panegyric reading of Luke 6:20–49 in Malawian context",
+    "publisher": "HTS Teologiese Studies/Theological Studies 76(4), a6065",
+    "year": 2020,
+    "location": "Full online article; Abstract, discussion of Lukan blessings and woes, and context-specific application",
+    "url": "https://doi.org/10.4102/hts.v76i4.6065",
+    "accessScope": "full-text",
+    "note": "A contextual reading using Greco-Roman praise and blame conventions; its Malawian application is one interpretive perspective, not universal scholarly consensus."
+  },
+  {
+    "id": "vanzyl-2013-matthew25",
+    "type": "peer-reviewed-article",
+    "author": "H. C. van Zyl",
+    "title": "Discernment as 'not knowing' and 'knowing': a perspective from Matthew 25:31–46",
+    "publisher": "Acta Theologica 33, supplement 17 (2013)",
+    "year": 2013,
+    "location": "Full online article, especially §2 (identity of 'least'), §3 (not knowing), and discussion of universal and particularist readings",
+    "url": "https://www.scielo.org.za/scielo.php?lng=en&nrm=iso&pid=S1015-87582013000300007&script=sci_arttext&tlng=en",
+    "accessScope": "full-text",
+    "note": "Reviews both particularist and universal interpretations of 'the least of these', proposing an integrated reading."
+  },
+  {
+    "id": "shively-2012-mark10",
+    "type": "pastoral-commentary",
+    "author": "Elizabeth Shively",
+    "title": "Commentary on Mark 10:17–31",
+    "publisher": "Working Preacher, Luther Seminary",
+    "year": 2012,
+    "location": "Full online commentary: context, rich man, and radical discipleship",
+    "url": "https://www.workingpreacher.org/commentaries/narrative-lectionary/rich-young-ruler/commentary-on-mark-1017-31-2",
+    "accessScope": "full-text",
+    "note": "A pastoral/lectionary commentary, not represented as a peer-reviewed journal article. Describes the particular man and broader call to self-denial."
+  },
+  {
+    "id": "kubis-2015-widow",
+    "type": "peer-reviewed-article",
+    "author": "Adam Kubiś",
+    "title": "The Poor Widow's Mites: A Contextual Reading of Mark 12:41–44",
+    "publisher": "The Biblical Annals 3(2), 339–381",
+    "year": 2015,
+    "location": "Publisher abstract and bibliographic record only; full PDF not independently checked",
+    "url": "https://doi.org/10.31743/ba.535",
+    "accessScope": "publisher-abstract-only",
+    "note": "The abstract argues for the widow as a positive example and acknowledges a competing negative/exploitation reading. Do not attribute unseen argumentation or page-specific claims."
   }
 ]

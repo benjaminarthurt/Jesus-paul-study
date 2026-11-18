@@ -67,3 +67,9 @@ Optional comparison Markdown frontmatter fields:
 - `sourceIds`: source catalog records used for this comparison.
 
 Validator checks that a claim's passage and source IDs exist **and are declared within its comparison**. Source access level and scholarly status must not be inferred from the presence of a URL. Evidence is displayed in the website with observation, counterreading and limitation in equally visible fields.
+
+## Wealth and poverty pilot
+
+The `wealth-and-generosity` comparison uses the same evidence source IDs and status model as the Mosaic Law study. It includes Luke, Mark, Matthew, undisputed Pauline collection letters, and separate context witnesses from Acts (`acts`) and 1 Timothy (`paul-disputed`). The UI labels those contextual groups explicitly.
+
+Scholarly citation types also support `pastoral-commentary` for accessible ministerial commentary that must not be misrepresented as a peer-reviewed paper. Source access is tracked independently of publication category; a peer-reviewed article listed as `publisher-abstract-only` must not be treated as having been read in full.
