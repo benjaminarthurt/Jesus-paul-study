@@ -60,3 +60,7 @@ Use `/search/` to filter the indexed passages by book, topic, corpus attribution
 **Status:** initial scaffold and *illustrative, unreviewed* pilot studies. No claim should be treated as a final finding until evidence has been assessed and cited.
 
 No copyright license has yet been granted for the project's original research or code. Biblical translations have separate licensing terms.
+
+## Curated four-Gospel comparisons
+
+Browse `/gospel-parallels/` for **16 draft comparison dossiers** with **51 linked Gospel witness entries**, preserving each Gospel's original literary context and differences. Each study includes competing readings, cautions, existing passage and saying links, and bibliographic access-scope notes. Seven dossiers span all four Gospels. These are editorial research leads, **not verified independent historical witness claims**. See `docs/gospel-parallels-method.md`.

@@ -1,0 +1,709 @@
+[
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "blessings-and-woes",
+    "title": "Blessings: the poor, persecuted, and wealthy",
+    "topicId": "wealth-poverty",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "How do the audiences and vocabulary of Matthew's Beatitudes and Luke's blessings and woes shape their ethical force?",
+    "commonGround": "Both presentations associate God's favor with people enduring disadvantage and exclusion rather than measuring worth by social prestige.",
+    "observedDifferences": [
+      "Matthew's mountain discourse specifies the poor 'in spirit' and expands a sequence of blessings.",
+      "Luke's level-place speech addresses the poor and hungry directly and adds explicit woes to the rich and satisfied."
+    ],
+    "literaryContext": "Matthew 5 launches an extended teaching sequence. Luke 6 places blessings and woes alongside the calling of disciples and a public gathering.",
+    "alternativeReading": "One can read the two versions as mutually clarifying dimensions of poverty; a source-critical reading may instead emphasize authorial shaping and different audiences.",
+    "limitation": "These are editorial observations, not verified wording comparisons or proof of separate historical performances.",
+    "witnesses": [
+      {
+        "bookId": "mt",
+        "passageId": "mt-05-01-12",
+        "sayingId": "mt-s-05-03-12",
+        "relation": "parallel",
+        "note": "Matthew places the blessings early in the mountain discourse and includes spiritualized phrasing."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-06-20-26",
+        "sayingId": "lk-s-06-20-26",
+        "relation": "parallel",
+        "note": "Luke sets direct blessings alongside matching woes and emphasizes economic circumstances."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "love-of-enemies",
+    "title": "Love of enemies and nonretaliation",
+    "topicId": "discipleship",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "Where do Matthew and Luke align on enemy-love and where does the surrounding argument shift?",
+    "commonGround": "Both presentations call followers to love opponents and orient their conduct around generosity rather than retaliation.",
+    "observedDifferences": [
+      "Matthew's formulation appears after a contrast with retaliation and concludes in language about the Father and perfection.",
+      "Luke emphasizes lending without expecting repayment, mercy, and a series of reciprocal acts within the speech on the plain."
+    ],
+    "literaryContext": "The sayings occupy large ethical discourses in both Gospels but are not adjacent to identical examples or transitions.",
+    "alternativeReading": "Different emphasis may reflect deliberate redaction, memorable oral variation, or distinct framing of a shared traditional theme.",
+    "limitation": "Do not infer that two literary placements are proof of two historically separate addresses.",
+    "witnesses": [
+      {
+        "bookId": "mt",
+        "passageId": "mt-05-21-48",
+        "sayingId": "mt-s-05-43-48",
+        "relation": "parallel",
+        "note": "Matthew frames enemy-love as the culmination of ethical contrasts in the mountain discourse."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-06-27-36",
+        "sayingId": "lk-s-06-27-36",
+        "relation": "parallel",
+        "note": "Luke links enemy-love with lending, active kindness and being merciful."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "prayer-models",
+    "title": "The prayer taught to disciples",
+    "topicId": "prayer",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "Which requests are shared in Matthew 6 and Luke 11, and how does each Gospel frame their use?",
+    "commonGround": "Both reports include an address to God, petitions concerning God's rule, provision, forgiveness and testing.",
+    "observedDifferences": [
+      "Matthew's prayer stands within a wider contrast between performative and quiet devotion.",
+      "Luke's shorter prayer follows a disciple's request for instruction and is followed by illustrations about persistence."
+    ],
+    "literaryContext": "Comparing both passages requires attending to each passage's immediate introduction and sequel, not only prayer phrases.",
+    "alternativeReading": "Later copyists sometimes harmonized the prayer wording between Gospel versions; variant research must be separated from literary comparison.",
+    "limitation": "These citations are not full critical texts. Exact verse readings and doxologies still require a Greek manuscript audit.",
+    "witnesses": [
+      {
+        "bookId": "mt",
+        "passageId": "mt-06-05-15",
+        "sayingId": "mt-s-06-09-13",
+        "relation": "parallel",
+        "note": "Matthew embeds the prayer in a discourse on giving, prayer, forgiveness and public performance."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-11-01-13",
+        "sayingId": "lk-s-11-02-04",
+        "relation": "parallel",
+        "note": "Luke reports a request for instruction and a shorter prayer followed by asking and seeking."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "marriage-and-divorce",
+    "title": "Divorce and remarriage in three Synoptic accounts",
+    "topicId": "marriage-divorce",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "Does Matthew's qualification change how readers should interpret Mark's and Luke's shorter restrictions?",
+    "commonGround": "All three Gospels associate divorce and remarriage with morally serious marital commitments rather than presenting divorce as ethically neutral.",
+    "observedDifferences": [
+      "Mark reports reciprocal implications for a husband and wife in the private explanation.",
+      "Matthew 19 places the debate against a question about permitted grounds and includes a qualification absent from Mark's wording.",
+      "Luke 16:18 states a compressed saying in the midst of material about Law, wealth and self-justification."
+    ],
+    "literaryContext": "Mark and Matthew place extended discussions around a challenge from questioners; Luke's brief placement is different.",
+    "alternativeReading": "Matthew's qualification may be read as a contextual exception, a redactional adaptation, or a clue about the meaning of unlawful unions; historical interpretations disagree.",
+    "limitation": "This study does not prescribe current divorce law, infer uniform early Christian practice, or settle the meaning of Matthew's exception language.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-10-02-12",
+        "sayingId": "mk-s-10-11-12",
+        "relation": "parallel",
+        "note": "Mark's private explanation addresses divorce and remarriage and includes a wife-initiated case."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-19-01-12",
+        "sayingId": "mt-s-19-04-09",
+        "relation": "parallel",
+        "note": "Matthew's controversy incorporates a qualification that requires independent textual interpretation."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-16-18-18",
+        "sayingId": "lk-s-16-18-18",
+        "relation": "related",
+        "note": "Luke's isolated divorce statement is not part of a narrated controversy over Mosaic permission."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "rich-ruler",
+    "title": "A wealthy questioner and the cost of following",
+    "topicId": "wealth-poverty",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "How do the three narratives combine keeping commandments, divestment and entry into God's kingdom?",
+    "commonGround": "In all three versions a wealthy interlocutor asks about life, Jesus discusses commandments and possessions, and the audience hears a warning about wealth.",
+    "observedDifferences": [
+      "Mark narrates Jesus looking at the man with love and describes his many possessions.",
+      "Matthew frames the discussion around what is good and being complete/perfect.",
+      "Luke describes the questioner as a ruler and preserves the particular narrative setting around the approach to Jericho."
+    ],
+    "literaryContext": "All three develop the challenge into a conversation with followers about the difficulty of wealthy people entering God's kingdom.",
+    "alternativeReading": "The challenge can be read as specifically tailored to the individual or as a paradigmatic invitation; both readings require ethical nuance.",
+    "limitation": "No inference is drawn that every wealth-related saying requires exactly the same transfer of property.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-10-17-31",
+        "sayingId": "mk-s-10-18-21",
+        "relation": "parallel",
+        "note": "Mark emphasizes Jesus' personal engagement with the questioner before the challenging request."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-19-16-30",
+        "sayingId": "mt-s-19-21-26",
+        "relation": "parallel",
+        "note": "Matthew puts the challenge alongside the questioner's desire to reach completeness."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-18-18-30",
+        "sayingId": "lk-s-18-18-30",
+        "relation": "parallel",
+        "note": "Luke identifies the man as a ruler and summarizes the challenge through a wider dialogue."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "caesar-and-god",
+    "title": "Caesar, taxation, and God's claim",
+    "topicId": "authority",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "How does each narrative frame the tax trap without projecting modern state-church theory into the saying?",
+    "commonGround": "All three describe opponents asking about tribute to Caesar and Jesus answering through a coin and a distinction between Caesar and God.",
+    "observedDifferences": [
+      "Mark names distinct questioning factions and emphasizes their attempt to trap Jesus.",
+      "Matthew narrates a plot to entangle Jesus in words.",
+      "Luke places the question among efforts to deliver Jesus to governmental authority."
+    ],
+    "literaryContext": "Each account occurs in Jerusalem's temple-controversy setting shortly before the arrest.",
+    "alternativeReading": "The saying may be understood as a pragmatic answer to a trap, an assertion of God's ultimate claim, or a general political ethic; the text alone does not choose a modern tax policy.",
+    "limitation": "The word 'render' is not treated as a modern separation-of-church-and-state statute.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-12-13-17",
+        "sayingId": "mk-s-12-15-17",
+        "relation": "parallel",
+        "note": "Mark has Pharisees and Herodians interrogate Jesus in a politically loaded exchange."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-22-15-22",
+        "sayingId": "mt-s-22-21-21",
+        "relation": "parallel",
+        "note": "Matthew highlights the attempt to trap Jesus and the return of the coin's proper claim."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-20-20-26",
+        "sayingId": "lk-s-20-24-25",
+        "relation": "parallel",
+        "note": "Luke makes the accusers' intent to hand Jesus to the governor especially explicit."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "love-god-and-neighbor",
+    "title": "The highest commands: love of God and neighbor",
+    "topicId": "mosaic-law",
+    "comparisonType": "related-traditions",
+    "researchQuestion": "What changes when the commandments come from Jesus' answer in Mark/Matthew versus a legal expert's answer in Luke?",
+    "commonGround": "The texts associate the way of faithfulness with love of God and neighbor, drawing on Jewish scriptural commandments.",
+    "observedDifferences": [
+      "Mark depicts a scribe asking which commandment ranks first; Jesus cites Israel's confession and neighbor-love.",
+      "Matthew presents a question about the greatest commandment and makes the Law and Prophets hang on these commands.",
+      "In Luke 10 the expert articulates the commandments in response to Jesus' question; the Good Samaritan addresses a subsequent challenge about who counts as neighbor."
+    ],
+    "literaryContext": "Mark and Matthew locate the exchange in Jerusalem disputes. Luke uses the legal conversation as a preface to a travel-story parable.",
+    "alternativeReading": "These may reflect shared teaching traditions presented through different narrative forms, not verbatim transcripts of one Q&A.",
+    "limitation": "Do not attribute every quotation in Luke 10:25–28 directly to Jesus; the expert speaks key words in Luke's version.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-12-28-34",
+        "sayingId": "mk-s-12-29-31",
+        "relation": "parallel",
+        "note": "Mark has Jesus answer the scribe and the scribe acknowledge the answer."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-22-34-40",
+        "sayingId": "mt-s-22-37-40",
+        "relation": "parallel",
+        "note": "Matthew has Jesus give the two commandments in response to the test."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-10-25-37",
+        "sayingId": "lk-s-10-25-28",
+        "relation": "related",
+        "note": "Luke's expert supplies the commandment wording, and Jesus directs the conversation toward action and neighbor-love."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic",
+      "felix-just-john-synoptics",
+      "usccb-john-intro"
+    ],
+    "id": "leadership-as-service",
+    "title": "Greatness through service and footwashing",
+    "topicId": "leadership",
+    "comparisonType": "related-traditions",
+    "researchQuestion": "How is authority reimagined through service in the Synoptics and in John's enacted footwashing scene?",
+    "commonGround": "Each Gospel portrays Jesus challenging status hierarchies and presenting service as a model for followers.",
+    "observedDifferences": [
+      "Mark and Matthew set greatness and service against the ambitions of prominent disciples.",
+      "Luke places a leadership dispute at the final meal and makes the leader one who serves.",
+      "John narrates footwashing as a concrete demonstration in the final-meal setting rather than reproducing the Synoptic leadership sayings."
+    ],
+    "literaryContext": "The settings differ in Mark/Matthew versus Luke/John; John's scene is a related ethical presentation, not a word-for-word parallel.",
+    "alternativeReading": "The combined themes may support a shared leadership ethic while distinct Gospel portraits emphasize ransom, table service or enacted humility.",
+    "limitation": "The material does not independently settle later ecclesiastical hierarchies, ordination or governance models.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-10-35-45",
+        "sayingId": "mk-s-10-42-45",
+        "relation": "parallel",
+        "note": "Mark contrasts rulers who dominate with followers serving and ties the model to Jesus' mission."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-20-20-28",
+        "sayingId": "mt-s-20-25-28",
+        "relation": "parallel",
+        "note": "Matthew associates the lesson with the request of the mother of James and John."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-22-24-38",
+        "sayingId": "lk-s-22-25-27",
+        "relation": "related",
+        "note": "Luke places the argument about greatness within the final meal and the question of who serves."
+      },
+      {
+        "bookId": "jn",
+        "passageId": "jn-13-01-17",
+        "sayingId": "jn-s-13-12-17",
+        "relation": "related",
+        "note": "John uses Jesus washing feet to instruct followers in humble service."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "widows-offering",
+    "title": "The widow's small contribution and economic context",
+    "topicId": "wealth-poverty",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "Does the widow's gift exemplify generosity, expose exploitative leadership, or both?",
+    "commonGround": "Mark and Luke both contrast comparatively large gifts with the small offering of a poor widow and Jesus' attention to her sacrifice.",
+    "observedDifferences": [
+      "Mark positions the observation immediately after criticism of leaders who exploit widows.",
+      "Luke preserves a similar juxtaposition with warnings against scribes in the preceding context."
+    ],
+    "literaryContext": "The narrative order links an observation about sacrificial giving to broader concerns about institutional power and economic vulnerability.",
+    "alternativeReading": "The widow may be portrayed as commendable, exploited, or both; the surrounding critique complicates a simple appeal for church donations.",
+    "limitation": "Neither narrative records Jesus explicitly instructing poor people to donate their last money.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-12-41-44",
+        "sayingId": "mk-s-12-43-44",
+        "relation": "parallel",
+        "note": "Mark records Jesus' observation immediately following a warning about scribes who consume widows' resources."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-21-01-04",
+        "sayingId": "lk-s-21-01-04",
+        "relation": "parallel",
+        "note": "Luke narrates the widow's gift just after an analogous critique of the teachers of the Law."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic",
+      "felix-just-john-synoptics",
+      "usccb-john-intro"
+    ],
+    "id": "anointing-stories",
+    "title": "Anointing stories: location, identity and criticism",
+    "topicId": "women-authority",
+    "comparisonType": "distinct-presentations",
+    "researchQuestion": "Should the anointing stories in Luke 7 and the Bethany accounts be conflated or kept as separate narrative presentations?",
+    "commonGround": "All four Gospels describe a woman showing extraordinary regard for Jesus in a meal or hospitality setting and another person questioning her action.",
+    "observedDifferences": [
+      "Mark and Matthew place an anointing at Bethany near the Passion, with an unnamed woman and criticism linked to the cost.",
+      "John names Mary of Bethany, places the meal before Jesus' final entry, and attributes the financial objection to Judas.",
+      "Luke 7 places an unnamed woman's anointing in a different Galilean meal setting, and the dispute concerns her reputation, forgiveness and hospitality rather than burial preparation."
+    ],
+    "literaryContext": "The similarities support literary comparison; different timing, location, motives and speeches prohibit silently presenting one merged event.",
+    "alternativeReading": "Some readers identify one historical event with varied retellings while others judge Luke's story distinct; this pilot does not decide.",
+    "limitation": "The identity of Luke's woman must not be assumed to be Mary Magdalene or Mary of Bethany.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-14-01-11",
+        "sayingId": "mk-s-14-06-09",
+        "relation": "parallel",
+        "note": "Mark's Bethany anointing is followed by the betrayal narrative and a discussion of the poor."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-26-01-16",
+        "relation": "parallel",
+        "note": "Matthew includes a Bethany anointing amid preparations for Jesus' death."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-07-36-50",
+        "sayingId": "lk-s-07-40-47",
+        "relation": "distinct-scene",
+        "note": "Luke's earlier unnamed woman anoints Jesus in a forgiveness dialogue at Simon's meal."
+      },
+      {
+        "bookId": "jn",
+        "passageId": "jn-12-01-11",
+        "sayingId": "jn-s-12-07-08",
+        "relation": "related",
+        "note": "John identifies Mary of Bethany and Judas while retaining an anointing near Passover."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic",
+      "felix-just-john-synoptics",
+      "usccb-john-intro"
+    ],
+    "id": "temple-action-placement",
+    "title": "Temple action: chronology and meaning",
+    "topicId": "authority",
+    "comparisonType": "distinct-presentations",
+    "researchQuestion": "How should readers account for John's early temple action versus the Synoptics' final-week setting?",
+    "commonGround": "All four Gospels depict Jesus challenging temple commerce or practices and relating the action to the sanctuary's religious purpose.",
+    "observedDifferences": [
+      "Mark places the temple episode amid a fig-tree sequence in Jesus' final Jerusalem visit.",
+      "Matthew and Luke also locate the action near entry into Jerusalem and the final controversy period.",
+      "John places a temple confrontation near the start of Jesus' public ministry and adds a saying interpreted as referring to his body."
+    ],
+    "literaryContext": "The narrative sequence is a real difference between John and the Synoptics; it is not resolved by assuming a single day or an additional unreported event.",
+    "alternativeReading": "Some interpret two temple actions; others read a single traditional event placed for different literary/theological reasons.",
+    "limitation": "Neither chronology nor the historicity of a second temple action has been established by this registry.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-11-12-19",
+        "sayingId": "mk-s-11-17-17",
+        "relation": "parallel",
+        "note": "Mark places the temple scene between the fig-tree episodes during the final Jerusalem visit."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-21-12-17",
+        "sayingId": "mt-s-21-13-13",
+        "relation": "parallel",
+        "note": "Matthew recounts the temple disruption after Jesus' triumphal entry."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-19-45-48",
+        "sayingId": "lk-s-19-46-46",
+        "relation": "parallel",
+        "note": "Luke places the action after Jesus enters Jerusalem and mourns for the city."
+      },
+      {
+        "bookId": "jn",
+        "passageId": "jn-02-13-22",
+        "sayingId": "jn-s-02-16-16",
+        "relation": "related",
+        "note": "John puts the confrontation early and connects its interpretation to Jesus' body."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic",
+      "felix-just-john-synoptics",
+      "usccb-john-intro"
+    ],
+    "id": "feeding-crowd",
+    "title": "Feeding the crowd across all four Gospels",
+    "topicId": "wealth-poverty",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "Which features of the feeding episode are shared, and what interpretive work does John add?",
+    "commonGround": "All four Gospels narrate a large crowd fed with a small supply of bread and fish, with leftovers gathered afterward.",
+    "observedDifferences": [
+      "The Synoptic narratives emphasize care, disciples' logistical concerns and Jesus' instruction to distribute food.",
+      "John gives named disciples a role, references the approach of Passover and follows the sign with an extended discourse on bread and life."
+    ],
+    "literaryContext": "The feeding traditions provide a rare four-Gospel shared episode, while John's connected theological discourse should not be read into the other accounts automatically.",
+    "alternativeReading": "A shared narrative may reflect literary relationship, a common inherited tradition or a mixture of sources; four accounts do not prove four independent witnesses.",
+    "limitation": "This pilot does not adjudicate the size of the historical crowd or the mechanics of the narrated sign.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-06-30-44",
+        "relation": "parallel",
+        "note": "Mark depicts Jesus' compassion and the organization of a hungry crowd by the disciples."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-14-13-21",
+        "relation": "parallel",
+        "note": "Matthew narrates feeding the crowd near the time of John's death."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-09-10-17",
+        "sayingId": "lk-s-09-13-14",
+        "relation": "parallel",
+        "note": "Luke places the feeding after the apostles return from mission and gives the Twelve a role."
+      },
+      {
+        "bookId": "jn",
+        "passageId": "jn-06-01-15",
+        "relation": "parallel",
+        "note": "John emphasizes Passover and connects this sign with the later bread-of-life discourse."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic",
+      "felix-just-john-synoptics",
+      "usccb-john-intro"
+    ],
+    "id": "empty-tomb-witnesses",
+    "title": "Women and the first empty-tomb reports",
+    "topicId": "women-authority",
+    "comparisonType": "distinct-presentations",
+    "researchQuestion": "What do the narratives say about women's role, the initial message and the subsequent appearances?",
+    "commonGround": "The Gospel narratives place women at the discovery or first reporting of the empty tomb, though details of who goes, what they see and how they respond differ.",
+    "observedDifferences": [
+      "Mark 16:1–8 ends in fear and silence in its earliest recoverable shorter ending; its later ending is textually disputed.",
+      "Matthew reports a message to women and an encounter with the risen Jesus.",
+      "Luke emphasizes women's announcement to apostles and initial skepticism; John features Mary Magdalene returning and later recognizing Jesus in an individualized encounter."
+    ],
+    "literaryContext": "The narratives differ in sequencing, named people and reactions. They should be read side by side rather than combined into an invented chronology.",
+    "alternativeReading": "Readers may seek a coherent sequence, but such harmonizations add assumptions beyond what an individual account explicitly states.",
+    "limitation": "A comparison of literary witnesses cannot itself determine the full historical sequence or assign later institutional offices.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-16-01-08",
+        "relation": "parallel",
+        "note": "Mark's shorter ending reports women, a tomb messenger and fear; the disputed longer ending is not used as a core witness."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-28-01-10",
+        "relation": "parallel",
+        "note": "Matthew reports a tomb message and an appearance to women as they go to tell the disciples."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-24-01-11",
+        "relation": "parallel",
+        "note": "Luke narrates women's report to the apostles, who initially discount it."
+      },
+      {
+        "bookId": "jn",
+        "passageId": "jn-20-11-18",
+        "sayingId": "jn-s-20-15-17",
+        "relation": "related",
+        "note": "John describes Mary Magdalene's personal encounter and commission after an earlier visit to the tomb."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic"
+    ],
+    "id": "sower-and-hearing",
+    "title": "The sower: seed, ground and hearing",
+    "topicId": "parables",
+    "comparisonType": "parallel-tradition",
+    "researchQuestion": "How do the Synoptic narrators introduce and explain differing responses to the message?",
+    "commonGround": "The three Synoptic Gospels tell a sower parable with seed falling on different ground and later interpret the image as responses to the word.",
+    "observedDifferences": [
+      "Mark includes an extended explanation about why parables are used and a detailed exposition.",
+      "Matthew places the teaching among a gathered set of kingdom parables with an emphasis on understanding.",
+      "Luke highlights hearing and holding fast amid trials and competing concerns."
+    ],
+    "literaryContext": "The metaphor is closely related across the Synoptics, but explanatory framing and nearby parables shift between accounts.",
+    "alternativeReading": "Similarities can reflect a common teaching tradition, literary dependence or editorial retention of shared material; the index does not settle source priority.",
+    "limitation": "The editorial summaries are not a complete phrase-by-phrase comparison of Greek or translation wording.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-04-01-20",
+        "relation": "parallel",
+        "note": "Mark connects the sower with discourse on hearing and the function of parables."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-13-01-09",
+        "sayingId": "mt-s-13-03-09",
+        "relation": "parallel",
+        "note": "Matthew has the sower near the start of a concentrated kingdom-parable chapter."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-08-04-15",
+        "sayingId": "lk-s-08-05-15",
+        "relation": "parallel",
+        "note": "Luke emphasizes listeners' different responses and the need to hold fast."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic",
+      "felix-just-john-synoptics",
+      "usccb-john-intro"
+    ],
+    "id": "sabbath-healing",
+    "title": "Sabbath healing, mercy and authority",
+    "topicId": "mosaic-law",
+    "comparisonType": "related-traditions",
+    "researchQuestion": "How do the Gospels present Sabbath arguments without conflating distinct healing episodes?",
+    "commonGround": "The Gospels connect disputes about Sabbath observance with Jesus' authority and restoration of health or well-being.",
+    "observedDifferences": [
+      "Mark 3, Matthew 12 and Luke 6 narrate a healing involving a withered hand within Sabbath controversies.",
+      "John 5 features a different man healed near a pool and develops a sustained argument about the Father's ongoing work."
+    ],
+    "literaryContext": "The Synoptic withered-hand narratives are close comparanda. John's Bethesda scene is a thematic analogue in a different literary structure.",
+    "alternativeReading": "The accounts can reflect overlapping ethical themes about Sabbath rest, mercy and authority without proving that all healings occurred at the same time.",
+    "limitation": "John 5:3b–4 contains a disputed explanatory gloss; it is not necessary to establish the core Sabbath controversy.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-03-01-06",
+        "relation": "parallel",
+        "note": "Mark presents a withered-hand healing and a choice between doing good or harm."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-12-01-14",
+        "sayingId": "mt-s-12-07-08",
+        "relation": "parallel",
+        "note": "Matthew frames the controversy within a larger defense of mercy and Sabbath practice."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-06-06-11",
+        "sayingId": "lk-s-06-09-09",
+        "relation": "parallel",
+        "note": "Luke gives a Sabbath question about saving life or doing harm before the healing."
+      },
+      {
+        "bookId": "jn",
+        "passageId": "jn-05-01-15",
+        "sayingId": "jn-s-05-08-09",
+        "relation": "distinct-scene",
+        "note": "John narrates a separate Bethesda healing with a later dispute about carrying the mat."
+      }
+    ]
+  },
+  {
+    "status": "draft",
+    "sourceIds": [
+      "kloppenborg-2023-synoptic",
+      "felix-just-john-synoptics",
+      "usccb-john-intro"
+    ],
+    "id": "final-meal-traditions",
+    "title": "Final meal: covenant words and footwashing",
+    "topicId": "discipleship",
+    "comparisonType": "distinct-presentations",
+    "researchQuestion": "How does John present the final meal differently from the institution words in the Synoptics?",
+    "commonGround": "All four place Jesus with his followers at a meal shortly before his death and use that setting to interpret his departure and their ongoing responsibilities.",
+    "observedDifferences": [
+      "Mark and Matthew recount bread and cup sayings in connection with the covenant.",
+      "Luke's longer and shorter textual forms complicate exact comparison of the cup and bread sequence.",
+      "John narrates footwashing and a longer farewell discourse without reproducing an institution-of-the-bread-and-cup episode in the same way."
+    ],
+    "literaryContext": "The Synoptics frame the meal in Passover terms. John frames the narrative amid Passover preparations and a different theological presentation of the hour.",
+    "alternativeReading": "The differences can be understood through authorial theological interests or historical theories about calendar and meal order; neither is resolved here.",
+    "limitation": "The Luke 22:19–20 manuscript variation must remain visible; no chronology or sacramental formula is standardized by combining accounts.",
+    "witnesses": [
+      {
+        "bookId": "mk",
+        "passageId": "mk-14-22-25",
+        "sayingId": "mk-s-14-22-25",
+        "relation": "parallel",
+        "note": "Mark contains bread and cup sayings as part of the last meal."
+      },
+      {
+        "bookId": "mt",
+        "passageId": "mt-26-17-30",
+        "relation": "parallel",
+        "note": "Matthew recounts the Passover meal and the covenant over bread and cup."
+      },
+      {
+        "bookId": "lk",
+        "passageId": "lk-22-14-23",
+        "sayingId": "lk-s-22-15-23",
+        "relation": "parallel",
+        "note": "Luke adds language about desire and the kingdom and contains significant textual variation in cup and bread wording."
+      },
+      {
+        "bookId": "jn",
+        "passageId": "jn-13-01-17",
+        "sayingId": "jn-s-13-12-17",
+        "relation": "related",
+        "note": "John foregrounds footwashing and serving one another instead of a direct counterpart of the institution words."
+      }
+    ]
+  }
+]

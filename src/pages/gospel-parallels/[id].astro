@@ -1,0 +1,89 @@
+---
+import Base from "../../layouts/Base.astro";
+import dossiers from "../../../research/index/gospel-parallels.json";
+import passages from "../../../research/index/passages.json";
+import sayings from "../../../research/index/sayings.json";
+import sources from "../../../research/index/sources.json";
+import books from "../../../research/index/books.json";
+import { compareHref } from "../../lib/passage-search.mjs";
+
+export function getStaticPaths(){
+  return dossiers.map(d=>({params:{id:d.id},props:{dossier:d}}));
+}
+const { dossier }=Astro.props;
+const byPassage=new Map(passages.map(p=>[p.id,p]));
+const bySaying=new Map(sayings.map(s=>[s.id,s]));
+const bookNames=new Map(books.map(b=>[b.id,b.title]));
+const bookIds=["mt","mk","lk","jn"];
+const witnesses=bookIds.map(bookId=>{
+  const witness=dossier.witnesses.find(w=>w.bookId===bookId);
+  const passage=witness?byPassage.get(witness.passageId):undefined;
+  const saying=witness&&"sayingId" in witness?bySaying.get(witness.sayingId):undefined;
+  return {bookId,bookName:bookNames.get(bookId),witness,passage,saying};
+});
+const selectedSources=dossier.sourceIds.map(id=>sources.find(s=>s.id===id)).filter(Boolean);
+const pair=dossier.witnesses.slice(0,2);
+const relationLabels:Record<string,string>={
+  parallel:"Proposed parallel",related:"Related passage","distinct-scene":"Distinct scene"
+};
+const kindLabels:Record<string,string>={
+  "parallel-tradition":"Proposed parallel tradition",
+  "related-traditions":"Related traditions",
+  "distinct-presentations":"Distinct narrative presentations"
+};
+---
+<Base title={dossier.title} description={dossier.researchQuestion}>
+  <p class="eyebrow">Four-Gospel comparison · {kindLabels[dossier.comparisonType]}</p>
+  <h1>{dossier.title}</h1>
+  <p class="lead">{dossier.researchQuestion}</p>
+  <p class="meta"><span class="status" data-state={dossier.status}>{dossier.status}</span><a href={`/topics/${dossier.topicId}/`}>Research topic: {dossier.topicId.replaceAll("-"," ")}</a></p>
+  <p class="warning"><strong>Editorial paraphrases only.</strong> These are selected textual witnesses, not independent historical testimony. A shared theme or encounter does not establish identical wording or one harmonized chronology. Consult each Gospel's chapter in its original context.</p>
+  <section aria-labelledby="witnesses-heading" class="group">
+    <h2 id="witnesses-heading">Compare the Gospel witnesses</h2>
+    <div class="gospel-witness-grid">
+      {witnesses.map(entry=><article class="panel gospel-witness">
+        <p class="eyebrow">{entry.bookName}</p>
+        {entry.witness && entry.passage ? <>
+          <p class="meta"><span class="status" data-state="draft">{relationLabels[entry.witness.relation]}</span></p>
+          <h3>{entry.passage.reference}</h3>
+          <p>{entry.witness.note}</p>
+          <p class="muted">{entry.passage.summary}</p>
+          <p><a href={`/passages/${entry.passage.id}/`}>Research, context and citation</a></p>
+          {entry.saying && <p><a href={`/teachings/${entry.saying.id}/`}>Selected speech: {entry.saying.reference}</a></p>}
+          <p><a href={entry.passage.sourceUrl} target="_blank" rel="noopener noreferrer">Read {entry.bookName} {entry.passage.reference.match(/ (\d+):/)?.[1]} (WEBP)</a></p>
+          {"textualNote" in entry.passage && entry.passage.textualNote && <p class="warning"><strong>Passage caution:</strong> {entry.passage.textualNote}</p>}
+        </> : <>
+          <h3>Not selected for this study</h3>
+          <p class="muted">This dossier does not include a {entry.bookName} witness. That does not establish that this theme is absent from the Gospel.</p>
+          <p><a href={`/books/${entry.bookId}/`}>Browse {entry.bookName}</a></p>
+        </>}
+      </article>)}
+    </div>
+    {pair.length===2 && <p><a href={compareHref(pair[0].passageId,pair[1].passageId)}>Open the first two indexed passages in the comparison reader</a></p>}
+  </section>
+  <section class="study prose">
+    <h2>What the accounts share</h2>
+    <p>{dossier.commonGround}</p>
+    <h2>Differences worth investigating</h2>
+    <ul>{dossier.observedDifferences.map(note=><li>{note}</li>)}</ul>
+    <h2>Literary setting and sequence</h2>
+    <p>{dossier.literaryContext}</p>
+    <h2>Alternative interpretation</h2>
+    <p>{dossier.alternativeReading}</p>
+    <h2>Limitations of this comparison</h2>
+    <p>{dossier.limitation}</p>
+  </section>
+  <section class="group" aria-label="Research sources">
+    <h2>Scholarly context and access limitations</h2>
+    <p class="muted">These sources support the study's comparative method and literary framing. They do not necessarily verify each individual claim. A publisher abstract is not a full-text review.</p>
+    <ul class="source-list">
+      {selectedSources.map(s=><li>
+        <a href={s.url} target="_blank" rel="noopener noreferrer">{s.author}: {s.title}</a>
+        <span>{s.publisher} · Access: {s.accessScope.replaceAll("-"," ")}</span>
+        <small>{s.note}</small>
+      </li>)}
+    </ul>
+    <p><a href="/sources/">Full bibliography</a></p>
+  </section>
+  <p><a href="/gospel-parallels/">All Gospel comparison dossiers</a></p>
+</Base>

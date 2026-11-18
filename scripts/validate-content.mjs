@@ -352,6 +352,55 @@ for(const id of ["lk-s-10-02-12","lk-s-22-40-46","lk-s-23-34-34"]) {
 const lordsPrayer = sayings.find(s => s.id==="mt-s-06-09-13");
 if (!lordsPrayer?.caution) errors.push("Matthew 6 prayer-text caution missing");
 
+
+// A Gospel dossier gathers selected *literary* witnesses; a parallel does not
+// establish eyewitness independence, identical wording, or historical sequence.
+const gospelDossiers=readJson("research/index/gospel-parallels.json");
+const selectedSayingById=new Map(sayings.map(s=>[s.id,s]));
+const allowedDossierTypes=new Set(["parallel-tradition","related-traditions","distinct-presentations"]);
+const allowedWitnessRelations=new Set(["parallel","related","distinct-scene"]);
+const gospelBookIds=new Set(["mt","mk","lk","jn"]);
+checkUnique(gospelDossiers,"id","Gospel dossiers");
+for(const dossier of gospelDossiers){
+  const label="Gospel dossier "+String(dossier.id);
+  if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(dossier.id??""))errors.push(label+": invalid URL ID");
+  if(dossier.status!=="draft")errors.push(label+": unexpected review status");
+  if(!allowedDossierTypes.has(dossier.comparisonType))errors.push(label+": invalid comparison kind");
+  if(!topicIds.has(dossier.topicId))errors.push(label+": unknown research topic");
+  for(const key of ["title","researchQuestion","commonGround","literaryContext","alternativeReading","limitation"]){
+    if(typeof dossier[key]!=="string"||dossier[key].trim().length<25)errors.push(label+": missing substantial "+key);
+  }
+  if(!Array.isArray(dossier.observedDifferences)||dossier.observedDifferences.length<2||
+    dossier.observedDifferences.some(x=>typeof x!=="string"||x.trim().length<25)){
+    errors.push(label+": expected at least two substantial observed differences");
+  }
+  const ids=requireStrings(dossier.sourceIds,label+" sources");
+  if(ids.length===0||new Set(ids).size!==ids.length)errors.push(label+": missing or duplicated bibliography IDs");
+  for(const id of ids)if(!sourceIds.has(id))errors.push(label+": unregistered bibliography source "+id);
+  if(!Array.isArray(dossier.witnesses)||dossier.witnesses.length<2||dossier.witnesses.length>4){
+    errors.push(label+": expected 2–4 Gospel witnesses");continue;
+  }
+  const seenBooks=new Set();
+  for(const w of dossier.witnesses){
+    if(!gospelBookIds.has(w.bookId)||seenBooks.has(w.bookId))errors.push(label+": duplicate or non-Gospel witness "+w.bookId);
+    seenBooks.add(w.bookId);
+    if(!allowedWitnessRelations.has(w.relation))errors.push(label+": invalid relationship for "+w.bookId);
+    if(typeof w.note!=="string"||w.note.trim().length<25)errors.push(label+": insufficient witness observation "+w.bookId);
+    const parent=passagesById.get(w.passageId);
+    if(!parent||parent.bookId!==w.bookId||!parent.sourceLayer.startsWith("jesus-")){
+      errors.push(label+": missing or incorrect Gospel parent "+w.passageId);
+    }else if(parent.unitType==="disputed"&&w.relation==="parallel"){
+      errors.push(label+": disputed manuscript text cannot be ordinary secure parallel "+w.passageId);
+    }
+    if(w.sayingId){
+      const saying=selectedSayingById.get(w.sayingId);
+      if(!saying||saying.bookId!==w.bookId||saying.passageId!==w.passageId)
+        errors.push(label+": selected speech span has wrong parent "+w.sayingId);
+    }
+  }
+}
+if(gospelDossiers.length<15)errors.push("Expected at least 15 preliminary Gospel comparison dossiers");
+
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exitCode = 1;

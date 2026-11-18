@@ -1,0 +1,99 @@
+---
+import Base from "../../layouts/Base.astro";
+import dossiers from "../../../research/index/gospel-parallels.json";
+import books from "../../../research/index/books.json";
+import { getCollection } from "astro:content";
+const topics = await getCollection("topics");
+const topicTitles = new Map(topics.map(t=>[t.id,t.data.title]));
+const bookTitles = new Map(books.map(b=>[b.id,b.title]));
+const topicIds = [...new Set(dossiers.map(d=>d.topicId))].sort();
+const kindLabels: Record<string,string> = {
+  "parallel-tradition": "Proposed parallel tradition",
+  "related-traditions": "Related traditions",
+  "distinct-presentations": "Distinct narrative presentations"
+};
+---
+<Base title="Four-Gospel comparison dossiers" description="Compare draft research observations across Matthew, Mark, Luke and John without conflating distinct scenes or claiming independent historical witnesses.">
+  <p class="eyebrow">Gospel comparative research</p>
+  <h1>Compare the four Gospels</h1>
+  <p class="lead">Trace common material, differences, literary settings and competing interpretations across Matthew, Mark, Luke and John.</p>
+  <p class="warning"><strong>Draft editorial dossiers, not source-checked historical conclusions.</strong> A shared episode does not establish independent testimony or identical wording. Missing Gospels mean no witness was selected <em>for this dossier</em>, not that the topic is absent from that Gospel. All summaries are original paraphrases, not full Bible text.</p>
+  <section class="panel" aria-label="Filter Gospel comparisons">
+    <div class="gospel-dossier-controls">
+      <label>Search themes and observations
+        <input id="dossier-search" type="search" placeholder="e.g. divorce, temple, poverty" autocomplete="off"/>
+      </label>
+      <label>Research topic
+        <select id="dossier-topic">
+          <option value="">All topics</option>
+          {topicIds.map(id=><option value={id}>{topicTitles.get(id)??id}</option>)}
+        </select>
+      </label>
+      <label>Comparison category
+        <select id="dossier-type">
+          <option value="">All comparison types</option>
+          {Object.entries(kindLabels).map(([id,label])=><option value={id}>{label}</option>)}
+        </select>
+      </label>
+    </div>
+  </section>
+  <p id="dossier-count" class="result-count" role="status" aria-live="polite">{dossiers.length} studies shown</p>
+  <section class="card-grid" id="dossier-results" aria-label="Curated Gospel comparisons">
+    {dossiers.map(d=><article class="card gospel-dossier-card"
+      data-search={`${d.title} ${d.researchQuestion} ${d.commonGround} ${d.observedDifferences.join(" ")}`.toLowerCase()}
+      data-topic={d.topicId}
+      data-type={d.comparisonType}>
+      <div class="meta"><span class="status" data-state={d.status}>{d.status}</span><span>{kindLabels[d.comparisonType]}</span></div>
+      <h2 class="dossier-card-heading"><a href={`/gospel-parallels/${d.id}/`}>{d.title}</a></h2>
+      <p>{d.researchQuestion}</p>
+      <p class="meta">{d.witnesses.map(w=>bookTitles.get(w.bookId)).join(" · ")} · {d.witnesses.length} selected witnesses</p>
+      <a href={`/gospel-parallels/${d.id}/`}>Read the evidence and differences</a>
+    </article>)}
+  </section>
+  <p class="muted" id="dossier-empty" hidden>No dossiers match these filters.</p>
+  <section class="group">
+    <h2>Research method</h2>
+    <p>Each dossier links to its existing Gospel literary units, selected speech spans when applicable, the primary WEBP chapter text, and supporting research sources with access limitations. <a href="/compare/">The two-passage reader</a> remains available for ad hoc pairs.</p>
+  </section>
+  <script>
+    const search=document.querySelector<HTMLInputElement>("#dossier-search");
+    const topic=document.querySelector<HTMLSelectElement>("#dossier-topic");
+    const kind=document.querySelector<HTMLSelectElement>("#dossier-type");
+    const cards=[...document.querySelectorAll<HTMLElement>(".gospel-dossier-card")];
+    const count=document.querySelector<HTMLElement>("#dossier-count");
+    const empty=document.querySelector<HTMLElement>("#dossier-empty");
+    function update(writeUrl=false){
+      const q=(search?.value??"").trim().toLowerCase().split(/\s+/).filter(Boolean);
+      const t=topic?.value??"";
+      const k=kind?.value??"";
+      let shown=0;
+      for(const card of cards){
+        const hit=q.every(word=>(card.dataset.search??"").includes(word))
+          &&(!t||card.dataset.topic===t)&&(!k||card.dataset.type===k);
+        card.hidden=!hit;if(hit)shown++;
+      }
+      if(count)count.textContent=`${shown} ${shown===1?"study":"studies"} shown`;
+      if(empty)empty.hidden=shown!==0;
+      if(writeUrl){
+        const params=new URLSearchParams();
+        if(search?.value.trim())params.set("q",search.value.trim());
+        if(t)params.set("topic",t);
+        if(k)params.set("type",k);
+        history.replaceState(null,"",location.pathname+(params.size?"?"+params:""));
+      }
+    }
+    function restore(){
+      const params=new URLSearchParams(location.search);
+      if(search)search.value=params.get("q")??"";
+      if(topic)topic.value=[...topic.options].some(o=>o.value===params.get("topic"))?params.get("topic")??"":"";
+      if(kind)kind.value=[...kind.options].some(o=>o.value===params.get("type"))?params.get("type")??"":"";
+      update();
+    }
+    for(const control of [search,topic,kind]){
+      control?.addEventListener("input",()=>update(true));
+      control?.addEventListener("change",()=>update(true));
+    }
+    window.addEventListener("popstate",restore);
+    restore();
+  </script>
+</Base>
