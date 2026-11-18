@@ -23,4 +23,4 @@ Matthew 5:17–20 and Galatians 3:23–25 are often compared but occur in very d
 
 Include readings that find continuity through Christ and readings that find a substantial shift in the Law's normative role. No final conclusion is assigned.
 
-**Research state:** still draft, but an initial source-linked comparison now exists at [The Law and Faith](../comparisons/law-and-faith.md). Refer to that study for competing readings and bibliography. Source checking is not equivalent to independent scholarly review.
+**Research state:** still draft, but an initial source-linked comparison now exists at [The Law and Faith](/comparisons/law-and-faith/). Refer to that study for competing readings and bibliography. Source checking is not equivalent to independent scholarly review.
