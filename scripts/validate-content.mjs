@@ -6,6 +6,8 @@ import { isValidMarkSpan } from "./mark-verses.mjs";
 const readJson = path => JSON.parse(readFileSync(path, "utf8"));
 const books = readJson("research/index/books.json");
 const passages = readJson("research/index/passages.json");
+const sources = readJson("research/index/sources.json");
+const evidenceRows = readJson("research/index/evidence.json");
 const errors = [];
 const statuses = new Set(["draft", "source-checked", "reviewed"]);
 const groups = new Set(["gospels", "acts", "paul-undisputed", "paul-disputed", "other-nt"]);
@@ -93,7 +95,8 @@ for (const passage of passages) {
   }
 }
 
-for (const entry of collection("research/comparisons")) {
+const comparisonEntries = collection("research/comparisons");
+for (const entry of comparisonEntries) {
   statusCheck(entry.meta, "Comparison " + entry.id);
   if (!classifications.has(entry.meta.classification)) errors.push("Invalid comparison classification: " + entry.id);
   for (const id of requireStrings(entry.meta.jesus, "Comparison Jesus references " + entry.id)) {
@@ -109,6 +112,53 @@ for (const entry of collection("research/modern-issues")) {
   statusCheck(entry.meta, "Modern issue " + entry.id);
   for (const id of requireStrings(entry.meta.topicRefs, "Issue topicRefs " + entry.id)) {
     if (!topicIds.has(id)) errors.push("Unknown topic " + id + " in modern issue " + entry.id);
+  }
+}
+
+
+const sourceIds = new Set();
+const accessScopes = new Set(["full-text", "publisher-abstract-only", "selected-excerpt"]);
+for (const source of sources) {
+  if (typeof source.id !== "string" || !source.id || sourceIds.has(source.id)) errors.push("Missing or duplicate source id " + String(source.id));
+  sourceIds.add(source.id);
+  if (!["primary-edition", "scholarly-overview", "peer-reviewed-article", "academic-book", "historical-overview"].includes(source.type)) errors.push("Unknown source type " + source.id);
+  if (!accessScopes.has(source.accessScope)) errors.push("Unknown source accessScope " + source.id);
+  if (!["author","title","publisher","location","note"].every(k => typeof source[k] === "string" && source[k].trim())) errors.push("Source required metadata missing: " + source.id);
+  try {
+    const url = new URL(source.url);
+    if (url.protocol !== "https:") errors.push("Source URL must be HTTPS: " + source.id);
+  } catch { errors.push("Source URL malformed: " + source.id); }
+}
+const comparisonMap = new Map(comparisonEntries.map(entry => [entry.id, entry]));
+for (const entry of comparisonEntries) {
+  for (const id of requireStrings(entry.meta.context ?? [], "Comparison context " + entry.id)) {
+    if (!passagesById.has(id)) errors.push("Unknown context passage " + id + " in " + entry.id);
+  }
+  for (const id of requireStrings(entry.meta.sourceIds ?? [], "Comparison sources " + entry.id)) {
+    if (!sourceIds.has(id)) errors.push("Unknown bibliographic source " + id + " in " + entry.id);
+  }
+}
+checkUnique(evidenceRows, "id", "evidence");
+for (const row of evidenceRows) {
+  const comparison = comparisonMap.get(row.comparisonId);
+  if (!comparison) { errors.push("Evidence " + row.id + ": unknown comparison"); continue; }
+  if (!statuses.has(row.status)) errors.push("Evidence " + row.id + ": invalid status");
+  if (!["textual-observation", "counterexample", "text-critical", "source-comparison", "historical-interpretation"].includes(row.kind)) {
+    errors.push("Evidence " + row.id + ": unknown kind");
+  }
+  if (!["tension","agreement","interpretation-dependent"].includes(row.assessment)) errors.push("Evidence " + row.id + ": unknown assessment");
+  for (const field of ["title","observation","alternateReading","limitation"]) {
+    if (typeof row[field] !== "string" || row[field].trim().length < 20) errors.push("Evidence " + row.id + ": missing substantial " + field);
+  }
+  const declaredPassageIds = new Set([...comparison.meta.jesus,...comparison.meta.paul,...(comparison.meta.context??[])]);
+  const declaredSourceIds = new Set(comparison.meta.sourceIds??[]);
+  for (const id of requireStrings(row.passageIds,"Evidence passages " + row.id)) {
+    if (!passagesById.has(id)) errors.push("Evidence " + row.id + ": unknown passage " + id);
+    if (!declaredPassageIds.has(id)) errors.push("Evidence " + row.id + ": undeclared comparison passage " + id);
+  }
+  for (const id of requireStrings(row.sourceIds,"Evidence sources " + row.id)) {
+    if (!sourceIds.has(id)) errors.push("Evidence " + row.id + ": unknown source " + id);
+    if (!declaredSourceIds.has(id)) errors.push("Evidence " + row.id + ": undeclared comparison source " + id);
   }
 }
 
@@ -166,7 +216,7 @@ for (const saying of sayings) {
     if (!topicIds.has(topic)) errors.push(label + ": unknown topic " + topic);
     if (parent && !parent.topics.includes(topic)) errors.push(label + ": topic not linked from parent " + topic);
   }
-  if (saying.sourceEdition !== "WEB Updated (66-book edition)" || saying.sourceUrl !== "https://ebible.org/engwebp/MRK" + match[1] + ".htm") {
+  if (saying.sourceEdition !== "World English Bible (Protestant edition)" || saying.sourceUrl !== "https://ebible.org/engwebp/MRK" + match[1] + ".htm") {
     errors.push(label + ": unknown primary edition or chapter URL");
   }
   if (!Array.isArray(saying.parallels)) {

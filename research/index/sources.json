@@ -1,0 +1,74 @@
+[
+  {
+    "id": "web-protestant-66",
+    "type": "primary-edition",
+    "author": "eBible.org",
+    "title": "World English Bible, Protestant 66-book edition (engwebp)",
+    "publisher": "eBible.org",
+    "year": null,
+    "location": "Matthew 5; Mark 7; Galatians 2–5; Romans 3, 7, 8, 10, 13; Acts 15",
+    "url": "https://ebible.org/engwebp/",
+    "accessScope": "full-text",
+    "note": "Chapter links in passage records point to this edition. Biblical text is linked, not republished in this repository."
+  },
+  {
+    "id": "novenson-2023-law",
+    "type": "scholarly-overview",
+    "author": "Matthew V. Novenson",
+    "title": "Law in the New Testament",
+    "publisher": "St Andrews Encyclopaedia of Theology",
+    "year": 2023,
+    "location": "Sections 2 ('Christ the end of the law') and 5 ('I have not come to abolish the law')",
+    "url": "https://www.saet.ac.uk/Christianity/LawintheNewTestament",
+    "accessScope": "full-text",
+    "note": "Discusses diversity within Paul and Matthew, including the possibility and limits of interpreting Matthew as a response to Pauline ideas."
+  },
+  {
+    "id": "trout-2015-fulfilment",
+    "type": "peer-reviewed-article",
+    "author": "Bradley M. Trout",
+    "title": "The nature of the law's fulfilment in Matthew 5:17: An exegetical and theological study",
+    "publisher": "In die Skriflig 49(1)",
+    "year": 2015,
+    "location": "Abstract; discussion of fulfilment and kingdom; Conclusion",
+    "url": "https://doi.org/10.4102/ids.v49i1.1910",
+    "accessScope": "full-text",
+    "note": "Proposes a salvation-historical/kingdom interpretation of Matthew's fulfilment language. Interpretive proposal, not consensus."
+  },
+  {
+    "id": "williams-2024-mark7",
+    "type": "peer-reviewed-article",
+    "author": "Logan Williams",
+    "title": "The Stomach Purifies All Foods: Jesus' Anatomical Argument in Mark 7.18–19",
+    "publisher": "New Testament Studies 70(3), 371–391",
+    "year": 2024,
+    "location": "Abstract; sections on Mark 7.18–19 and alternative parsing",
+    "url": "https://doi.org/10.1017/S0028688523000516",
+    "accessScope": "full-text",
+    "note": "Argues against the conventional narrator-gloss reading of Mark 7:19c. One recent scholarly case, not a settled correction of all translations."
+  },
+  {
+    "id": "thiessen-2016-gentiles",
+    "type": "academic-book",
+    "author": "Matthew Thiessen",
+    "title": "Paul and the Gentile Problem",
+    "publisher": "Oxford University Press",
+    "year": 2016,
+    "location": "Publisher abstract only (full monograph not checked)",
+    "url": "https://doi.org/10.1093/acprof:oso/9780190271756.001.0001",
+    "accessScope": "publisher-abstract-only",
+    "note": "Represents a Gentile-focused reading of Paul's legal arguments. Do not cite unseen chapters or pages."
+  },
+  {
+    "id": "abs-jerusalem-2010",
+    "type": "historical-overview",
+    "author": "American Bible Society",
+    "title": "The Council in Jerusalem",
+    "publisher": "American Bible Society",
+    "year": 2010,
+    "location": "Comparison of Acts 15 with Galatians 2",
+    "url": "https://www.americanbible.org/engage/bible-resources/articles/the-council-in-jerusalem/",
+    "accessScope": "full-text",
+    "note": "Accessible comparative overview; distinguish Acts as narrative from Paul's first-person letter."
+  }
+]

@@ -2,14 +2,28 @@
 import Base from "../../layouts/Base.astro";
 import { getCollection, render } from "astro:content";
 import passages from "../../../research/index/passages.json";
+import sources from "../../../research/index/sources.json";
+import evidenceRows from "../../../research/index/evidence.json";
 export async function getStaticPaths() {
   const entries = await getCollection("comparisons");
   return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
 }
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const jesusRefs = entry.data.jesus.map(id => passages.find(p => p.id === id)).filter(Boolean);
-const paulRefs = entry.data.paul.map(id => passages.find(p => p.id === id)).filter(Boolean);
+const passageById = new Map(passages.map(p => [p.id,p]));
+const sourceById = new Map(sources.map(s => [s.id,s]));
+const lookup = (ids: string[]) => ids.map(id => passageById.get(id)).filter(Boolean);
+const jesusRefs = lookup(entry.data.jesus);
+const paulRefs = lookup(entry.data.paul);
+const contextRefs = lookup(entry.data.context ?? []);
+const evidence = evidenceRows.filter(row => row.comparisonId === entry.id);
+const citedSourceIds = entry.data.sourceIds ?? [];
+const citedSources = citedSourceIds.map(id => sourceById.get(id)).filter(Boolean);
+const evaluationLabels: Record<string,string> = {
+  tension: "Supports a possible tension",
+  agreement: "Highlights agreement",
+  "interpretation-dependent": "Interpretation dependent"
+};
 ---
 <Base title={entry.data.title} description={entry.data.summary}>
   <p class="eyebrow">Comparison · {entry.data.classification.replaceAll("-", " ")}</p>
@@ -18,14 +32,62 @@ const paulRefs = entry.data.paul.map(id => passages.find(p => p.id === id)).filt
   <section class="split" aria-label="Passages being compared">
     <div class="panel">
       <h2>Jesus in the Gospels</h2>
-      {jesusRefs.map(ref => <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span></div>)}
+      {jesusRefs.map(ref => ref && <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}</div>)}
     </div>
     <div class="panel">
       <h2>Paul / writings attributed to Paul</h2>
-      {paulRefs.map(ref => <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div></div>)}
+      {paulRefs.map(ref => ref && <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}</div>)}
     </div>
   </section>
+
+  {contextRefs.length > 0 && <section class="panel evidence-section">
+    <h2>Contextual witnesses</h2>
+    <p class="muted">These texts add background but do not become direct quotations by Jesus or Paul merely by appearing in this comparison.</p>
+    {contextRefs.map(ref => ref && <div class="reference">
+      <strong>{ref.reference}</strong><span>{ref.summary}</span>
+      {"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read the passage in context</a></p>}
+    </div>)}
+  </section>}
+
+  {evidence.length > 0 && <section class="evidence-section" aria-labelledby="evidence-heading">
+    <p class="eyebrow">Evidence audit</p>
+    <h2 id="evidence-heading">What supports each reading?</h2>
+    <p class="muted">Each claim is provisional. The alternative interpretation and limitations are part of the record, not optional footnotes.</p>
+    <div class="evidence-list">
+      {evidence.map(row => <article class="panel evidence-item" id={row.id}>
+        <div class="meta"><span class="status" data-state={row.status}>{row.status}</span><span>{evaluationLabels[row.assessment] ?? row.assessment}</span><span>· {row.kind.replaceAll("-"," ")}</span></div>
+        <h3>{row.title}</h3>
+        <h4>Textual or historical observation</h4>
+        <p>{row.observation}</p>
+        <h4>Alternative or counterreading</h4>
+        <p>{row.alternateReading}</p>
+        <h4>Limitations</h4>
+        <p>{row.limitation}</p>
+        <div class="evidence-refs">
+          <strong>Passages:</strong>
+          <span>{row.passageIds.map(id => passageById.get(id)?.reference ?? id).join("; ")}</span>
+        </div>
+        <div class="evidence-refs">
+          <strong>Sources:</strong>
+          <span>{row.sourceIds.map((id,i) => <><a href={`#source-${id}`}>{sourceById.get(id)?.author ?? id}</a>{i<row.sourceIds.length-1 ? "; " : ""}</>)}</span>
+        </div>
+      </article>)}
+    </div>
+  </section>}
+
   <article class="prose study"><Content /></article>
-  <p class="warning">Provisional classification. Both textual context and stronger counterarguments must be reviewed before any finding becomes final.</p>
+
+  {citedSources.length > 0 && <section aria-labelledby="source-heading" class="panel evidence-section">
+    <h2 id="source-heading">Sources and access scope</h2>
+    <p class="muted">The access description tells you whether the project inspected an open article or only a publisher's abstract. It does not imply peer review of this site's own conclusions.</p>
+    <ol class="source-list">
+      {citedSources.map(source => source && <li id={`source-${source.id}`}>
+        <a href={source.url} target="_blank" rel="noopener noreferrer"><strong>{source.author}. {source.title}.</strong></a>
+        <span>{source.publisher}{source.year ? ` (${source.year})` : ""}. {source.location}.</span>
+        <small><strong>Inspected material:</strong> {source.accessScope.replaceAll("-"," ")}. {source.note}</small>
+      </li>)}
+    </ol>
+  </section>}
+  <p class="warning">Provisional comparison: a cited source or a readable page is not proof of a final theological or historical conclusion. Independent editorial review is required.</p>
   <p><a href="/comparisons/">All comparisons</a></p>
 </Base>

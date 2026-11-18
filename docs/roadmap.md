@@ -35,3 +35,7 @@ Immigration, poverty, institutional power, gender, sexual ethics, war, punishmen
 ## Phase 6 — Publish
 
 Search, source bibliography, parallel text viewer, textual-variant callouts, clear review badges, accessibility audits, stable public URLs, and deployment.
+
+## Evidence-ledger pilot (November 2026)
+
+The Law and Faith comparison links contextual passages, six scholarly/primary source records with declared access scopes, and six claim-level entries with counterarguments and limitations. The website now provides a searchable research foundation and a bibliography catalog, but **all research conclusions remain draft** pending detailed language, textual-variant and independent editorial checks. See `docs/mosaic-law-review-log.md`.

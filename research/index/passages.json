@@ -44,6 +44,54 @@
     "status": "draft"
   },
   {
+    "id": "ac-15-01-29",
+    "bookId": "ac",
+    "reference": "Acts 15:1–29",
+    "sourceLayer": "acts",
+    "summary": "Acts narrates the Jerusalem debate over circumcision for Gentiles and a communal decision with stated conditions.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ACT15.htm"
+  },
+  {
+    "id": "ga-02-01-10",
+    "bookId": "ga",
+    "reference": "Galatians 2:1–10",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul recounts meeting Jerusalem leaders over his Gentile mission, noting that Titus was not compelled to be circumcised.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
+  },
+  {
+    "id": "ga-02-11-21",
+    "bookId": "ga",
+    "reference": "Galatians 2:11–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes a conflict over shared meals and argues that justification is not achieved by works of the Law.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
+  },
+  {
+    "id": "ga-03-10-14",
+    "bookId": "ga",
+    "reference": "Galatians 3:10–14",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul links reliance on works of the Law to a curse and relates the Abrahamic promise to faith and the Spirit.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+  },
+  {
     "id": "ga-03-23-25",
     "bookId": "ga",
     "reference": "Galatians 3:23–25",
@@ -53,6 +101,30 @@
       "mosaic-law"
     ],
     "status": "draft"
+  },
+  {
+    "id": "ga-05-02-06",
+    "bookId": "ga",
+    "reference": "Galatians 5:2–6",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul warns Gentile addressees against circumcision as a necessary covenant obligation and emphasizes faith expressed through love.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-05-13-14",
+    "bookId": "ga",
+    "reference": "Galatians 5:13–14",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul says freedom should lead to serving others and summarizes the Law through neighbor-love.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
   },
   {
     "id": "lk-06-20-26",
@@ -75,6 +147,18 @@
       "women-authority"
     ],
     "status": "draft"
+  },
+  {
+    "id": "lk-16-16-17",
+    "bookId": "lk",
+    "reference": "Luke 16:16–17",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Luke places the proclamation of God's kingdom alongside a statement about the Law's endurance; the relation of the two requires interpretation.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
   },
   {
     "id": "mk-01-01-13",
@@ -1271,6 +1355,30 @@
     "status": "draft"
   },
   {
+    "id": "mt-05-21-48",
+    "bookId": "mt",
+    "reference": "Matthew 5:21–48",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "In a series of examples, Matthew's Jesus intensifies and reframes obligations around murder, adultery, oath-taking, retaliation and love of enemies.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT05.htm"
+  },
+  {
+    "id": "mt-15-01-20",
+    "bookId": "mt",
+    "reference": "Matthew 15:1–20",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus challenges traditions that circumvent obligations toward parents and argues that morally defiling actions arise from the heart.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
+  },
+  {
     "id": "mt-25-31-46",
     "bookId": "mt",
     "reference": "Matthew 25:31–46",
@@ -1282,6 +1390,18 @@
     "status": "draft"
   },
   {
+    "id": "ro-03-28-31",
+    "bookId": "ro",
+    "reference": "Romans 3:28–31",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul contrasts justification by faith with works of the Law while insisting that faith does not nullify the Law.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+  },
+  {
     "id": "ro-07-01-06",
     "bookId": "ro",
     "reference": "Romans 7:1–6",
@@ -1291,6 +1411,54 @@
       "mosaic-law"
     ],
     "status": "draft"
+  },
+  {
+    "id": "ro-07-07-12",
+    "bookId": "ro",
+    "reference": "Romans 7:7–12",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul rejects the equation of Law with sin and describes the commandment as holy, just and good.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm"
+  },
+  {
+    "id": "ro-08-01-04",
+    "bookId": "ro",
+    "reference": "Romans 8:1–4",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul presents what the Law could not accomplish through weakened human flesh and speaks of its righteous requirement being fulfilled.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
+  },
+  {
+    "id": "ro-10-04-04",
+    "bookId": "ro",
+    "reference": "Romans 10:4",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes Christ as the telos of the Law; whether this means endpoint, goal, culmination or a combination is debated.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm"
+  },
+  {
+    "id": "ro-13-08-10",
+    "bookId": "ro",
+    "reference": "Romans 13:8–10",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul connects love of neighbor with the fulfillment of the Law and specifies several commandments.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
   },
   {
     "id": "ro-16-01-16",

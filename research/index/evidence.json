@@ -1,0 +1,129 @@
+[
+  {
+    "id": "law-01-matthew-continuity",
+    "comparisonId": "law-and-faith",
+    "title": "Matthew emphasizes enduring commandments",
+    "kind": "textual-observation",
+    "assessment": "tension",
+    "status": "draft",
+    "passageIds": [
+      "mt-05-17-20",
+      "mt-05-21-48"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "novenson-2023-law",
+      "trout-2015-fulfilment"
+    ],
+    "observation": "Matthew's Jesus denies abolishing the Law and associates doing and teaching commandments with standing in the kingdom.",
+    "alternateReading": "Matthew's fulfilment language can refer to the arrival of the kingdom and a new authoritative interpretation rather than an unqualified requirement that every Torah rule binds all later Gentile followers.",
+    "limitation": "This is Matthew's literary presentation of Jesus; the historical occasion and relation to later Gentile communities are reconstructed, not independently observed."
+  },
+  {
+    "id": "law-02-paul-pedagogue",
+    "comparisonId": "law-and-faith",
+    "title": "Galatians assigns the Law a changed role",
+    "kind": "textual-observation",
+    "assessment": "tension",
+    "status": "draft",
+    "passageIds": [
+      "ga-03-10-14",
+      "ga-03-23-25",
+      "ga-05-02-06"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "novenson-2023-law",
+      "thiessen-2016-gentiles"
+    ],
+    "observation": "Paul describes the Law's custodial role as bounded by the coming of faith and strongly resists circumcision being imposed on Gentile Christ-followers.",
+    "alternateReading": "The target may be Gentile entry into Abraham's promise rather than a universal declaration that Jews must abandon Torah observance.",
+    "limitation": "The precise applicability of Paul's argument to Jewish observance remains debated; the Thiessen source was checked at abstract level only."
+  },
+  {
+    "id": "law-03-paul-upholds",
+    "comparisonId": "law-and-faith",
+    "title": "Paul also upholds and positively describes the Law",
+    "kind": "counterexample",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "ro-03-28-31",
+      "ro-07-07-12",
+      "ro-13-08-10",
+      "ga-05-13-14"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "novenson-2023-law"
+    ],
+    "observation": "Romans 3:31 rejects nullifying the Law; Romans 7:12 calls the commandment holy; Romans 13 and Galatians 5 connect love with the Law's fulfillment.",
+    "alternateReading": "These affirmations need not imply that Paul requires all Gentiles to observe every Mosaic regulation; 'fulfill' and 'establish' require argument-specific interpretation.",
+    "limitation": "A simple 'Jesus keeps Law; Paul rejects Law' thesis omits contrary Pauline passages."
+  },
+  {
+    "id": "law-04-mark-purity",
+    "comparisonId": "law-and-faith",
+    "title": "Mark's food-purity passage has a contested reading",
+    "kind": "text-critical",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mk-07-01-13",
+      "mk-07-14-23",
+      "mt-15-01-20"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "williams-2024-mark7",
+      "novenson-2023-law"
+    ],
+    "observation": "Mark 7 reports a dispute about handwashing, tradition, and defilement. The Greek phrase in 7:19c has been taken as an explanatory gloss that Jesus declared all foods clean.",
+    "alternateReading": "Logan Williams argues that the phrase belongs to Jesus' digestive explanation, relating the debate to ritual impurity rather than a repeal of prohibited animals.",
+    "limitation": "Competing grammatical analyses and translation punctuation must be stated; Mark 7 cannot simply be equated with abolition of all food laws."
+  },
+  {
+    "id": "law-05-two-jerusalem-accounts",
+    "comparisonId": "law-and-faith",
+    "title": "Acts 15 and Galatians 2 narrate the dispute differently",
+    "kind": "source-comparison",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "ac-15-01-29",
+      "ga-02-01-10",
+      "ga-02-11-21"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "abs-jerusalem-2010"
+    ],
+    "observation": "Acts presents communal deliberation and a formal decision concerning Gentiles, while Paul describes a meeting focused on his Gentile gospel and a later public disagreement with Peter.",
+    "alternateReading": "Some interpreters harmonize the meetings as different perspectives on the same event; others consider separate meetings or editorial shaping.",
+    "limitation": "Acts is a later narrative; it should not be quoted as Paul's unmediated report. Historical identity and sequencing of the meetings are debated."
+  },
+  {
+    "id": "law-06-fulfilment-and-boundaries",
+    "comparisonId": "law-and-faith",
+    "title": "Different meanings of obligation may explain part of the tension",
+    "kind": "historical-interpretation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mt-05-17-20",
+      "ga-05-13-14",
+      "ro-08-01-04",
+      "ro-10-04-04",
+      "lk-16-16-17"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "novenson-2023-law",
+      "trout-2015-fulfilment",
+      "thiessen-2016-gentiles"
+    ],
+    "observation": "The texts speak about continuity of scripture, how God's promises reach fulfillment, inclusion of Gentiles, and moral transformation; these are not necessarily identical questions.",
+    "alternateReading": "Matthew's insistence on even minor commandments can still represent a genuine disagreement with claims that all followers are released from specific Torah obligations.",
+    "limitation": "Romans 10:4 uses telos, whose interpretation as end, goal or culmination varies. A reconciled reading is a hypothesis, not proof that there is no theological tension."
+  }
+]
