@@ -43,3 +43,7 @@ The Law and Faith comparison links contextual passages, six scholarly/primary so
 ## Wealth and poverty comparative pilot (November 2026)
 
 A new comparative study covers Luke's blessings, the rich ruler, Matthew 25, Paul's cross-community collection, Zacchaeus, Mark's widow, and Acts/1 Timothy as **separate contextual voices**. It provides source-aware counterreadings and competing interpretations in a claim-level ledger. **Draft only**: a deeper textual and scholarly review remains. See `docs/wealth-poverty-review-log.md`.
+
+## Women and authority pilot (November 2026)
+
+The third evidence-ledger study now differentiates Gospel witnesses, Romans 16 coworkers, 1 Corinthians 11 and 14, Galatians 3:28, and Acts/Pastorals as separate witness groups. It includes scholarly disputes over Junia, silence in worship, manuscript transposition, and the Pastorals' authorship. All records remain **draft** pending critical-text audit and independent review. See `docs/women-authority-review-log.md`.

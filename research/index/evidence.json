@@ -306,5 +306,208 @@
     "limitation": "Acts 4's narrated practices cannot be attributed as direct instructions spoken by Jesus or as Paul's first-person eyewitness report.",
     "comparisonId": "wealth-and-generosity",
     "status": "draft"
+  },
+  {
+    "id": "women-01-gospel-followers",
+    "title": "Named women participate in Jesus' ministry and learning",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "passageIds": [
+      "lk-08-01-03",
+      "lk-10-38-42",
+      "jn-04-07-42"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Luke names women accompanying and supporting the ministry, depicts Mary listening as a disciple, and John portrays a Samaritan woman whose testimony draws hearers.",
+    "alternateReading": "Narrated financial support, learning and public testimony do not by themselves prove a later institutional office or that the Gospel writers opposed every gender distinction.",
+    "limitation": "These texts are literary portrayals with different theological aims. A narrative event should not be treated as a universal office regulation.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-02-resurrection-witness",
+    "title": "Women are integral to resurrection narratives",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "passageIds": [
+      "mk-15-40-47",
+      "lk-24-01-11",
+      "mt-28-01-10",
+      "jn-20-11-18"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Mark describes women at the execution and burial; Luke and Matthew report women's tomb experience and witness, and John has Jesus direct Mary Magdalene to inform the disciples.",
+    "alternateReading": "The evangelists differ in who is present, who speaks, how the encounter unfolds and how their testimony is received. A witness commission and later ecclesiastical ordination are not synonymous.",
+    "limitation": "Mark 16:9–20 is excluded from this claim due to its disputed longer ending. The shorter Mark narrative's conclusion must not be silently blended with John and Matthew.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-03-phoebe-coworkers",
+    "title": "Romans 16 presents women as significant participants",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "passageIds": [
+      "ro-16-01-02",
+      "ro-16-03-07",
+      "ro-16-01-16"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "sybrandi-2024-romans16"
+    ],
+    "observation": "Paul commends Phoebe using diakonos and prostatis, refers to Prisca and Aquila as fellow workers, and names Mary and Junia among respected figures in his networks.",
+    "alternateReading": "The range of diakonos, prostatis and labor/coworker terms does not map exactly onto later titles such as ordained deacon, bishop or priest. Modern office labels require further evidence.",
+    "limitation": "Sybrandi's open article argues for substantial women's ministries; its full ecclesiological inference is an interpretation, not a direct transcript of Roman congregational appointments.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-04-junia-scope",
+    "title": "Junia's apostolic identification remains contested",
+    "kind": "historical-interpretation",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "ro-16-03-07"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "sybrandi-2024-romans16",
+      "burer-wallace-2001-junia"
+    ],
+    "observation": "Romans 16:7 names Junia and Andronicus in a phrase commonly rendered 'notable among the apostles,' but the syntax of the expression has been contested.",
+    "alternateReading": "Sybrandi argues reception history obscured Junia's apostolic standing. Burer and Wallace's published abstract proposes the sense 'well known to the apostles' rather than inclusion among them.",
+    "limitation": "Burer and Wallace's full argument was not inspected. Neither view should be presented as a textual certainty, and 'apostle' itself may not imply a later episcopal office.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-05-prayer-prophecy",
+    "title": "1 Corinthians 11 assumes women pray and prophesy",
+    "kind": "counterexample",
+    "assessment": "tension",
+    "passageIds": [
+      "1co-11-02-16",
+      "1co-14-26-40",
+      "1co-14-34-35"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "wilson-2022-cor14",
+      "baum-2014-cor14"
+    ],
+    "observation": "In the same undisputed letter, 11:5 assumes women pray and prophesy while 14:34–35 appears to require silence in assemblies; the larger chapter regulates disruptive or competing speech.",
+    "alternateReading": "Some scholars restrict 14:34–35 to particular types of speech (questioning, evaluating prophecy, or disruptive interruption), distinguish different assembly contexts, or read the lines as a Corinthian position corrected in verse 36.",
+    "limitation": "The text of 11:5 regulates women's appearance as well as presuming speech; it should not be represented as a straightforward statement of modern equality. Baum's article is only accessible here at summary level.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-06-manuscript-location",
+    "title": "1 Corinthians 14:34–35 has a meaningful placement variant",
+    "kind": "text-critical",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "1co-14-34-35",
+      "1co-14-26-40"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "niccum-1997-cor14",
+      "wilson-2022-cor14"
+    ],
+    "observation": "Some Western textual witnesses move verses 34–35 to after verse 40 instead of the usual position after 33. Scholars offer insertion, rhetorical-quotation and contextual-authenticity accounts.",
+    "alternateReading": "Niccum stresses external manuscript evidence and argues that displacement alone cannot establish an interpolation; Wilson supports quotation/refutation and offers a different account of the Western displacement.",
+    "limitation": "The extant manuscript evidence is not the same thing as proving an original text or speaker. No presently known continuous manuscript lacks the two verses altogether; this pilot has not examined a full critical apparatus.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-07-pastoral-restriction",
+    "title": "1 Timothy's restriction is a distinct and disputed Pauline witness",
+    "kind": "historical-interpretation",
+    "assessment": "tension",
+    "passageIds": [
+      "1ti-02-08-15",
+      "1ti-03-01-13",
+      "tit-02-03-05"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "collins-2010-pastorals",
+      "bfc-2023-1tim2"
+    ],
+    "observation": "1 Timothy 2:11–15 instructs women to learn quietly and restricts teaching or exercising authority over a man; Titus 2 also specifies domestic-related instruction by older women.",
+    "alternateReading": "Some argue that teaching/authority restrictions are enduring and tied to creation, while others interpret the instruction against local teaching disorders, relational conflict, or the rare Greek verb authentein.",
+    "limitation": "The Pastorals' authorship is seriously disputed and must not be collapsed into unchallenged speech from Paul. The modern denominational report is explicitly confessional, not neutral scholarly arbitration.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-08-equality-galatians",
+    "title": "Galatians 3:28 informs equality debates without answering every office question",
+    "kind": "historical-interpretation",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "ga-03-26-29",
+      "1co-11-02-16"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "tolmie-2014-gal328"
+    ],
+    "observation": "Paul asserts unity in Christ across male/female, slave/free and Jew/Gentile distinctions in a discussion of baptism, inheritance and Abraham's promise.",
+    "alternateReading": "Some readings interpret unity as equal spiritual standing with continuing gendered church functions; others argue that equality in status also challenges exclusion from participation and authority.",
+    "limitation": "Tolmie surveys divergent scholarly positions rather than proving a single application. Galatians 3:28 does not itself describe the administrative structure of an assembly.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-09-cross-corpus",
+    "title": "Acts and Paul's coworker references require separate source categories",
+    "kind": "source-comparison",
+    "assessment": "agreement",
+    "passageIds": [
+      "ac-18-24-26",
+      "php-04-02-03",
+      "1co-16-19-19"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Acts portrays Priscilla and Aquila teaching Apollos, while Paul's letters independently refer to Euodia and Syntyche as gospel coworkers and to Prisca and Aquila hosting an assembly.",
+    "alternateReading": "A historical reconstruction may use these accounts as complementary evidence, but Acts is a later literary witness and house-hosting, teaching in a narrative, and preaching are not interchangeable titles.",
+    "limitation": "Claims about ordained offices cannot be inferred from a single coworker, host, or teaching label without reconstructing how those activities related to contemporary assemblies.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
+  },
+  {
+    "id": "women-10-no-simple-either-or",
+    "title": "A universal gender conclusion cannot rest on one isolated text",
+    "kind": "counterexample",
+    "assessment": "interpretation-dependent",
+    "passageIds": [
+      "lk-08-01-03",
+      "jn-20-11-18",
+      "1co-11-02-16",
+      "1co-14-34-35",
+      "ro-16-01-16",
+      "1ti-02-08-15"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "tolmie-2014-gal328",
+      "collins-2010-pastorals",
+      "sybrandi-2024-romans16"
+    ],
+    "observation": "The canonical corpus both portrays substantial female agency and preserves texts restricting certain forms of speech or authority; they have different genres, audiences and authorship profiles.",
+    "alternateReading": "Complementarian, egalitarian, situational and redactional readings each integrate these sources differently. Treating any one set as decisive without addressing contrary passages leaves the comparison incomplete.",
+    "limitation": "A historical claim about Jesus' views cannot be inferred simply by equating a Gospel narrator's approval of women with a later church office; modern ecclesial regulations also require explicit theological decisions.",
+    "comparisonId": "women-and-assembly",
+    "status": "draft"
   }
 ]

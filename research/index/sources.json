@@ -6,7 +6,7 @@
     "title": "World English Bible, Protestant 66-book edition (engwebp)",
     "publisher": "eBible.org",
     "year": null,
-    "location": "Matthew 5; Mark 7; Galatians 2–5; Romans 3, 7, 8, 10, 13; Acts 15; Luke 6, 12, 16, 18, 19; Mark 10, 12, 14; Matthew 6, 19, 25; 1 Corinthians 16; 2 Corinthians 8–9; Romans 12, 15; Acts 4; 1 Timothy 6",
+    "location": "Matthew 5; Mark 7; Galatians 2–5; Romans 3, 7, 8, 10, 13; Acts 15; Luke 6, 12, 16, 18, 19; Mark 10, 12, 14; Matthew 6, 19, 25; 1 Corinthians 16; 2 Corinthians 8–9; Romans 12, 15; Acts 4; 1 Timothy 6; Luke 8, 10, 24; John 4, 20; Matthew 28; Romans 16; 1 Corinthians 11, 14, 16; Galatians 3; Philippians 4; Acts 18; 1 Timothy 2–3; Titus 2",
     "url": "https://ebible.org/engwebp/",
     "accessScope": "full-text",
     "note": "Chapter links in passage records point to this edition. Biblical text is linked, not republished in this repository."
@@ -142,5 +142,101 @@
     "url": "https://doi.org/10.31743/ba.535",
     "accessScope": "publisher-abstract-only",
     "note": "The abstract argues for the widow as a positive example and acknowledges a competing negative/exploitation reading. Do not attribute unseen argumentation or page-specific claims."
+  },
+  {
+    "id": "sybrandi-2024-romans16",
+    "type": "peer-reviewed-article",
+    "author": "Marieke Sybrandi",
+    "title": "Women leaders lost in translation? A Study in Romans 16:1–16",
+    "publisher": "The Expository Times, volume 136, issue 3 (SAGE)",
+    "year": 2024,
+    "location": "Full article: Phoebe (vv.1–2), Prisca (v.3), Junia (v.7), translation and conclusion",
+    "url": "https://doi.org/10.1177/00145246241287148",
+    "accessScope": "full-text",
+    "note": "Open full article inspected. Argues that translation/reception history has often minimized women's roles; this is a substantive scholarly interpretation, not a settled identification of modern offices."
+  },
+  {
+    "id": "burer-wallace-2001-junia",
+    "type": "peer-reviewed-article",
+    "author": "Michael H. Burer and Daniel B. Wallace",
+    "title": "Was Junia Really an Apostle? A Re-examination of Rom 16.7",
+    "publisher": "New Testament Studies 47(1), 76–91",
+    "year": 2001,
+    "location": "Publisher abstract only: argument about epīsēmos en tois apostolois",
+    "url": "https://doi.org/10.1017/S0028688501000066",
+    "accessScope": "publisher-abstract-only",
+    "note": "Abstract challenges an inclusive 'outstanding among apostles' reading in favor of 'well known to the apostles'; do not attribute unseen pages."
+  },
+  {
+    "id": "niccum-1997-cor14",
+    "type": "peer-reviewed-article",
+    "author": "Curt Niccum",
+    "title": "The Voice of the Manuscripts on the Silence of Women: The External Evidence for 1 Cor 14.34–5",
+    "publisher": "New Testament Studies 43(2), 242–255",
+    "year": 1997,
+    "location": "Publisher extract and bibliographic metadata only; discusses lack of manuscript omission and verse transposition",
+    "url": "https://doi.org/10.1017/S0028688500023249",
+    "accessScope": "publisher-abstract-only",
+    "note": "A contrary critical perspective to interpolation theories; only publisher extract inspected. The full apparatus and article still require direct verification."
+  },
+  {
+    "id": "wilson-2022-cor14",
+    "type": "peer-reviewed-article",
+    "author": "Joseph A. P. Wilson",
+    "title": "Recasting Paul as a Chauvinist within the Western Text-Type Manuscript Tradition: Implications for the Authorship Debate on 1 Corinthians 14.34-35",
+    "publisher": "Religions 13(5), 432",
+    "year": 2022,
+    "location": "Full article: abstract, background, Western-text discussion, and conclusions",
+    "url": "https://doi.org/10.3390/rel13050432",
+    "accessScope": "full-text",
+    "note": "Argues for a quotation/refutation hypothesis over interpolation while criticizing Western transmission and anti-Judaic assumptions. Represents one debated position."
+  },
+  {
+    "id": "tolmie-2014-gal328",
+    "type": "peer-reviewed-article",
+    "author": "D. Francois Tolmie",
+    "title": "Tendencies in the interpretation of Galatians 3:28 since 1990",
+    "publisher": "Acta Theologica 34, Supplementum 19",
+    "year": 2014,
+    "location": "Full article: sections on other biblical texts, gender, social implications and history of interpretation",
+    "url": "https://scielo.org.za/scielo.php?pid=S1015-87582014000200006&script=sci_arttext",
+    "accessScope": "full-text",
+    "note": "Surveys divergent scholarship on spiritual unity and the question of social or ecclesial equality; avoids imposing one conclusion on Galatians 3:28."
+  },
+  {
+    "id": "collins-2010-pastorals",
+    "type": "scholarly-overview",
+    "author": "Raymond F. Collins",
+    "title": "Pastorals",
+    "publisher": "Oxford Bibliographies in Biblical Studies",
+    "year": 2010,
+    "location": "Publisher introduction/extract only: history of authenticity debate and critical authorship consensus",
+    "url": "https://doi.org/10.1093/obo/9780195393361-0089",
+    "accessScope": "publisher-abstract-only",
+    "note": "Only the accessible Oxford introduction inspected. It documents dispute and critical skepticism about Pastoral authorship; the full bibliography was not accessed."
+  },
+  {
+    "id": "bfc-2023-1tim2",
+    "type": "denominational-report",
+    "author": "Bible Fellowship Church Study Committee",
+    "title": "Report of the Study Committee on the Role of Women in the Church, 1 Timothy 2:12 — Majority",
+    "publisher": "Bible Fellowship Church Historical Society",
+    "year": 2023,
+    "location": "Full publicly accessible majority report, especially creation-order reasoning and elder-specific teaching restrictions",
+    "url": "https://bfchistory.org/conference/study-committee-papers/role-of-women-in-the-church-1-timothy-212-majority-2023/",
+    "accessScope": "full-text",
+    "note": "Explicitly confessional/denominational complementarian argument, not an independent academic consensus. Included as a substantial restriction-oriented counterreading."
+  },
+  {
+    "id": "baum-2014-cor14",
+    "type": "peer-reviewed-article",
+    "author": "Armin D. Baum",
+    "title": "Paul's Conflicting Statements on Female Public Speaking (1 Cor. 11:5) and Silence (1 Cor. 14:34-35): A New Suggestion",
+    "publisher": "Tyndale Bulletin 65(2), 247–274",
+    "year": 2014,
+    "location": "Publisher summary and bibliographic record only",
+    "url": "https://doi.org/10.53751/001c.29377",
+    "accessScope": "publisher-abstract-only",
+    "note": "A contextual reconciliation proposal; full argument not independently inspected, and this source should not be cited for claims about unseen pages."
   }
 ]

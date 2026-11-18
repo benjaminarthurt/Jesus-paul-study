@@ -11,15 +11,42 @@
     "status": "draft"
   },
   {
+    "id": "1co-11-02-16",
+    "bookId": "1co",
+    "reference": "1 Corinthians 11:2–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul addresses head coverings and relations between women and men, explicitly assuming women pray and prophesy in the passage.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-14-26-40",
+    "bookId": "1co",
+    "reference": "1 Corinthians 14:26–40",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul regulates orderly contributions and prophetic speech in the assembly; the contested instruction to women in verses 34–35 appears within this broader passage.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+  },
+  {
     "id": "1co-14-34-35",
     "bookId": "1co",
     "reference": "1 Corinthians 14:34–35",
     "sourceLayer": "paul-undisputed",
-    "summary": "Text imposes restrictions on women's speech in assembly; its transmission and placement are debated.",
+    "summary": "In the transmitted text, two verses demand silence of women in assemblies; some manuscript witnesses move them after verse 40 and scholars debate originality and scope.",
     "topics": [
       "women-authority"
     ],
-    "status": "draft"
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm",
+    "textualStatus": "transposed-in-some-manuscripts",
+    "textualNote": "In several Western witnesses vv.34–35 occur after v.40, rather than following v.33. All presently known continuous manuscript witnesses preserve the verses somewhere; non-Pauline interpolation and quotation/refutation remain disputed hypotheses. Requires critical-apparatus review."
   },
   {
     "id": "1co-16-01-04",
@@ -34,15 +61,40 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
   },
   {
+    "id": "1co-16-19-19",
+    "bookId": "1co",
+    "reference": "1 Corinthians 16:19",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul conveys greetings from Aquila and Prisca and the assembly in their house, without enumerating modern church offices.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
     "id": "1ti-02-08-15",
     "bookId": "1ti",
     "reference": "1 Timothy 2:8–15",
     "sourceLayer": "paul-disputed",
-    "summary": "Passage places limits on women's teaching and authority, with disputed authorship and interpretation.",
+    "summary": "A letter of disputed Pauline authorship restricts women's teaching and exercise of authority over men, while referencing creation and childbirth; the scope and key Greek terms are debated.",
     "topics": [
       "women-authority"
     ],
-    "status": "draft"
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm"
+  },
+  {
+    "id": "1ti-03-01-13",
+    "bookId": "1ti",
+    "reference": "1 Timothy 3:1–13",
+    "sourceLayer": "paul-disputed",
+    "summary": "The disputed Pauline letter outlines overseer and deacon qualifications; interpretation of gendered terms and the women of verse 11 is debated.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
   },
   {
     "id": "1ti-06-06-19",
@@ -105,6 +157,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ACT15.htm"
   },
   {
+    "id": "ac-18-24-26",
+    "bookId": "ac",
+    "reference": "Acts 18:24–26",
+    "sourceLayer": "acts",
+    "summary": "Acts portrays Priscilla and Aquila explaining the way of God more accurately to Apollos; Acts is narrative context, not Paul's own account.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ACT18.htm"
+  },
+  {
     "id": "ga-02-01-10",
     "bookId": "ga",
     "reference": "Galatians 2:1–10",
@@ -153,6 +217,18 @@
     "status": "draft"
   },
   {
+    "id": "ga-03-26-29",
+    "bookId": "ga",
+    "reference": "Galatians 3:26–29",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul identifies baptized believers as one in Christ across Jewish/Gentile, slave/free and male/female distinctions; effects on specific offices remain contested.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+  },
+  {
     "id": "ga-05-02-06",
     "bookId": "ga",
     "reference": "Galatians 5:2–6",
@@ -177,6 +253,30 @@
     "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
   },
   {
+    "id": "jn-04-07-42",
+    "bookId": "jn",
+    "reference": "John 4:7–42",
+    "sourceLayer": "jesus-john",
+    "summary": "Jesus converses with a Samaritan woman, whose later testimony brings people in her town to consider him; the text does not name a formal church office.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-20-11-18",
+    "bookId": "jn",
+    "reference": "John 20:11–18",
+    "sourceLayer": "jesus-john",
+    "summary": "The risen Jesus addresses Mary Magdalene and commissions her to inform the disciples; a narrated commission does not itself settle all later institutional roles.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm"
+  },
+  {
     "id": "lk-06-20-26",
     "bookId": "lk",
     "reference": "Luke 6:20–26",
@@ -193,11 +293,24 @@
     "bookId": "lk",
     "reference": "Luke 8:1–3",
     "sourceLayer": "jesus-synoptic",
-    "summary": "Women are named as accompanying and supporting Jesus' ministry.",
+    "summary": "Luke names Mary Magdalene, Joanna, Susanna and other women accompanying and materially supporting Jesus' mission; narrated participation is not a direct speech transcript.",
     "topics": [
       "women-authority"
     ],
-    "status": "draft"
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-10-38-42",
+    "bookId": "lk",
+    "reference": "Luke 10:38–42",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Luke presents Mary learning at Jesus' feet while Martha is occupied with hospitality; the passage should not be assumed to define a later church office.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
   },
   {
     "id": "lk-12-13-21",
@@ -270,6 +383,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-24-01-11",
+    "bookId": "lk",
+    "reference": "Luke 24:1–11",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Women report the empty tomb and angelic message to the apostles, whose initial reaction is disbelief; this is narrated witness rather than an ordination formula.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK24.htm"
   },
   {
     "id": "mk-01-01-13",
@@ -1538,6 +1663,30 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT25.htm"
   },
   {
+    "id": "mt-28-01-10",
+    "bookId": "mt",
+    "reference": "Matthew 28:1–10",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Women receive an announcement at the tomb and meet the risen Jesus, who tells them to convey a message to the brothers.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT28.htm"
+  },
+  {
+    "id": "php-04-02-03",
+    "bookId": "php",
+    "reference": "Philippians 4:2–3",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul urges reconciliation between Euodia and Syntyche, whom he describes as having struggled alongside him in the gospel.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
     "id": "ro-03-28-31",
     "bookId": "ro",
     "reference": "Romans 3:28–31",
@@ -1633,14 +1782,51 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
   },
   {
+    "id": "ro-16-01-02",
+    "bookId": "ro",
+    "reference": "Romans 16:1–2",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul commends Phoebe as a diakonos linked to the Cenchreae assembly and a prostatis to many; the scope of these terms is debated.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm"
+  },
+  {
     "id": "ro-16-01-16",
     "bookId": "ro",
     "reference": "Romans 16:1–16",
     "sourceLayer": "paul-undisputed",
-    "summary": "Paul commends women and men among his coworkers and networks.",
+    "summary": "Paul publicly recognizes Phoebe, Prisca, Junia and other women as servants, coworkers, laborers or notable persons within early Christian networks; individual role terms are disputed.",
     "topics": [
       "women-authority"
     ],
-    "status": "draft"
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm"
+  },
+  {
+    "id": "ro-16-03-07",
+    "bookId": "ro",
+    "reference": "Romans 16:3–7",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul greets Prisca, Aquila, Mary, and Junia alongside others; Junia's relation to the apostles and the significance of the role terms are debated.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm"
+  },
+  {
+    "id": "tit-02-03-05",
+    "bookId": "tit",
+    "reference": "Titus 2:3–5",
+    "sourceLayer": "paul-disputed",
+    "summary": "A letter of disputed Pauline authorship instructs older women to teach what is good to younger women within a domestic-ethical framework.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
   }
 ]
