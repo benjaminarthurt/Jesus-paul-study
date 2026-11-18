@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { JOHN_CHAPTER_LAST_VERSE, isValidJohnSpan } from "../scripts/john-verses.mjs";
 import { parseFrontmatter } from "../scripts/frontmatter.mjs";
+import { literaryUnitLabel } from "../src/lib/literary-unit-label.mjs";
 
 const read=path=>JSON.parse(readFileSync(path,"utf8"));
 const passages=read("research/index/passages.json");
@@ -127,4 +128,13 @@ test("John is exposed in all four Gospel book and teaching navigation",()=>{
   assert.ok(browser.includes("data-book={s.bookId}"));
   assert.ok(detail.includes('jn:"JHN"'));
   assert.ok(home.includes("Matthew, Mark, Luke, and John"));
+});
+
+test("Disputed John story labels differ from Mark's disputed ending",()=>{
+  const book=readFileSync("src/pages/books/[slug].astro","utf8");
+  assert.ok(book.includes("literaryUnitLabel(ref.unitType, ref.id)"));
+  assert.equal(literaryUnitLabel("disputed","jn-07-53-53"),"Disputed passage");
+  assert.equal(literaryUnitLabel("disputed","jn-08-01-11"),"Disputed passage");
+  assert.equal(literaryUnitLabel("disputed","mk-16-09-20"),"Disputed ending");
+  assert.equal(literaryUnitLabel("dialogue","jn-04-07-42"),"Encounter / dialogue");
 });

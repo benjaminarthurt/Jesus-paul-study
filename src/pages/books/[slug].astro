@@ -3,6 +3,7 @@ import Base from "../../layouts/Base.astro";
 import books from "../../../research/index/books.json";
 import passages from "../../../research/index/passages.json";
 import sayings from "../../../research/index/sayings.json";
+import { literaryUnitLabel } from "../../lib/literary-unit-label.mjs";
 export function getStaticPaths() {
   return books.map(book => ({ params: { slug: book.id }, props: { book } }));
 }
@@ -22,17 +23,7 @@ const visible = (mark ? refs.filter(ref => !("unitType" in ref && ref.unitType =
 const groups = pilot
   ? Array.from({length:chapterCount},(_,i)=>({chapter:i+1,records:visible.filter(ref=>chapterOf(ref)===i+1)}))
   : [];
-const kindLabels: Record<string,string> = {
-  speech: "Recorded speech",
-  dialogue: "Encounter / dialogue",
-  parable: "Parable",
-  action: "Narrated action",
-  context: "Context / narrative",
-  prayer: "Prayer in context",
-  illustration: "Teaching illustration",
-  disputed: "Disputed ending",
-  composite: "Composite reference"
-};
+
 ---
 <Base title={book.title}>
   <p class="eyebrow">Biblical book index</p>
@@ -52,7 +43,7 @@ const kindLabels: Record<string,string> = {
       {group.records.map(ref=><article class="reference unit" id={ref.id}>
         <div class="meta">
           <strong>{ref.reference}</strong>
-          {"unitType" in ref && ref.unitType && <span class="unit-label" data-kind={ref.unitType}>{kindLabels[ref.unitType] || ref.unitType}</span>}
+          {"unitType" in ref && ref.unitType && <span class="unit-label" data-kind={ref.unitType}>{literaryUnitLabel(ref.unitType, ref.id)}</span>}
           <span class="status" data-state={ref.status}>{ref.status}</span>
         </div>
         {"title" in ref && ref.title && <h3>{ref.title}</h3>}
