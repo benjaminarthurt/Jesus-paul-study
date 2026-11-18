@@ -255,6 +255,200 @@
     "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
   },
   {
+    "id": "jn-01-01-18",
+    "bookId": "jn",
+    "reference": "John 1:1–18",
+    "sourceLayer": "jesus-john",
+    "title": "The Word and the prologue",
+    "summary": "The evangelist introduces the Word, creation, life and the Word becoming flesh; these are narrator claims, not speeches by Jesus.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm",
+    "textualStatus": "variant-prologue-1-18",
+    "textualNote": "John 1:18 has significant Greek textual alternatives concerning how the Son is designated (often rendered 'only God' or 'only Son'); the prologue is the narrator's claim and requires apparatus-level review."
+  },
+  {
+    "id": "jn-01-19-28",
+    "bookId": "jn",
+    "reference": "John 1:19–28",
+    "sourceLayer": "jesus-john",
+    "title": "John the Baptist questioned",
+    "summary": "Priests and Levites question John the Baptist about his identity and mission; his answers are not words of Jesus.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-01-29-34",
+    "bookId": "jn",
+    "reference": "John 1:29–34",
+    "sourceLayer": "jesus-john",
+    "title": "John the Baptist identifies Jesus",
+    "summary": "John the Baptist testifies about Jesus and the Spirit; the narrator attributes these claims to John.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-01-35-42",
+    "bookId": "jn",
+    "reference": "John 1:35–42",
+    "sourceLayer": "jesus-john",
+    "title": "First disciples follow",
+    "summary": "Jesus meets two followers of John, and Andrew brings Simon to him.",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-01-43-51",
+    "bookId": "jn",
+    "reference": "John 1:43–51",
+    "sourceLayer": "jesus-john",
+    "title": "Philip and Nathanael",
+    "summary": "Jesus calls Philip, speaks with Nathanael and promises a vision concerning the Son of Man.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-02-01-12",
+    "bookId": "jn",
+    "reference": "John 2:1–12",
+    "sourceLayer": "jesus-john",
+    "title": "Water turned to wine at Cana",
+    "summary": "At a wedding, Jesus responds to his mother and a shortage of wine with the first sign in John's narrative.",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN02.htm"
+  },
+  {
+    "id": "jn-02-13-22",
+    "bookId": "jn",
+    "reference": "John 2:13–22",
+    "sourceLayer": "jesus-john",
+    "title": "Temple action and body-temple saying",
+    "summary": "Jesus challenges commerce in the temple and speaks of raising the temple; the narrator interprets the reference as his body.",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN02.htm"
+  },
+  {
+    "id": "jn-02-23-25",
+    "bookId": "jn",
+    "reference": "John 2:23–25",
+    "sourceLayer": "jesus-john",
+    "title": "Signs and guarded trust",
+    "summary": "The narrator reports public responses to signs and Jesus' reluctance to entrust himself to others.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN02.htm"
+  },
+  {
+    "id": "jn-03-01-15",
+    "bookId": "jn",
+    "reference": "John 3:1–15",
+    "sourceLayer": "jesus-john",
+    "title": "Nicodemus and new birth",
+    "summary": "Jesus speaks with Nicodemus about being born from above, the Spirit and the Son of Man.",
+    "topics": [
+      "kingdom",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN03.htm"
+  },
+  {
+    "id": "jn-03-16-21",
+    "bookId": "jn",
+    "reference": "John 3:16–21",
+    "sourceLayer": "jesus-john",
+    "title": "God's love, light and judgment",
+    "summary": "This theological passage develops themes of God's love and belief; the boundary between Jesus' speech and narrator comment is disputed.",
+    "topics": [
+      "identity-resurrection",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
+    "textualStatus": "uncertain-speech-boundary",
+    "textualNote": "John 3:16–21 has no ancient quotation marks. Scholars differ whether this is Jesus speaking to Nicodemus or the evangelist's theological commentary. It is not included in the core sayings index as certain Jesus speech."
+  },
+  {
+    "id": "jn-03-22-30",
+    "bookId": "jn",
+    "reference": "John 3:22–30",
+    "sourceLayer": "jesus-john",
+    "title": "John the Baptist's final witness",
+    "summary": "John the Baptist replies to concerns about Jesus' following and speaks of his own subordinate role.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN03.htm"
+  },
+  {
+    "id": "jn-03-31-36",
+    "bookId": "jn",
+    "reference": "John 3:31–36",
+    "sourceLayer": "jesus-john",
+    "title": "Testimony about the one from above",
+    "summary": "A theological testimony about the Son and divine authority has an uncertain speaker boundary, possibly John the Baptist or the narrator.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
+    "textualStatus": "uncertain-speaker-boundary",
+    "textualNote": "The speaker of John 3:31–36 is uncertain: John the Baptist may continue from 3:27–30, or the evangelist may be commenting. Neither possibility makes it an unambiguous Jesus saying."
+  },
+  {
+    "id": "jn-04-01-06",
+    "bookId": "jn",
+    "reference": "John 4:1–6",
+    "sourceLayer": "jesus-john",
+    "title": "Travel and the well at Sychar",
+    "summary": "Jesus travels through Samaria and rests at Jacob's well before the conversation begins.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
     "id": "jn-04-07-42",
     "bookId": "jn",
     "reference": "John 4:7–42",
@@ -264,7 +458,997 @@
       "women-authority"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm",
+    "unitType": "dialogue",
+    "title": "Jesus and the Samaritan woman"
+  },
+  {
+    "id": "jn-04-43-45",
+    "bookId": "jn",
+    "reference": "John 4:43–45",
+    "sourceLayer": "jesus-john",
+    "title": "Return to Galilee",
+    "summary": "Jesus continues to Galilee and is received after events witnessed in Jerusalem.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
     "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-04-46-54",
+    "bookId": "jn",
+    "reference": "John 4:46–54",
+    "sourceLayer": "jesus-john",
+    "title": "Healing an official's son",
+    "summary": "Jesus responds to an official's plea for his child and speaks about belief before a healing.",
+    "topics": [
+      "healing",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-05-01-15",
+    "bookId": "jn",
+    "reference": "John 5:1–15",
+    "sourceLayer": "jesus-john",
+    "title": "Healing at the pool of Bethesda",
+    "summary": "Jesus heals a man by a pool; John 5:3b–4 includes a disputed explanation about an angel stirring the water.",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm",
+    "textualStatus": "disputed-5-3b-4",
+    "textualNote": "John 5:3b–4, the explanation about an angel stirring the water, is absent from several early witnesses and considered a later expansion by many editors. This range remains numbered for edition compatibility, not as a verified original passage."
+  },
+  {
+    "id": "jn-05-16-18",
+    "bookId": "jn",
+    "reference": "John 5:16–18",
+    "sourceLayer": "jesus-john",
+    "title": "Opposition over Sabbath and the Father",
+    "summary": "The narrator describes conflict about Sabbath healing and Jesus' relation to the Father.",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-05-19-30",
+    "bookId": "jn",
+    "reference": "John 5:19–30",
+    "sourceLayer": "jesus-john",
+    "title": "The Son's life and judgment",
+    "summary": "Jesus explains his dependence on the Father, the giving of life, resurrection and judgment.",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-05-31-47",
+    "bookId": "jn",
+    "reference": "John 5:31–47",
+    "sourceLayer": "jesus-john",
+    "title": "Witnesses to the Son",
+    "summary": "Jesus appeals to testimony, works, Scripture and Moses while challenging opponents' failure to believe.",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-06-01-15",
+    "bookId": "jn",
+    "reference": "John 6:1–15",
+    "sourceLayer": "jesus-john",
+    "title": "Feeding a large crowd",
+    "summary": "Jesus distributes bread and fish and withdraws after the crowd seeks to make him king.",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-06-16-21",
+    "bookId": "jn",
+    "reference": "John 6:16–21",
+    "sourceLayer": "jesus-john",
+    "title": "Jesus approaches across the water",
+    "summary": "The disciples encounter Jesus walking on the sea and hear his reassurance.",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-06-22-29",
+    "bookId": "jn",
+    "reference": "John 6:22–29",
+    "sourceLayer": "jesus-john",
+    "title": "Work for lasting food",
+    "summary": "Jesus redirects seekers from perishable bread toward trust in the one God has sent.",
+    "topics": [
+      "discipleship",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-06-30-40",
+    "bookId": "jn",
+    "reference": "John 6:30–40",
+    "sourceLayer": "jesus-john",
+    "title": "Bread from heaven",
+    "summary": "Jesus speaks of bread from heaven and identifies himself as the bread of life.",
+    "topics": [
+      "identity-resurrection",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-06-41-51",
+    "bookId": "jn",
+    "reference": "John 6:41–51",
+    "sourceLayer": "jesus-john",
+    "title": "The living bread",
+    "summary": "Jesus responds to complaints about his origins and deepens the bread-from-heaven imagery.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-06-52-59",
+    "bookId": "jn",
+    "reference": "John 6:52–59",
+    "sourceLayer": "jesus-john",
+    "title": "Flesh, blood and life",
+    "summary": "Jesus uses difficult language about his flesh, blood and life that has received varied sacramental and metaphorical interpretations.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-06-60-66",
+    "bookId": "jn",
+    "reference": "John 6:60–66",
+    "sourceLayer": "jesus-john",
+    "title": "Disciples dispute the hard teaching",
+    "summary": "Followers call the teaching difficult, and some leave; Jesus speaks of Spirit and life.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-06-67-71",
+    "bookId": "jn",
+    "reference": "John 6:67–71",
+    "sourceLayer": "jesus-john",
+    "title": "The Twelve and a confession",
+    "summary": "Jesus questions the Twelve, Peter confesses faith and the narrator comments about Judas.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-07-01-13",
+    "bookId": "jn",
+    "reference": "John 7:1–13",
+    "sourceLayer": "jesus-john",
+    "title": "Brothers and the festival journey",
+    "summary": "Jesus discusses the festival with his brothers and travels privately amid divided opinion.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-07-14-24",
+    "bookId": "jn",
+    "reference": "John 7:14–24",
+    "sourceLayer": "jesus-john",
+    "title": "Teaching and judgment at the festival",
+    "summary": "Jesus teaches publicly and contests claims about Sabbath observance and just judgment.",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-07-25-31",
+    "bookId": "jn",
+    "reference": "John 7:25–31",
+    "sourceLayer": "jesus-john",
+    "title": "Debate about Jesus' origin",
+    "summary": "People debate Jesus' origin and identity while he speaks in the temple.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-07-32-36",
+    "bookId": "jn",
+    "reference": "John 7:32–36",
+    "sourceLayer": "jesus-john",
+    "title": "Arrest attempt and departure language",
+    "summary": "Authorities seek Jesus while he speaks of going where others cannot follow.",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-07-37-39",
+    "bookId": "jn",
+    "reference": "John 7:37–39",
+    "sourceLayer": "jesus-john",
+    "title": "Living water during the festival",
+    "summary": "Jesus calls the thirsty to come, and the narrator explains the reference to the Spirit.",
+    "topics": [
+      "identity-resurrection",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-07-40-52",
+    "bookId": "jn",
+    "reference": "John 7:40–52",
+    "sourceLayer": "jesus-john",
+    "title": "Division over identity and origins",
+    "summary": "Crowds and leaders dispute claims about Jesus; Nicodemus questions procedural fairness.",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-07-53-53",
+    "bookId": "jn",
+    "reference": "John 7:53–53",
+    "sourceLayer": "jesus-john",
+    "title": "Disputed transition to the adulterous-woman story",
+    "summary": "John 7:53 starts a story continuing at 8:1–11 that is absent from many early Greek witnesses and appears elsewhere in some later manuscripts.",
+    "topics": [
+      "mosaic-law",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "disputed",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+    "textualStatus": "disputed-pericope-adulterae",
+    "textualNote": "John 7:53 belongs to a continuous traditional episode through John 8:11. The passage is absent from the earliest major Greek witnesses and appears in differing manuscript locations. This is marked disputed rather than quoted as uncontested teaching."
+  },
+  {
+    "id": "jn-08-01-11",
+    "bookId": "jn",
+    "reference": "John 8:1–11",
+    "sourceLayer": "jesus-john",
+    "title": "Adulterous-woman episode — disputed placement",
+    "summary": "A traditional account depicts Jesus responding to accusers and a woman charged with adultery; its place in the earliest text of John is highly disputed.",
+    "topics": [
+      "mosaic-law",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "disputed",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm",
+    "textualStatus": "disputed-pericope-adulterae",
+    "textualNote": "The account of the woman accused of adultery (John 7:53–8:11) is absent from important early Greek manuscripts and appears elsewhere in some witnesses. It may be early tradition but its place in original John is strongly disputed; no saying from this unit is indexed as secure Johannine Jesus speech."
+  },
+  {
+    "id": "jn-08-12-20",
+    "bookId": "jn",
+    "reference": "John 8:12–20",
+    "sourceLayer": "jesus-john",
+    "title": "Light of the world and testimony",
+    "summary": "Jesus declares himself the light of the world and disputes questions about his testimony.",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-08-21-30",
+    "bookId": "jn",
+    "reference": "John 8:21–30",
+    "sourceLayer": "jesus-john",
+    "title": "Identity and the one who sent him",
+    "summary": "Jesus warns opponents about failing to recognize his identity and speaks about being lifted up.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-08-31-47",
+    "bookId": "jn",
+    "reference": "John 8:31–47",
+    "sourceLayer": "jesus-john",
+    "title": "Truth, freedom and Abraham",
+    "summary": "Jesus argues with interlocutors about freedom, descent from Abraham and listening to God.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-08-48-59",
+    "bookId": "jn",
+    "reference": "John 8:48–59",
+    "sourceLayer": "jesus-john",
+    "title": "Before Abraham and the identity claim",
+    "summary": "Jesus disputes accusations and declares a relationship to Abraham that provokes an attempt to stone him.",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-09-01-12",
+    "bookId": "jn",
+    "reference": "John 9:1–12",
+    "sourceLayer": "jesus-john",
+    "title": "Healing a man born blind",
+    "summary": "Jesus heals a man born blind and rejects a simple blame assignment for his condition.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN09.htm"
+  },
+  {
+    "id": "jn-09-13-34",
+    "bookId": "jn",
+    "reference": "John 9:13–34",
+    "sourceLayer": "jesus-john",
+    "title": "Inquiry into the healing",
+    "summary": "Religious investigators question the healed man and his family; Jesus is largely absent from the dialogue.",
+    "topics": [
+      "healing",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN09.htm"
+  },
+  {
+    "id": "jn-09-35-41",
+    "bookId": "jn",
+    "reference": "John 9:35–41",
+    "sourceLayer": "jesus-john",
+    "title": "Belief and spiritual blindness",
+    "summary": "Jesus meets the man again and speaks of sight, judgment and blindness.",
+    "topics": [
+      "identity-resurrection",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN09.htm",
+    "textualStatus": "variant-son-of-man-or-god",
+    "textualNote": "John 9:35 differs among manuscripts between 'Son of Man' and 'Son of God'. The identity title should not be treated as textually unanimous."
+  },
+  {
+    "id": "jn-10-01-10",
+    "bookId": "jn",
+    "reference": "John 10:1–10",
+    "sourceLayer": "jesus-john",
+    "title": "The gate and the sheep",
+    "summary": "Jesus uses images of a shepherd, a gate and sheep recognizing a voice.",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-10-11-21",
+    "bookId": "jn",
+    "reference": "John 10:11–21",
+    "sourceLayer": "jesus-john",
+    "title": "The good shepherd",
+    "summary": "Jesus contrasts his care for the sheep with hired hands and speaks of a wider flock.",
+    "topics": [
+      "leadership",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-10-22-30",
+    "bookId": "jn",
+    "reference": "John 10:22–30",
+    "sourceLayer": "jesus-john",
+    "title": "The sheep, the Father and the Son",
+    "summary": "Jesus speaks of his sheep hearing his voice and of his relationship with the Father.",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-10-31-42",
+    "bookId": "jn",
+    "reference": "John 10:31–42",
+    "sourceLayer": "jesus-john",
+    "title": "Stones, Scripture and testimony",
+    "summary": "Jesus responds to accusations about his identity through Scripture and his works, then withdraws.",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-11-01-16",
+    "bookId": "jn",
+    "reference": "John 11:1–16",
+    "sourceLayer": "jesus-john",
+    "title": "Lazarus' illness and delayed journey",
+    "summary": "Jesus hears of Lazarus' illness, waits before traveling and tells disciples about the coming event.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-11-17-27",
+    "bookId": "jn",
+    "reference": "John 11:17–27",
+    "sourceLayer": "jesus-john",
+    "title": "Martha and resurrection",
+    "summary": "Jesus speaks with Martha about resurrection and life, and she confesses belief.",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-11-28-37",
+    "bookId": "jn",
+    "reference": "John 11:28–37",
+    "sourceLayer": "jesus-john",
+    "title": "Mary's grief and Jesus' tears",
+    "summary": "Mary meets Jesus amid grief, and the narrator describes his emotional response.",
+    "topics": [
+      "women-authority",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-11-38-44",
+    "bookId": "jn",
+    "reference": "John 11:38–44",
+    "sourceLayer": "jesus-john",
+    "title": "Lazarus raised",
+    "summary": "Jesus prays and calls Lazarus from the tomb in a sign that draws witnesses.",
+    "topics": [
+      "identity-resurrection",
+      "prayer"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-11-45-57",
+    "bookId": "jn",
+    "reference": "John 11:45–57",
+    "sourceLayer": "jesus-john",
+    "title": "Council plans Jesus' death",
+    "summary": "Leaders react to the sign, and the narrator reports a plan to kill Jesus.",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-12-01-11",
+    "bookId": "jn",
+    "reference": "John 12:1–11",
+    "sourceLayer": "jesus-john",
+    "title": "Anointing at Bethany",
+    "summary": "Mary anoints Jesus at a meal, and Jesus responds to criticism about the cost of the perfume.",
+    "topics": [
+      "women-authority",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-12-12-19",
+    "bookId": "jn",
+    "reference": "John 12:12–19",
+    "sourceLayer": "jesus-john",
+    "title": "Entry into Jerusalem",
+    "summary": "Crowds greet Jesus, and the narrator depicts authorities' reactions.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-12-20-26",
+    "bookId": "jn",
+    "reference": "John 12:20–26",
+    "sourceLayer": "jesus-john",
+    "title": "Grain of wheat and service",
+    "summary": "Jesus uses a dying grain of wheat to speak of his death and the demands of following.",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-12-27-36",
+    "bookId": "jn",
+    "reference": "John 12:27–36",
+    "sourceLayer": "jesus-john",
+    "title": "Troubled soul and the light",
+    "summary": "Jesus addresses the coming hour, judgment, drawing people and walking while light remains.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-12-37-43",
+    "bookId": "jn",
+    "reference": "John 12:37–43",
+    "sourceLayer": "jesus-john",
+    "title": "Narrator explains unbelief",
+    "summary": "The evangelist interprets public response using Isaiah and notes fears of social exclusion.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-12-44-50",
+    "bookId": "jn",
+    "reference": "John 12:44–50",
+    "sourceLayer": "jesus-john",
+    "title": "Public declaration about belief and judgment",
+    "summary": "Jesus summarizes belief in the one who sent him and the relation of his words to judgment.",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-13-01-17",
+    "bookId": "jn",
+    "reference": "John 13:1–17",
+    "sourceLayer": "jesus-john",
+    "title": "Footwashing as enacted example",
+    "summary": "Jesus washes his followers' feet and directs them to follow the example of service.",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-13-18-30",
+    "bookId": "jn",
+    "reference": "John 13:18–30",
+    "sourceLayer": "jesus-john",
+    "title": "Disclosure of betrayal",
+    "summary": "Jesus alludes to Scripture and identifies a betrayer in a shared meal.",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-13-31-38",
+    "bookId": "jn",
+    "reference": "John 13:31–38",
+    "sourceLayer": "jesus-john",
+    "title": "The new command and Peter's prediction",
+    "summary": "Jesus commands mutual love and predicts Peter's denial.",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-14-01-14",
+    "bookId": "jn",
+    "reference": "John 14:1–14",
+    "sourceLayer": "jesus-john",
+    "title": "The way, the Father and the works",
+    "summary": "Jesus comforts followers, speaks of the Father's house and calls himself the way, truth and life.",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm"
+  },
+  {
+    "id": "jn-14-15-24",
+    "bookId": "jn",
+    "reference": "John 14:15–24",
+    "sourceLayer": "jesus-john",
+    "title": "Love, commandments and the Advocate",
+    "summary": "Jesus links love for him with keeping his commands and promises another Advocate.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm"
+  },
+  {
+    "id": "jn-14-25-31",
+    "bookId": "jn",
+    "reference": "John 14:25–31",
+    "sourceLayer": "jesus-john",
+    "title": "Peace and the Spirit's teaching",
+    "summary": "Jesus speaks of the Spirit's teaching, leaves peace and announces an impending departure.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm"
+  },
+  {
+    "id": "jn-15-01-17",
+    "bookId": "jn",
+    "reference": "John 15:1–17",
+    "sourceLayer": "jesus-john",
+    "title": "The vine and abiding in love",
+    "summary": "Jesus uses the vine-and-branches image and commands followers to love one another.",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN15.htm"
+  },
+  {
+    "id": "jn-15-18-27",
+    "bookId": "jn",
+    "reference": "John 15:18–27",
+    "sourceLayer": "jesus-john",
+    "title": "Hostility from the world",
+    "summary": "Jesus warns of opposition and promises that the Advocate and disciples will testify.",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN15.htm"
+  },
+  {
+    "id": "jn-16-01-15",
+    "bookId": "jn",
+    "reference": "John 16:1–15",
+    "sourceLayer": "jesus-john",
+    "title": "Exclusion and the Spirit of truth",
+    "summary": "Jesus warns of persecution and describes the Advocate's work after his departure.",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN16.htm"
+  },
+  {
+    "id": "jn-16-16-24",
+    "bookId": "jn",
+    "reference": "John 16:16–24",
+    "sourceLayer": "jesus-john",
+    "title": "Sorrow transformed to joy",
+    "summary": "Jesus answers confusion about his departure through a birth-pain comparison.",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN16.htm"
+  },
+  {
+    "id": "jn-16-25-33",
+    "bookId": "jn",
+    "reference": "John 16:25–33",
+    "sourceLayer": "jesus-john",
+    "title": "Prayer, directness and peace",
+    "summary": "Jesus speaks about the Father, foretells desertion and calls followers to courage.",
+    "topics": [
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/JHN16.htm"
+  },
+  {
+    "id": "jn-17-01-05",
+    "bookId": "jn",
+    "reference": "John 17:1–5",
+    "sourceLayer": "jesus-john",
+    "title": "Jesus prays about glory",
+    "summary": "Jesus addresses the Father about his work and glory before the world existed.",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/JHN17.htm"
+  },
+  {
+    "id": "jn-17-06-19",
+    "bookId": "jn",
+    "reference": "John 17:6–19",
+    "sourceLayer": "jesus-john",
+    "title": "Jesus prays for the disciples",
+    "summary": "Jesus prays for the followers entrusted to him and asks that they be kept in truth.",
+    "topics": [
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/JHN17.htm"
+  },
+  {
+    "id": "jn-17-20-26",
+    "bookId": "jn",
+    "reference": "John 17:20–26",
+    "sourceLayer": "jesus-john",
+    "title": "Jesus prays for future believers",
+    "summary": "Jesus asks for unity among those who will believe through the disciples' witness.",
+    "topics": [
+      "prayer",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/JHN17.htm"
+  },
+  {
+    "id": "jn-18-01-11",
+    "bookId": "jn",
+    "reference": "John 18:1–11",
+    "sourceLayer": "jesus-john",
+    "title": "Arrest in the garden",
+    "summary": "An armed party arrests Jesus as he identifies himself and protects his followers.",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
+  },
+  {
+    "id": "jn-18-12-27",
+    "bookId": "jn",
+    "reference": "John 18:12–27",
+    "sourceLayer": "jesus-john",
+    "title": "Questions and Peter's denials",
+    "summary": "Jesus faces questioning while Peter denies association with him; the narrated voices are distinct.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
+  },
+  {
+    "id": "jn-18-28-40",
+    "bookId": "jn",
+    "reference": "John 18:28–40",
+    "sourceLayer": "jesus-john",
+    "title": "Pilate and the kingdom claim",
+    "summary": "Jesus answers Pilate about kingship, truth and the origin of his kingdom.",
+    "topics": [
+      "kingdom",
+      "authority",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
+  },
+  {
+    "id": "jn-19-01-16",
+    "bookId": "jn",
+    "reference": "John 19:1–16",
+    "sourceLayer": "jesus-john",
+    "title": "Pilate's sentence and the claim of authority",
+    "summary": "Jesus is mocked and sentenced while he responds to Pilate's assertion of power.",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN19.htm"
+  },
+  {
+    "id": "jn-19-17-27",
+    "bookId": "jn",
+    "reference": "John 19:17–27",
+    "sourceLayer": "jesus-john",
+    "title": "Crucifixion and care for his mother",
+    "summary": "The narrative describes the crucifixion and Jesus' instruction involving his mother and a disciple.",
+    "topics": [
+      "suffering",
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN19.htm"
+  },
+  {
+    "id": "jn-19-28-37",
+    "bookId": "jn",
+    "reference": "John 19:28–37",
+    "sourceLayer": "jesus-john",
+    "title": "Death and scriptural interpretation",
+    "summary": "The narrator reports Jesus' death, the piercing of his side and scriptural interpretation.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN19.htm"
+  },
+  {
+    "id": "jn-19-38-42",
+    "bookId": "jn",
+    "reference": "John 19:38–42",
+    "sourceLayer": "jesus-john",
+    "title": "Burial by Joseph and Nicodemus",
+    "summary": "Joseph and Nicodemus bury Jesus according to local custom.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN19.htm"
+  },
+  {
+    "id": "jn-20-01-10",
+    "bookId": "jn",
+    "reference": "John 20:1–10",
+    "sourceLayer": "jesus-john",
+    "title": "The empty tomb and two disciples",
+    "summary": "Mary Magdalene reports the removed stone and two disciples investigate the tomb.",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm"
   },
   {
     "id": "jn-20-11-18",
@@ -276,7 +1460,116 @@
       "women-authority"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+    "unitType": "dialogue",
+    "title": "Mary Magdalene at the tomb"
+  },
+  {
+    "id": "jn-20-19-23",
+    "bookId": "jn",
+    "reference": "John 20:19–23",
+    "sourceLayer": "jesus-john",
+    "title": "Peace, sending and forgiveness",
+    "summary": "The risen Jesus appears to gathered disciples, sends them and speaks of forgiveness and retention of sins.",
+    "topics": [
+      "mission",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+    "textualStatus": "interpretive-forgiveness-context",
+    "textualNote": "John 20:23 requires contextual review when connecting the risen Jesus' words to later institutional authority; the passage's ecclesial application is disputed, even though the warning is interpretive rather than a settled manuscript variant."
+  },
+  {
+    "id": "jn-20-24-29",
+    "bookId": "jn",
+    "reference": "John 20:24–29",
+    "sourceLayer": "jesus-john",
+    "title": "Thomas and the risen Jesus",
+    "summary": "Jesus appears again and answers Thomas' desire for evidence; the narrator records Thomas' response.",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
     "sourceUrl": "https://ebible.org/engwebp/JHN20.htm"
+  },
+  {
+    "id": "jn-20-30-31",
+    "bookId": "jn",
+    "reference": "John 20:30–31",
+    "sourceLayer": "jesus-john",
+    "title": "Narrator's stated purpose",
+    "summary": "The evangelist explains that the account was selected to encourage belief, not to reproduce all signs.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm"
+  },
+  {
+    "id": "jn-21-01-14",
+    "bookId": "jn",
+    "reference": "John 21:1–14",
+    "sourceLayer": "jesus-john",
+    "title": "Appearance and catch of fish",
+    "summary": "The risen Jesus meets followers by the sea, directs a catch and shares a meal.",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm"
+  },
+  {
+    "id": "jn-21-15-19",
+    "bookId": "jn",
+    "reference": "John 21:15–19",
+    "sourceLayer": "jesus-john",
+    "title": "Peter and caring for sheep",
+    "summary": "Jesus asks Peter repeatedly about love and charges him to care for the flock.",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm"
+  },
+  {
+    "id": "jn-21-20-23",
+    "bookId": "jn",
+    "reference": "John 21:20–23",
+    "sourceLayer": "jesus-john",
+    "title": "The beloved disciple and rumors",
+    "summary": "Jesus speaks about another disciple, and the narrator corrects an inference about his death.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm"
+  },
+  {
+    "id": "jn-21-24-25",
+    "bookId": "jn",
+    "reference": "John 21:24–25",
+    "sourceLayer": "jesus-john",
+    "title": "Final testimony and the books not written",
+    "summary": "The Gospel closes with an editorial claim about witness and the many unrecorded acts of Jesus.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm",
+    "textualStatus": "epilogue-editorial-question",
+    "textualNote": "John 21 is a canonical epilogue whose relationship to John 20:30–31 and the Gospel's compositional history is debated. The final narrator statements are not attributed to Jesus as speech."
   },
   {
     "id": "lk-01-01-04",
