@@ -15,7 +15,7 @@ export const corpusLabels = Object.freeze({
 });
 
 export function normalizeQuery(value) {
-  return String(value ?? "").trim().toLocaleLowerCase().replace(/\s+/g, " ");
+  return String(value ?? "").trim().toLocaleLowerCase().replace(/[\u2010-\u2015\u2212]/g, "-").replace(/\s+/g, " ");
 }
 
 export function passageSearchText(passage, bookTitle = "", topicTitles = []) {

@@ -86,3 +86,17 @@ test("static pages protect research cautions and cannot masquerade as full Bible
   assert.ok(layout.includes('rel="canonical"'));
   assert.ok(config.includes("PUBLIC_SITE_URL"));
 });
+
+test("citation range searches normalize ASCII and Unicode dash characters",()=>{
+  const matthew=passages.find(p=>p.id==="mt-05-17-20");
+  const galatians=passages.find(p=>p.id==="ga-03-23-25");
+  assert.ok(matthew && galatians);
+  assert.equal(normalizeQuery("Matthew 5:17–20"),"matthew 5:17-20");
+  assert.equal(normalizeQuery("Matthew 5:17—20"),"matthew 5:17-20");
+  assert.equal(normalizeQuery("Matthew 5:17−20"),"matthew 5:17-20");
+  const card = p => ({search:passageSearchText(p),book:p.bookId,topics:p.topics.join(" "),corpus:p.sourceLayer,status:p.status,variant:"false"});
+  assert.ok(matchesPassage(card(matthew),{query:"Matthew 5:17-20"}));
+  assert.ok(matchesPassage(card(matthew),{query:"Matthew 5:17–20"}));
+  assert.ok(matchesPassage(card(galatians),{query:"Galatians 3:23-25"}));
+  assert.ok(matchesPassage(card(galatians),{query:"Galatians 3:23–25"}));
+});
