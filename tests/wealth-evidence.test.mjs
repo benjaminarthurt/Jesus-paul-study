@@ -71,3 +71,12 @@ test("every new passage uses correct indexed book and primary edition link", () 
     assert.equal(passages.find(p=>p.id===id)?.sourceUrl,`https://ebible.org/engwebp/${chapter}.htm`);
   }
 });
+
+
+test("every wealth comparison passage links to its primary chapter", () => {
+  for (const id of [...study.jesus,...study.paul,...study.context]) {
+    const passage=passages.find(p=>p.id===id);
+    assert.ok(passage,id);
+    assert.match(passage.sourceUrl??"",/^https:\/\/ebible\.org\/engwebp\/[0-9A-Z]+\.htm$/i,id);
+  }
+});
