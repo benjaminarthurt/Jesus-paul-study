@@ -85,3 +85,9 @@ The source catalog also distinguishes a **`denominational-report`** from peer-re
 The `sayings.json` registry accepts `mt-s-CC-VV-VV` and `mk-s-CC-VV-VV` stable IDs, each matched to a parent literary range from the **same book**. New Matthew units follow `mt-CC-VV-VV` and have title, `unitType`, a WEBP chapter URL and editorial summary. The structural validator checks that the 28-chapter Matthew map covers each verse **once**. This is not linguistic extraction or manuscript certification.
 
 The `parallels` array supports Matthew, Mark, Luke and John as **other-Gospel** candidates and rejects within-book self-parallels. `relationship: parallel` means a candidate shared episode or expression; `related` means only a related tradition or teaching. Neither status proves literary dependence, independent attestation, textual identity or a historical reconstruction. Mark's 16:9–20 longer ending remains excluded from core sayings. Read `research/books/matthew.md` for editorial boundaries and limitations.
+
+## Luke literary and speech-bearing extension
+
+Luke units use stable `lk-CC-VV-VV` IDs, and selected sayings use `lk-s-CC-VV-VV` with a required same-Gospel parent, indexed topics, audience and speech type. Luke chapter bounds are maintained in `scripts/luke-verses.mjs`; validators ensure **exactly one** first-pass literary-unit assignment per verse in the chosen reference numbering. All Luke observations are provisional `draft` paraphrases. Literature and manuscript variants are flagged rather than resolved by a single edition.
+
+The teachings browser now supports Matthew, Mark and Luke, preserving cross-Gospel `parallel` vs. `related` **candidate** status and prohibiting same-book self-parallels. Bibliography records distinguish accessible scholarly overviews from journal peer review. See `research/books/luke.md` for editorial limitations.

@@ -12,9 +12,10 @@ const chapterOf = (ref: { reference: string }) => Number(ref.reference.match(/(\
 const verseOf = (ref: { reference: string }) => Number(ref.reference.match(/\d+:(\d+)/)?.[1] || 0);
 const mark = book.id === "mk";
 const matthew = book.id === "mt";
-const pilot = mark || matthew;
-const chapterCount = mark ? 16 : matthew ? 28 : 0;
-const sourcePrefix = mark ? "MRK" : "MAT";
+const luke = book.id === "lk";
+const pilot = mark || matthew || luke;
+const chapterCount = mark ? 16 : matthew ? 28 : luke ? 24 : 0;
+const sourcePrefix = mark ? "MRK" : matthew ? "MAT" : "LUK";
 const visible = (mark ? refs.filter(ref => !("unitType" in ref && ref.unitType === "composite")) : refs)
   .sort((a,b) => chapterOf(a) - chapterOf(b) || verseOf(a) - verseOf(b));
 const groups = pilot
@@ -27,6 +28,7 @@ const kindLabels: Record<string,string> = {
   action: "Narrated action",
   context: "Context / narrative",
   prayer: "Prayer in context",
+  illustration: "Teaching illustration",
   disputed: "Disputed ending",
   composite: "Composite reference"
 };
@@ -36,7 +38,7 @@ const kindLabels: Record<string,string> = {
   <h1>{book.title}</h1>
   <p class="lead">{book.attributionNote}</p>
   {pilot ? <>
-    <p class="warning">This is a <strong>draft pericope map</strong>, not a complete catalog of every saying or a source-checked conclusion. Narrative events are not automatically teachings attributed to Jesus. {mark ? "Mark 16:9–20 has a disputed longer ending." : "Matthew has a first-pass map across all 28 chapters; every speech span still needs detailed source review."}</p>
+    <p class="warning">This is a <strong>draft pericope map</strong>, not a complete catalog of every saying or a source-checked conclusion. Narrative events are not automatically teachings attributed to Jesus. {mark ? "Mark 16:9–20 has a disputed longer ending." : matthew ? "Matthew has a first-pass map across all 28 chapters; every speech span still needs detailed source review." : "Luke has a preliminary 24-chapter literary map, including variant cautions for Luke 22 and 23; no speech claim is independently verified."}</p>
     <nav class="chapter-nav" aria-label={`Jump to ${book.title} chapter`}>
       {groups.map(g => <a href={`#chapter-${g.chapter}`}>Chapter {g.chapter}</a>)}
     </nav>

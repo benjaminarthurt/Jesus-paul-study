@@ -55,3 +55,7 @@ Issue #6 now has a static-first indexed-passage search and two-pane source-linke
 ## Matthew literary and speech-bearing inventory (November 2026)
 
 The first Matthew index assigns all verses in Matthew's 28 chapters to 119 preliminary literary units, including the eight previously indexed study anchors. The draft speech layer adds 75 selected spans with 94 cross-Gospel **candidate** references. The browser now supports Mark and Matthew with book-specific filters, links and textual cautions. The new bounds and parent-link tests establish structural integrity, not final manuscript or historical verification. See `research/books/matthew.md` and `docs/matthew-review-log.md`.
+
+## Luke literary and sayings catalog (November 2026)
+
+The next Gospel pilot maps Luke's 24 chapters into 143 preliminary literary units (including existing research anchors), adds 112 selected speech-bearing spans and 113 cross-Gospel candidate relationships, and makes Luke selectable in book, teaching and search views. It maintains textual warnings for Luke 10's envoy-number variant and disputed readings in the Passion accounts. All material remains **draft**, pending verse and Greek text review, detailed comparison of parallel passages, and independent editing. See `research/books/luke.md` and `docs/luke-review-log.md`.

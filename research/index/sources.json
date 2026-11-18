@@ -250,5 +250,41 @@
     "url": "https://www.catholic-resources.org/Bible/Matthew-Discourses.htm",
     "accessScope": "full-text",
     "note": "Accessible chapter/discourse outline and candidate parallel-reference tables. Used as a research aid; listed parallels are not verified quotations, proof of historical independence, or a settled account of synoptic literary dependence."
+  },
+  {
+    "id": "yale-luke-introduction",
+    "type": "scholarly-overview",
+    "author": "Yale Bible Study, Yale Divinity School",
+    "title": "The Gospel of Luke — Introduction to the Course",
+    "publisher": "Yale Bible Study",
+    "year": null,
+    "location": "Public introduction and 'Structure of the Gospel of Luke' sections",
+    "url": "https://yalebiblestudy.org/courses/the-gospel-of-luke/lessons/introduction-to-the-course-4/",
+    "accessScope": "full-text",
+    "note": "Accessible overview of Luke–Acts, Gospel composition, distinctive stories and a literary outline; source-divergence hypotheses remain academic positions, not independently proven conclusions here."
+  },
+  {
+    "id": "jongkind-2018-luke2243",
+    "type": "scholarly-overview",
+    "author": "Dirk Jongkind",
+    "title": "Luke 22:43–44. Is the Angel and the Sweat like Drops of Blood an Early Addition?",
+    "publisher": "Tyndale House",
+    "year": 2018,
+    "location": "Open research essay: Greek manuscript witnesses, arguments for omission/inclusion, and conclusion",
+    "url": "https://tyndalehouse.com/2018/11/15/luke-2243-44-is-the-angel-and-the-sweat-like-drops-of-blood-an-early-addition/",
+    "accessScope": "full-text",
+    "note": "Full text read. Explains why THGNT retains the verses marked uncertain while NA28 rejects their originality; a scholarly institutional essay, not a peer-reviewed journal article or proof of one textual solution."
+  },
+  {
+    "id": "jongkind-2018-luke2334",
+    "type": "scholarly-overview",
+    "author": "Dirk Jongkind",
+    "title": "'Father forgive them' — the variant in Luke 23:34a",
+    "publisher": "Tyndale House",
+    "year": 2018,
+    "location": "Open research essay: competing manuscript evidence and arguments for omission or inclusion",
+    "url": "https://tyndalehouse.com/2018/11/15/father-forgive-them-the-variant-in-luke-2334a/",
+    "accessScope": "full-text",
+    "note": "Full text read. Author favors inclusion despite substantial early omission evidence; preserve contrary readings and do not present the editorial decision as consensus."
   }
 ]
