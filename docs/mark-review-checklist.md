@@ -13,3 +13,6 @@
 - [ ] Build full bibliography with checked page or section citations
 - [ ] Review opposing interpretations for each issue and comparison
 - [ ] Complete separate editorial review before raising any `draft` status
+
+- [x] Validate Mark verse spans against actual chapter lengths, including separately cautioned Mark 16:9–20
+- [x] Enforce reciprocal passage↔topic links in registry validation

@@ -39,7 +39,7 @@ const kindLabels: Record<string,string> = {
     {groups.map(group=><section class="chapter-group" id={`chapter-${group.chapter}`}>
       <div class="chapter-heading">
         <h2>Chapter {group.chapter}</h2>
-        <a href={`https://ebible.org/engwebp/MRK${String(group.chapter).padStart(2,"0")}.htm`} target="_blank" rel="noopener noreferrer">Read chapter (WEB)</a>
+        <a href={`https://ebible.org/engwebp/MRK${String(group.chapter).padStart(2,"0")}.htm`} target="_blank" rel="noopener noreferrer">Read Mark {group.chapter} (WEB)</a>
       </div>
       {group.records.map(ref=><article class="reference unit" id={ref.id}>
         <div class="meta">

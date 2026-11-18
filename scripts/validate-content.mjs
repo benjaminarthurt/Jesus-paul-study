@@ -1,6 +1,7 @@
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import { parseFrontmatter } from "./frontmatter.mjs";
+import { isValidMarkSpan } from "./mark-verses.mjs";
 
 const readJson = path => JSON.parse(readFileSync(path, "utf8"));
 const books = readJson("research/index/books.json");
@@ -82,6 +83,16 @@ for (const passage of passages) {
     if (!topicIds.has(topic)) errors.push("Unknown topic " + topic + " in passage " + passage.id);
   }
 }
+
+const topicPassages = new Map(topics.map(entry=>[entry.id,new Set(Array.isArray(entry.meta.passages) ? entry.meta.passages : [])]));
+for (const passage of passages) {
+  for (const topic of Array.isArray(passage.topics) ? passage.topics : []) {
+    if (topicIds.has(topic) && !topicPassages.get(topic).has(passage.id)) {
+      errors.push("Passage " + passage.id + " links topic " + topic + " but is missing from that topic's index");
+    }
+  }
+}
+
 for (const entry of collection("research/comparisons")) {
   statusCheck(entry.meta, "Comparison " + entry.id);
   if (!classifications.has(entry.meta.classification)) errors.push("Invalid comparison classification: " + entry.id);
@@ -109,7 +120,7 @@ for (const p of markUnits) {
   const m = /^mk-(\d{2})-(\d{2})-(\d{2})$/.exec(p.id);
   if (!m) { errors.push("Invalid Mark passage ID " + p.id); continue; }
   const ch = Number(m[1]), start = Number(m[2]), end = Number(m[3]);
-  if (ch < 1 || ch > 16 || start < 1 || end < start) errors.push("Invalid Mark reference bounds: " + p.id);
+  if (!isValidMarkSpan(ch, start, end)) errors.push("Invalid Mark reference bounds: " + p.id);
   if (p.reference !== `Mark ${ch}:${start}–${end}`) errors.push("Mark reference/ID mismatch: " + p.id);
   chapterSet.add(ch);
   if (p.sourceUrl !== `https://ebible.org/engwebp/MRK${m[1]}.htm`) errors.push("Unexpected primary text link: " + p.id);
@@ -131,7 +142,7 @@ for (const saying of sayings) {
   if (!match) { errors.push(label + ": invalid ID"); continue; }
   const [chapter, first, last] = match.slice(1).map(Number);
   const expectedRef = "Mark " + chapter + ":" + first + (first === last ? "" : "–" + last);
-  if (saying.chapter !== chapter || saying.startVerse !== first || saying.endVerse !== last || first < 1 || last < first || chapter < 1 || chapter > 16) {
+  if (saying.chapter !== chapter || saying.startVerse !== first || saying.endVerse !== last || !isValidMarkSpan(chapter, first, last)) {
     errors.push(label + ": invalid chapter or verse bounds");
   }
   if (saying.bookId !== "mk" || saying.reference !== expectedRef) errors.push(label + ": reference / ID mismatch");
