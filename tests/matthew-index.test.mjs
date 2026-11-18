@@ -93,3 +93,13 @@ test("Matthew is a teaching-browser source alongside Mark",()=>{
   assert.ok(book.includes("matthew ? 28"));
   assert.ok(book.includes("sourcePrefix"));
 });
+
+test("Matthew divorce teaching and parent are discoverable from marriage-divorce",()=>{
+  const saying=matthewSayings.find(s=>s.id==="mt-s-05-31-32");
+  const parent=matthew.find(p=>p.id==="mt-05-21-48");
+  const topic=parseFrontmatter(readFileSync("research/topics/marriage-divorce.md","utf8"));
+  assert.ok(saying?.topics.includes("marriage-divorce"),"Matthew 5:31–32 must appear in the teachings topic filter");
+  assert.ok(parent?.topics.includes("marriage-divorce"),"Parent research passage must carry the topic");
+  assert.ok(topic.passages.includes(parent.id),"Marriage and Divorce topic must link the parent passage");
+  assert.ok(saying.topics.every(t=>parent.topics.includes(t)),"The saying's topics must be represented by its parent");
+});
