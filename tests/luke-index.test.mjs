@@ -84,6 +84,7 @@ test("Luke's infancy narratives remain narrative, not teachings attributed to Je
 test("Luke textual variants stay visible and tagged as unresolved",()=>{
   for(const [id,key] of [
     ["lk-10-01-12","seventy-or-seventy-two"],
+    ["lk-10-17-20","seventy-or-seventy-two"],
     ["lk-22-39-46","disputed-angel-and-sweat"],
     ["lk-23-32-43","disputed-prayer-23-34"],
     ["lk-24-50-53","variant-ascension-wording"]
@@ -109,4 +110,20 @@ test("Luke is available in the book catalog and Gospel teaching filter",()=>{
   assert.ok(details.includes("candidateChapterUrl"));
   assert.ok(byPassage.has("lk-10-25-37"));
   assert.ok(byPassage.has("lk-15-11-32"));
+});
+
+test("Luke 8 storm summary follows the narrated order before Jesus' question about faith",()=>{
+  const storm=byPassage.get("lk-08-22-25");
+  const question=lukeSayings.find(s=>s.id==="lk-s-08-25-25");
+  assert.match(storm.summary,/calms.*then questions.*faith/i);
+  assert.match(question.summary,/after calming a storm/i);
+});
+
+test("both Luke 10 envoy passages show manuscript warnings in variant search",()=>{
+  for(const id of ["lk-10-01-12","lk-10-17-20"]){
+    const p=byPassage.get(id);
+    assert.equal(p.textualStatus,"seventy-or-seventy-two");
+    assert.match(p.textualNote,/seventy|seventy-two/i);
+    assert.match(p.textualNote,/manuscript/i);
+  }
 });

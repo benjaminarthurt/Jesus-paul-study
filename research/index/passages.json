@@ -935,7 +935,7 @@
     "reference": "Luke 8:22–25",
     "sourceLayer": "jesus-synoptic",
     "title": "Calming the storm",
-    "summary": "Jesus challenges the disciples' fear before calming a storm.",
+    "summary": "Jesus calms the wind and waves, then questions the disciples about their faith.",
     "topics": [
       "healing",
       "discipleship"
@@ -1189,7 +1189,9 @@
     ],
     "status": "draft",
     "unitType": "dialogue",
-    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm",
+    "textualStatus": "seventy-or-seventy-two",
+    "textualNote": "Luke 10:17 also differs among manuscript witnesses over whether seventy or seventy-two envoys return; the reading remains disputed and requires critical-apparatus review."
   },
   {
     "id": "lk-10-21-24",

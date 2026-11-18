@@ -231,6 +231,7 @@ for(let chapter=1;chapter<=lukeCoverage.length;chapter++) {
 if(lukeUnits.length<140) errors.push("Luke literary inventory unexpectedly incomplete");
 for(const [id,variant] of [
   ["lk-10-01-12","seventy-or-seventy-two"],
+  ["lk-10-17-20","seventy-or-seventy-two"],
   ["lk-22-39-46","disputed-angel-and-sweat"],
   ["lk-23-32-43","disputed-prayer-23-34"],
   ["lk-24-50-53","variant-ascension-wording"]
