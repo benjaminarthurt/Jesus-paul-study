@@ -101,7 +101,7 @@ p {max-width:78ch}
 @media(max-width:760px){.chapter-heading{align-items:flex-start;flex-direction:column;gap:0}.chapter-heading a{margin-bottom:.6rem}}
 
 /* Teaching explorer and individual speech-bearing study pages */
-.study-controls {display:grid;grid-template-columns:minmax(180px,2fr) repeat(2,minmax(145px,1fr));gap:1rem}
+.study-controls {display:grid;grid-template-columns:minmax(180px,2fr) repeat(3,minmax(125px,1fr));gap:1rem}
 .study-controls label {display:flex;flex-direction:column;gap:.4rem;font-size:.82rem;font-weight:700}
 .study-controls input,.study-controls select {font:inherit;font-size:1rem;line-height:1.4;padding:.6rem;border:1px solid #a8b8b7;border-radius:.4rem;background:#fff;color:var(--ink);width:100%}
 .study-controls input:focus-visible,.study-controls select:focus-visible {outline:3px solid var(--gold);outline-offset:2px}

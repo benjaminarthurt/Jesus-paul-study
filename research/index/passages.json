@@ -1582,6 +1582,168 @@
     "textualNote": "Mark 16:9–20 is absent from some early witnesses and commonly considered a later ending; scholarly and confessional assessments differ."
   },
   {
+    "id": "mt-01-01-17",
+    "bookId": "mt",
+    "reference": "Matthew 1:1–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Genealogy of Jesus",
+    "summary": "Matthew begins by tracing a genealogy that links Jesus with Abraham and David; it is narrated ancestry, not speech by Jesus.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT01.htm"
+  },
+  {
+    "id": "mt-01-18-25",
+    "bookId": "mt",
+    "reference": "Matthew 1:18–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Birth and naming",
+    "summary": "Joseph receives guidance in a dream about Mary's pregnancy and names the child Jesus; no direct speech by Jesus is reported.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT01.htm"
+  },
+  {
+    "id": "mt-02-01-12",
+    "bookId": "mt",
+    "reference": "Matthew 2:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Magi and Herod",
+    "summary": "Visitors seek the newborn king, Herod reacts, and the visitors return by another route; this is infancy narrative.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT02.htm"
+  },
+  {
+    "id": "mt-02-13-23",
+    "bookId": "mt",
+    "reference": "Matthew 2:13–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Flight and return",
+    "summary": "Dream-guided movements take the family to Egypt and later Nazareth amid danger under rulers; this is narrative context.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT02.htm"
+  },
+  {
+    "id": "mt-03-01-12",
+    "bookId": "mt",
+    "reference": "Matthew 3:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John the Baptist preaches",
+    "summary": "John announces repentance and judgment and baptizes; his exhortations should not be labeled speeches of Jesus.",
+    "topics": [
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT03.htm"
+  },
+  {
+    "id": "mt-03-13-17",
+    "bookId": "mt",
+    "reference": "Matthew 3:13–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Baptism of Jesus",
+    "summary": "Jesus comes to John for baptism and the scene presents a heavenly declaration; it is an identity narrative.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT03.htm"
+  },
+  {
+    "id": "mt-04-01-11",
+    "bookId": "mt",
+    "reference": "Matthew 4:1–11",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Testing in the wilderness",
+    "summary": "Jesus answers the tempter with scriptural appeals; the dialogue should be read with its narrative framing.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT04.htm"
+  },
+  {
+    "id": "mt-04-12-17",
+    "bookId": "mt",
+    "reference": "Matthew 4:12–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Beginning of kingdom proclamation",
+    "summary": "Matthew depicts Jesus relocating to Galilee and proclaiming repentance because heaven's kingdom has drawn near.",
+    "topics": [
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT04.htm"
+  },
+  {
+    "id": "mt-04-18-22",
+    "bookId": "mt",
+    "reference": "Matthew 4:18–22",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Calling the first followers",
+    "summary": "Jesus summons fishermen to follow, and the narrative describes their response.",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT04.htm"
+  },
+  {
+    "id": "mt-04-23-25",
+    "bookId": "mt",
+    "reference": "Matthew 4:23–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Teaching and healings throughout Galilee",
+    "summary": "Matthew summarizes teaching, proclamation and cures without transcribing individual sermon units.",
+    "topics": [
+      "healing",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT04.htm"
+  },
+  {
+    "id": "mt-05-01-12",
+    "bookId": "mt",
+    "reference": "Matthew 5:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Blessings at the mountain",
+    "summary": "Jesus pronounces blessings on persons with particular conditions and practices; Matthew's wording differs from Luke's blessings and woes.",
+    "topics": [
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT05.htm"
+  },
+  {
+    "id": "mt-05-13-16",
+    "bookId": "mt",
+    "reference": "Matthew 5:13–16",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Salt and light",
+    "summary": "Jesus instructs disciples to be salt and light, drawing on images of public visibility and good deeds.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT05.htm"
+  },
+  {
     "id": "mt-05-17-20",
     "bookId": "mt",
     "reference": "Matthew 5:17–20",
@@ -1591,7 +1753,9 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/MAT05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/MAT05.htm",
+    "unitType": "speech",
+    "title": "Law and fulfillment"
   },
   {
     "id": "mt-05-21-48",
@@ -1600,10 +1764,56 @@
     "sourceLayer": "jesus-synoptic",
     "summary": "In a series of examples, Matthew's Jesus intensifies and reframes obligations around murder, adultery, oath-taking, retaliation and love of enemies.",
     "topics": [
-      "mosaic-law"
+      "mosaic-law",
+      "marriage-divorce"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/MAT05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/MAT05.htm",
+    "unitType": "speech",
+    "title": "Ethics in the mountain discourse"
+  },
+  {
+    "id": "mt-06-01-04",
+    "bookId": "mt",
+    "reference": "Matthew 6:1–4",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Giving without display",
+    "summary": "Jesus instructs about almsgiving without staging it for public approval.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+  },
+  {
+    "id": "mt-06-05-15",
+    "bookId": "mt",
+    "reference": "Matthew 6:5–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prayer and forgiveness",
+    "summary": "Jesus contrasts performative prayer with directed prayer, including the prayer model and reciprocal forgiveness.",
+    "topics": [
+      "prayer",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+  },
+  {
+    "id": "mt-06-16-18",
+    "bookId": "mt",
+    "reference": "Matthew 6:16–18",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fasting without display",
+    "summary": "Jesus directs disciples not to make fasting into a public display of piety.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
   },
   {
     "id": "mt-06-19-24",
@@ -1615,7 +1825,9 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm",
+    "unitType": "speech",
+    "title": "Treasure and competing masters"
   },
   {
     "id": "mt-06-25-34",
@@ -1627,7 +1839,621 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm",
+    "unitType": "speech",
+    "title": "Anxiety and seeking the kingdom"
+  },
+  {
+    "id": "mt-07-01-06",
+    "bookId": "mt",
+    "reference": "Matthew 7:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Judging and self-scrutiny",
+    "summary": "Jesus warns against hypocritical condemnation and uses an illustration about a speck and a plank.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
+  },
+  {
+    "id": "mt-07-07-12",
+    "bookId": "mt",
+    "reference": "Matthew 7:7–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Asking and treating others well",
+    "summary": "Jesus urges persistent asking, portrays divine generosity and states a reciprocal rule for treating others.",
+    "topics": [
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
+  },
+  {
+    "id": "mt-07-13-23",
+    "bookId": "mt",
+    "reference": "Matthew 7:13–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Entrances, fruit and false profession",
+    "summary": "Jesus warns about narrow entry, misleading teachers, actions and professions that lack obedience.",
+    "topics": [
+      "kingdom",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
+  },
+  {
+    "id": "mt-07-24-27",
+    "bookId": "mt",
+    "reference": "Matthew 7:24–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Two builders",
+    "summary": "Jesus compares people who hear and act on his teaching with builders choosing differing foundations.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
+  },
+  {
+    "id": "mt-07-28-29",
+    "bookId": "mt",
+    "reference": "Matthew 7:28–29",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Crowds react to the sermon",
+    "summary": "The crowd responds to the authority of Jesus' teaching, and Matthew closes the discourse in narration.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
+  },
+  {
+    "id": "mt-08-01-04",
+    "bookId": "mt",
+    "reference": "Matthew 8:1–4",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Cleansing a man with skin disease",
+    "summary": "Jesus heals a petitioner and instructs him to show himself to a priest and make the prescribed offering.",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-08-05-13",
+    "bookId": "mt",
+    "reference": "Matthew 8:5–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The centurion's request",
+    "summary": "Jesus responds to a military officer's request for healing and comments on unexpected faith.",
+    "topics": [
+      "healing",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-08-14-17",
+    "bookId": "mt",
+    "reference": "Matthew 8:14–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healings in Peter's household",
+    "summary": "Matthew reports a sequence of healings and links it to a scriptural fulfillment motif.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-08-18-22",
+    "bookId": "mt",
+    "reference": "Matthew 8:18–22",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Costs of following",
+    "summary": "Jesus answers would-be followers with sayings about insecurity and competing obligations.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-08-23-27",
+    "bookId": "mt",
+    "reference": "Matthew 8:23–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Storm and fear",
+    "summary": "Jesus and disciples are in a storm, and Jesus challenges their fear before calming it.",
+    "topics": [
+      "healing",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-08-28-34",
+    "bookId": "mt",
+    "reference": "Matthew 8:28–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Two demoniacs across the lake",
+    "summary": "Matthew narrates an encounter with two afflicted people and the reaction of a nearby town.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-09-01-08",
+    "bookId": "mt",
+    "reference": "Matthew 9:1–8",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Paralysis and authority to forgive",
+    "summary": "Jesus addresses a paralyzed man and responds to objections about forgiveness, then heals him.",
+    "topics": [
+      "healing",
+      "authority",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-09-09-13",
+    "bookId": "mt",
+    "reference": "Matthew 9:9–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Calling Matthew and eating with outsiders",
+    "summary": "Jesus calls a tax collector and defends his company through a physician analogy and a call to mercy.",
+    "topics": [
+      "discipleship",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-09-14-17",
+    "bookId": "mt",
+    "reference": "Matthew 9:14–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fasting and new wine",
+    "summary": "Jesus responds to questions about fasting with images of a wedding, cloth and wineskins.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-09-18-26",
+    "bookId": "mt",
+    "reference": "Matthew 9:18–26",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Leader's daughter and bleeding woman",
+    "summary": "Matthew narrates intertwined healing encounters with a dying child and a woman seeking help.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-09-27-34",
+    "bookId": "mt",
+    "reference": "Matthew 9:27–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sight and speech restored",
+    "summary": "Two blind people and a man unable to speak are helped, with differing reactions from observers.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-09-35-38",
+    "bookId": "mt",
+    "reference": "Matthew 9:35–38",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Compassion and need for laborers",
+    "summary": "The narrative summarizes widespread teaching and healing and records Jesus' instruction to pray for laborers.",
+    "topics": [
+      "mission",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-10-01-04",
+    "bookId": "mt",
+    "reference": "Matthew 10:1–4",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The twelve commissioned",
+    "summary": "Matthew names the Twelve and presents their appointment; these verses are narrative framing.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT10.htm"
+  },
+  {
+    "id": "mt-10-05-15",
+    "bookId": "mt",
+    "reference": "Matthew 10:5–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Instructions for a mission journey",
+    "summary": "Jesus directs an initial mission, including destination, healing, provision, hospitality and responses to rejection.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT10.htm"
+  },
+  {
+    "id": "mt-10-16-25",
+    "bookId": "mt",
+    "reference": "Matthew 10:16–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Danger and persecution in mission",
+    "summary": "Jesus warns followers of opposition, trial and family tensions during mission.",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT10.htm"
+  },
+  {
+    "id": "mt-10-26-33",
+    "bookId": "mt",
+    "reference": "Matthew 10:26–33",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fear, witness and confession",
+    "summary": "Jesus encourages faithful public witness and warns against denying allegiance to him.",
+    "topics": [
+      "mission",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT10.htm"
+  },
+  {
+    "id": "mt-10-34-42",
+    "bookId": "mt",
+    "reference": "Matthew 10:34–42",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Division, loyalty and hospitality",
+    "summary": "Jesus speaks of competing loyalties, the cost of following and how receiving emissaries matters.",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT10.htm"
+  },
+  {
+    "id": "mt-11-01-06",
+    "bookId": "mt",
+    "reference": "Matthew 11:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John's messengers question Jesus",
+    "summary": "Jesus answers messengers of John by pointing to healing, proclamation and the blessedness of not stumbling.",
+    "topics": [
+      "healing",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
+    "id": "mt-11-07-19",
+    "bookId": "mt",
+    "reference": "Matthew 11:7–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John, messengers and this generation",
+    "summary": "Jesus interprets John's role and criticizes the generation's inconsistent reactions to John and himself.",
+    "topics": [
+      "authority",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
+    "id": "mt-11-20-24",
+    "bookId": "mt",
+    "reference": "Matthew 11:20–24",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Woes to unresponsive towns",
+    "summary": "Jesus warns towns where many deeds occurred without repentance.",
+    "topics": [
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
+    "id": "mt-11-25-30",
+    "bookId": "mt",
+    "reference": "Matthew 11:25–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Thanksgiving and invitation to rest",
+    "summary": "Jesus thanks the Father and invites burdened people to take up his yoke and learn from him.",
+    "topics": [
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
+    "id": "mt-12-01-14",
+    "bookId": "mt",
+    "reference": "Matthew 12:1–14",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sabbath controversies",
+    "summary": "Jesus argues about permitted conduct and healing on the Sabbath, provoking hostile responses.",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-12-15-21",
+    "bookId": "mt",
+    "reference": "Matthew 12:15–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healing and servant motif",
+    "summary": "Jesus withdraws, heals, and Matthew applies a prophetic servant passage; most of this unit is narration.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-12-22-37",
+    "bookId": "mt",
+    "reference": "Matthew 12:22–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Accusations, words and divided powers",
+    "summary": "Jesus rebuts claims that his work comes from demonic power and connects speech with a person's interior life.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-12-38-45",
+    "bookId": "mt",
+    "reference": "Matthew 12:38–45",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Signs and a judgment warning",
+    "summary": "Jesus responds to a demand for a sign with the Jonah comparison and warnings about an unresponsive generation.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-12-46-50",
+    "bookId": "mt",
+    "reference": "Matthew 12:46–50",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The family of those who obey",
+    "summary": "Jesus reframes family around doing the will of his heavenly Father.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-13-01-09",
+    "bookId": "mt",
+    "reference": "Matthew 13:1–9",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The sower and varied ground",
+    "summary": "Jesus tells a sowing parable depicting markedly different outcomes for scattered seed.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-13-10-23",
+    "bookId": "mt",
+    "reference": "Matthew 13:10–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Why parables and how to hear the sower",
+    "summary": "Jesus answers a question about parables and explains several differing responses to a message.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-13-24-30",
+    "bookId": "mt",
+    "reference": "Matthew 13:24–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Wheat and weeds growing together",
+    "summary": "Jesus describes rival sowings and a deferred separation at harvest.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-13-31-35",
+    "bookId": "mt",
+    "reference": "Matthew 13:31–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Mustard and leaven",
+    "summary": "Jesus gives short growth images and the narrator describes the use of parables.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-13-36-43",
+    "bookId": "mt",
+    "reference": "Matthew 13:36–43",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Weeds explained",
+    "summary": "Jesus privately interprets the field, harvest and agents in the earlier parable.",
+    "topics": [
+      "parables",
+      "end-times"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-13-44-52",
+    "bookId": "mt",
+    "reference": "Matthew 13:44–52",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Treasure, pearl, net and learned scribe",
+    "summary": "Jesus gives a series of images about value, discernment and the kingdom's outcome.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-13-53-58",
+    "bookId": "mt",
+    "reference": "Matthew 13:53–58",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Resistance in the hometown",
+    "summary": "Matthew narrates doubts among people familiar with Jesus' family and concludes the parables setting.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-14-01-12",
+    "bookId": "mt",
+    "reference": "Matthew 14:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Herod and John's death",
+    "summary": "The narrative recounts John the Baptist's execution and court intrigue without attributing the episode's speech to Jesus.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
+  },
+  {
+    "id": "mt-14-13-21",
+    "bookId": "mt",
+    "reference": "Matthew 14:13–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Feeding a crowd",
+    "summary": "Jesus has compassion on a gathering, heals and distributes food through the disciples.",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
+  },
+  {
+    "id": "mt-14-22-33",
+    "bookId": "mt",
+    "reference": "Matthew 14:22–33",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Walking on water and fear",
+    "summary": "The disciples confront the wind and Jesus approaches; Matthew includes Peter's attempt to walk toward him.",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
+  },
+  {
+    "id": "mt-14-34-36",
+    "bookId": "mt",
+    "reference": "Matthew 14:34–36",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healings in Gennesaret",
+    "summary": "People bring the ill for healing and seek to touch Jesus' garment.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
   },
   {
     "id": "mt-15-01-20",
@@ -1639,7 +2465,248 @@
       "mosaic-law"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT15.htm",
+    "unitType": "dialogue",
+    "title": "Tradition and what defiles"
+  },
+  {
+    "id": "mt-15-21-28",
+    "bookId": "mt",
+    "reference": "Matthew 15:21–28",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A Canaanite woman's request",
+    "summary": "A Gentile woman asks for her daughter's healing, and the exchange presses a question of priority and faith.",
+    "topics": [
+      "inclusion",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
     "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
+  },
+  {
+    "id": "mt-15-29-31",
+    "bookId": "mt",
+    "reference": "Matthew 15:29–31",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Many people healed",
+    "summary": "Matthew summarizes healing of people with differing disabilities and their praise of Israel's God.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
+  },
+  {
+    "id": "mt-15-32-39",
+    "bookId": "mt",
+    "reference": "Matthew 15:32–39",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Feeding the four thousand",
+    "summary": "Jesus takes account of the crowd's hunger and provides a second large-scale feeding.",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
+  },
+  {
+    "id": "mt-16-01-12",
+    "bookId": "mt",
+    "reference": "Matthew 16:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Demand for a sign and warning about leaven",
+    "summary": "Jesus disputes a request for signs and cautions his disciples about misleading teaching.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-16-13-20",
+    "bookId": "mt",
+    "reference": "Matthew 16:13–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Peter's confession and keys",
+    "summary": "Jesus asks about his identity and answers Peter with language about rock, community and binding and loosing.",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-16-21-28",
+    "bookId": "mt",
+    "reference": "Matthew 16:21–28",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prediction of suffering and the cost of following",
+    "summary": "Jesus announces suffering and calls disciples to deny themselves and take up the cross.",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-17-01-13",
+    "bookId": "mt",
+    "reference": "Matthew 17:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Transfiguration and the Elijah question",
+    "summary": "Jesus is transfigured before selected followers and later responds to an Elijah question.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
+  },
+  {
+    "id": "mt-17-14-21",
+    "bookId": "mt",
+    "reference": "Matthew 17:14–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healing and the disciples' failed attempt",
+    "summary": "Jesus heals a boy and addresses the disciples' inability; verse 21 is textually disputed in some editions.",
+    "topics": [
+      "healing",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm",
+    "textualStatus": "variant-verse-21",
+    "textualNote": "The WEBP source footnote identifies Matthew 17:21 as absent from the NU text. This literary range remains indexed for navigation, but the prayer-and-fasting clause requires separate critical-edition review."
+  },
+  {
+    "id": "mt-17-22-23",
+    "bookId": "mt",
+    "reference": "Matthew 17:22–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A second prediction of suffering",
+    "summary": "Jesus tells the disciples of betrayal, death and being raised.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
+  },
+  {
+    "id": "mt-17-24-27",
+    "bookId": "mt",
+    "reference": "Matthew 17:24–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Temple tax and sons",
+    "summary": "Jesus discusses a tax question with Peter and directs an unusual means of paying it.",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
+  },
+  {
+    "id": "mt-18-01-09",
+    "bookId": "mt",
+    "reference": "Matthew 18:1–9",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Greatness, children and causing stumbling",
+    "summary": "Jesus answers a status question by placing a child in view and warning about harming vulnerable believers.",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT18.htm"
+  },
+  {
+    "id": "mt-18-10-14",
+    "bookId": "mt",
+    "reference": "Matthew 18:10–14",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The lost sheep",
+    "summary": "Jesus draws on a shepherd's search to teach about not despising the vulnerable.",
+    "topics": [
+      "parables",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT18.htm"
+  },
+  {
+    "id": "mt-18-15-20",
+    "bookId": "mt",
+    "reference": "Matthew 18:15–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Repairing relationships in a community",
+    "summary": "Jesus gives steps for addressing wrongdoing and describes agreement and gathering among disciples.",
+    "topics": [
+      "forgiveness",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT18.htm"
+  },
+  {
+    "id": "mt-18-21-35",
+    "bookId": "mt",
+    "reference": "Matthew 18:21–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Unforgiving servant",
+    "summary": "Jesus responds to Peter's question on forgiveness with a story of debt and mercy withheld.",
+    "topics": [
+      "forgiveness",
+      "parables"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT18.htm"
+  },
+  {
+    "id": "mt-19-01-12",
+    "bookId": "mt",
+    "reference": "Matthew 19:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Marriage, divorce and continence",
+    "summary": "Jesus debates marriage and divorce, responding to religious opponents and disciples.",
+    "topics": [
+      "marriage-divorce",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
+  },
+  {
+    "id": "mt-19-13-15",
+    "bookId": "mt",
+    "reference": "Matthew 19:13–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Children brought for blessing",
+    "summary": "Jesus receives children brought by adults, opposing attempts to block them.",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
   },
   {
     "id": "mt-19-16-30",
@@ -1651,7 +2718,362 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
+    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm",
+    "unitType": "dialogue",
+    "title": "Rich seeker and following Jesus"
+  },
+  {
+    "id": "mt-20-01-16",
+    "bookId": "mt",
+    "reference": "Matthew 20:1–16",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Laborers in a vineyard",
+    "summary": "Jesus depicts workers paid on surprising terms to challenge ideas of desert and rank.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
+  },
+  {
+    "id": "mt-20-17-19",
+    "bookId": "mt",
+    "reference": "Matthew 20:17–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Suffering foretold near Jerusalem",
+    "summary": "Jesus predicts betrayal, condemnation and being raised after death.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
+  },
+  {
+    "id": "mt-20-20-28",
+    "bookId": "mt",
+    "reference": "Matthew 20:20–28",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Status, serving and greatness",
+    "summary": "Jesus answers a request for places of honor by contrasting ruling over others with serving them.",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
+  },
+  {
+    "id": "mt-20-29-34",
+    "bookId": "mt",
+    "reference": "Matthew 20:29–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Two blind men near Jericho",
+    "summary": "Jesus responds to pleas for mercy and restores sight; Matthew narrates two recipients.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
+  },
+  {
+    "id": "mt-21-01-11",
+    "bookId": "mt",
+    "reference": "Matthew 21:1–11",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Entry into Jerusalem",
+    "summary": "Matthew narrates a public arrival with symbolic actions and responses from the crowd.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-21-12-17",
+    "bookId": "mt",
+    "reference": "Matthew 21:12–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The temple disrupted",
+    "summary": "Jesus overturns merchants' tables in the temple and disputes how the space is being used.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-21-18-22",
+    "bookId": "mt",
+    "reference": "Matthew 21:18–22",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fig tree and trust",
+    "summary": "A fig-tree episode leads to teaching about faith and prayer.",
+    "topics": [
+      "prayer",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-21-23-27",
+    "bookId": "mt",
+    "reference": "Matthew 21:23–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Authority questioned",
+    "summary": "Temple leaders question Jesus' authority, and he responds with a question about John's baptism.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-21-28-32",
+    "bookId": "mt",
+    "reference": "Matthew 21:28–32",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Two sons",
+    "summary": "Jesus tells a story about words and action as part of a dispute over response to John.",
+    "topics": [
+      "parables",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-21-33-46",
+    "bookId": "mt",
+    "reference": "Matthew 21:33–46",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Tenants and the vineyard",
+    "summary": "Jesus tells a vineyard story provoking reactions from leaders who recognize its critical force.",
+    "topics": [
+      "parables",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-22-01-14",
+    "bookId": "mt",
+    "reference": "Matthew 22:1–14",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Wedding banquet and invited guests",
+    "summary": "Jesus tells of rejected invitations, new guests and a guest judged unprepared.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
+  },
+  {
+    "id": "mt-22-15-22",
+    "bookId": "mt",
+    "reference": "Matthew 22:15–22",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Tax and obligation to Caesar",
+    "summary": "Jesus answers a trap about tax by contrasting imperial and divine claims.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
+  },
+  {
+    "id": "mt-22-23-33",
+    "bookId": "mt",
+    "reference": "Matthew 22:23–33",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Debate about resurrection",
+    "summary": "Jesus answers a hypothetical marriage question and argues about resurrection and divine life.",
+    "topics": [
+      "identity-resurrection",
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
+  },
+  {
+    "id": "mt-22-34-40",
+    "bookId": "mt",
+    "reference": "Matthew 22:34–40",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The greatest commandments",
+    "summary": "Jesus identifies love of God and neighbor as central to Law and Prophets.",
+    "topics": [
+      "mosaic-law",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
+  },
+  {
+    "id": "mt-22-41-46",
+    "bookId": "mt",
+    "reference": "Matthew 22:41–46",
+    "sourceLayer": "jesus-synoptic",
+    "title": "David's son and identity",
+    "summary": "Jesus poses a scriptural question about the Messiah and David's description of him.",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
+  },
+  {
+    "id": "mt-23-01-12",
+    "bookId": "mt",
+    "reference": "Matthew 23:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Status, teaching and humility",
+    "summary": "Jesus challenges status-seeking among religious teachers and instructs disciples about leadership.",
+    "topics": [
+      "leadership",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT23.htm"
+  },
+  {
+    "id": "mt-23-13-36",
+    "bookId": "mt",
+    "reference": "Matthew 23:13–36",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Woes against hypocrisy and exploitation",
+    "summary": "Jesus criticizes practices of religious leaders, using a series of woes and scriptural allusions.",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT23.htm"
+  },
+  {
+    "id": "mt-23-37-39",
+    "bookId": "mt",
+    "reference": "Matthew 23:37–39",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Lament over Jerusalem",
+    "summary": "Jesus laments resistance to his summons and describes judgment and future recognition.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT23.htm"
+  },
+  {
+    "id": "mt-24-01-14",
+    "bookId": "mt",
+    "reference": "Matthew 24:1–14",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Temple destruction and early disturbances",
+    "summary": "Jesus foretells the temple's fall and describes conflict, persecution and a worldwide proclamation.",
+    "topics": [
+      "end-times",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-24-15-31",
+    "bookId": "mt",
+    "reference": "Matthew 24:15–31",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Distress and the coming of the Son of Man",
+    "summary": "Jesus describes severe distress, deceptive claims and the gathering of the chosen; chronology and imagery require care.",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-24-32-44",
+    "bookId": "mt",
+    "reference": "Matthew 24:32–44",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fig tree and vigilance",
+    "summary": "Jesus uses a fig tree and an unexpected arrival to call for watchfulness.",
+    "topics": [
+      "end-times",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-24-45-51",
+    "bookId": "mt",
+    "reference": "Matthew 24:45–51",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Faithful and abusive servants",
+    "summary": "Jesus contrasts caretakers acting responsibly with those exploiting their position during an absence.",
+    "topics": [
+      "parables",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-25-01-13",
+    "bookId": "mt",
+    "reference": "Matthew 25:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Ten bridesmaids",
+    "summary": "Jesus illustrates readiness through a wedding procession and differing preparations.",
+    "topics": [
+      "parables",
+      "end-times"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT25.htm"
+  },
+  {
+    "id": "mt-25-14-30",
+    "bookId": "mt",
+    "reference": "Matthew 25:14–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Entrusted resources and accountability",
+    "summary": "Jesus tells of servants entrusted resources and later called to account, with difficult judgment imagery.",
+    "topics": [
+      "parables",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MAT25.htm"
   },
   {
     "id": "mt-25-31-46",
@@ -1663,7 +3085,183 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/MAT25.htm"
+    "sourceUrl": "https://ebible.org/engwebp/MAT25.htm",
+    "unitType": "speech",
+    "title": "Judgment and treatment of others"
+  },
+  {
+    "id": "mt-26-01-16",
+    "bookId": "mt",
+    "reference": "Matthew 26:1–16",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Plot, anointing and betrayal arrangement",
+    "summary": "Matthew narrates schemes against Jesus, a costly anointing, and Judas' agreement to betray him.",
+    "topics": [
+      "suffering",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-26-17-30",
+    "bookId": "mt",
+    "reference": "Matthew 26:17–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Passover meal and covenant words",
+    "summary": "Jesus shares a meal with disciples, predicts betrayal, and associates bread and cup with his approaching death.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-26-31-35",
+    "bookId": "mt",
+    "reference": "Matthew 26:31–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prediction of falling away and Peter's denial",
+    "summary": "Jesus warns of his followers' failure, while Peter promises loyalty.",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-26-36-46",
+    "bookId": "mt",
+    "reference": "Matthew 26:36–46",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prayer in Gethsemane",
+    "summary": "Jesus prays about the coming ordeal and urges followers to watch and pray.",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-26-47-56",
+    "bookId": "mt",
+    "reference": "Matthew 26:47–56",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Arrest of Jesus",
+    "summary": "Judas approaches with an armed crowd; Jesus addresses violence and the event's relation to Scripture.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-26-57-68",
+    "bookId": "mt",
+    "reference": "Matthew 26:57–68",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The hearing before the council",
+    "summary": "Jesus faces questioning, accusation and mistreatment before religious leaders.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-26-69-75",
+    "bookId": "mt",
+    "reference": "Matthew 26:69–75",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Peter's denials",
+    "summary": "Peter denies knowing Jesus in the courtyard, fulfilling the earlier prediction.",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-27-01-10",
+    "bookId": "mt",
+    "reference": "Matthew 27:1–10",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Judas and the handed-over Jesus",
+    "summary": "Judas returns the payment and the chief priests arrange the field purchase as Jesus is transferred to Pilate.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT27.htm"
+  },
+  {
+    "id": "mt-27-11-26",
+    "bookId": "mt",
+    "reference": "Matthew 27:11–26",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Pilate, the crowd and a verdict",
+    "summary": "Jesus is questioned and the crowd demands a different prisoner as Pilate orders crucifixion.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MAT27.htm"
+  },
+  {
+    "id": "mt-27-27-44",
+    "bookId": "mt",
+    "reference": "Matthew 27:27–44",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Mockery and crucifixion",
+    "summary": "Soldiers and bystanders mock the crucified Jesus; their words are not his teachings.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT27.htm"
+  },
+  {
+    "id": "mt-27-45-56",
+    "bookId": "mt",
+    "reference": "Matthew 27:45–56",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Death and accompanying signs",
+    "summary": "Matthew narrates Jesus' death, the temple veil and reactions of watchers.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT27.htm"
+  },
+  {
+    "id": "mt-27-57-66",
+    "bookId": "mt",
+    "reference": "Matthew 27:57–66",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Burial and guarded tomb",
+    "summary": "Joseph of Arimathea buries Jesus, women remain nearby, and guards are assigned.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT27.htm"
   },
   {
     "id": "mt-28-01-10",
@@ -1675,6 +3273,37 @@
       "women-authority"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/MAT28.htm",
+    "unitType": "context",
+    "title": "Women at the tomb"
+  },
+  {
+    "id": "mt-28-11-15",
+    "bookId": "mt",
+    "reference": "Matthew 28:11–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Guards and the alternative report",
+    "summary": "Matthew describes guards reporting events and a counter-story about the disappearance of the body.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MAT28.htm"
+  },
+  {
+    "id": "mt-28-16-20",
+    "bookId": "mt",
+    "reference": "Matthew 28:16–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Commission to teach the nations",
+    "summary": "Matthew describes the risen Jesus addressing disciples with a commission to make disciples and teach obedience.",
+    "topics": [
+      "mission",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
     "sourceUrl": "https://ebible.org/engwebp/MAT28.htm"
   },
   {

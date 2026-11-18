@@ -2,7 +2,7 @@
 title: Kingdom of God
 summary: Jesus' kingdom proclamation, parables, and expectations.
 status: draft
-passages: [mk-01-14-15, mk-04-01-20, mk-04-26-29, mk-04-30-34, mk-09-01-13, mk-10-13-16, mk-14-22-25]
+passages: [mk-01-14-15, mk-04-01-20, mk-04-26-29, mk-04-30-34, mk-09-01-13, mk-10-13-16, mk-14-22-25, mt-03-01-12, mt-04-12-17, mt-04-23-25, mt-05-01-12, mt-07-13-23, mt-11-07-19, mt-11-20-24, mt-13-01-09, mt-13-10-23, mt-13-24-30, mt-13-31-35, mt-13-44-52, mt-20-01-16, mt-22-01-14]
 ---
 ## Question
 

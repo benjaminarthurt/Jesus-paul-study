@@ -2,7 +2,7 @@
 title: Jesus, Paul, and the Mosaic Law
 summary: Continuity, fulfillment, covenant membership, and the status of the Law.
 status: draft
-passages: [mt-05-17-20, mk-07-01-23, ga-03-23-25, ro-07-01-06, mk-01-40-45, mk-02-23-28, mk-03-01-06, mk-07-01-13, mk-07-14-23, mk-12-28-34, mt-05-21-48, mt-15-01-20, lk-16-16-17, ga-02-01-10, ga-02-11-21, ga-03-10-14, ga-05-02-06, ga-05-13-14, ro-03-28-31, ro-07-07-12, ro-08-01-04, ro-10-04-04, ro-13-08-10, ac-15-01-29]
+passages: [ac-15-01-29, ga-02-01-10, ga-02-11-21, ga-03-10-14, ga-03-23-25, ga-05-02-06, ga-05-13-14, lk-16-16-17, mk-01-40-45, mk-02-23-28, mk-03-01-06, mk-07-01-13, mk-07-01-23, mk-07-14-23, mk-12-28-34, mt-04-01-11, mt-05-17-20, mt-05-21-48, mt-08-01-04, mt-12-01-14, mt-15-01-20, mt-17-24-27, mt-19-01-12, mt-22-34-40, ro-03-28-31, ro-07-01-06, ro-07-07-12, ro-08-01-04, ro-10-04-04, ro-13-08-10]
 ---
 ## Research question
 

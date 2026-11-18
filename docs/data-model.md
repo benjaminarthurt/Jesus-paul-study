@@ -79,3 +79,9 @@ Scholarly citation types also support `pastoral-commentary` for accessible minis
 The `women-and-assembly` comparison keeps **1 Timothy/Titus in `context`**, with `paul-disputed` source layers. It uses the undisputed correspondence in `paul` and the Gospel texts in `jesus`, while keeping Acts separately contextual. The `sourceLayer` field is a corpus attribution, **not** authentication of individual disputed phrases within a letter. For 1 Corinthians 14:34–35, `textualStatus: transposed-in-some-manuscripts` and `textualNote` record a location variant, not a surviving omission witness.
 
 The source catalog also distinguishes a **`denominational-report`** from peer-reviewed or historical overviews. A full-text denominational argument is useful as a documented interpretive position but is not an academic consensus.
+
+## Multi-Gospel speech-bearing index (Matthew and Mark)
+
+The `sayings.json` registry accepts `mt-s-CC-VV-VV` and `mk-s-CC-VV-VV` stable IDs, each matched to a parent literary range from the **same book**. New Matthew units follow `mt-CC-VV-VV` and have title, `unitType`, a WEBP chapter URL and editorial summary. The structural validator checks that the 28-chapter Matthew map covers each verse **once**. This is not linguistic extraction or manuscript certification.
+
+The `parallels` array supports Matthew, Mark, Luke and John as **other-Gospel** candidates and rejects within-book self-parallels. `relationship: parallel` means a candidate shared episode or expression; `related` means only a related tradition or teaching. Neither status proves literary dependence, independent attestation, textual identity or a historical reconstruction. Mark's 16:9–20 longer ending remains excluded from core sayings. Read `research/books/matthew.md` for editorial boundaries and limitations.
