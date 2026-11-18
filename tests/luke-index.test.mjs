@@ -76,6 +76,7 @@ test("Luke topic navigation remains reciprocal for every new unit",()=>{
 test("Luke's infancy narratives remain narrative, not teachings attributed to Jesus",()=>{
   assert.ok(byPassage.get("lk-01-26-38")?.unitType==="context");
   assert.ok(byPassage.get("lk-01-46-56")?.unitType==="prayer");
+  assert.equal(byPassage.get("lk-14-12-14")?.unitType,"speech","Unit describes literary form; selected sayings carry instruction speechType");
   assert.ok(!lukeSayings.some(s=>s.chapter===1));
   assert.ok(lukeSayings.some(s=>s.id==="lk-s-02-49-49"));
 });
