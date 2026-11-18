@@ -3,6 +3,7 @@ import Base from "../../layouts/Base.astro";
 import dossiers from "../../../research/index/gospel-parallels.json";
 import books from "../../../research/index/books.json";
 import { getCollection } from "astro:content";
+import { dossierSearchText } from "../../lib/gospel-dossier-search.mjs";
 const topics = await getCollection("topics");
 const topicTitles = new Map(topics.map(t=>[t.id,t.data.title]));
 const bookTitles = new Map(books.map(b=>[b.id,b.title]));
@@ -40,7 +41,7 @@ const kindLabels: Record<string,string> = {
   <p id="dossier-count" class="result-count" role="status" aria-live="polite">{dossiers.length} studies shown</p>
   <section class="card-grid" id="dossier-results" aria-label="Curated Gospel comparisons">
     {dossiers.map(d=><article class="card gospel-dossier-card"
-      data-search={`${d.title} ${d.researchQuestion} ${d.commonGround} ${d.observedDifferences.join(" ")}`.toLowerCase()}
+      data-search={dossierSearchText(d, topicTitles.get(d.topicId) ?? "")}
       data-topic={d.topicId}
       data-type={d.comparisonType}>
       <div class="meta"><span class="status" data-state={d.status}>{d.status}</span><span>{kindLabels[d.comparisonType]}</span></div>

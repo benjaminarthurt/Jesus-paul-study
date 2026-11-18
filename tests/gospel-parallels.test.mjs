@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { parseFrontmatter } from "../scripts/frontmatter.mjs";
+import { dossierSearchText } from "../src/lib/gospel-dossier-search.mjs";
 
 const read=path=>JSON.parse(readFileSync(path,"utf8"));
 const dossiers=read("research/index/gospel-parallels.json");
@@ -127,4 +128,33 @@ test("Gospel comparison dossiers are discoverable from source passage and teachi
   assert.match(teaching,/gospelStudies.map/);
   assert.match(detail,/passages/);
   assert.match(detail,/teachings/);
+});
+
+test("widow's-offering differences reflect the primary Mark/Luke textual contrasts",()=>{
+  const widow=byId.get("widows-offering");
+  assert.match(widow.commonGround,/both.*scribes.*widows/i);
+  assert.match(widow.literaryContext,/shared juxtaposition/i);
+  assert.equal(widow.observedDifferences.length,2);
+  assert.match(widow.observedDifferences[0],/Mark.*summoning his disciples.*Luke.*without an explicit summons/i);
+  assert.match(widow.observedDifferences[1],/Mark.*quadrans.*Luke.*without that conversion/i);
+  assert.ok(!widow.observedDifferences.some(d=>/immediately after criticism|similar juxtaposition/i.test(d)));
+});
+
+test("theme search includes topic IDs and display titles, not just dossier prose",()=>{
+  const index=readFileSync("src/pages/gospel-parallels/index.astro","utf8");
+  assert.match(index,/data-search=\{dossierSearchText\(d, topicTitles.get\(d.topicId\) \?\? ""\)\}/);
+  const allTopics=new Map(dossiers.map(d=>{
+    const meta=parseFrontmatter(readFileSync(`research/topics/${d.topicId}.md`,"utf8"));
+    return [d.topicId,meta.title];
+  }));
+  const wealthy=dossiers.filter(d=>d.topicId==="wealth-poverty");
+  assert.ok(wealthy.length>=3);
+  for(const d of wealthy){
+    const text=dossierSearchText(d,allTopics.get(d.topicId));
+    assert.ok(text.includes("poverty"),d.id);
+    assert.ok(text.includes("obligation"),d.id);
+    assert.ok(text.includes("wealth-poverty"),d.id);
+  }
+  // The helper must preserve ordinary content searching as well.
+  assert.match(dossierSearchText(byId.get("temple-action-placement"),"Authority"),/temple/);
 });

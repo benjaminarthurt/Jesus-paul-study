@@ -338,12 +338,12 @@
     "topicId": "wealth-poverty",
     "comparisonType": "parallel-tradition",
     "researchQuestion": "Does the widow's gift exemplify generosity, expose exploitative leadership, or both?",
-    "commonGround": "Mark and Luke both contrast comparatively large gifts with the small offering of a poor widow and Jesus' attention to her sacrifice.",
+    "commonGround": "Both Mark 12:38–44 and Luke 20:45–21:4 place Jesus' observation of a poor widow donating two tiny coins directly after a warning about scribes who exploit widows; both contrast her total contribution from poverty with the larger gifts of wealthy people.",
     "observedDifferences": [
-      "Mark positions the observation immediately after criticism of leaders who exploit widows.",
-      "Luke preserves a similar juxtaposition with warnings against scribes in the preceding context."
+      "Mark 12:41–43 depicts Jesus seated opposite the treasury and explicitly summoning his disciples to hear his evaluation; Luke 21:1–4 begins with Jesus looking up and reports his response without an explicit summons to disciples.",
+      "Mark 12:42 adds an explanation converting the two small coins to a quadrans; Luke 21:2 reports the same two small coins without that conversion explanation."
     ],
-    "literaryContext": "The narrative order links an observation about sacrificial giving to broader concerns about institutional power and economic vulnerability.",
+    "literaryContext": "The shared juxtaposition of a warning about scribes exploiting widows (Mark 12:38–40; Luke 20:45–47) with the widow's offering (Mark 12:41–44; Luke 21:1–4) invites questions about institutional exploitation alongside generosity. The accounts differ in staging and explanatory detail, but neither records a direct instruction that poor people should surrender everything.",
     "alternativeReading": "The widow may be portrayed as commendable, exploited, or both; the surrounding critique complicates a simple appeal for church donations.",
     "limitation": "Neither narrative records Jesus explicitly instructing poor people to donate their last money.",
     "witnesses": [
