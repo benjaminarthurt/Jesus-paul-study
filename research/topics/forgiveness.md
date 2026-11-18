@@ -2,7 +2,7 @@
 title: Forgiveness and Restoration
 summary: Divine forgiveness, repentance, and the obligation to forgive.
 status: draft
-passages: [mk-02-01-12, mk-03-20-30, mk-11-20-26]
+passages: [mk-02-01-12, mk-03-20-30, mk-11-20-26, mt-06-05-15, mt-09-01-08, mt-18-15-20, mt-18-21-35]
 ---
 ## Question
 

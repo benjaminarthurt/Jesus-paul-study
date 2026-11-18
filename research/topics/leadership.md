@@ -2,7 +2,7 @@
 title: Leadership and Power
 summary: Service, status, domination, and religious prestige.
 status: draft
-passages: [mk-09-33-37, mk-10-35-45, mk-12-13-17]
+passages: [mk-09-33-37, mk-10-35-45, mk-12-13-17, mt-18-01-09, mt-20-20-28, mt-23-01-12, mt-23-13-36, mt-24-45-51, mt-25-14-30]
 ---
 ## Question
 

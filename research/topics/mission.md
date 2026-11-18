@@ -2,7 +2,7 @@
 title: Mission and Witness
 summary: Sending, travel, proclamation, and testimony under pressure.
 status: draft
-passages: [mk-01-16-20, mk-01-35-39, mk-03-07-19, mk-05-01-20, mk-06-07-13, mk-09-38-41, mk-13-09-13, mk-16-09-20]
+passages: [mk-01-16-20, mk-01-35-39, mk-03-07-19, mk-05-01-20, mk-06-07-13, mk-09-38-41, mk-13-09-13, mk-16-09-20, mt-04-18-22, mt-09-35-38, mt-10-01-04, mt-10-05-15, mt-10-16-25, mt-10-26-33, mt-10-34-42, mt-28-16-20]
 ---
 ## Question
 

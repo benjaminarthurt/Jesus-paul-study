@@ -2,7 +2,7 @@
 title: Parables and Understanding
 summary: Parables, public teaching and private explanation.
 status: draft
-passages: [mk-04-01-20, mk-04-21-25, mk-04-26-29, mk-04-30-34, mk-08-14-21, mk-12-01-12, mk-13-28-37]
+passages: [mk-04-01-20, mk-04-21-25, mk-04-26-29, mk-04-30-34, mk-08-14-21, mk-12-01-12, mk-13-28-37, mt-13-01-09, mt-13-10-23, mt-13-24-30, mt-13-31-35, mt-13-36-43, mt-13-44-52, mt-18-10-14, mt-18-21-35, mt-20-01-16, mt-21-28-32, mt-21-33-46, mt-22-01-14, mt-24-45-51, mt-25-01-13, mt-25-14-30]
 ---
 ## Question
 

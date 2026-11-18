@@ -2,7 +2,7 @@
 title: End Times and Judgment
 summary: Temple destruction, warnings, and expectations of the future.
 status: draft
-passages: [mk-09-42-50, mk-13-01-08, mk-13-09-13, mk-13-14-23, mk-13-24-27, mk-13-28-37]
+passages: [mk-09-42-50, mk-13-01-08, mk-13-09-13, mk-13-14-23, mk-13-24-27, mk-13-28-37, mt-13-36-43, mt-24-01-14, mt-24-15-31, mt-24-32-44, mt-25-01-13]
 ---
 ## Question
 

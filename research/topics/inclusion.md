@@ -2,7 +2,7 @@
 title: Outsiders and Belonging
 summary: Fellowship, children, Gentiles, and people excluded by others.
 status: draft
-passages: [mk-02-13-17, mk-03-31-35, mk-05-01-20, mk-07-24-30, mk-09-33-37, mk-09-38-41, mk-10-13-16, mk-12-28-34]
+passages: [mk-02-13-17, mk-03-31-35, mk-05-01-20, mk-07-24-30, mk-09-33-37, mk-09-38-41, mk-10-13-16, mk-12-28-34, mt-08-05-13, mt-09-09-13, mt-15-21-28, mt-18-10-14, mt-19-13-15]
 ---
 ## Question
 
