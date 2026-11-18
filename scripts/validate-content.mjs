@@ -216,7 +216,7 @@ for (const saying of sayings) {
     if (!topicIds.has(topic)) errors.push(label + ": unknown topic " + topic);
     if (parent && !parent.topics.includes(topic)) errors.push(label + ": topic not linked from parent " + topic);
   }
-  if (saying.sourceEdition !== "WEB Updated (66-book edition)" || saying.sourceUrl !== "https://ebible.org/engwebp/MRK" + match[1] + ".htm") {
+  if (saying.sourceEdition !== "World English Bible (Protestant edition)" || saying.sourceUrl !== "https://ebible.org/engwebp/MRK" + match[1] + ".htm") {
     errors.push(label + ": unknown primary edition or chapter URL");
   }
   if (!Array.isArray(saying.parallels)) {
