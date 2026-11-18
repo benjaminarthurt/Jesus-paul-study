@@ -2583,7 +2583,9 @@
     ],
     "status": "draft",
     "unitType": "dialogue",
-    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm",
+    "textualStatus": "variant-verse-21",
+    "textualNote": "The WEBP source footnote identifies Matthew 17:21 as absent from the NU text. This literary range remains indexed for navigation, but the prayer-and-fasting clause requires separate critical-edition review."
   },
   {
     "id": "mt-17-22-23",
@@ -3083,7 +3085,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/MAT25.htm",
-    "unitType": "parable",
+    "unitType": "speech",
     "title": "Judgment and treatment of others"
   },
   {

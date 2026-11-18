@@ -1,22 +1,32 @@
 ---
 import Base from "../../layouts/Base.astro";
 import sayings from "../../../research/index/sayings.json";
+import books from "../../../research/index/books.json";
+import { normalizeQuery } from "../../lib/passage-search.mjs";
 import { getCollection } from "astro:content";
 const topics = await getCollection("topics");
 const topicTitle = new Map(topics.map(t => [t.id,t.data.title]));
 const topicIds = [...new Set(sayings.flatMap(s=>s.topics))].sort((a,b)=>a.localeCompare(b));
 const audienceLabels = [...new Set(sayings.map(s=>s.audience))].sort();
-const sorted = [...sayings].sort((a,b)=>a.chapter-b.chapter || a.startVerse-b.startVerse);
+const indexedBooks = books.filter(b => sayings.some(s=>s.bookId===b.id));
+const bookIndex = new Map(books.map((b,i)=>[b.id,i]));
+const sorted = [...sayings].sort((a,b)=>(bookIndex.get(a.bookId)??99)-(bookIndex.get(b.bookId)??99) || a.chapter-b.chapter || a.startVerse-b.startVerse);
 ---
-<Base title="Teachings attributed to Jesus in Mark" description="Search preliminary Jesus-speech spans in Mark by audience, topic, and reference.">
-  <p class="eyebrow">The Jesus teachings catalog · Mark pilot</p>
+<Base title="Teachings attributed to Jesus in Matthew and Mark" description="Search selected Gospel speech-bearing spans in Matthew and Mark by book, topic, audience, and reference.">
+  <p class="eyebrow">The Jesus teachings catalog · Matthew and Mark pilot</p>
   <h1>Teachings attributed to Jesus</h1>
-  <p class="lead">A developing index of passages containing speech attributed to Jesus in the Gospel of Mark. Each record preserves the scene around the words and distinguishes proposed Gospel parallels from verified equivalences.</p>
+  <p class="lead">A developing index of selected passages containing speech attributed to Jesus in Matthew and Mark. Read each span in its own Gospel context. Similarities with other Gospels are candidate relationships, not proof of identical wording or independent historical witnesses.</p>
   <p class="warning"><strong>Draft inventory only.</strong> These are selected speech-bearing spans, not a complete, verbatim concordance. Some spans include another speaker or a narrator's words. Gospel parallels are research candidates, not established text-critical findings.</p>
   <section class="panel" aria-label="Filter teachings">
     <div class="study-controls">
       <label>Search title, summary, or reference
         <input type="search" id="teaching-search" placeholder="e.g. Sabbath, wealth, Mark 10" autocomplete="off" />
+      </label>
+      <label>Gospel
+        <select id="teaching-book">
+          <option value="">Both indexed Gospels</option>
+          {indexedBooks.map(b=><option value={b.id}>{b.title}</option>)}
+        </select>
       </label>
       <label>Research topic
         <select id="teaching-topic">
@@ -35,11 +45,13 @@ const sorted = [...sayings].sort((a,b)=>a.chapter-b.chapter || a.startVerse-b.st
   <p class="result-count" id="teaching-count" role="status" aria-live="polite">{sorted.length} records shown</p>
   <section class="card-grid" id="teaching-results" aria-label="Speech-bearing passages">
     {sorted.map(s=><article class="card teaching-card"
-      data-search={`${s.reference} ${s.title} ${s.summary}`.toLowerCase()}
+      data-search={normalizeQuery(`${s.reference} ${s.title} ${s.summary}`)}
+      data-book={s.bookId}
       data-topics={s.topics.join(" ")}
       data-audience={s.audience}>
       <div class="meta">
         <strong>{s.reference}</strong>
+        <span>{indexedBooks.find(b=>b.id===s.bookId)?.title ?? s.bookId}</span>
         <span class="status" data-state={s.status}>{s.status}</span>
         <span>{s.speechType.replaceAll("-"," ")}</span>
       </div>
@@ -50,20 +62,25 @@ const sorted = [...sayings].sort((a,b)=>a.chapter-b.chapter || a.startVerse-b.st
   </section>
   <p id="teaching-empty" class="muted" hidden>No records match those filters.</p>
   <script>
+    import { normalizeQuery } from "../../lib/passage-search.mjs";
     const search = document.querySelector<HTMLInputElement>("#teaching-search");
+    const book = document.querySelector<HTMLSelectElement>("#teaching-book");
     const topic = document.querySelector<HTMLSelectElement>("#teaching-topic");
     const audience = document.querySelector<HTMLSelectElement>("#teaching-audience");
-    const cards = Array.from(document.querySelectorAll<HTMLElement>(".teaching-card"));
+    const cards = [...document.querySelectorAll<HTMLElement>(".teaching-card")];
     const count = document.querySelector<HTMLElement>("#teaching-count");
     const empty = document.querySelector<HTMLElement>("#teaching-empty");
-    const update = () => {
-      const q = (search?.value ?? "").trim().toLowerCase();
+    const controls = {q:search,book,topic,audience};
+    const update = (writeUrl = false) => {
+      const q = normalizeQuery(search?.value);
+      const b = book?.value ?? "";
       const t = topic?.value ?? "";
       const a = audience?.value ?? "";
       let visible = 0;
       for (const card of cards) {
         const tags = (card.dataset.topics ?? "").split(" ");
-        const matches = (!q || (card.dataset.search ?? "").includes(q))
+        const matches = (!q || q.split(" ").every(term=>(card.dataset.search ?? "").includes(term)))
+          && (!b || card.dataset.book === b)
           && (!t || tags.includes(t))
           && (!a || card.dataset.audience === a);
         card.hidden = !matches;
@@ -71,9 +88,30 @@ const sorted = [...sayings].sort((a,b)=>a.chapter-b.chapter || a.startVerse-b.st
       }
       if (count) count.textContent = visible + (visible === 1 ? " record shown" : " records shown");
       if (empty) empty.hidden = visible !== 0;
+      if (writeUrl) {
+        const params = new URLSearchParams();
+        if (search?.value.trim()) params.set("q",search.value.trim());
+        if (b) params.set("book",b);
+        if (t) params.set("topic",t);
+        if (a) params.set("audience",a);
+        history.replaceState(null,"",location.pathname + (params.size?"?"+params.toString():""));
+      }
     };
-    search?.addEventListener("input",update);
-    topic?.addEventListener("change",update);
-    audience?.addEventListener("change",update);
+    const restore = () => {
+      const params = new URLSearchParams(location.search);
+      for (const [param,control] of Object.entries(controls)) {
+        if (!control) continue;
+        const val=params.get(param)??"";
+        if (control instanceof HTMLSelectElement) control.value=[...control.options].some(o=>o.value===val)?val:"";
+        else control.value=val;
+      }
+      update();
+    };
+    for (const c of Object.values(controls)) {
+      c?.addEventListener("input",()=>update(true));
+      c?.addEventListener("change",()=>update(true));
+    }
+    window.addEventListener("popstate",restore);
+    restore();
   </script>
 </Base>

@@ -51,3 +51,7 @@ The third evidence-ledger study now differentiates Gospel witnesses, Romans 16 c
 ## Phase-two reference tools (November 2026)
 
 Issue #6 now has a static-first indexed-passage search and two-pane source-linked reference viewer. The UI exposes review-state and attribution labels, shared pair URLs, and a stable per-passage citation route; it does **not** embed full Bible text or claim independent manuscript verification. Canonical absolute URLs activate only once a public deployment origin is configured. See `docs/search-and-reader.md`. Manual accessibility QA and deployment checks remain open.
+
+## Matthew literary and speech-bearing inventory (November 2026)
+
+The first Matthew index assigns all verses in Matthew's 28 chapters to 119 preliminary literary units, including the eight previously indexed study anchors. The draft speech layer adds 75 selected spans with 94 cross-Gospel **candidate** references. The browser now supports Mark and Matthew with book-specific filters, links and textual cautions. The new bounds and parent-link tests establish structural integrity, not final manuscript or historical verification. See `research/books/matthew.md` and `docs/matthew-review-log.md`.

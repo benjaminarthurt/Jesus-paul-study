@@ -9,6 +9,14 @@ export function getStaticPaths() {
 const { saying } = Astro.props;
 const parent = passages.find(p=>p.id === saying.passageId);
 const bookName = new Map(books.map(b=>[b.id,b.title]));
+const sourcePrefixes: Record<string,string> = {mt:"MAT",mk:"MRK",lk:"LUK",jn:"JHN"};
+const candidateChapterUrl = (p: {bookId:string,reference:string}) => {
+  const chapter = Number(p.reference.match(/ (\d+):/)?.[1]);
+  const prefix = sourcePrefixes[p.bookId];
+  return prefix && Number.isInteger(chapter) && chapter > 0
+    ? "https://ebible.org/engwebp/" + prefix + String(chapter).padStart(2,"0") + ".htm"
+    : undefined;
+};
 ---
 <Base title={saying.title} description={saying.summary}>
   <div class="study">
@@ -26,8 +34,9 @@ const bookName = new Map(books.map(b=>[b.id,b.title]));
       <p><strong>Speech span:</strong> {saying.reference}</p>
       <p><strong>Literary unit:</strong> {parent?.reference} — {parent?.title}</p>
       <p>{parent?.summary}</p>
-      <p><a href={saying.sourceUrl} rel="noopener noreferrer" target="_blank">Read Mark {saying.chapter} in {saying.sourceEdition}</a></p>
-      <p><a href={`/books/mk/#${saying.passageId}`}>Browse this passage in Mark's outline</a></p>
+      <p><a href={saying.sourceUrl} rel="noopener noreferrer" target="_blank">Read {bookName.get(saying.bookId)} {saying.chapter} in {saying.sourceEdition}</a></p>
+      <p><a href={`/books/${saying.bookId}/#${saying.passageId}`}>Browse the literary unit in {bookName.get(saying.bookId)}</a></p>
+      <p><a href={`/passages/${saying.passageId}/`}>Source citation and related research</a></p>
     </section>
     {saying.caution && <p class="warning"><strong>Interpretive caution:</strong> {saying.caution}</p>}
     <section class="panel">
@@ -43,6 +52,7 @@ const bookName = new Map(books.map(b=>[b.id,b.title]));
         {saying.parallels.map(p=><li>
           <strong>{p.reference}</strong>
           <span class="meta">{bookName.get(p.bookId)} · {p.relationship === "parallel" ? "similar narrative/saying" : "related tradition or theme"} · {p.status}</span>
+          {candidateChapterUrl(p) && <a href={candidateChapterUrl(p)} target="_blank" rel="noopener noreferrer">Read candidate Gospel chapter</a>}
         </li>)}
       </ul> : <p class="muted">No parallel candidate has been recorded for this entry.</p>}
     </section>

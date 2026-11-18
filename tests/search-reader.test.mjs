@@ -13,7 +13,7 @@ const books = read("research/index/books.json");
 const knownIds = new Set(passages.map(p=>p.id));
 
 test("every indexed passage has a stable URL and a real WEBP chapter reference",()=>{
-  assert.equal(passages.length,134);
+  assert.ok(passages.length >= 245,"Matthew expansion should not reduce the indexed corpus");
   assert.equal(knownIds.size,passages.length);
   for(const passage of passages){
     assert.ok(primaryUrlIsTrusted(passage.sourceUrl), passage.id);

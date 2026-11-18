@@ -25,7 +25,7 @@ Website pages are built from Markdown research files. Edit a topic in `research/
 
 ## Current Gospel research
 
-Mark has a preliminary chapter-by-chapter index of sayings, dialogue, parables, narrated actions and context. Browse `/books/mk/`, or use the selected recorded-speech explorer at `/teachings/`. The new data includes candidate Gospel parallels which are **not yet verified for wording or historical relationship**. The index is **draft** and not exhaustive at the utterance or verse level.
+Matthew and Mark now have preliminary chapter-by-chapter literary-unit maps, distinguishing teachings, narrative, parables, prayers and actions. Browse `/books/mt/` (28 chapters) and `/books/mk/` (16 chapters), or use `/teachings/` to filter selected speech-bearing spans by Gospel. Matthew adds 75 selected sayings and candidate cross-Gospel links, but these are **not verified equivalences**. Both inventories remain **draft** and are not a certified utterance-by-utterance record.
 
 ## Evidence-linked pilot
 
