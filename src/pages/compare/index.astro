@@ -1,0 +1,166 @@
+---
+import Base from "../../layouts/Base.astro";
+import passages from "../../../research/index/passages.json";
+import books from "../../../research/index/books.json";
+import evidence from "../../../research/index/evidence.json";
+import { getCollection } from "astro:content";
+import { defaultPair, corpusLabels, compareHref } from "../../lib/passage-search.mjs";
+
+const studies = await getCollection("comparisons");
+const topicFiles = await getCollection("topics");
+const topicTitles = new Map(topicFiles.map(t=>[t.id,t.data.title]));
+const bookGroups = books.map(book=>({
+  ...book, references: passages.filter(p=>p.bookId===book.id).sort((a,b)=>a.reference.localeCompare(b.reference,undefined,{numeric:true}))
+})).filter(group=>group.references.length>0);
+const leftDefault = passages.find(p=>p.id===defaultPair.left)!;
+const rightDefault = passages.find(p=>p.id===defaultPair.right)!;
+const related = (id: string) => evidence.filter(e=>e.passageIds.includes(id));
+---
+<Base title="Side-by-side Bible passage comparison" description="Compare original passage summaries and source citations side by side, with authorship and textual-variant notices.">
+  <p class="eyebrow">Parallel reference workspace</p>
+  <h1>Compare two passages</h1>
+  <p class="lead">Choose any two indexed passages, read the research summaries side by side, inspect textual cautions, and open each complete Bible chapter at the source.</p>
+  <p class="warning"><strong>These panels are not verse-by-verse Bible text.</strong> They contain original paraphrases and citation metadata. A pairing is a reading aid—not evidence that the passages are direct parallels, independently authored or contradictory. Check the linked primary text and the original context before interpreting.</p>
+  <form id="compare-form" action="/compare/" method="get" class="panel compare-form" hidden>
+    <label>First passage
+      <select id="compare-left-select" name="left">
+        {bookGroups.map(book=><optgroup label={book.title}>
+          {book.references.map(p=><option value={p.id} selected={p.id===defaultPair.left}>{p.reference}</option>)}
+        </optgroup>)}
+      </select>
+    </label>
+    <label>Second passage
+      <select id="compare-right-select" name="right">
+        {bookGroups.map(book=><optgroup label={book.title}>
+          {book.references.map(p=><option value={p.id} selected={p.id===defaultPair.right}>{p.reference}</option>)}
+        </optgroup>)}
+      </select>
+    </label>
+    <div class="compare-buttons">
+      <button class="button" type="submit">Update comparison</button>
+      <button class="button secondary" id="swap-pair" type="button">Swap passages</button>
+    </div>
+  </form>
+  <p id="compare-notice" class="muted" role="status" aria-live="polite" hidden></p>
+  <p class="meta"><a id="compare-permalink" href={compareHref(defaultPair.left,defaultPair.right)}>Permanent link to this pair</a> · <a href="/search/">Search all passages</a></p>
+  <div class="split comparison-reader">
+    <article class="panel compare-pane" id="compare-left" aria-label="First passage">
+      <p class="eyebrow">First passage</p><h2>{leftDefault.reference}</h2>
+      <p class="meta">{corpusLabels[leftDefault.sourceLayer]} · {leftDefault.status}</p>
+      <p>{leftDefault.summary}</p>
+      <p><a href={`/passages/${leftDefault.id}/`}>Research and citations</a> · <a href={leftDefault.sourceUrl} target="_blank" rel="noopener noreferrer">Read WEBP chapter</a></p>
+      <p class="muted">{related(leftDefault.id).length} preliminary research claims linked</p>
+    </article>
+    <article class="panel compare-pane" id="compare-right" aria-label="Second passage">
+      <p class="eyebrow">Second passage</p><h2>{rightDefault.reference}</h2>
+      <p class="meta">{corpusLabels[rightDefault.sourceLayer]} · {rightDefault.status}</p>
+      <p>{rightDefault.summary}</p>
+      <p><a href={`/passages/${rightDefault.id}/`}>Research and citations</a> · <a href={rightDefault.sourceUrl} target="_blank" rel="noopener noreferrer">Read WEBP chapter</a></p>
+      <p class="muted">{related(rightDefault.id).length} preliminary research claims linked</p>
+    </article>
+  </div>
+  <noscript><p class="warning">JavaScript is required to change the selected pair. The two example passages above and the linked research studies remain available without it.</p></noscript>
+  <section class="group" aria-labelledby="curated-studies">
+    <h2 id="curated-studies">Curated studies with competing interpretations</h2>
+    <p>Self-selected pairs are not editorially assessed comparisons. These source-linked studies include observations, counterreadings, limitations and separate authorship treatment.</p>
+    <div class="card-grid">
+      {studies.map(s=><article class="card">
+        <div class="meta"><span class="status" data-state={s.data.status}>{s.data.status}</span><span>{s.data.classification.replaceAll("-"," ")}</span></div>
+        <h3><a href={`/comparisons/${s.id}/`}>{s.data.title}</a></h3><p>{s.data.summary}</p>
+        <a href={compareHref(s.data.jesus[0],s.data.paul[0])}>Open first Gospel / Pauline references</a>
+      </article>)}
+    </div>
+  </section>
+  <script>
+    import passages from "../../../research/index/passages.json";
+    import evidence from "../../../research/index/evidence.json";
+    import { choosePair, compareHref, corpusLabels, defaultPair, primaryUrlIsTrusted } from "../../lib/passage-search.mjs";
+
+    const byId = new Map(passages.map(p=>[p.id,p]));
+    const form = document.querySelector<HTMLFormElement>("#compare-form")!;
+    const first = document.querySelector<HTMLSelectElement>("#compare-left-select")!;
+    const second = document.querySelector<HTMLSelectElement>("#compare-right-select")!;
+    const notice = document.querySelector<HTMLElement>("#compare-notice")!;
+    const permalink = document.querySelector<HTMLAnchorElement>("#compare-permalink")!;
+    const passageClaims = new Map<string,{title:string,comparisonId:string,id:string}[]>();
+    for(const claim of evidence) for(const id of claim.passageIds) {
+      const items=passageClaims.get(id)??[];
+      items.push({title:claim.title,comparisonId:claim.comparisonId,id:claim.id});
+      passageClaims.set(id,items);
+    }
+    const element = (tag: string, text?: string, className?: string) => {
+      const node=document.createElement(tag);
+      if(text!==undefined) node.textContent=text;
+      if(className) node.className=className;
+      return node;
+    };
+    const appendLink = (parent: HTMLElement,url: string,label: string,external=false) => {
+      const a=element("a",label) as HTMLAnchorElement;
+      a.href=url;
+      if(external){a.target="_blank";a.rel="noopener noreferrer";}
+      parent.append(a);
+    };
+    function renderPassage(side:"left"|"right", id:string) {
+      const root=document.querySelector<HTMLElement>(`#compare-${side}`)!;
+      const p=byId.get(id)!;
+      root.replaceChildren();
+      root.append(element("p",side==="left"?"First passage":"Second passage","eyebrow"));
+      root.append(element("h2",p.reference));
+      root.append(element("p",`${corpusLabels[p.sourceLayer]??p.sourceLayer} · ${p.status}`,"meta"));
+      root.append(element("p",p.summary));
+      if("textualNote" in p && p.textualNote){
+        const warn=element("p",undefined,"warning");
+        warn.append(element("strong","Textual caution: "));
+        warn.append(document.createTextNode(p.textualNote));
+        root.append(warn);
+      }
+      const links=element("p",undefined,"compare-links");
+      appendLink(links,`/passages/${p.id}/`,"Research and citation details");
+      if(primaryUrlIsTrusted(p.sourceUrl)){
+        links.append(document.createTextNode(" · "));
+        appendLink(links,p.sourceUrl,"Read original WEBP chapter",true);
+      }
+      root.append(links);
+      const claims=passageClaims.get(p.id)??[];
+      if(claims.length){
+        root.append(element("h3","Related evidence claims"));
+        const ul=element("ul",undefined,"compact-list");
+        for(const claim of claims){
+          const li=element("li");
+          appendLink(li,`/comparisons/${claim.comparisonId}/#${claim.id}`,claim.title);
+          ul.append(li);
+        }
+        root.append(ul);
+      }else root.append(element("p","No claim-level study linked to this passage yet.","muted"));
+    }
+    function applySelection(writeHistory=false) {
+      const pair=choosePair(byId.keys(),{left:first.value,right:second.value});
+      first.value=pair.left;second.value=pair.right;
+      renderPassage("left",pair.left);
+      renderPassage("right",pair.right);
+      const url=compareHref(pair.left,pair.right);
+      permalink.href=url;
+      if(writeHistory) history.pushState(null,"",url);
+    }
+    function restore() {
+      const params=new URLSearchParams(location.search);
+      const raw={left:params.get("left")??undefined,right:params.get("right")??undefined};
+      const chosen=choosePair(byId.keys(),raw,defaultPair);
+      first.value=chosen.left; second.value=chosen.right;
+      const invalid=(raw.left && raw.left!==chosen.left)||(raw.right && raw.right!==chosen.right);
+      notice.hidden=!invalid;
+      notice.textContent=invalid?"One or more passage IDs in the link were unknown; default references were used.":"";
+      applySelection(false);
+    }
+    form.hidden=false;
+    form.addEventListener("submit",e=>{e.preventDefault();notice.hidden=true;applySelection(true);});
+    first.addEventListener("change",()=>{notice.hidden=true;applySelection(true);});
+    second.addEventListener("change",()=>{notice.hidden=true;applySelection(true);});
+    document.querySelector("#swap-pair")?.addEventListener("click",()=>{
+      const previous=first.value;first.value=second.value;second.value=previous;
+      notice.hidden=true;applySelection(true);
+    });
+    window.addEventListener("popstate",restore);
+    restore();
+  </script>
+</Base>

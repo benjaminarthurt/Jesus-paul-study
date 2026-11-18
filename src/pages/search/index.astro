@@ -1,0 +1,135 @@
+---
+import Base from "../../layouts/Base.astro";
+import passages from "../../../research/index/passages.json";
+import books from "../../../research/index/books.json";
+import { getCollection } from "astro:content";
+import { passageSearchText, corpusLabels, compareHref } from "../../lib/passage-search.mjs";
+
+const topics = await getCollection("topics");
+const topicLabels = new Map(topics.map(t => [t.id,t.data.title]));
+const bookTitles = new Map(books.map(b => [b.id,b.title]));
+const indexed = passages.map(p => ({
+  ...p,
+  search: passageSearchText(p, bookTitles.get(p.bookId), p.topics.map(t => topicLabels.get(t) ?? t))
+})).sort((a,b) => {
+  const orderA = books.findIndex(book => book.id === a.bookId);
+  const orderB = books.findIndex(book => book.id === b.bookId);
+  return orderA - orderB || a.reference.localeCompare(b.reference,undefined,{numeric:true});
+});
+const layers = [...new Set(indexed.map(p=>p.sourceLayer))];
+const statuses = ["draft","source-checked","reviewed"];
+---
+<Base title="Search indexed Bible passages" description="Search original research summaries, biblical references, topics, authorship categories and textual cautions.">
+  <p class="eyebrow">Reference index · {indexed.length} passage records</p>
+  <h1>Search the passages</h1>
+  <p class="lead">Search all indexed Gospel, Pauline and contextual passages by reference, topic, book, or research summary. Follow each source back to its chapter in the World English Bible Protestant edition.</p>
+  <p class="warning"><strong>Research index, not a full Bible concordance.</strong> Search matches original editorial summaries and metadata, <em>not</em> every word of Scripture. Many books have only selected passages indexed; `draft` does not mean a passage is independently verified.</p>
+  <section class="panel" aria-label="Search filters">
+    <form class="search-filters" id="passage-filters" role="search">
+      <label class="search-wide">Search reference, title, summary or theme
+        <input id="query" name="q" type="search" placeholder="e.g. Romans 16, sabbath, poor, women" autocomplete="off" />
+      </label>
+      <label>Biblical book
+        <select id="book" name="book">
+          <option value="">All 27 books</option>
+          {books.map(b => <option value={b.id}>{b.title}</option>)}
+        </select>
+      </label>
+      <label>Corpus / attribution
+        <select id="corpus" name="corpus">
+          <option value="">All source groups</option>
+          {layers.map(layer => <option value={layer}>{corpusLabels[layer] ?? layer}</option>)}
+        </select>
+      </label>
+      <label>Research topic
+        <select id="topic" name="topic">
+          <option value="">All topics</option>
+          {[...topics].sort((a,b)=>a.data.title.localeCompare(b.data.title)).map(t => <option value={t.id}>{t.data.title}</option>)}
+        </select>
+      </label>
+      <label>Review status
+        <select id="status" name="status">
+          <option value="">All statuses</option>
+          {statuses.map(s => <option value={s}>{s.replaceAll("-"," ")}</option>)}
+        </select>
+      </label>
+      <label class="checkbox-filter"><input type="checkbox" id="variant" name="variant" value="1" /> Textual-variant warnings only</label>
+      <button class="button secondary" type="reset" id="clear-search">Clear filters</button>
+    </form>
+  </section>
+  <p class="result-count" id="passage-count" aria-live="polite" role="status">{indexed.length} passage records shown</p>
+  <div id="search-results" class="search-results" aria-label="Matching passages">
+    {indexed.map(p=><article class="card passage-card"
+      data-search={p.search} data-book={p.bookId} data-topics={p.topics.join(" ")}
+      data-corpus={p.sourceLayer} data-status={p.status}
+      data-variant={Boolean("textualStatus" in p && p.textualStatus)}>
+      <div class="meta">
+        <strong>{p.reference}</strong>
+        <span class="status" data-state={p.status}>{p.status}</span>
+        <span>{corpusLabels[p.sourceLayer] ?? p.sourceLayer}</span>
+      </div>
+      {("title" in p && p.title) ? <h2>{p.title}</h2> : <h2>{p.reference}</h2>}
+      <p>{p.summary}</p>
+      {"textualNote" in p && p.textualNote && <p class="warning"><strong>Textual caution:</strong> {p.textualNote}</p>}
+      <div class="meta">{p.topics.map(id=><a href={`/topics/${id}/`}>{topicLabels.get(id) ?? id}</a>)}</div>
+      <div class="passage-actions">
+        <a href={`/passages/${p.id}/`}>Research &amp; citations</a>
+        <a href={compareHref(p.sourceLayer.startsWith("jesus-") ? p.id : "mt-05-17-20",p.sourceLayer.startsWith("jesus-") ? "ga-03-23-25" : p.id)}>Compare side by side</a>
+        {p.sourceUrl && <a href={p.sourceUrl} target="_blank" rel="noopener noreferrer">Bible chapter (WEBP)</a>}
+      </div>
+    </article>)}
+  </div>
+  <p id="search-empty" class="muted" hidden>No records match your filters. Try clearing a filter or searching for a broader term.</p>
+  <noscript><p class="warning">Filtering requires JavaScript. All indexed passages are listed below, and every reference link works without scripting.</p></noscript>
+  <script>
+    import { matchesPassage } from "../../lib/passage-search.mjs";
+    const form = document.querySelector<HTMLFormElement>("#passage-filters");
+    const cards = [...document.querySelectorAll<HTMLElement>(".passage-card")];
+    const count = document.querySelector<HTMLElement>("#passage-count");
+    const empty = document.querySelector<HTMLElement>("#search-empty");
+    const names = ["q","book","corpus","topic","status"];
+    function restoreFromUrl() {
+      if (!form) return;
+      const params = new URLSearchParams(location.search);
+      for (const name of names) {
+        const input = form.elements.namedItem(name) as HTMLInputElement | HTMLSelectElement | null;
+        if (!input) continue;
+        const value = params.get(name) ?? "";
+        if (input instanceof HTMLSelectElement) input.value = [...input.options].some(option=>option.value===value) ? value : "";
+        else input.value = value;
+      }
+      (form.elements.namedItem("variant") as HTMLInputElement).checked = params.get("variant") === "1";
+      update(false);
+    }
+    function update(writeUrl: boolean) {
+      if (!form) return;
+      const get = (name: string) => (form.elements.namedItem(name) as HTMLInputElement | HTMLSelectElement)?.value ?? "";
+      const values = { query: get("q"), book: get("book"), corpus: get("corpus"), topic: get("topic"),
+        status: get("status"), variantOnly: (form.elements.namedItem("variant") as HTMLInputElement).checked };
+      let visible=0;
+      for (const card of cards) {
+        const match = matchesPassage({
+          search: card.dataset.search, book: card.dataset.book, corpus: card.dataset.corpus,
+          topics: card.dataset.topics, status: card.dataset.status, variant: card.dataset.variant
+        }, values);
+        card.hidden = !match;
+        if (match) visible++;
+      }
+      if (count) count.textContent = `${visible} of ${cards.length} passage records shown`;
+      if (empty) empty.hidden = visible !== 0;
+      if (writeUrl) {
+        const params = new URLSearchParams();
+        for (const name of names) if (get(name)) params.set(name,get(name));
+        if (values.variantOnly) params.set("variant","1");
+        const url = location.pathname + (params.size ? `?${params.toString()}` : "");
+        history.replaceState(null,"",url);
+      }
+    }
+    form?.addEventListener("input",()=>update(true));
+    form?.addEventListener("change",()=>update(true));
+    form?.addEventListener("submit",e=>{e.preventDefault();update(true);});
+    form?.addEventListener("reset",()=>{requestAnimationFrame(()=>update(true));});
+    window.addEventListener("popstate",restoreFromUrl);
+    restoreFromUrl();
+  </script>
+</Base>

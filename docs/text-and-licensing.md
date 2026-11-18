@@ -11,3 +11,9 @@ Greek/Hebrew text editions, critical apparatus, modern commentaries, and scholar
 ## Edition correction (November 2026)
 
 The `engwebp` URL used by the project denotes the **World English Bible (Protestant edition)**, according to [eBible.org's edition description](https://ebible.org/details.php?id=engwebp). Its text is described there as otherwise identical to the Updated translation, but the edition's displayed name should be precise. The earlier `WEB Updated (66-book edition)` metadata on Mark saying records has been corrected. The Bible translation is described by its publisher as public domain, while the name "World English Bible" is a trademark. When republishing or changing actual translation text, honor the publisher's distinction.
+
+## Search and reference reader (November 2026)
+
+The new `/search/`, `/passages/<id>/` and `/compare/` pages display original summaries and source metadata with **chapter-level eBible links**; they do not copy the translated verse text. The [edition's publisher page](https://ebible.org/details.php?id=engwebp) states that the World English Bible Protestant edition is public domain but the World English Bible name is trademarked. Do not claim that edited or amalgamated text is the unchanged WEBP translation.
+
+Precise external verse deep links are not assumed: the display citation contains the verse range, while eBible links target checked chapter pages. Adding in-page verse anchors, full text, a different edition or a translated Greek apparatus requires separate verification and license analysis.

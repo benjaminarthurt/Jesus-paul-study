@@ -48,6 +48,7 @@ const kindLabels: Record<string,string> = {
           <span class="status" data-state={ref.status}>{ref.status}</span>
         </div>
         {"title" in ref && ref.title && <h3>{ref.title}</h3>}
+        <div class="passage-actions"><a href={"/passages/" + ref.id + "/"}>Research and citations</a>{ref.sourceUrl && <a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">WEBP chapter</a>}</div>
         <p>{ref.summary}</p>
         {"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}
         <div class="meta">{ref.topics.map(t => <a href={`/topics/${t}/`}>{t.replaceAll("-"," ")}</a>)}</div>
@@ -58,8 +59,10 @@ const kindLabels: Record<string,string> = {
     <p class="warning">Coverage is developing. The references below are only an initial catalog, not an exhaustive account of this book.</p>
     <section class="study">
       <h2>Indexed passages ({visible.length})</h2>
-      {visible.length ? visible.map(ref => <div class="reference">
+      {visible.length ? visible.map(ref => <div class="reference" id={ref.id}>
         <strong>{ref.reference}</strong><span>{ref.summary}</span>
+        <p class="passage-actions"><a href={"/passages/" + ref.id + "/"}>Research and citations</a>{ref.sourceUrl && <a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">WEBP chapter</a>}</p>
+        {"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}
         <p>{ref.topics.map(t => <a href={`/topics/${t}/`} style="margin-right:1rem">{t.replaceAll("-"," ")}</a>)}</p>
       </div>) : <p class="muted">Not yet cataloged. This book is on the research roadmap.</p>}
     </section>

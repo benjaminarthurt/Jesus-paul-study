@@ -17,7 +17,7 @@ const refs = entry.data.passages.map(id => passages.find(p => p.id === id)).filt
     <div class="kicker"><span class="status" data-state={entry.data.status}>{entry.data.status}</span></div>
     <section class="panel">
       <h2>Starter passage index</h2>
-      {refs.map(ref => <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span></div>)}
+      {refs.map(ref => <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span><p class="meta"><span>{ref.sourceLayer.replaceAll("-"," ")}</span><span class="status" data-state={ref.status}>{ref.status}</span>{ref.sourceUrl && <a href={ref.sourceUrl} rel="noopener noreferrer" target="_blank">WEBP chapter</a>}</p>{"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}</div>)}
     </section>
     <article class="prose"><Content /></article>
     <p class="warning">This is an evolving research note. Source review and a full counterargument audit remain pending.</p>

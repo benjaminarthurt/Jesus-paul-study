@@ -4,6 +4,7 @@ import { getCollection, render } from "astro:content";
 import passages from "../../../research/index/passages.json";
 import sources from "../../../research/index/sources.json";
 import evidenceRows from "../../../research/index/evidence.json";
+import { compareHref } from "../../lib/passage-search.mjs";
 export async function getStaticPaths() {
   const entries = await getCollection("comparisons");
   return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
@@ -29,14 +30,15 @@ const evaluationLabels: Record<string,string> = {
   <p class="eyebrow">Comparison · {entry.data.classification.replaceAll("-", " ")}</p>
   <h1>{entry.data.title}</h1><p class="lead">{entry.data.summary}</p>
   <div class="kicker"><span class="status" data-state={entry.data.status}>{entry.data.status}</span></div>
+  <p><a class="button secondary" href={compareHref(entry.data.jesus[0],entry.data.paul[0])}>Open first Gospel and Pauline references side by side</a></p>
   <section class="split" aria-label="Passages being compared">
     <div class="panel">
       <h2>Jesus in the Gospels</h2>
-      {jesusRefs.map(ref => ref && <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}</div>)}
+      {jesusRefs.map(ref => ref && <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}</div>)}
     </div>
     <div class="panel">
       <h2>Paul / writings attributed to Paul</h2>
-      {paulRefs.map(ref => ref && <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}{"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}</div>)}
+      {paulRefs.map(ref => ref && <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}{"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}</div>)}
     </div>
   </section>
 
@@ -45,7 +47,7 @@ const evaluationLabels: Record<string,string> = {
     <p class="muted">These texts add background but do not become direct quotations by Jesus or Paul merely by appearing in this comparison.</p>
     {contextRefs.map(ref => ref && <div class="reference">
       <div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship disputed — contextual witness, not uncontested Paul" : ref.sourceLayer === "acts" ? "Acts — narrative witness, not Paul\u0027s own account" : "Additional contextual witness"}</div>
-      <strong>{ref.reference}</strong><span>{ref.summary}</span>
+      <strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span>
       {"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read the passage in context</a></p>}
     </div>)}
   </section>}
