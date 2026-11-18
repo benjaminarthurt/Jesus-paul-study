@@ -100,4 +100,4 @@ Particularly important safeguards are protecting poor donors from coercive fundr
 
 ## Sources and revision record
 
-This pilot has a claim-by-claim evidence ledger and linked bibliography. See the [wealth pilot review log](/methodology/) for general methodological guidance; detailed outstanding source-audit tasks are maintained in `docs/wealth-poverty-review-log.md` in the repository. Revision history will remain in Git.
+This pilot has a claim-by-claim evidence ledger and linked bibliography. See the [research methodology](/methodology/) for general guidance; detailed outstanding source-audit tasks are maintained in `docs/wealth-poverty-review-log.md` in the repository. Revision history will remain in Git.

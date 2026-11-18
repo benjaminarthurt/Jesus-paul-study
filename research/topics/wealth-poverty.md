@@ -2,7 +2,7 @@
 title: Wealth, Poverty, and Obligation
 summary: Jesus' warnings about wealth and Paul's teachings about generosity and mutual aid.
 status: draft
-passages: [lk-06-20-26, mk-10-17-31, mt-25-31-46, 2co-08-01-15, mk-04-01-20, mk-06-30-44, mk-08-01-10, mk-12-38-40, mk-12-41-44, mk-14-01-11, mk-11-12-19]
+passages: [1co-16-01-04, 1ti-06-06-19, 2co-08-01-15, 2co-09-01-15, ac-04-32-37, ga-02-01-10, lk-06-20-26, lk-12-13-21, lk-12-22-34, lk-16-19-31, lk-18-18-30, lk-19-01-10, mk-04-01-20, mk-06-30-44, mk-08-01-10, mk-10-17-31, mk-11-12-19, mk-12-38-40, mk-12-41-44, mk-14-01-11, mt-06-19-24, mt-06-25-34, mt-19-16-30, mt-25-31-46, ro-12-09-13, ro-15-25-28]
 ---
 ## Research question
 
