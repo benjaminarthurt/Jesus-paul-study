@@ -73,3 +73,9 @@ Validator checks that a claim's passage and source IDs exist **and are declared 
 The `wealth-and-generosity` comparison uses the same evidence source IDs and status model as the Mosaic Law study. It includes Luke, Mark, Matthew, undisputed Pauline collection letters, and separate context witnesses from Acts (`acts`) and 1 Timothy (`paul-disputed`). The UI labels those contextual groups explicitly.
 
 Scholarly citation types also support `pastoral-commentary` for accessible ministerial commentary that must not be misrepresented as a peer-reviewed paper. Source access is tracked independently of publication category; a peer-reviewed article listed as `publisher-abstract-only` must not be treated as having been read in full.
+
+## Women and authority pilot: authorship and variants
+
+The `women-and-assembly` comparison keeps **1 Timothy/Titus in `context`**, with `paul-disputed` source layers. It uses the undisputed correspondence in `paul` and the Gospel texts in `jesus`, while keeping Acts separately contextual. The `sourceLayer` field is a corpus attribution, **not** authentication of individual disputed phrases within a letter. For 1 Corinthians 14:34–35, `textualStatus: transposed-in-some-manuscripts` and `textualNote` record a location variant, not a surviving omission witness.
+
+The source catalog also distinguishes a **`denominational-report`** from peer-reviewed or historical overviews. A full-text denominational argument is useful as a documented interpretive position but is not an academic consensus.

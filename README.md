@@ -35,6 +35,10 @@ The Law and Faith comparison now has a six-claim evidence ledger, bibliography w
 
 The new `/comparisons/wealth-and-generosity/` study compares Gospel wealth warnings with Paul's organized giving, includes counterreadings on the identity of "the least" in Matthew 25 and the widow in Mark 12, and protects the distinction between undisputed Paul, Acts and disputed Pauline letters. It is **draft research** supported by a claim-level evidence ledger and bibliography with access-scope labels.
 
+## Women and authority pilot
+
+`/comparisons/women-and-assembly/` compares Gospel accounts of women, Paul's coworkers and women's worship activity, with disputed 1 Corinthians 14:34–35 and the Pastorals explicitly identified. The evidence-ledger claims have source and counterreading links. This is **draft**, not a settled church leadership determination.
+
 ## Explore
 
 - [Project charter](docs/project-charter.md)

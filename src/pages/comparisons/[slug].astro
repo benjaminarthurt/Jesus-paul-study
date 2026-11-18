@@ -36,7 +36,7 @@ const evaluationLabels: Record<string,string> = {
     </div>
     <div class="panel">
       <h2>Paul / writings attributed to Paul</h2>
-      {paulRefs.map(ref => ref && <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}</div>)}
+      {paulRefs.map(ref => ref && <div class="reference"><strong>{ref.reference}</strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}{"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}</div>)}
     </div>
   </section>
 
