@@ -114,3 +114,17 @@ test("responsive four-Gospel routes link research, source text, and compared pas
   assert.match(home,/href="\/gospel-parallels\/"/);
   assert.match(compare,/href="\/gospel-parallels\/"/);
 });
+
+test("Gospel comparison dossiers are discoverable from source passage and teaching pages",()=>{
+  const detail=readFileSync("src/pages/gospel-parallels/[id].astro","utf8");
+  const source=readFileSync("src/pages/passages/[id].astro","utf8");
+  const teaching=readFileSync("src/pages/teachings/[id].astro","utf8");
+  assert.match(source,/gospelDossiers.filter/);
+  assert.match(source,/gospelStudies.map/);
+  assert.match(source,/gospel-parallels/);
+  assert.match(teaching,/gospelDossiers.filter/);
+  assert.match(teaching,/w.sayingId===saying.id/);
+  assert.match(teaching,/gospelStudies.map/);
+  assert.match(detail,/passages/);
+  assert.match(detail,/teachings/);
+});
