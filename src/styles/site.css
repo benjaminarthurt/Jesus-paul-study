@@ -113,3 +113,16 @@ p {max-width:78ch}
 .parallel-list li {margin-block:.65rem}
 .parallel-list span {display:block}
 @media(max-width:800px){.study-controls{grid-template-columns:1fr}}
+
+/* Source-linked comparisons */
+.evidence-section {margin-top:2.25rem;margin-bottom:2.25rem}
+.evidence-list {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,350px),1fr));gap:1rem;align-items:start}
+.evidence-item h3 {margin:.55rem 0 1rem}
+.evidence-item h4 {margin:1.1rem 0 .25rem;font-size:.83rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.evidence-item p {margin:.1rem 0 .7rem}
+.evidence-refs {border-top:1px solid var(--line);padding-top:.55rem;margin-top:.55rem;font-size:.9rem}
+.evidence-refs strong {margin-right:.4rem}
+.source-list {padding-left:1.4rem}
+.source-list li {padding:.4rem 0 1rem}
+.source-list li span,.source-list li small {display:block;color:var(--muted)}
+.source-list li small {font-size:.84rem}

@@ -54,3 +54,16 @@ Each Markdown file is a URL-addressable research record and may be used in multi
 - `status`: always `draft` until textual checks, manuscript review and source citation audit are complete
 
 **Important:** An indexed range may include an interlocutor or narrator. It should be called a **speech-bearing span**, not a verified quotation of Jesus in its entirety. A later pass must identify clause-level speech boundaries and sources for ancient language, translation, and variants. A parallel candidate is only a navigation/research lead, not proof of identity or independence.
+
+## Source catalog and evidence ledger
+
+`research/index/sources.json` records the exact published source (including author, title, publisher, year, URL, and cited location) and declares the **access scope**. A publisher-abstract-only reading cannot be used to assert claims about pages not seen.
+
+`research/index/evidence.json` contains per-claim evidence objects keyed by `comparisonId`, with IDs, observation, alternate reading, limitation, classification, linked `passageIds`, and linked `sourceIds`.
+
+Optional comparison Markdown frontmatter fields:
+
+- `context`: additional passage IDs from any corpus (including Acts) used as contextual evidence, not misattributed to Jesus or Paul.
+- `sourceIds`: source catalog records used for this comparison.
+
+Validator checks that a claim's passage and source IDs exist **and are declared within its comparison**. Source access level and scholarly status must not be inferred from the presence of a URL. Evidence is displayed in the website with observation, counterreading and limitation in equally visible fields.

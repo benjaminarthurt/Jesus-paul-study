@@ -22,6 +22,8 @@ export const collections = {
       status,
       jesus: passageIds,
       paul: passageIds,
+      context: passageIds.optional(),
+      sourceIds: passageIds.optional(),
       classification: z.enum([
         "agreement",
         "different-emphasis",

@@ -2,7 +2,7 @@
 title: Jesus, Paul, and the Mosaic Law
 summary: Continuity, fulfillment, covenant membership, and the status of the Law.
 status: draft
-passages: [mt-05-17-20, mk-07-01-23, ga-03-23-25, ro-07-01-06, mk-01-40-45, mk-02-23-28, mk-03-01-06, mk-07-01-13, mk-07-14-23, mk-12-28-34]
+passages: [mt-05-17-20, mk-07-01-23, ga-03-23-25, ro-07-01-06, mk-01-40-45, mk-02-23-28, mk-03-01-06, mk-07-01-13, mk-07-14-23, mk-12-28-34, mt-05-21-48, mt-15-01-20, lk-16-16-17, ga-02-01-10, ga-02-11-21, ga-03-10-14, ga-05-02-06, ga-05-13-14, ro-03-28-31, ro-07-07-12, ro-08-01-04, ro-10-04-04, ro-13-08-10, ac-15-01-29]
 ---
 ## Research question
 
@@ -23,4 +23,4 @@ Matthew 5:17–20 and Galatians 3:23–25 are often compared but occur in very d
 
 Include readings that find continuity through Christ and readings that find a substantial shift in the Law's normative role. No final conclusion is assigned.
 
-**Research state:** outline only; primary-text and scholarly source checks pending.
+**Research state:** still draft, but an initial source-linked comparison now exists at [The Law and Faith](../comparisons/law-and-faith.md). Refer to that study for competing readings and bibliography. Source checking is not equivalent to independent scholarly review.

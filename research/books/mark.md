@@ -4,7 +4,7 @@
 
 ## Primary source
 
-World English Bible Updated (66-book edition): [Mark chapter index](https://ebible.org/engwebp/MRK.htm). Each passage record in `research/index/passages.json` includes a link to the source chapter. Original summaries are paraphrases, not biblical quotations.
+World English Bible (Protestant edition): [Mark chapter index](https://ebible.org/engwebp/MRK.htm). Each passage record in `research/index/passages.json` includes a link to the source chapter. Original summaries are paraphrases, not biblical quotations.
 
 ## What is indexed?
 
