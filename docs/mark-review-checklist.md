@@ -5,6 +5,8 @@
 - [x] Link records to the stated WEB Updated text edition
 - [x] Flag the disputed longer ending, Mark 16:9–20
 - [ ] Check each range and summary against multiple translations
+- [x] Establish a preliminary set of speech-bearing spans with audiences and original summaries
+- [x] Establish a candidate Synoptic/John cross-reference list, explicitly provisional
 - [ ] Identify every verbatim Jesus-speech segment and its audience
 - [ ] Annotate all relevant textual variants against scholarly critical editions
 - [ ] Map Synoptic parallels and quotation sources

@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import books from "../../../research/index/books.json";
 import passages from "../../../research/index/passages.json";
+import sayings from "../../../research/index/sayings.json";
 export function getStaticPaths() {
   return books.map(book => ({ params: { slug: book.id }, props: { book } }));
 }
@@ -40,7 +41,7 @@ const kindLabels: Record<string,string> = {
         <h2>Chapter {group.chapter}</h2>
         <a href={`https://ebible.org/engwebp/MRK${String(group.chapter).padStart(2,"0")}.htm`} target="_blank" rel="noopener noreferrer">Read chapter (WEB)</a>
       </div>
-      {group.records.map(ref=><article class="reference unit">
+      {group.records.map(ref=><article class="reference unit" id={ref.id}>
         <div class="meta">
           <strong>{ref.reference}</strong>
           {"unitType" in ref && ref.unitType && <span class="unit-label" data-kind={ref.unitType}>{kindLabels[ref.unitType] || ref.unitType}</span>}
@@ -50,6 +51,7 @@ const kindLabels: Record<string,string> = {
         <p>{ref.summary}</p>
         {"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}
         <div class="meta">{ref.topics.map(t => <a href={`/topics/${t}/`}>{t.replaceAll("-"," ")}</a>)}</div>
+        {sayings.filter(s => s.passageId === ref.id).length > 0 && <p><a href="/teachings/">Explore recorded speech in this passage</a></p>}
       </article>)}
     </section>)}
   </> : <>

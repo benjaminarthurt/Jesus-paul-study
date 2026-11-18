@@ -120,6 +120,65 @@ if (!longerEnding || longerEnding.textualStatus !== "disputed-longer-ending" || 
   errors.push("Disputed Mark 16:9–20 must carry an explicit textual warning");
 }
 
+
+const sayings = readJson("research/index/sayings.json");
+const sayingTypes = new Set(["proclamation", "call", "instruction", "response", "illustration", "question", "parable", "explanation", "argument", "teaching", "critique", "observation", "warning", "symbolic-action", "prayer"]);
+const audiences = new Set(["public", "crowd", "disciples", "individual", "individuals", "questioners", "opponents", "onlookers", "God"]);
+checkUnique(sayings, "id", "sayings");
+for (const saying of sayings) {
+  const label = "Saying " + String(saying.id);
+  const match = /^mk-s-(\d{2})-(\d{2})-(\d{2})$/.exec(saying.id || "");
+  if (!match) { errors.push(label + ": invalid ID"); continue; }
+  const [chapter, first, last] = match.slice(1).map(Number);
+  const expectedRef = "Mark " + chapter + ":" + first + (first === last ? "" : "–" + last);
+  if (saying.chapter !== chapter || saying.startVerse !== first || saying.endVerse !== last || first < 1 || last < first || chapter < 1 || chapter > 16) {
+    errors.push(label + ": invalid chapter or verse bounds");
+  }
+  if (saying.bookId !== "mk" || saying.reference !== expectedRef) errors.push(label + ": reference / ID mismatch");
+  const parent = passagesById.get(saying.passageId);
+  if (!parent || parent.bookId !== "mk") {
+    errors.push(label + ": unknown or non-Markan parent");
+  } else {
+    const bounds = /^mk-(\d{2})-(\d{2})-(\d{2})$/.exec(parent.id);
+    if (!bounds || Number(bounds[1]) !== chapter || first < Number(bounds[2]) || last > Number(bounds[3])) {
+      errors.push(label + ": verses outside parent literary unit");
+    }
+    if (parent.unitType === "disputed" || chapter === 16) errors.push(label + ": Mark 16 longer ending must be held outside core sayings");
+  }
+  if (!statuses.has(saying.status)) errors.push(label + ": invalid status");
+  if (!sayingTypes.has(saying.speechType)) errors.push(label + ": invalid speechType");
+  if (!audiences.has(saying.audience)) errors.push(label + ": invalid audience");
+  if (typeof saying.title !== "string" || !saying.title.trim() || typeof saying.summary !== "string" || !saying.summary.trim()) {
+    errors.push(label + ": missing title/summary");
+  }
+  for (const topic of requireStrings(saying.topics, label + " topics")) {
+    if (!topicIds.has(topic)) errors.push(label + ": unknown topic " + topic);
+    if (parent && !parent.topics.includes(topic)) errors.push(label + ": topic not linked from parent " + topic);
+  }
+  if (saying.sourceEdition !== "WEB Updated (66-book edition)" || saying.sourceUrl !== "https://ebible.org/engwebp/MRK" + match[1] + ".htm") {
+    errors.push(label + ": unknown primary edition or chapter URL");
+  }
+  if (!Array.isArray(saying.parallels)) {
+    errors.push(label + ": missing parallel candidates");
+    continue;
+  }
+  const related = new Set();
+  for (const p of saying.parallels) {
+    const book = booksById.get(p.bookId);
+    if (!book || !["mt","lk","jn"].includes(book.id)) errors.push(label + ": parallel book must be Matthew, Luke or John");
+    if (!["parallel", "related"].includes(p.relationship) || p.status !== "candidate") errors.push(label + ": unvalidated parallel relation");
+    if (typeof p.reference !== "string" || !/^(Matthew|Luke|John) \d+:\d+(?:[–-]\d+)?$/.test(p.reference)) errors.push(label + ": invalid parallel reference");
+    if (book && !p.reference.startsWith(book.title + " ")) errors.push(label + ": parallel book label mismatch");
+    if (related.has(p.reference)) errors.push(label + ": duplicate parallel " + p.reference);
+    related.add(p.reference);
+  }
+}
+if (sayings.length < 35) errors.push("Mark speech-bearing pilot unexpectedly incomplete");
+const contestedMark = sayings.find(s => s.id === "mk-s-07-18-23");
+if (!contestedMark || !contestedMark.caution) errors.push("Mark 7:19 narrative/translation caution is missing from saying detail");
+const widowsSaying = sayings.find(s => s.id === "mk-s-12-43-44");
+if (!widowsSaying || !widowsSaying.caution) errors.push("Mark 12 widow passage requires interpretation caution");
+
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exitCode = 1;

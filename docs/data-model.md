@@ -37,3 +37,20 @@ Each Markdown file is a URL-addressable research record and may be used in multi
 ## Future extension
 
 `research/sources/` will gain source records with edition, DOI/ISBN, URL, relevant page references, bibliography status, and citation keys. Claims will receive their own traceable evidence IDs. Do not present the current pilot content as source-checked.
+
+## Speech-bearing passage spans
+
+`research/index/sayings.json` is the early fine-grained layer for a **selected** set of passages with speech attributed to Jesus. Records include:
+
+- `id`: stable scoped ID (for example, `mk-s-12-29-31`)
+- `passageId`: required reference to a parent literary unit in `passages.json`
+- `chapter`, `startVerse`, `endVerse`, `reference`
+- `title`, `summary`: editorial paraphrase, not a quotation
+- `speechType`: an editorial category (instruction, response, parable, prayer, etc.)
+- `audience`: the immediate narrated audience, not an assertion about universal application
+- `topics`: links to existing topic slugs; also must belong to parent topic set
+- `parallels`: candidate `bookId`, `reference`, `relationship` (`parallel` or `related`), `status: candidate`
+- `sourceEdition` / `sourceUrl`: version and primary text chapter; optional `caution`
+- `status`: always `draft` until textual checks, manuscript review and source citation audit are complete
+
+**Important:** An indexed range may include an interlocutor or narrator. It should be called a **speech-bearing span**, not a verified quotation of Jesus in its entirety. A later pass must identify clause-level speech boundaries and sources for ancient language, translation, and variants. A parallel candidate is only a navigation/research lead, not proof of identity or independence.

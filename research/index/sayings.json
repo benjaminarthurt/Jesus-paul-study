@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "mk-s-01-15-15",
+    "passageId": "mk-01-14-15",
+    "bookId": "mk",
+    "chapter": 1,
+    "startVerse": 15,
+    "endVerse": 15,
+    "reference": "Mark 1:15",
+    "title": "God's kingdom is near",
+    "summary": "Jesus announces the kingdom's nearness and summons repentance and faith in the good news.",
+    "audience": "public",
+    "speechType": "proclamation",
+    "topics": [
+      "kingdom"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 4:17",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 4:43",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-s-01-17-17",
+    "passageId": "mk-01-16-20",
+    "bookId": "mk",
+    "chapter": 1,
+    "startVerse": 17,
+    "endVerse": 17,
+    "reference": "Mark 1:17",
+    "title": "Called to follow",
+    "summary": "Jesus calls Simon and Andrew to follow him and envisages a mission involving others.",
+    "audience": "individuals",
+    "speechType": "call",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 4:18–20",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 5:1–11",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-s-01-44-44",
+    "passageId": "mk-01-40-45",
+    "bookId": "mk",
+    "chapter": 1,
+    "startVerse": 44,
+    "endVerse": 44,
+    "reference": "Mark 1:44",
+    "title": "Show yourself to the priest",
+    "summary": "Jesus instructs a healed man to present himself to a priest and offer what Moses prescribed.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 8:4",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 5:14",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-s-02-17-17",
+    "passageId": "mk-02-13-17",
+    "bookId": "mk",
+    "chapter": 2,
+    "startVerse": 17,
+    "endVerse": 17,
+    "reference": "Mark 2:17",
+    "title": "Calling sinners",
+    "summary": "Jesus defends eating with stigmatized people by comparing his mission to that of a physician.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 9:12–13",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 5:31–32",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-s-02-19-22",
+    "passageId": "mk-02-18-22",
+    "bookId": "mk",
+    "chapter": 2,
+    "startVerse": 19,
+    "endVerse": 22,
+    "reference": "Mark 2:19–22",
+    "title": "Fasting and new wineskins",
+    "summary": "Jesus uses a bridegroom, cloth and wineskins to explain different fasting practices.",
+    "audience": "questioners",
+    "speechType": "illustration",
+    "topics": [
+      "authority",
+      "prayer"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 9:14–17",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 5:33–39",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-s-02-27-28",
+    "passageId": "mk-02-23-28",
+    "bookId": "mk",
+    "chapter": 2,
+    "startVerse": 27,
+    "endVerse": 28,
+    "reference": "Mark 2:27–28",
+    "title": "Sabbath for humanity",
+    "summary": "Jesus speaks of the Sabbath's purpose for people and of the Son of Man's authority over it.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:8",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 6:5",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-s-03-04-04",
+    "passageId": "mk-03-01-06",
+    "bookId": "mk",
+    "chapter": 3,
+    "startVerse": 4,
+    "endVerse": 4,
+    "reference": "Mark 3:4",
+    "title": "Doing good on the Sabbath",
+    "summary": "Jesus challenges opponents to consider whether Sabbath behavior should save or harm life.",
+    "audience": "opponents",
+    "speechType": "question",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:9–14",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 6:6–11",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-s-03-35-35",
+    "passageId": "mk-03-31-35",
+    "bookId": "mk",
+    "chapter": 3,
+    "startVerse": 35,
+    "endVerse": 35,
+    "reference": "Mark 3:35",
+    "title": "Who belongs to Jesus' family?",
+    "summary": "Jesus defines his family by doing God's will rather than biological relationship alone.",
+    "audience": "crowd",
+    "speechType": "response",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:46–50",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 8:19–21",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-s-04-03-09",
+    "passageId": "mk-04-01-20",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 3,
+    "endVerse": 9,
+    "reference": "Mark 4:3–9",
+    "title": "Parable of the sower",
+    "summary": "Jesus tells a story of seeds in different soils producing different outcomes.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 13:3–9",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 8:5–8",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-04-14-20",
+    "passageId": "mk-04-01-20",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 14,
+    "endVerse": 20,
+    "reference": "Mark 4:14–20",
+    "title": "Explaining the sower",
+    "summary": "Jesus interprets the soils as responses to the word, including distraction by riches.",
+    "audience": "disciples",
+    "speechType": "explanation",
+    "topics": [
+      "parables",
+      "kingdom",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 13:18–23",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 8:11–15",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-04-26-29",
+    "passageId": "mk-04-26-29",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 26,
+    "endVerse": 29,
+    "reference": "Mark 4:26–29",
+    "title": "Seed grows beyond the sower",
+    "summary": "Jesus portrays God's kingdom as seed that grows and eventually is harvested.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-04-30-32",
+    "passageId": "mk-04-30-34",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 30,
+    "endVerse": 32,
+    "reference": "Mark 4:30–32",
+    "title": "Mustard seed",
+    "summary": "Jesus depicts the kingdom through the growth of a very small seed.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 13:31–32",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 13:18–19",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-05-19-19",
+    "passageId": "mk-05-01-20",
+    "bookId": "mk",
+    "chapter": 5,
+    "startVerse": 19,
+    "endVerse": 19,
+    "reference": "Mark 5:19",
+    "title": "Tell of mercy received",
+    "summary": "Jesus directs a restored man to tell people at home what the Lord has done for him.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "inclusion",
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "lk",
+        "reference": "Luke 8:39",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-s-06-10-11",
+    "passageId": "mk-06-07-13",
+    "bookId": "mk",
+    "chapter": 6,
+    "startVerse": 10,
+    "endVerse": 11,
+    "reference": "Mark 6:10–11",
+    "title": "Hospitality and rejection in mission",
+    "summary": "Jesus directs the Twelve to stay in a hosting home and depart from places refusing them.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "mission",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 10:11–15",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 9:4–5",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-s-07-06-13",
+    "passageId": "mk-07-01-13",
+    "bookId": "mk",
+    "chapter": 7,
+    "startVerse": 6,
+    "endVerse": 13,
+    "reference": "Mark 7:6–13",
+    "title": "Commandment versus tradition",
+    "summary": "Jesus uses scripture and the example of Corban to criticize traditions that obstruct duties to parents.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "authority",
+      "mosaic-law"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 15:3–9",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-s-07-14-15",
+    "passageId": "mk-07-14-23",
+    "bookId": "mk",
+    "chapter": 7,
+    "startVerse": 14,
+    "endVerse": 15,
+    "reference": "Mark 7:14–15",
+    "title": "External things and defilement",
+    "summary": "Jesus tells the crowd that what enters a person is not the central source of moral defilement.",
+    "audience": "crowd",
+    "speechType": "instruction",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 15:10–11",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-s-07-18-23",
+    "passageId": "mk-07-14-23",
+    "bookId": "mk",
+    "chapter": 7,
+    "startVerse": 18,
+    "endVerse": 23,
+    "reference": "Mark 7:18–23",
+    "title": "Defilement comes from the heart",
+    "summary": "Jesus tells the disciples that destructive conduct arises from within; narrative framing in 7:19 is textually significant.",
+    "audience": "disciples",
+    "speechType": "explanation",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 15:16–20",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm",
+    "caution": "The clause at Mark 7:19 is punctuated as narrator comment in many modern editions; examine Greek syntax before ascribing it all to Jesus."
+  },
+  {
+    "id": "mk-s-07-27-27",
+    "passageId": "mk-07-24-30",
+    "bookId": "mk",
+    "chapter": 7,
+    "startVerse": 27,
+    "endVerse": 27,
+    "reference": "Mark 7:27",
+    "title": "Children's bread and outsiders",
+    "summary": "Jesus responds to a Gentile mother's request through an image of children and bread.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "inclusion",
+      "healing"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 15:24–26",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-s-07-29-29",
+    "passageId": "mk-07-24-30",
+    "bookId": "mk",
+    "chapter": 7,
+    "startVerse": 29,
+    "endVerse": 29,
+    "reference": "Mark 7:29",
+    "title": "Response to the Gentile mother",
+    "summary": "Jesus responds positively to the woman's reply and tells her that her daughter has been released.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "inclusion",
+      "healing"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 15:28",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-s-08-34-38",
+    "passageId": "mk-08-34-38",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 34,
+    "endVerse": 38,
+    "reference": "Mark 8:34–38",
+    "title": "Taking up the cross",
+    "summary": "Jesus summons the crowd and disciples to costly allegiance, self-denial, and evaluating worldly gain.",
+    "audience": "crowd",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 16:24–27",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 9:23–26",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-09-35-37",
+    "passageId": "mk-09-33-37",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 35,
+    "endVerse": 37,
+    "reference": "Mark 9:35–37",
+    "title": "Greatness as service",
+    "summary": "Jesus defines the first as a servant and uses the welcome of a child to illustrate receiving him.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "leadership",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 18:1–5",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 9:46–48",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-39-41",
+    "passageId": "mk-09-38-41",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 39,
+    "endVerse": 41,
+    "reference": "Mark 9:39–41",
+    "title": "Don't obstruct an outsider",
+    "summary": "Jesus instructs the disciples not to stop someone working in his name and affirms support offered to them.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "inclusion",
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "lk",
+        "reference": "Luke 9:49–50",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-10-05-09",
+    "passageId": "mk-10-02-12",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 5,
+    "endVerse": 9,
+    "reference": "Mark 10:5–9",
+    "title": "Marriage and separation",
+    "summary": "Jesus responds to questions about divorce by invoking creation and warning against separating what God joins.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:3–6",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-11-12",
+    "passageId": "mk-10-02-12",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 11,
+    "endVerse": 12,
+    "reference": "Mark 10:11–12",
+    "title": "Divorce and remarriage",
+    "summary": "Jesus gives the disciples a further statement connecting divorce and remarriage with adultery.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:9",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 16:18",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-14-15",
+    "passageId": "mk-10-13-16",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 14,
+    "endVerse": 15,
+    "reference": "Mark 10:14–15",
+    "title": "Welcome children",
+    "summary": "Jesus insists that children be welcomed and links receiving the kingdom to their example.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "kingdom",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:13–15",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 18:15–17",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-18-21",
+    "passageId": "mk-10-17-31",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 18,
+    "endVerse": 21,
+    "reference": "Mark 10:18–21",
+    "title": "A rich man's call",
+    "summary": "Jesus cites commandments and calls a particular wealthy person to sell his possessions, give to the poor and follow.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:16–21",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 18:18–22",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-23-27",
+    "passageId": "mk-10-17-31",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 23,
+    "endVerse": 27,
+    "reference": "Mark 10:23–27",
+    "title": "Riches and entering the kingdom",
+    "summary": "Jesus warns about difficulty for wealthy people entering the kingdom and concludes with God's possibility.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:23–26",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 18:24–27",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-42-45",
+    "passageId": "mk-10-35-45",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 42,
+    "endVerse": 45,
+    "reference": "Mark 10:42–45",
+    "title": "Authority and service",
+    "summary": "Jesus contrasts the domination of rulers with service among his followers, relating it to his mission.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "leadership",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 20:25–28",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 22:24–27",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-11-17-17",
+    "passageId": "mk-11-12-19",
+    "bookId": "mk",
+    "chapter": 11,
+    "startVerse": 17,
+    "endVerse": 17,
+    "reference": "Mark 11:17",
+    "title": "Temple as prayer for all nations",
+    "summary": "Jesus cites scripture and criticizes temple practices as contrary to its calling.",
+    "audience": "crowd",
+    "speechType": "critique",
+    "topics": [
+      "authority",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 21:12–13",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 19:45–46",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-s-11-22-25",
+    "passageId": "mk-11-20-26",
+    "bookId": "mk",
+    "chapter": 11,
+    "startVerse": 22,
+    "endVerse": 25,
+    "reference": "Mark 11:22–25",
+    "title": "Prayer, trust and forgiveness",
+    "summary": "Jesus encourages faithful prayer and instructs disciples to forgive when praying.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "prayer",
+      "forgiveness"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 21:21–22",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 6:14–15",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-s-12-15-17",
+    "passageId": "mk-12-13-17",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 15,
+    "endVerse": 17,
+    "reference": "Mark 12:15–17",
+    "title": "Caesar and God",
+    "summary": "Jesus answers an attempted trap about taxes by distinguishing claims connected to Caesar and to God.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 22:15–22",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 20:20–26",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-s-12-29-31",
+    "passageId": "mk-12-28-34",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 29,
+    "endVerse": 31,
+    "reference": "Mark 12:29–31",
+    "title": "Love God and neighbor",
+    "summary": "Jesus identifies love for God and neighbor as central commandments, citing Israel's scriptures.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "mosaic-law",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 22:34–40",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 10:25–28",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-s-12-38-40",
+    "passageId": "mk-12-38-40",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 38,
+    "endVerse": 40,
+    "reference": "Mark 12:38–40",
+    "title": "Warning about religious elites",
+    "summary": "Jesus criticizes religious status-seeking and exploitation of widows.",
+    "audience": "crowd",
+    "speechType": "critique",
+    "topics": [
+      "authority",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 23:1–7",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 20:45–47",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-s-12-43-44",
+    "passageId": "mk-12-41-44",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 43,
+    "endVerse": 44,
+    "reference": "Mark 12:43–44",
+    "title": "Widow's offering",
+    "summary": "Jesus calls attention to a poor widow giving from necessity rather than surplus; whether praise or critique is disputed.",
+    "audience": "disciples",
+    "speechType": "observation",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "lk",
+        "reference": "Luke 21:1–4",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+    "caution": "Interpretation of the widow scene is disputed: commendation of generosity and criticism of an exploitative context are both argued."
+  },
+  {
+    "id": "mk-s-13-05-08",
+    "passageId": "mk-13-01-08",
+    "bookId": "mk",
+    "chapter": 13,
+    "startVerse": 5,
+    "endVerse": 8,
+    "reference": "Mark 13:5–8",
+    "title": "Do not be misled by crisis",
+    "summary": "Jesus warns against messianic impostors and panic during wars and upheavals.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 24:4–8",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 21:8–11",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-s-13-32-37",
+    "passageId": "mk-13-28-37",
+    "bookId": "mk",
+    "chapter": 13,
+    "startVerse": 32,
+    "endVerse": 37,
+    "reference": "Mark 13:32–37",
+    "title": "Timing unknown, remain watchful",
+    "summary": "Jesus says the timing of the coming day is unknown and commands watchfulness.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times",
+      "parables"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 24:36–44",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 21:34–36",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-s-14-06-09",
+    "passageId": "mk-14-01-11",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 6,
+    "endVerse": 9,
+    "reference": "Mark 14:6–9",
+    "title": "Anointing and care for the poor",
+    "summary": "Jesus defends a woman's costly act and observes that opportunities to aid the poor continue.",
+    "audience": "onlookers",
+    "speechType": "response",
+    "topics": [
+      "wealth-poverty",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:6–13",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "jn",
+        "reference": "John 12:1–8",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-22-25",
+    "passageId": "mk-14-22-25",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 22,
+    "endVerse": 25,
+    "reference": "Mark 14:22–25",
+    "title": "Bread, cup and covenant",
+    "summary": "Jesus associates bread and cup with his body, covenant, and future kingdom participation.",
+    "audience": "disciples",
+    "speechType": "symbolic-action",
+    "topics": [
+      "suffering",
+      "kingdom"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:26–29",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 22:14–20",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+    "caution": "Comparison with Luke's supper tradition must account for textual and liturgical history; this entry does not settle those debates."
+  },
+  {
+    "id": "mk-s-14-36-36",
+    "passageId": "mk-14-32-42",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 36,
+    "endVerse": 36,
+    "reference": "Mark 14:36",
+    "title": "Prayer in Gethsemane",
+    "summary": "Jesus addresses God in distress and subordinates his desire to God's will.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:39",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 22:42",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-37-38",
+    "passageId": "mk-14-32-42",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 37,
+    "endVerse": 38,
+    "reference": "Mark 14:37–38",
+    "title": "Watch and pray under trial",
+    "summary": "Jesus calls the disciples to alertness and prayer against temptation.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:40–41",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 22:40",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-61-62",
+    "passageId": "mk-14-43-65",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 61,
+    "endVerse": 62,
+    "reference": "Mark 14:61–62",
+    "title": "Identity before the council",
+    "summary": "Jesus replies to questioning about messianic identity and the Son of Man's vindication.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:63–64",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "lk",
+        "reference": "Luke 22:67–70",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "WEB Updated (66-book edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  }
+]

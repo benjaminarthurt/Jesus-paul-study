@@ -26,3 +26,11 @@ Direct recorded instruction, dialogue, parables, narrated action, and contextual
 5. Comparison to Pauline passages only after adequate historical context and counterargument review.
 
 This file does **not** claim that primary-text browsing alone constitutes independent source review.
+
+## Speech-bearing passage pilot
+
+The website's `/teachings/` browser draws from `research/index/sayings.json`. Entries are more precise than literary-unit records but still **not** certified verse-by-verse speech transcription. Selected spans cover the proclamation, legal debates, parables, care for outsiders, wealth, leadership, temple, apocalyptic discourse, and passion narrative.
+
+Each candidate Gospel parallel is marked `candidate`. Similarity must be checked verse by verse and the parallel's distinct audience or wording recorded. A thematic relationship is not the same as a narrative parallel.
+
+For Mark 7:19 and Mark 12:43–44, the detail page includes interpretive cautions to prevent a context-free application. Mark 16:9–20 remains outside the core sayings pilot pending text-critical resolution.
