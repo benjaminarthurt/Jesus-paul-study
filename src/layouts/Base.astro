@@ -5,6 +5,7 @@ interface Props {
   description?: string;
 }
 const { title, description = "A historical and textual study of Jesus, Paul, and modern Christianity." } = Astro.props;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
 ---
 <!doctype html>
 <html lang="en">
@@ -12,6 +13,7 @@ const { title, description = "A historical and textual study of Jesus, Paul, and
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    {canonical && <link rel="canonical" href={canonical} />}
     <title>{title} | Jesus & Paul Study</title>
   </head>
   <body>
@@ -23,6 +25,8 @@ const { title, description = "A historical and textual study of Jesus, Paul, and
           <span>Jesus &amp; Paul <small>THE TEXTUAL STUDY</small></span>
         </a>
         <nav aria-label="Main navigation">
+          <a href="/search/">Search</a>
+          <a href="/compare/">Compare two</a>
           <a href="/teachings/">Jesus' teachings</a>
           <a href="/topics/">Topics</a>
           <a href="/comparisons/">Comparisons</a>

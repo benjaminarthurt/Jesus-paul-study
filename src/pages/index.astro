@@ -15,7 +15,9 @@ const [topics, comparisons, issues] = await Promise.all([
     <h1>What did Jesus teach? What did Paul teach?</h1>
     <p class="lead">An evidence-first study of their agreements, differences, and influence on modern Christianity. Read by biblical book, topic, comparison, or contemporary question.</p>
     <div class="hero-actions">
-      <a href="/teachings/" class="button">Browse Jesus' teachings</a>
+      <a href="/search/" class="button">Search all passages</a>
+      <a href="/compare/" class="button secondary">Compare two passages</a>
+      <a href="/teachings/" class="button secondary">Browse Jesus' teachings</a>
       <a href="/methodology/" class="button secondary">Read our methodology</a>
     </div>
   </section>
@@ -29,6 +31,10 @@ const [topics, comparisons, issues] = await Promise.all([
       <article class="card"><p class="eyebrow">04 · Differences and agreements</p><h3>Examine the comparison</h3><p>{comparisons.length} provisional study outlines distinguish tension from agreement and different emphasis.</p><a href="/comparisons/">Browse comparisons</a></article>
       <article class="card"><p class="eyebrow">05 · Today</p><h3>Modern issues</h3><p>{issues.length} starter dossiers distinguish ancient instruction from modern ethical or political inference.</p><a href="/modern-issues/">Browse issues</a></article>
     </div>
+  </section>
+  <section class="group">
+    <h2>Reference tools</h2>
+    <p>Search the <a href="/search/">passage index</a> or <a href="/compare/">open two passages side by side</a>, with research status, authorship categories, and source chapter links preserved.</p>
   </section>
   <section class="group">
     <h2>Research status matters</h2>

@@ -47,3 +47,7 @@ A new comparative study covers Luke's blessings, the rich ruler, Matthew 25, Pau
 ## Women and authority pilot (November 2026)
 
 The third evidence-ledger study now differentiates Gospel witnesses, Romans 16 coworkers, 1 Corinthians 11 and 14, Galatians 3:28, and Acts/Pastorals as separate witness groups. It includes scholarly disputes over Junia, silence in worship, manuscript transposition, and the Pastorals' authorship. All records remain **draft** pending critical-text audit and independent review. See `docs/women-authority-review-log.md`.
+
+## Phase-two reference tools (November 2026)
+
+Issue #6 now has a static-first indexed-passage search and two-pane source-linked reference viewer. The UI exposes review-state and attribution labels, shared pair URLs, and a stable per-passage citation route; it does **not** embed full Bible text or claim independent manuscript verification. Canonical absolute URLs activate only once a public deployment origin is configured. See `docs/search-and-reader.md`. Manual accessibility QA and deployment checks remain open.

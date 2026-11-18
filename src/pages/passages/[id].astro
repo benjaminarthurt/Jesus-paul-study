@@ -1,0 +1,73 @@
+---
+import Base from "../../layouts/Base.astro";
+import passages from "../../../research/index/passages.json";
+import books from "../../../research/index/books.json";
+import evidence from "../../../research/index/evidence.json";
+import sources from "../../../research/index/sources.json";
+import { getCollection } from "astro:content";
+import { corpusLabels, primaryUrlIsTrusted, compareHref } from "../../lib/passage-search.mjs";
+
+export function getStaticPaths() {
+  return passages.map(p => ({ params: {id:p.id}, props: {passage:p} }));
+}
+const { passage } = Astro.props;
+const book = books.find(b=>b.id===passage.bookId)!;
+const [topics,studies]=await Promise.all([getCollection("topics"),getCollection("comparisons")]);
+const topicNames=new Map(topics.map(t=>[t.id,t.data.title]));
+const sourceNames=new Map(sources.map(s=>[s.id,s]));
+const claims=evidence.filter(c=>c.passageIds.includes(passage.id));
+const referencedStudies=studies.filter(s=>[...s.data.jesus,...s.data.paul,...(s.data.context??[])].includes(passage.id));
+const composite = "unitType" in passage && passage.unitType === "composite";
+const selectedLeft = passage.sourceLayer.startsWith("jesus-") ? passage.id : "mt-05-17-20";
+const selectedRight = passage.sourceLayer.startsWith("jesus-") ? "ga-03-23-25" : passage.id;
+---
+<Base title={passage.reference} description={passage.summary}>
+  <p class="eyebrow">Indexed biblical passage · <a href={"/books/" + book.id + "/"}>{book.title}</a></p>
+  <h1>{passage.reference}</h1>
+  <div class="meta kicker">
+    <span class="status" data-state={passage.status}>{passage.status}</span>
+    <span>{corpusLabels[passage.sourceLayer] ?? passage.sourceLayer}</span>
+    {"unitType" in passage && passage.unitType && <span>{passage.unitType.replaceAll("-"," ")}</span>}
+  </div>
+  <p class="lead">{passage.summary}</p>
+  <p class="warning"><strong>Editorial paraphrase—not biblical verse text.</strong> A source layer identifies a literary corpus, not the speaker of every verse or a historical-authorship certification. This is a provisional research record.</p>
+  {"textualNote" in passage && passage.textualNote && <section class="panel">
+    <h2>Textual caution</h2><p class="warning">{passage.textualNote}</p>
+    <p class="muted">The note identifies a question to investigate, not a final text-critical judgment.</p>
+  </section>}
+  <section class="panel passage-source">
+    <h2>Primary text and citation</h2>
+    <dl class="source-facts">
+      <div><dt>Bible reference</dt><dd>{passage.reference}</dd></div>
+      <div><dt>Canonical book</dt><dd>{book.title}</dd></div>
+      <div><dt>Text category</dt><dd>{corpusLabels[passage.sourceLayer] ?? passage.sourceLayer}</dd></div>
+      <div><dt>Source edition</dt><dd>World English Bible, Protestant edition (WEBP)</dd></div>
+      <div><dt>Review status</dt><dd>{passage.status}</dd></div>
+    </dl>
+    {primaryUrlIsTrusted(passage.sourceUrl)
+      ? <p><a href={passage.sourceUrl} target="_blank" rel="noopener noreferrer">Read the complete source chapter on eBible.org</a></p>
+      : <p class="warning">A verified source chapter URL is not yet available for this record.</p>}
+    {!composite && <p><a href={"/books/" + book.id + "/#" + passage.id}>View this entry in its book index</a></p>}
+    <p class="muted">The edition citation identifies the source to consult; the summary above is original research prose, not a quotation from that translation.</p>
+  </section>
+  <section class="panel passage-topic">
+    <h2>Topics and comparison</h2>
+    <div class="tag-list">{passage.topics.map(t=><a href={"/topics/" + t + "/"}>{topicNames.get(t) ?? t}</a>)}</div>
+    <p><a href={compareHref(selectedLeft,selectedRight)}>Read this reference side by side with another passage</a></p>
+  </section>
+  <section class="panel">
+    <h2>Related studies</h2>
+    {referencedStudies.length ? <ul>{referencedStudies.map(s=><li>
+      <a href={"/comparisons/" + s.id + "/"}>{s.data.title}</a>
+      <span class="meta">{s.data.classification.replaceAll("-"," ")} · {s.data.status}</span>
+    </li>)}</ul> : <p class="muted">No complete comparative dossier includes this reference yet.</p>}
+    <h3>Evidence ledger links</h3>
+    {claims.length ? <ul class="compact-list">{claims.map(c=><li>
+      <a href={"/comparisons/" + c.comparisonId + "/#" + c.id}>{c.title}</a>
+      <span class="meta">{c.assessment.replaceAll("-"," ")} · {c.status}</span>
+      <p>{c.limitation}</p>
+      <p class="muted">Sources: {c.sourceIds.map((id,i)=><>{i?", ":""}<a href={"/sources/#source-" + id}>{sourceNames.get(id)?.author ?? id}</a></>)}</p>
+    </li>)}</ul> : <p class="muted">This draft passage has no individually attributed evidence claims yet.</p>}
+  </section>
+  <p><a href="/search/">Back to all searchable passages</a></p>
+</Base>

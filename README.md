@@ -39,11 +39,16 @@ The new `/comparisons/wealth-and-generosity/` study compares Gospel wealth warni
 
 `/comparisons/women-and-assembly/` compares Gospel accounts of women, Paul's coworkers and women's worship activity, with disputed 1 Corinthians 14:34–35 and the Pastorals explicitly identified. The evidence-ledger claims have source and counterreading links. This is **draft**, not a settled church leadership determination.
 
+## Search and parallel reference reader
+
+Use `/search/` to filter the indexed passages by book, topic, corpus attribution, review status, and textual cautions. Each reference has a stable `/passages/<id>/` citation page with the primary WEBP chapter link, sources, and related evidence. Use `/compare/` to read two **editorial passage summaries** side by side and share the selection using URL parameters. It is **not** a verbatim, complete Bible text reader. See [implementation and deployment notes](docs/search-and-reader.md).
+
 ## Explore
 
 - [Project charter](docs/project-charter.md)
 - [Research methodology](docs/methodology.md)
 - [Data model](docs/data-model.md)
+- [Search and reference reader](docs/search-and-reader.md)
 - [Editorial and citation standards](docs/editorial-standards.md)
 - [Research roadmap](docs/roadmap.md)
 - [Text and licensing policy](docs/text-and-licensing.md)
