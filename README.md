@@ -25,7 +25,9 @@ Website pages are built from Markdown research files. Edit a topic in `research/
 
 ## Current Gospel research
 
-Matthew, Mark, and Luke now have preliminary literary-unit maps, distinguishing teachings, narrative, parables, prayers and actions. Browse `/books/mt/` (28 chapters), `/books/mk/` (16 chapters), and `/books/lk/` (24 chapters), or filter selected speech-bearing spans by Gospel at `/teachings/`. Luke adds 143 literary units (ten preserving existing research anchors), 112 selected speech-bearing spans and 113 candidate links to the other Gospels. **All parallels remain research candidates**, not verified textual or historical equivalences. Each catalog is **draft**, not an utterance-by-utterance critical transcript.
+**All four canonical Gospels now have preliminary literary catalogs**: Matthew (28 chapters), Mark (16), Luke (24), and John (21). Use `/books/mt/`, `/books/mk/`, `/books/lk/`, `/books/jn/` for chapter maps, or `/teachings/` to filter selected speech-bearing spans by Gospel. John adds **88 literary units** (including two preexisting anchors), **93 selected speech-bearing spans**, and a small conservative set of **15 candidate** Synoptic links.
+
+The project deliberately distinguishes Jesus' reported sayings from narrative and dialogue spoken by others. John 3's speaker boundary, John 5:3b–4, the disputed John 7:53–8:11 story, and John 21's epilogue remain clearly qualified. **All four inventories remain draft; their parallels are not verified independent historical witnesses or verbal equivalents.** See `research/books/john.md`.
 
 ## Evidence-linked pilot
 

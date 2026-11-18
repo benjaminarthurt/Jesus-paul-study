@@ -12,10 +12,10 @@ const indexedBooks = books.filter(b => sayings.some(s=>s.bookId===b.id));
 const bookIndex = new Map(books.map((b,i)=>[b.id,i]));
 const sorted = [...sayings].sort((a,b)=>(bookIndex.get(a.bookId)??99)-(bookIndex.get(b.bookId)??99) || a.chapter-b.chapter || a.startVerse-b.startVerse);
 ---
-<Base title="Teachings attributed to Jesus in Matthew, Mark, and Luke" description="Search selected Gospel speech-bearing spans in Matthew, Mark, and Luke by book, topic, audience, and reference.">
-  <p class="eyebrow">The Jesus teachings catalog · Matthew, Mark, and Luke pilot</p>
+<Base title="Teachings attributed to Jesus in Matthew, Mark, Luke, and John" description="Search selected Gospel speech-bearing spans in Matthew, Mark, Luke, and John by book, topic, audience, and reference.">
+  <p class="eyebrow">The Jesus teachings catalog · Matthew, Mark, Luke, and John pilot</p>
   <h1>Teachings attributed to Jesus</h1>
-  <p class="lead">A developing index of selected passages containing speech attributed to Jesus in Matthew, Mark, and Luke. Read each span in its own Gospel context. Similarities with other Gospels are candidate relationships, not proof of identical wording or independent historical witnesses.</p>
+  <p class="lead">A developing index of selected passages containing speech attributed to Jesus in Matthew, Mark, Luke, and John. Read each span in its own Gospel context. Similarities with other Gospels are candidate relationships, not proof of identical wording or independent historical witnesses.</p>
   <p class="warning"><strong>Draft inventory only.</strong> These are selected speech-bearing spans, not a complete, verbatim concordance. Some spans include another speaker or a narrator's words. Gospel parallels are research candidates, not established text-critical findings.</p>
   <section class="panel" aria-label="Filter teachings">
     <div class="study-controls">
@@ -24,7 +24,7 @@ const sorted = [...sayings].sort((a,b)=>(bookIndex.get(a.bookId)??99)-(bookIndex
       </label>
       <label>Gospel
         <select id="teaching-book">
-          <option value="">All three indexed Gospels</option>
+          <option value="">All four indexed Gospels</option>
           {indexedBooks.map(b=><option value={b.id}>{b.title}</option>)}
         </select>
       </label>

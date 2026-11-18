@@ -286,5 +286,41 @@
     "url": "https://tyndalehouse.com/2018/11/15/father-forgive-them-the-variant-in-luke-2334a/",
     "accessScope": "full-text",
     "note": "Full text read. Author favors inclusion despite substantial early omission evidence; preserve contrary readings and do not present the editorial decision as consensus."
+  },
+  {
+    "id": "wallace-2004-john-outline",
+    "type": "scholarly-overview",
+    "author": "Daniel B. Wallace",
+    "title": "The Gospel of John: Introduction, Argument, Outline",
+    "publisher": "Bible.org",
+    "year": 2004,
+    "location": "Introduction; Argument; Outline and discussion of source relationships and Gospel structure",
+    "url": "https://bible.org/seriespage/gospel-john-introduction-argument-outline",
+    "accessScope": "full-text",
+    "note": "Open essay read for general literary outline and Johannine distinctives. The author advocates traditional apostolic authorship; that position is identified as an argument rather than a scholarly consensus or verified historical conclusion."
+  },
+  {
+    "id": "net-john5-variant",
+    "type": "scholarly-overview",
+    "author": "NET Bible translators and editors",
+    "title": "NET Bible textual note on John 5:3b–4",
+    "publisher": "Bible.org / NET Bible",
+    "year": null,
+    "location": "John 5:4 textual criticism annotation",
+    "url": "https://classic.net.bible.org/passage.php?passage=Joh+5%3A4",
+    "accessScope": "full-text",
+    "note": "Textual note inspected for early witness omissions and later expansions around the angel and pool; this is an edition-level translator note, not a peer-reviewed standalone paper."
+  },
+  {
+    "id": "net-john8-variant",
+    "type": "scholarly-overview",
+    "author": "NET Bible translators and editors",
+    "title": "NET Bible textual note on John 7:53–8:11",
+    "publisher": "Bible.org / NET Bible",
+    "year": null,
+    "location": "John 7:53–8:11 textual criticism annotation",
+    "url": "https://classic.net.bible.org/passage.php?passage=Joh+7%3A53--8%3A11",
+    "accessScope": "full-text",
+    "note": "Editorial note inspected for early omission and differing manuscript locations of the adulterous-woman story. Majority early textual evidence weighs against Johannine originality; this does not by itself determine whether the story preserves an early historical tradition."
   }
 ]

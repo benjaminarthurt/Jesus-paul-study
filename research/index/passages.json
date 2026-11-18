@@ -401,7 +401,6 @@
     "status": "draft",
     "unitType": "context",
     "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
-    "textualStatus": "uncertain-speech-boundary",
     "textualNote": "John 3:16–21 has no ancient quotation marks. Scholars differ whether this is Jesus speaking to Nicodemus or the evangelist's theological commentary. It is not included in the core sayings index as certain Jesus speech."
   },
   {
@@ -431,7 +430,6 @@
     "status": "draft",
     "unitType": "context",
     "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
-    "textualStatus": "uncertain-speaker-boundary",
     "textualNote": "The speaker of John 3:31–36 is uncertain: John the Baptist may continue from 3:27–30, or the evangelist may be commenting. Neither possibility makes it an unambiguous Jesus saying."
   },
   {
@@ -1478,7 +1476,6 @@
     "status": "draft",
     "unitType": "dialogue",
     "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
-    "textualStatus": "interpretive-forgiveness-context",
     "textualNote": "John 20:23 requires contextual review when connecting the risen Jesus' words to later institutional authority; the passage's ecclesial application is disputed, even though the warning is interpretive rather than a settled manuscript variant."
   },
   {
@@ -1568,7 +1565,6 @@
     "status": "draft",
     "unitType": "context",
     "sourceUrl": "https://ebible.org/engwebp/JHN21.htm",
-    "textualStatus": "epilogue-editorial-question",
     "textualNote": "John 21 is a canonical epilogue whose relationship to John 20:30–31 and the Gospel's compositional history is debated. The final narrator statements are not attributed to Jesus as speech."
   },
   {
