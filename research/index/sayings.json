@@ -1,5 +1,3092 @@
 [
   {
+    "id": "lk-s-02-49-49",
+    "passageId": "lk-02-41-52",
+    "bookId": "lk",
+    "chapter": 2,
+    "startVerse": 49,
+    "endVerse": 49,
+    "reference": "Luke 2:49",
+    "title": "A response about his Father's house",
+    "summary": "Luke presents the young Jesus responding to his parents after their search; it is speech in an infancy narrative.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
+  },
+  {
+    "id": "lk-s-04-18-21",
+    "passageId": "lk-04-16-30",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 18,
+    "endVerse": 21,
+    "reference": "Luke 4:18–21",
+    "title": "Good news for the poor",
+    "summary": "Jesus reads Isaiah in Nazareth and claims the prophecy's fulfillment, highlighting poor, captive, blind and oppressed people.",
+    "audience": "public",
+    "speechType": "proclamation",
+    "topics": [
+      "mission",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 11:4–5",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-s-04-24-27",
+    "passageId": "lk-04-16-30",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 24,
+    "endVerse": 27,
+    "reference": "Luke 4:24–27",
+    "title": "A prophet rejected at home",
+    "summary": "Jesus compares rejection in his town with prophetic examples involving outsiders.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mission",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 6:4",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 13:57",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-s-04-43-43",
+    "passageId": "lk-04-42-44",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 43,
+    "endVerse": 43,
+    "reference": "Luke 4:43",
+    "title": "The kingdom in other cities",
+    "summary": "Jesus says his commission to announce God's kingdom requires travel elsewhere.",
+    "audience": "crowd",
+    "speechType": "proclamation",
+    "topics": [
+      "kingdom",
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 1:38",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-s-05-10-10",
+    "passageId": "lk-05-01-11",
+    "bookId": "lk",
+    "chapter": 5,
+    "startVerse": 10,
+    "endVerse": 10,
+    "reference": "Luke 5:10",
+    "title": "Simon called to a mission",
+    "summary": "Jesus turns a fishing encounter into a calling directed toward other people.",
+    "audience": "individual",
+    "speechType": "call",
+    "topics": [
+      "mission",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 1:17",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 4:19",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-s-05-20-24",
+    "passageId": "lk-05-17-26",
+    "bookId": "lk",
+    "chapter": 5,
+    "startVerse": 20,
+    "endVerse": 24,
+    "reference": "Luke 5:20–24",
+    "title": "Authority to forgive",
+    "summary": "Jesus responds to objections by claiming authority to forgive and heals a paralyzed man.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "healing",
+      "forgiveness",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 2:5–11",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 9:2–6",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-s-05-31-32",
+    "passageId": "lk-05-27-32",
+    "bookId": "lk",
+    "chapter": 5,
+    "startVerse": 31,
+    "endVerse": 32,
+    "reference": "Luke 5:31–32",
+    "title": "A physician for sinners",
+    "summary": "Jesus defends association with social outsiders through a medical analogy.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 2:17",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 9:12–13",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-s-05-34-39",
+    "passageId": "lk-05-33-39",
+    "bookId": "lk",
+    "chapter": 5,
+    "startVerse": 34,
+    "endVerse": 39,
+    "reference": "Luke 5:34–39",
+    "title": "Fasting, weddings and new wine",
+    "summary": "Jesus uses a wedding and new containers to address fasting practices.",
+    "audience": "questioners",
+    "speechType": "illustration",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 2:19–22",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 9:15–17",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-s-06-05-05",
+    "passageId": "lk-06-01-05",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 5,
+    "endVerse": 5,
+    "reference": "Luke 6:5",
+    "title": "The Son of Man and Sabbath",
+    "summary": "Jesus responds to criticism of grain-picking by making a claim about Sabbath authority.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 2:28",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:8",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-09-09",
+    "passageId": "lk-06-06-11",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 9,
+    "endVerse": 9,
+    "reference": "Luke 6:9",
+    "title": "Good or harm on the Sabbath",
+    "summary": "Jesus asks whether the Sabbath permits doing good and saving life.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 3:4",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:11–12",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-20-26",
+    "passageId": "lk-06-20-26",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 20,
+    "endVerse": 26,
+    "reference": "Luke 6:20–26",
+    "title": "Blessings and woes",
+    "summary": "Luke contrasts the poor, hungry and excluded with the rich and satisfied; its wording differs from Matthew.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 5:3–12",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-27-36",
+    "passageId": "lk-06-27-36",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 27,
+    "endVerse": 36,
+    "reference": "Luke 6:27–36",
+    "title": "Love enemies and lend without return",
+    "summary": "Jesus urges love of enemies, nonretaliation and generosity grounded in mercy.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 5:38–48",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-37-42",
+    "passageId": "lk-06-37-42",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 37,
+    "endVerse": 42,
+    "reference": "Luke 6:37–42",
+    "title": "Forgiveness and the speck",
+    "summary": "Jesus warns against condemning others and highlights the need for self-examination.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "forgiveness",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 7:1–5",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-43-45",
+    "passageId": "lk-06-43-45",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 43,
+    "endVerse": 45,
+    "reference": "Luke 6:43–45",
+    "title": "Fruit from the heart",
+    "summary": "Jesus uses a tree's fruit to depict speech and behavior flowing from the heart.",
+    "audience": "disciples",
+    "speechType": "illustration",
+    "topics": [
+      "parables",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 7:16–20",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-46-49",
+    "passageId": "lk-06-46-49",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 46,
+    "endVerse": 49,
+    "reference": "Luke 6:46–49",
+    "title": "Building on a firm foundation",
+    "summary": "Jesus contrasts people who obey instruction with a builder lacking secure foundations.",
+    "audience": "disciples",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 7:24–27",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-07-09-09",
+    "passageId": "lk-07-01-10",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 9,
+    "endVerse": 9,
+    "reference": "Luke 7:9",
+    "title": "Unexpected trust from a centurion",
+    "summary": "Jesus remarks on a centurion's trust after a healing request.",
+    "audience": "crowd",
+    "speechType": "observation",
+    "topics": [
+      "healing",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 8:10",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-s-07-13-14",
+    "passageId": "lk-07-11-17",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 13,
+    "endVerse": 14,
+    "reference": "Luke 7:13–14",
+    "title": "Compassion for a bereaved mother",
+    "summary": "Jesus comforts a widow and directs her dead son to rise.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-s-07-22-23",
+    "passageId": "lk-07-18-23",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 22,
+    "endVerse": 23,
+    "reference": "Luke 7:22–23",
+    "title": "Answering John's messengers",
+    "summary": "Jesus points to healings and good news when queried about his identity.",
+    "audience": "questioners",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection",
+      "healing"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 11:4–6",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-s-07-28-28",
+    "passageId": "lk-07-24-35",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 28,
+    "endVerse": 28,
+    "reference": "Luke 7:28",
+    "title": "John's role and the kingdom",
+    "summary": "Jesus praises John's role while discussing the significance of God's kingdom.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 11:11",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-s-07-40-47",
+    "passageId": "lk-07-36-50",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 40,
+    "endVerse": 47,
+    "reference": "Luke 7:40–47",
+    "title": "Two debtors and forgiveness",
+    "summary": "Jesus offers a debt illustration to interpret an anointing woman's actions.",
+    "audience": "individual",
+    "speechType": "parable",
+    "topics": [
+      "forgiveness",
+      "inclusion",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-s-07-50-50",
+    "passageId": "lk-07-36-50",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 50,
+    "endVerse": 50,
+    "reference": "Luke 7:50",
+    "title": "Go in peace",
+    "summary": "Jesus addresses the woman who anointed his feet with a statement of peace.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "forgiveness",
+      "inclusion",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-s-08-05-15",
+    "passageId": "lk-08-04-15",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 5,
+    "endVerse": 15,
+    "reference": "Luke 8:5–15",
+    "title": "The sower and the meaning of hearing",
+    "summary": "Jesus gives a sower parable and later explains responses to the word.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 4:3–20",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 13:3–23",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-16-18",
+    "passageId": "lk-08-16-18",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 16,
+    "endVerse": 18,
+    "reference": "Luke 8:16–18",
+    "title": "Lamp and careful hearing",
+    "summary": "Jesus uses a lamp image and warns listeners about how they hear.",
+    "audience": "crowd",
+    "speechType": "illustration",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 4:21–25",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-21-21",
+    "passageId": "lk-08-19-21",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 21,
+    "endVerse": 21,
+    "reference": "Luke 8:21",
+    "title": "Hearing as family relationship",
+    "summary": "Jesus characterizes his family in terms of hearing and obeying God's word.",
+    "audience": "onlookers",
+    "speechType": "response",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 3:35",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:50",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-25-25",
+    "passageId": "lk-08-22-25",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 25,
+    "endVerse": 25,
+    "reference": "Luke 8:25",
+    "title": "Faith amid a storm",
+    "summary": "Jesus challenges the disciples' fear after calming a storm.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 4:40",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 8:26",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-39-39",
+    "passageId": "lk-08-26-39",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 39,
+    "endVerse": 39,
+    "reference": "Luke 8:39",
+    "title": "Tell what God has done",
+    "summary": "Jesus tells a restored man to speak of his experience rather than accompany him.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 5:19",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-48-48",
+    "passageId": "lk-08-40-56",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 48,
+    "endVerse": 48,
+    "reference": "Luke 8:48",
+    "title": "Your faith has made you well",
+    "summary": "Jesus addresses a woman healed after touching his clothing.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "women-authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 5:34",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 9:22",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-50-50",
+    "passageId": "lk-08-40-56",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 50,
+    "endVerse": 50,
+    "reference": "Luke 8:50",
+    "title": "Do not fear for the child",
+    "summary": "Jesus reassures a father whose daughter is reported dead.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "women-authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 5:36",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-09-03-05",
+    "passageId": "lk-09-01-06",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 3,
+    "endVerse": 5,
+    "reference": "Luke 9:3–5",
+    "title": "Travel lightly on mission",
+    "summary": "Jesus directs a mission without unnecessary supplies and with testimony if rejected.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 6:8–11",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 10:9–14",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-13-14",
+    "passageId": "lk-09-10-17",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 13,
+    "endVerse": 14,
+    "reference": "Luke 9:13–14",
+    "title": "You give them something to eat",
+    "summary": "Jesus calls the disciples to feed the gathered people.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 6:37–40",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 14:16–19",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-20-22",
+    "passageId": "lk-09-18-22",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 20,
+    "endVerse": 22,
+    "reference": "Luke 9:20–22",
+    "title": "Identity and impending suffering",
+    "summary": "Jesus hears Peter's confession and forecasts rejection and being raised.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 8:29–31",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 16:16–21",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-23-27",
+    "passageId": "lk-09-23-27",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 23,
+    "endVerse": 27,
+    "reference": "Luke 9:23–27",
+    "title": "Take up the cross daily",
+    "summary": "Jesus links following to self-denial, loss and gain; Luke includes an emphasis on daily action.",
+    "audience": "public",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 8:34–38",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 16:24–27",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-48-48",
+    "passageId": "lk-09-46-48",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 48,
+    "endVerse": 48,
+    "reference": "Luke 9:48",
+    "title": "Welcome the least",
+    "summary": "Jesus challenges a debate about greatness by pointing to a child.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "leadership",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 9:37",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 18:5",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-50-50",
+    "passageId": "lk-09-49-50",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 50,
+    "endVerse": 50,
+    "reference": "Luke 9:50",
+    "title": "Not against you",
+    "summary": "Jesus discourages forbidding an outsider acting in his name.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 9:40",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-58-62",
+    "passageId": "lk-09-57-62",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 58,
+    "endVerse": 62,
+    "reference": "Luke 9:58–62",
+    "title": "The road and costly following",
+    "summary": "Jesus answers would-be followers about homelessness, family obligations and persistence.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 8:19–22",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-10-02-12",
+    "passageId": "lk-10-01-12",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 2,
+    "endVerse": 12,
+    "reference": "Luke 10:2–12",
+    "title": "Send out workers into the harvest",
+    "summary": "Jesus commissions envoys to bring peace, heal and announce God's kingdom.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 10:7–14",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm",
+    "caution": "Luke 10:1,17 has a textual variant between seventy and seventy-two envoys; exact group size requires explicit textual justification."
+  },
+  {
+    "id": "lk-s-10-13-16",
+    "passageId": "lk-10-13-16",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 13,
+    "endVerse": 16,
+    "reference": "Luke 10:13–16",
+    "title": "Woes for unresponsive towns",
+    "summary": "Jesus criticizes towns that have not responded to his works.",
+    "audience": "public",
+    "speechType": "warning",
+    "topics": [
+      "mission",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 11:21–24",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-s-10-19-20",
+    "passageId": "lk-10-17-20",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 19,
+    "endVerse": 20,
+    "reference": "Luke 10:19–20",
+    "title": "Joy beyond visible power",
+    "summary": "Jesus reorients the returning envoys from triumph over opponents toward belonging.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-s-10-21-24",
+    "passageId": "lk-10-21-24",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 21,
+    "endVerse": 24,
+    "reference": "Luke 10:21–24",
+    "title": "Thanks and revealed things",
+    "summary": "Jesus praises the Father and blesses the disciples' opportunity to witness.",
+    "audience": "disciples",
+    "speechType": "prayer",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 11:25–27",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-s-10-25-28",
+    "passageId": "lk-10-25-37",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 25,
+    "endVerse": 28,
+    "reference": "Luke 10:25–28",
+    "title": "Love of God and neighbor",
+    "summary": "Jesus and a legal expert discuss the commandments and the way to life.",
+    "audience": "questioners",
+    "speechType": "dialogue",
+    "topics": [
+      "mosaic-law",
+      "inclusion",
+      "parables"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 12:29–31",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 22:37–40",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-s-10-30-37",
+    "passageId": "lk-10-25-37",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 30,
+    "endVerse": 37,
+    "reference": "Luke 10:30–37",
+    "title": "The Samaritan and the wounded traveler",
+    "summary": "Jesus tells a story about mercy by a stranger in response to a question about neighbors.",
+    "audience": "questioners",
+    "speechType": "parable",
+    "topics": [
+      "mosaic-law",
+      "inclusion",
+      "parables"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-s-10-41-42",
+    "passageId": "lk-10-38-42",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 41,
+    "endVerse": 42,
+    "reference": "Luke 10:41–42",
+    "title": "Mary's choice in Martha's home",
+    "summary": "Jesus answers Martha's complaint, valuing Mary's attention to his teaching.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-s-11-02-04",
+    "passageId": "lk-11-01-13",
+    "bookId": "lk",
+    "chapter": 11,
+    "startVerse": 2,
+    "endVerse": 4,
+    "reference": "Luke 11:2–4",
+    "title": "Luke's version of the Lord's Prayer",
+    "summary": "Jesus gives a shorter form of a prayer asking for God's rule, food, forgiveness and protection.",
+    "audience": "disciples",
+    "speechType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 6:9–13",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm",
+    "caution": "Luke's prayer form is shorter than Matthew's; manuscript harmonizations toward Matthew make precise wording a textual-review issue."
+  },
+  {
+    "id": "lk-s-11-05-13",
+    "passageId": "lk-11-01-13",
+    "bookId": "lk",
+    "chapter": 11,
+    "startVerse": 5,
+    "endVerse": 13,
+    "reference": "Luke 11:5–13",
+    "title": "Keep asking",
+    "summary": "Jesus encourages persistence in asking, seeking and knocking.",
+    "audience": "disciples",
+    "speechType": "illustration",
+    "topics": [
+      "prayer"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 7:7–11",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-s-11-17-23",
+    "passageId": "lk-11-14-23",
+    "bookId": "lk",
+    "chapter": 11,
+    "startVerse": 17,
+    "endVerse": 23,
+    "reference": "Luke 11:17–23",
+    "title": "A divided realm",
+    "summary": "Jesus rebuts an accusation about demonic power by arguing that divided power falls.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 3:23–27",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:25–30",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-s-11-24-28",
+    "passageId": "lk-11-24-28",
+    "bookId": "lk",
+    "chapter": 11,
+    "startVerse": 24,
+    "endVerse": 28,
+    "reference": "Luke 11:24–28",
+    "title": "Hear and keep the word",
+    "summary": "Jesus warns against an empty house and makes obedience more important than familial status.",
+    "audience": "crowd",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:43–45",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-s-11-29-32",
+    "passageId": "lk-11-29-32",
+    "bookId": "lk",
+    "chapter": 11,
+    "startVerse": 29,
+    "endVerse": 32,
+    "reference": "Luke 11:29–32",
+    "title": "The sign of Jonah",
+    "summary": "Jesus warns a generation demanding a sign and refers to Jonah and the queen of the south.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:39–42",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-s-11-33-36",
+    "passageId": "lk-11-33-36",
+    "bookId": "lk",
+    "chapter": 11,
+    "startVerse": 33,
+    "endVerse": 36,
+    "reference": "Luke 11:33–36",
+    "title": "Light within",
+    "summary": "Jesus uses lamp and eye imagery to speak about how people perceive.",
+    "audience": "crowd",
+    "speechType": "illustration",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 6:22–23",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-s-11-39-52",
+    "passageId": "lk-11-37-54",
+    "bookId": "lk",
+    "chapter": 11,
+    "startVerse": 39,
+    "endVerse": 52,
+    "reference": "Luke 11:39–52",
+    "title": "Woes against hypocrisy",
+    "summary": "Jesus critiques religious display and burdens placed on others by experts.",
+    "audience": "opponents",
+    "speechType": "critique",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 23:23–36",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-s-12-02-12",
+    "passageId": "lk-12-01-12",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 2,
+    "endVerse": 12,
+    "reference": "Luke 12:2–12",
+    "title": "Hypocrisy and courage",
+    "summary": "Jesus warns about hidden things being revealed and calls disciples to fearless acknowledgment.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 10:26–33",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-s-12-15-15",
+    "passageId": "lk-12-13-21",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 15,
+    "endVerse": 15,
+    "reference": "Luke 12:15",
+    "title": "Guard against greed",
+    "summary": "Jesus warns about defining a life by abundance of possessions.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-s-12-16-21",
+    "passageId": "lk-12-13-21",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 16,
+    "endVerse": 21,
+    "reference": "Luke 12:16–21",
+    "title": "The rich fool and stored surplus",
+    "summary": "Jesus tells of a wealthy farmer whose planned accumulation cannot secure his life.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-s-12-22-34",
+    "passageId": "lk-12-22-34",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 22,
+    "endVerse": 34,
+    "reference": "Luke 12:22–34",
+    "title": "Do not worry, seek the kingdom",
+    "summary": "Jesus speaks of daily needs and calls followers to generosity and trust.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 6:25–34",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-s-12-35-48",
+    "passageId": "lk-12-35-48",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 35,
+    "endVerse": 48,
+    "reference": "Luke 12:35–48",
+    "title": "Alert servants and accountable managers",
+    "summary": "Jesus uses household service and oversight to teach readiness and responsibility.",
+    "audience": "disciples",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "leadership"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 24:45–51",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-s-12-49-53",
+    "passageId": "lk-12-49-53",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 49,
+    "endVerse": 53,
+    "reference": "Luke 12:49–53",
+    "title": "Conflict and division",
+    "summary": "Jesus describes crisis and division his mission will cause within families.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 10:34–36",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-s-12-54-59",
+    "passageId": "lk-12-54-59",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 54,
+    "endVerse": 59,
+    "reference": "Luke 12:54–59",
+    "title": "Discern the time and settle",
+    "summary": "Jesus urges listeners to interpret present circumstances and seek settlement.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 5:25–26",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-s-13-02-05",
+    "passageId": "lk-13-01-09",
+    "bookId": "lk",
+    "chapter": 13,
+    "startVerse": 2,
+    "endVerse": 5,
+    "reference": "Luke 13:2–5",
+    "title": "Repent rather than judge victims",
+    "summary": "Jesus resists assumptions that calamity proves unusually grave personal sin.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-s-13-06-09",
+    "passageId": "lk-13-01-09",
+    "bookId": "lk",
+    "chapter": 13,
+    "startVerse": 6,
+    "endVerse": 9,
+    "reference": "Luke 13:6–9",
+    "title": "Another chance for the fig tree",
+    "summary": "Jesus tells of a barren tree given a further opportunity to bear fruit.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-s-13-12-17",
+    "passageId": "lk-13-10-17",
+    "bookId": "lk",
+    "chapter": 13,
+    "startVerse": 12,
+    "endVerse": 17,
+    "reference": "Luke 13:12–17",
+    "title": "Freedom on the Sabbath",
+    "summary": "Jesus heals a woman and responds to a synagogue leader's objection.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "healing",
+      "women-authority",
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-s-13-18-21",
+    "passageId": "lk-13-18-21",
+    "bookId": "lk",
+    "chapter": 13,
+    "startVerse": 18,
+    "endVerse": 21,
+    "reference": "Luke 13:18–21",
+    "title": "Mustard and leaven",
+    "summary": "Jesus compares God's kingdom with tiny beginnings and pervasive growth.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 13:31–33",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mk",
+        "reference": "Mark 4:30–32",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-s-13-24-30",
+    "passageId": "lk-13-22-30",
+    "bookId": "lk",
+    "chapter": 13,
+    "startVerse": 24,
+    "endVerse": 30,
+    "reference": "Luke 13:24–30",
+    "title": "Strive to enter",
+    "summary": "Jesus answers a question about salvation with an image of a narrow door and reversals.",
+    "audience": "questioners",
+    "speechType": "warning",
+    "topics": [
+      "kingdom",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 7:13–14",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-s-13-34-35",
+    "passageId": "lk-13-31-35",
+    "bookId": "lk",
+    "chapter": 13,
+    "startVerse": 34,
+    "endVerse": 35,
+    "reference": "Luke 13:34–35",
+    "title": "Lament for Jerusalem",
+    "summary": "Jesus grieves over Jerusalem's rejection of those sent to it.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 23:37–39",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-s-14-03-05",
+    "passageId": "lk-14-01-06",
+    "bookId": "lk",
+    "chapter": 14,
+    "startVerse": 3,
+    "endVerse": 5,
+    "reference": "Luke 14:3–5",
+    "title": "A Sabbath healing question",
+    "summary": "Jesus responds to objections against healing on the Sabbath.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-s-14-08-11",
+    "passageId": "lk-14-07-11",
+    "bookId": "lk",
+    "chapter": 14,
+    "startVerse": 8,
+    "endVerse": 11,
+    "reference": "Luke 14:8–11",
+    "title": "Take the lower seat",
+    "summary": "Jesus warns against competing for seats of honor at meals.",
+    "audience": "individuals",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "leadership"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-s-14-12-14",
+    "passageId": "lk-14-12-14",
+    "bookId": "lk",
+    "chapter": 14,
+    "startVerse": 12,
+    "endVerse": 14,
+    "reference": "Luke 14:12–14",
+    "title": "Invite those unable to repay",
+    "summary": "Jesus tells a host to welcome people unable to return the invitation.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "wealth-poverty",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-s-14-16-24",
+    "passageId": "lk-14-15-24",
+    "bookId": "lk",
+    "chapter": 14,
+    "startVerse": 16,
+    "endVerse": 24,
+    "reference": "Luke 14:16–24",
+    "title": "The invited guests decline",
+    "summary": "Jesus tells of guests who excuse themselves and others subsequently invited.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 22:1–10",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-s-14-26-33",
+    "passageId": "lk-14-25-35",
+    "bookId": "lk",
+    "chapter": 14,
+    "startVerse": 26,
+    "endVerse": 33,
+    "reference": "Luke 14:26–33",
+    "title": "Count the cost of discipleship",
+    "summary": "Jesus uses severe comparisons about family, self-denial and possessions when discussing following.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 10:37–39",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-s-15-03-07",
+    "passageId": "lk-15-01-07",
+    "bookId": "lk",
+    "chapter": 15,
+    "startVerse": 3,
+    "endVerse": 7,
+    "reference": "Luke 15:3–7",
+    "title": "The lost sheep found",
+    "summary": "Jesus describes joy over one sheep recovered from danger.",
+    "audience": "opponents",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "inclusion"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 18:12–14",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK15.htm"
+  },
+  {
+    "id": "lk-s-15-08-10",
+    "passageId": "lk-15-08-10",
+    "bookId": "lk",
+    "chapter": 15,
+    "startVerse": 8,
+    "endVerse": 10,
+    "reference": "Luke 15:8–10",
+    "title": "The woman and her lost coin",
+    "summary": "Jesus describes a woman's search and neighbors sharing joy over a recovered coin.",
+    "audience": "opponents",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "inclusion",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK15.htm"
+  },
+  {
+    "id": "lk-s-15-11-32",
+    "passageId": "lk-15-11-32",
+    "bookId": "lk",
+    "chapter": 15,
+    "startVerse": 11,
+    "endVerse": 32,
+    "reference": "Luke 15:11–32",
+    "title": "A father welcomes the lost son",
+    "summary": "Jesus narrates familial conflict over a wayward son's return and welcome.",
+    "audience": "opponents",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "forgiveness",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK15.htm"
+  },
+  {
+    "id": "lk-s-16-01-13",
+    "passageId": "lk-16-01-13",
+    "bookId": "lk",
+    "chapter": 16,
+    "startVerse": 1,
+    "endVerse": 13,
+    "reference": "Luke 16:1–13",
+    "title": "Unjust manager and the use of wealth",
+    "summary": "Jesus tells a difficult management parable and concludes that service to God and wealth conflict.",
+    "audience": "disciples",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 6:24",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+  },
+  {
+    "id": "lk-s-16-16-17",
+    "passageId": "lk-16-16-17",
+    "bookId": "lk",
+    "chapter": 16,
+    "startVerse": 16,
+    "endVerse": 17,
+    "reference": "Luke 16:16–17",
+    "title": "The Law and the kingdom",
+    "summary": "Jesus speaks of the kingdom's proclamation alongside the endurance of the Law.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 5:17–18",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+  },
+  {
+    "id": "lk-s-16-18-18",
+    "passageId": "lk-16-18-18",
+    "bookId": "lk",
+    "chapter": 16,
+    "startVerse": 18,
+    "endVerse": 18,
+    "reference": "Luke 16:18",
+    "title": "Marriage and divorce",
+    "summary": "Jesus states a restriction on divorce and remarriage in an unusual literary context.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 10:11–12",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:9",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm",
+    "caution": "A single divorce saying occurs within discussion of the Law and wealth; this literary context is not identical to Mark 10 or Matthew 19."
+  },
+  {
+    "id": "lk-s-16-19-31",
+    "passageId": "lk-16-19-31",
+    "bookId": "lk",
+    "chapter": 16,
+    "startVerse": 19,
+    "endVerse": 31,
+    "reference": "Luke 16:19–31",
+    "title": "Rich man and Lazarus",
+    "summary": "Jesus tells a story contrasting an affluent man and a poor man neglected at his gate.",
+    "audience": "opponents",
+    "speechType": "parable",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+  },
+  {
+    "id": "lk-s-17-01-10",
+    "passageId": "lk-17-01-10",
+    "bookId": "lk",
+    "chapter": 17,
+    "startVerse": 1,
+    "endVerse": 10,
+    "reference": "Luke 17:1–10",
+    "title": "Forgive and do your duty",
+    "summary": "Jesus instructs against causing stumbling and about forgiveness and unentitled service.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "forgiveness",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 18:6–7",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-s-17-14-19",
+    "passageId": "lk-17-11-19",
+    "bookId": "lk",
+    "chapter": 17,
+    "startVerse": 14,
+    "endVerse": 19,
+    "reference": "Luke 17:14–19",
+    "title": "Ten healed, one returns",
+    "summary": "Jesus tells ten people to go to priests and responds to a returning Samaritan.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-s-17-20-21",
+    "passageId": "lk-17-20-21",
+    "bookId": "lk",
+    "chapter": 17,
+    "startVerse": 20,
+    "endVerse": 21,
+    "reference": "Luke 17:20–21",
+    "title": "The kingdom's coming",
+    "summary": "Jesus answers a question about perceiving God's kingdom.",
+    "audience": "questioners",
+    "speechType": "response",
+    "topics": [
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-s-17-22-37",
+    "passageId": "lk-17-22-37",
+    "bookId": "lk",
+    "chapter": 17,
+    "startVerse": 22,
+    "endVerse": 37,
+    "reference": "Luke 17:22–37",
+    "title": "The days of the Son of Man",
+    "summary": "Jesus describes signs, loss, judgment and decisive choices.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 24:23–28",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-s-18-01-08",
+    "passageId": "lk-18-01-08",
+    "bookId": "lk",
+    "chapter": 18,
+    "startVerse": 1,
+    "endVerse": 8,
+    "reference": "Luke 18:1–8",
+    "title": "Persistent widow seeks justice",
+    "summary": "Jesus describes a widow pressing an unjust judge to act, then discusses perseverance in prayer.",
+    "audience": "disciples",
+    "speechType": "parable",
+    "topics": [
+      "prayer",
+      "parables",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-s-18-09-14",
+    "passageId": "lk-18-09-14",
+    "bookId": "lk",
+    "chapter": 18,
+    "startVerse": 9,
+    "endVerse": 14,
+    "reference": "Luke 18:9–14",
+    "title": "A Pharisee and tax collector praying",
+    "summary": "Jesus contrasts pride in one's standing with a humble plea for mercy.",
+    "audience": "public",
+    "speechType": "parable",
+    "topics": [
+      "prayer",
+      "parables",
+      "forgiveness"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-s-18-16-17",
+    "passageId": "lk-18-15-17",
+    "bookId": "lk",
+    "chapter": 18,
+    "startVerse": 16,
+    "endVerse": 17,
+    "reference": "Luke 18:16–17",
+    "title": "Welcome children",
+    "summary": "Jesus urges that children be allowed to come.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 10:14–15",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:14",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-s-18-18-30",
+    "passageId": "lk-18-18-30",
+    "bookId": "lk",
+    "chapter": 18,
+    "startVerse": 18,
+    "endVerse": 30,
+    "reference": "Luke 18:18–30",
+    "title": "The rich ruler and the kingdom",
+    "summary": "Jesus presses a wealthy ruler toward giving to the poor and following.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 10:17–30",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 19:16–30",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-s-18-31-34",
+    "passageId": "lk-18-31-34",
+    "bookId": "lk",
+    "chapter": 18,
+    "startVerse": 31,
+    "endVerse": 34,
+    "reference": "Luke 18:31–34",
+    "title": "Suffering and resurrection predicted",
+    "summary": "Jesus foretells coming abuse, death and resurrection.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 10:33–34",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-s-18-41-42",
+    "passageId": "lk-18-35-43",
+    "bookId": "lk",
+    "chapter": 18,
+    "startVerse": 41,
+    "endVerse": 42,
+    "reference": "Luke 18:41–42",
+    "title": "A blind man's appeal",
+    "summary": "Jesus asks a blind man what he wants and answers the request for sight.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 10:51–52",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-s-19-05-10",
+    "passageId": "lk-19-01-10",
+    "bookId": "lk",
+    "chapter": 19,
+    "startVerse": 5,
+    "endVerse": 10,
+    "reference": "Luke 19:5–10",
+    "title": "Zacchaeus, restitution and salvation",
+    "summary": "Jesus responds to Zacchaeus and announces salvation when he pledges giving and restitution.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-s-19-12-27",
+    "passageId": "lk-19-11-27",
+    "bookId": "lk",
+    "chapter": 19,
+    "startVerse": 12,
+    "endVerse": 27,
+    "reference": "Luke 19:12–27",
+    "title": "The nobleman's entrusted money",
+    "summary": "Jesus tells of servants accountable for money while a ruler's claim is disputed.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 25:14–30",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-s-19-40-40",
+    "passageId": "lk-19-28-40",
+    "bookId": "lk",
+    "chapter": 19,
+    "startVerse": 40,
+    "endVerse": 40,
+    "reference": "Luke 19:40",
+    "title": "Stones would cry out",
+    "summary": "Jesus refuses to silence those praising him on his arrival.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-s-19-41-44",
+    "passageId": "lk-19-41-44",
+    "bookId": "lk",
+    "chapter": 19,
+    "startVerse": 41,
+    "endVerse": 44,
+    "reference": "Luke 19:41–44",
+    "title": "Lament over the city",
+    "summary": "Jesus grieves for Jerusalem and predicts devastation.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 23:37–39",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-s-19-46-46",
+    "passageId": "lk-19-45-48",
+    "bookId": "lk",
+    "chapter": 19,
+    "startVerse": 46,
+    "endVerse": 46,
+    "reference": "Luke 19:46",
+    "title": "The temple as a house of prayer",
+    "summary": "Jesus cites Scripture while challenging commercial use of temple space.",
+    "audience": "opponents",
+    "speechType": "critique",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 11:17",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 21:13",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-s-20-03-08",
+    "passageId": "lk-20-01-08",
+    "bookId": "lk",
+    "chapter": 20,
+    "startVerse": 3,
+    "endVerse": 8,
+    "reference": "Luke 20:3–8",
+    "title": "Authority and John's baptism",
+    "summary": "Jesus answers a challenge concerning his authority with a counterquestion.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 11:29–33",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-s-20-09-18",
+    "passageId": "lk-20-09-19",
+    "bookId": "lk",
+    "chapter": 20,
+    "startVerse": 9,
+    "endVerse": 18,
+    "reference": "Luke 20:9–18",
+    "title": "The tenants and rejected son",
+    "summary": "Jesus tells a vineyard parable and alludes to a rejected stone.",
+    "audience": "crowd",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 12:1–11",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 21:33–44",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-s-20-24-25",
+    "passageId": "lk-20-20-26",
+    "bookId": "lk",
+    "chapter": 20,
+    "startVerse": 24,
+    "endVerse": 25,
+    "reference": "Luke 20:24–25",
+    "title": "Caesar and God",
+    "summary": "Jesus responds to a question about tribute money.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 12:17",
+        "relationship": "parallel",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 22:21",
+        "relationship": "parallel",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-s-20-34-38",
+    "passageId": "lk-20-27-40",
+    "bookId": "lk",
+    "chapter": 20,
+    "startVerse": 34,
+    "endVerse": 38,
+    "reference": "Luke 20:34–38",
+    "title": "Marriage and resurrection",
+    "summary": "Jesus responds to a resurrection challenge through reasoning about the afterlife.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "identity-resurrection",
+      "marriage-divorce"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 12:24–27",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 22:29–32",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-s-20-41-47",
+    "passageId": "lk-20-41-47",
+    "bookId": "lk",
+    "chapter": 20,
+    "startVerse": 41,
+    "endVerse": 47,
+    "reference": "Luke 20:41–47",
+    "title": "Davidic title and scribal status",
+    "summary": "Jesus questions a title and criticizes leaders' treatment of widows.",
+    "audience": "crowd",
+    "speechType": "critique",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 12:35–40",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-s-21-01-04",
+    "passageId": "lk-21-01-04",
+    "bookId": "lk",
+    "chapter": 21,
+    "startVerse": 1,
+    "endVerse": 4,
+    "reference": "Luke 21:1–4",
+    "title": "A widow's offering",
+    "summary": "Jesus comments on a widow's gift in a context of criticism of exploitation.",
+    "audience": "disciples",
+    "speechType": "observation",
+    "topics": [
+      "wealth-poverty",
+      "women-authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 12:41–44",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-s-21-06-19",
+    "passageId": "lk-21-05-19",
+    "bookId": "lk",
+    "chapter": 21,
+    "startVerse": 6,
+    "endVerse": 19,
+    "reference": "Luke 21:6–19",
+    "title": "Temple and endurance",
+    "summary": "Jesus warns of conflict, persecution and the destruction of the temple.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 13:5–13",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-s-21-20-24",
+    "passageId": "lk-21-20-24",
+    "bookId": "lk",
+    "chapter": 21,
+    "startVerse": 20,
+    "endVerse": 24,
+    "reference": "Luke 21:20–24",
+    "title": "Jerusalem surrounded",
+    "summary": "Jesus describes siege and suffering in Jerusalem.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-s-21-25-28",
+    "passageId": "lk-21-25-28",
+    "bookId": "lk",
+    "chapter": 21,
+    "startVerse": 25,
+    "endVerse": 28,
+    "reference": "Luke 21:25–28",
+    "title": "The coming Son of Man",
+    "summary": "Jesus depicts distress and the approach of redemption.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 13:24–27",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-s-21-29-36",
+    "passageId": "lk-21-29-36",
+    "bookId": "lk",
+    "chapter": 21,
+    "startVerse": 29,
+    "endVerse": 36,
+    "reference": "Luke 21:29–36",
+    "title": "Fig tree and vigilance",
+    "summary": "Jesus uses a fig tree and calls followers to alertness.",
+    "audience": "disciples",
+    "speechType": "parable",
+    "topics": [
+      "end-times",
+      "parables"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 13:28–33",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 24:32–44",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-s-22-15-23",
+    "passageId": "lk-22-14-23",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 15,
+    "endVerse": 23,
+    "reference": "Luke 22:15–23",
+    "title": "The final meal and covenant",
+    "summary": "Jesus speaks about sharing bread and cup and foretells betrayal, amid debated verse wording.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 14:22–25",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:26–29",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm",
+    "caution": "Western-text witnesses differ in the cup/bread ordering and wording of Luke 22:19–20; compare critical text before quoting."
+  },
+  {
+    "id": "lk-s-22-25-27",
+    "passageId": "lk-22-24-38",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 25,
+    "endVerse": 27,
+    "reference": "Luke 22:25–27",
+    "title": "Leadership as service",
+    "summary": "Jesus opposes status hierarchy with serving as the model for those leading.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 10:42–45",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 20:25–28",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-s-22-31-34",
+    "passageId": "lk-22-24-38",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 31,
+    "endVerse": 34,
+    "reference": "Luke 22:31–34",
+    "title": "Peter's testing and denial",
+    "summary": "Jesus predicts Peter's denial and speaks of strengthening others.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 14:29–31",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-s-22-35-38",
+    "passageId": "lk-22-24-38",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 35,
+    "endVerse": 38,
+    "reference": "Luke 22:35–38",
+    "title": "A change in travel circumstances",
+    "summary": "Jesus contrasts earlier mission equipment with what followers should consider now.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-s-22-40-46",
+    "passageId": "lk-22-39-46",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 40,
+    "endVerse": 46,
+    "reference": "Luke 22:40–46",
+    "title": "Prayer and testing on the Mount of Olives",
+    "summary": "Jesus prays and urges disciples not to give way to temptation; verse 43–44 wording is disputed.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 14:35–38",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:39–41",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm",
+    "caution": "The angelic strengthening and sweat-like-blood verses (Luke 22:43–44) are textually contested. Do not treat this as a universally accepted saying transcript."
+  },
+  {
+    "id": "lk-s-22-48-53",
+    "passageId": "lk-22-47-53",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 48,
+    "endVerse": 53,
+    "reference": "Luke 22:48–53",
+    "title": "Betrayal and the arrest",
+    "summary": "Jesus addresses Judas and those coming to arrest him.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 14:44–49",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-s-22-67-70",
+    "passageId": "lk-22-63-71",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 67,
+    "endVerse": 70,
+    "reference": "Luke 22:67–70",
+    "title": "Identity before the council",
+    "summary": "Jesus answers questions concerning the Messiah and Son of Man.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 14:61–62",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "mt",
+        "reference": "Matthew 26:63–64",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-s-23-28-31",
+    "passageId": "lk-23-26-31",
+    "bookId": "lk",
+    "chapter": 23,
+    "startVerse": 28,
+    "endVerse": 31,
+    "reference": "Luke 23:28–31",
+    "title": "Daughters of Jerusalem",
+    "summary": "Jesus warns mourning women about the city's future suffering.",
+    "audience": "individuals",
+    "speechType": "warning",
+    "topics": [
+      "suffering",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-s-23-34-34",
+    "passageId": "lk-23-32-43",
+    "bookId": "lk",
+    "chapter": 23,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Luke 23:34",
+    "title": "Prayer for forgiveness at the cross",
+    "summary": "A prayer attributed to Jesus in Luke 23:34a is disputed in textual witnesses.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "suffering",
+      "forgiveness"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm",
+    "caution": "The prayer in Luke 23:34a is absent from significant witnesses and is accepted in others; its authenticity is disputed."
+  },
+  {
+    "id": "lk-s-23-43-43",
+    "passageId": "lk-23-32-43",
+    "bookId": "lk",
+    "chapter": 23,
+    "startVerse": 43,
+    "endVerse": 43,
+    "reference": "Luke 23:43",
+    "title": "Promise to a condemned man",
+    "summary": "Jesus answers a condemned man's appeal with a promise about being together in paradise.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "forgiveness"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-s-23-46-46",
+    "passageId": "lk-23-44-49",
+    "bookId": "lk",
+    "chapter": 23,
+    "startVerse": 46,
+    "endVerse": 46,
+    "reference": "Luke 23:46",
+    "title": "Entrusting his spirit",
+    "summary": "Jesus' last words in Luke entrust his spirit to the Father.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-s-24-17-27",
+    "passageId": "lk-24-13-35",
+    "bookId": "lk",
+    "chapter": 24,
+    "startVerse": 17,
+    "endVerse": 27,
+    "reference": "Luke 24:17–27",
+    "title": "Interpreting Scripture on the Emmaus road",
+    "summary": "The risen Jesus questions and teaches travelers about the Messiah's suffering.",
+    "audience": "disciples",
+    "speechType": "dialogue",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK24.htm"
+  },
+  {
+    "id": "lk-s-24-36-49",
+    "passageId": "lk-24-36-49",
+    "bookId": "lk",
+    "chapter": 24,
+    "startVerse": 36,
+    "endVerse": 49,
+    "reference": "Luke 24:36–49",
+    "title": "The risen Jesus' commission",
+    "summary": "Jesus instructs followers about Scripture, repentance, forgiveness and witness.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "mission"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 28:18–20",
+        "relationship": "related",
+        "status": "candidate"
+      },
+      {
+        "bookId": "jn",
+        "reference": "John 20:21–23",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK24.htm"
+  },
+  {
     "id": "mk-s-01-15-15",
     "passageId": "mk-01-14-15",
     "bookId": "mk",

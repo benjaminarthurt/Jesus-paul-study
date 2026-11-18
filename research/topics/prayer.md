@@ -2,7 +2,7 @@
 title: Faith and Prayer
 summary: Prayer, fasting, trust, and their relation to forgiveness.
 status: draft
-passages: [mk-01-35-39, mk-02-18-22, mk-04-35-41, mk-05-21-43, mk-06-45-52, mk-09-14-29, mk-10-46-52, mk-11-20-26, mk-14-32-42, mt-06-05-15, mt-06-16-18, mt-07-07-12, mt-11-25-30, mt-21-18-22, mt-26-36-46]
+passages: [lk-06-12-16, lk-10-21-24, lk-11-01-13, lk-18-01-08, lk-18-09-14, lk-22-39-46, mk-01-35-39, mk-02-18-22, mk-04-35-41, mk-05-21-43, mk-06-45-52, mk-09-14-29, mk-10-46-52, mk-11-20-26, mk-14-32-42, mt-06-05-15, mt-06-16-18, mt-07-07-12, mt-11-25-30, mt-21-18-22, mt-26-36-46]
 ---
 ## Question
 

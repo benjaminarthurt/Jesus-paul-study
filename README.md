@@ -25,7 +25,7 @@ Website pages are built from Markdown research files. Edit a topic in `research/
 
 ## Current Gospel research
 
-Matthew and Mark now have preliminary chapter-by-chapter literary-unit maps, distinguishing teachings, narrative, parables, prayers and actions. Browse `/books/mt/` (28 chapters) and `/books/mk/` (16 chapters), or use `/teachings/` to filter selected speech-bearing spans by Gospel. Matthew adds 75 selected sayings and candidate cross-Gospel links, but these are **not verified equivalences**. Both inventories remain **draft** and are not a certified utterance-by-utterance record.
+Matthew, Mark, and Luke now have preliminary literary-unit maps, distinguishing teachings, narrative, parables, prayers and actions. Browse `/books/mt/` (28 chapters), `/books/mk/` (16 chapters), and `/books/lk/` (24 chapters), or filter selected speech-bearing spans by Gospel at `/teachings/`. Luke adds 143 literary units (ten preserving existing research anchors), 112 selected speech-bearing spans and 113 candidate links to the other Gospels. **All parallels remain research candidates**, not verified textual or historical equivalences. Each catalog is **draft**, not an utterance-by-utterance critical transcript.
 
 ## Evidence-linked pilot
 

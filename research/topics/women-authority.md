@@ -2,7 +2,7 @@
 title: Women, Equality, and Religious Authority
 summary: Women's participation in Gospel narratives, Paul's coworkers, and restrictive church passages.
 status: draft
-passages: [1co-11-02-16, 1co-14-26-40, 1co-14-34-35, 1co-16-19-19, 1ti-02-08-15, 1ti-03-01-13, ac-18-24-26, ga-03-26-29, jn-04-07-42, jn-20-11-18, lk-08-01-03, lk-10-38-42, lk-24-01-11, mk-15-40-47, mt-28-01-10, php-04-02-03, ro-16-01-02, ro-16-01-16, ro-16-03-07, tit-02-03-05]
+passages: [1co-11-02-16, 1co-14-26-40, 1co-14-34-35, 1co-16-19-19, 1ti-02-08-15, 1ti-03-01-13, ac-18-24-26, ga-03-26-29, jn-04-07-42, jn-20-11-18, lk-01-26-38, lk-01-39-45, lk-01-46-56, lk-02-25-38, lk-07-36-50, lk-08-01-03, lk-08-40-56, lk-10-38-42, lk-13-10-17, lk-15-08-10, lk-18-01-08, lk-21-01-04, lk-23-26-31, lk-23-50-56, lk-24-01-11, mk-15-40-47, mt-28-01-10, php-04-02-03, ro-16-01-02, ro-16-01-16, ro-16-03-07, tit-02-03-05]
 ---
 ## Research question
 
