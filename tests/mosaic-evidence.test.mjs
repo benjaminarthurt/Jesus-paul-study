@@ -6,7 +6,7 @@ import { parseFrontmatter } from "../scripts/frontmatter.mjs";
 const read = file => JSON.parse(readFileSync(file,"utf8"));
 const passages = read("research/index/passages.json");
 const sources = read("research/index/sources.json");
-const evidence = read("research/index/evidence.json");
+const evidence = read("research/index/evidence.json").filter(e => e.comparisonId === "law-and-faith");
 const study = parseFrontmatter(readFileSync("research/comparisons/law-and-faith.md","utf8"));
 const topic = parseFrontmatter(readFileSync("research/topics/mosaic-law.md","utf8"));
 const passageIds = new Set(passages.map(p=>p.id));

@@ -31,6 +31,10 @@ Mark has a preliminary chapter-by-chapter index of sayings, dialogue, parables, 
 
 The Law and Faith comparison now has a six-claim evidence ledger, bibliography with transparent source-access labels, contextual passages (including Acts 15), and competing interpretations. Browse `/comparisons/law-and-faith/`; the global bibliography is at `/sources/`. This is **draft research**, not an independently reviewed theological finding.
 
+## Wealth and poverty pilot
+
+The new `/comparisons/wealth-and-generosity/` study compares Gospel wealth warnings with Paul's organized giving, includes counterreadings on the identity of "the least" in Matthew 25 and the widow in Mark 12, and protects the distinction between undisputed Paul, Acts and disputed Pauline letters. It is **draft research** supported by a claim-level evidence ledger and bibliography with access-scope labels.
+
 ## Explore
 
 - [Project charter](docs/project-charter.md)

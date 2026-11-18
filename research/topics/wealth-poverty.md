@@ -18,4 +18,4 @@ Luke's blessings and woes, the rich man narrative, Matthew's judgment scene, and
 - Does Paul's collection reflect continuity, modification, or a different problem?
 - What changes when modern prosperity teaching or economic policy is brought into the discussion?
 
-**Research state:** outline only; no settled conclusion.
+**Research state:** a source-linked draft comparison and evidence audit are now available at [Wealth, Poverty, and Social Obligation](/comparisons/wealth-and-generosity/). This is not a final or independently reviewed conclusion.

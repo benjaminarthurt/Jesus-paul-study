@@ -121,7 +121,7 @@ const accessScopes = new Set(["full-text", "publisher-abstract-only", "selected-
 for (const source of sources) {
   if (typeof source.id !== "string" || !source.id || sourceIds.has(source.id)) errors.push("Missing or duplicate source id " + String(source.id));
   sourceIds.add(source.id);
-  if (!["primary-edition", "scholarly-overview", "peer-reviewed-article", "academic-book", "historical-overview"].includes(source.type)) errors.push("Unknown source type " + source.id);
+  if (!["primary-edition", "scholarly-overview", "peer-reviewed-article", "academic-book", "historical-overview", "pastoral-commentary"].includes(source.type)) errors.push("Unknown source type " + source.id);
   if (!accessScopes.has(source.accessScope)) errors.push("Unknown source accessScope " + source.id);
   if (!["author","title","publisher","location","note"].every(k => typeof source[k] === "string" && source[k].trim())) errors.push("Source required metadata missing: " + source.id);
   try {

@@ -39,3 +39,7 @@ Search, source bibliography, parallel text viewer, textual-variant callouts, cle
 ## Evidence-ledger pilot (November 2026)
 
 The Law and Faith comparison links contextual passages, six scholarly/primary source records with declared access scopes, and six claim-level entries with counterarguments and limitations. The website now provides a searchable research foundation and a bibliography catalog, but **all research conclusions remain draft** pending detailed language, textual-variant and independent editorial checks. See `docs/mosaic-law-review-log.md`.
+
+## Wealth and poverty comparative pilot (November 2026)
+
+A new comparative study covers Luke's blessings, the rich ruler, Matthew 25, Paul's cross-community collection, Zacchaeus, Mark's widow, and Acts/1 Timothy as **separate contextual voices**. It provides source-aware counterreadings and competing interpretations in a claim-level ledger. **Draft only**: a deeper textual and scholarly review remains. See `docs/wealth-poverty-review-log.md`.
