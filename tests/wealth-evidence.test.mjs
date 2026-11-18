@@ -80,3 +80,17 @@ test("every wealth comparison passage links to its primary chapter", () => {
     assert.match(passage.sourceUrl??"",/^https:\/\/ebible\.org\/engwebp\/[0-9A-Z]+\.htm$/i,id);
   }
 });
+
+test("modern wealth application has explicit ancient/modern and policy boundaries", () => {
+  const dossier = readFileSync("research/modern-issues/wealth-inequality.md","utf8");
+  const meta = parseFrontmatter(dossier);
+  assert.equal(meta.status, "draft");
+  assert.deepEqual(meta.topicRefs, ["wealth-poverty"]);
+  assert.ok(dossier.includes("/comparisons/wealth-and-generosity/"));
+  assert.ok(dossier.includes("/sources/"));
+  assert.match(dossier, /Contemporary|contemporary|modern tax/i);
+  assert.match(dossier, /voluntary charity/i);
+  assert.match(dossier, /structural reform/i);
+  assert.match(dossier, /prosperity teaching/i);
+  assert.match(dossier, /abstracts/i);
+});
