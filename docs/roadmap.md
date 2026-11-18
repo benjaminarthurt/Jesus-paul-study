@@ -59,3 +59,7 @@ The first Matthew index assigns all verses in Matthew's 28 chapters to 119 preli
 ## Luke literary and sayings catalog (November 2026)
 
 The next Gospel pilot maps Luke's 24 chapters into 143 preliminary literary units (including existing research anchors), adds 112 selected speech-bearing spans and 113 cross-Gospel candidate relationships, and makes Luke selectable in book, teaching and search views. It maintains textual warnings for Luke 10's envoy-number variant and disputed readings in the Passion accounts. All material remains **draft**, pending verse and Greek text review, detailed comparison of parallel passages, and independent editing. See `research/books/luke.md` and `docs/luke-review-log.md`.
+
+## John literary and speech-bearing catalog (November 2026)
+
+The John pilot maps all 21 chapters into 88 draft literary units (including two preserved anchor passages), adds 93 selected speech-bearing spans and 15 conservative cross-Gospel candidate links, and extends navigation to all four Gospels. A validation guard excludes the textually contested John 7:53–8:11 from the core sayings layer. John 3 narrator/Jesus speech boundary ambiguity is separated from true manuscript variants in the search facet. Manuscript cautions cover John 1:18, 5:3b–4 and 9:35, with interpretive cautions for John 20 and the epilogue. See `research/books/john.md` and `docs/john-review-log.md`. **Draft, subject to independent scholarly checking.**

@@ -3,6 +3,7 @@ import Base from "../../layouts/Base.astro";
 import books from "../../../research/index/books.json";
 import passages from "../../../research/index/passages.json";
 import sayings from "../../../research/index/sayings.json";
+import { literaryUnitLabel } from "../../lib/literary-unit-label.mjs";
 export function getStaticPaths() {
   return books.map(book => ({ params: { slug: book.id }, props: { book } }));
 }
@@ -13,32 +14,23 @@ const verseOf = (ref: { reference: string }) => Number(ref.reference.match(/\d+:
 const mark = book.id === "mk";
 const matthew = book.id === "mt";
 const luke = book.id === "lk";
-const pilot = mark || matthew || luke;
-const chapterCount = mark ? 16 : matthew ? 28 : luke ? 24 : 0;
-const sourcePrefix = mark ? "MRK" : matthew ? "MAT" : "LUK";
+const john = book.id === "jn";
+const pilot = mark || matthew || luke || john;
+const chapterCount = mark ? 16 : matthew ? 28 : luke ? 24 : john ? 21 : 0;
+const sourcePrefix = mark ? "MRK" : matthew ? "MAT" : luke ? "LUK" : "JHN";
 const visible = (mark ? refs.filter(ref => !("unitType" in ref && ref.unitType === "composite")) : refs)
   .sort((a,b) => chapterOf(a) - chapterOf(b) || verseOf(a) - verseOf(b));
 const groups = pilot
   ? Array.from({length:chapterCount},(_,i)=>({chapter:i+1,records:visible.filter(ref=>chapterOf(ref)===i+1)}))
   : [];
-const kindLabels: Record<string,string> = {
-  speech: "Recorded speech",
-  dialogue: "Encounter / dialogue",
-  parable: "Parable",
-  action: "Narrated action",
-  context: "Context / narrative",
-  prayer: "Prayer in context",
-  illustration: "Teaching illustration",
-  disputed: "Disputed ending",
-  composite: "Composite reference"
-};
+
 ---
 <Base title={book.title}>
   <p class="eyebrow">Biblical book index</p>
   <h1>{book.title}</h1>
   <p class="lead">{book.attributionNote}</p>
   {pilot ? <>
-    <p class="warning">This is a <strong>draft pericope map</strong>, not a complete catalog of every saying or a source-checked conclusion. Narrative events are not automatically teachings attributed to Jesus. {mark ? "Mark 16:9–20 has a disputed longer ending." : matthew ? "Matthew has a first-pass map across all 28 chapters; every speech span still needs detailed source review." : "Luke has a preliminary 24-chapter literary map, including variant cautions for Luke 22 and 23; no speech claim is independently verified."}</p>
+    <p class="warning">This is a <strong>draft pericope map</strong>, not a complete catalog of every saying or a source-checked conclusion. Narrative events are not automatically teachings attributed to Jesus. {mark ? "Mark 16:9–20 has a disputed longer ending." : matthew ? "Matthew has a first-pass map across all 28 chapters; every speech span still needs detailed source review." : luke ? "Luke has a preliminary 24-chapter literary map, including variant cautions for Luke 22 and 23; no speech claim is independently verified." : "John has a preliminary 21-chapter map. John 7:53–8:11 is textually disputed, and the precise speaker boundary in John 3 requires review."}</p>
     <nav class="chapter-nav" aria-label={`Jump to ${book.title} chapter`}>
       {groups.map(g => <a href={`#chapter-${g.chapter}`}>Chapter {g.chapter}</a>)}
     </nav>
@@ -51,7 +43,7 @@ const kindLabels: Record<string,string> = {
       {group.records.map(ref=><article class="reference unit" id={ref.id}>
         <div class="meta">
           <strong>{ref.reference}</strong>
-          {"unitType" in ref && ref.unitType && <span class="unit-label" data-kind={ref.unitType}>{kindLabels[ref.unitType] || ref.unitType}</span>}
+          {"unitType" in ref && ref.unitType && <span class="unit-label" data-kind={ref.unitType}>{literaryUnitLabel(ref.unitType, ref.id)}</span>}
           <span class="status" data-state={ref.status}>{ref.status}</span>
         </div>
         {"title" in ref && ref.title && <h3>{ref.title}</h3>}

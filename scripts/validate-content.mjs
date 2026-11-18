@@ -4,6 +4,7 @@ import { parseFrontmatter } from "./frontmatter.mjs";
 import { isValidMarkSpan } from "./mark-verses.mjs";
 import { MATTHEW_CHAPTER_LAST_VERSE, isValidMatthewSpan } from "./matthew-verses.mjs";
 import { LUKE_CHAPTER_LAST_VERSE, isValidLukeSpan } from "./luke-verses.mjs";
+import { JOHN_CHAPTER_LAST_VERSE, isValidJohnSpan } from "./john-verses.mjs";
 
 const readJson = path => JSON.parse(readFileSync(path, "utf8"));
 const books = readJson("research/index/books.json");
@@ -240,16 +241,52 @@ for(const [id,variant] of [
   if(p?.textualStatus!==variant || !p?.textualNote) errors.push("Luke textual caution missing for "+id);
 }
 
+
+const johnUnits = passages.filter(p => p.bookId === "jn");
+const johnCoverage = JOHN_CHAPTER_LAST_VERSE.map(last => Array(last).fill(0));
+for (const p of johnUnits) {
+  const match = /^jn-(\d{2})-(\d{2})-(\d{2})$/.exec(p.id);
+  if(!match){errors.push("Malformed John literary unit ID "+p.id);continue;}
+  const [chapter,first,last]=match.slice(1).map(Number);
+  if(!isValidJohnSpan(chapter,first,last)){errors.push("Invalid John bounds "+p.id);continue;}
+  if(p.reference!==`John ${chapter}:${first}–${last}`)errors.push("John ID/reference mismatch "+p.id);
+  if(!validMarkKinds.has(p.unitType))errors.push("John literary kind not recognized "+p.id);
+  if(typeof p.title!=="string" || !p.title.trim())errors.push("John unit missing title "+p.id);
+  if(p.sourceLayer!=="jesus-john")errors.push("John unit attribution layer mismatch "+p.id);
+  if(p.sourceUrl!==`https://ebible.org/engwebp/JHN${match[1]}.htm`)errors.push("John source chapter URL mismatch "+p.id);
+  for(let verse=first;verse<=last;verse++)johnCoverage[chapter-1][verse-1]++;
+}
+for(let chapter=1;chapter<=johnCoverage.length;chapter++){
+  for(let verse=1;verse<=johnCoverage[chapter-1].length;verse++){
+    if(johnCoverage[chapter-1][verse-1]!==1)errors.push(`John ${chapter}:${verse} assigned ${johnCoverage[chapter-1][verse-1]} units; expected one`);
+  }
+}
+if(johnUnits.length<85)errors.push("John literary inventory unexpectedly incomplete");
+for(const [id,status] of [
+  ["jn-01-01-18","variant-prologue-1-18"],
+  ["jn-05-01-15","disputed-5-3b-4"],
+  ["jn-07-53-53","disputed-pericope-adulterae"],
+  ["jn-08-01-11","disputed-pericope-adulterae"],
+  ["jn-09-35-41","variant-son-of-man-or-god"]
+]){
+  const p=passagesById.get(id);
+  if(!p || p.textualStatus!==status || !p.textualNote)errors.push("John manuscript caution missing "+id);
+}
+for(const id of ["jn-03-16-21","jn-03-31-36"]){
+  const p=passagesById.get(id);
+  if(p?.unitType!=="context" || !p.textualNote || p.textualStatus)errors.push("John speaker uncertainty mislabeled "+id);
+}
+
 const sayings = readJson("research/index/sayings.json");
 const sayingTypes = new Set(["proclamation", "call", "instruction", "response", "illustration", "question", "parable", "explanation", "argument", "teaching", "critique", "observation", "warning", "symbolic-action", "prayer", "dialogue"]);
 const audiences = new Set(["public", "crowd", "disciples", "individual", "individuals", "questioners", "opponents", "onlookers", "God"]);
 const gospelNames = { mk: "Mark", mt: "Matthew", lk: "Luke", jn: "John" };
-const sourceChapters = { mk: "MRK", mt: "MAT", lk: "LUK" };
-const verseChecks = { mk: isValidMarkSpan, mt: isValidMatthewSpan, lk: isValidLukeSpan };
+const sourceChapters = { mk: "MRK", mt: "MAT", lk: "LUK", jn: "JHN" };
+const verseChecks = { mk: isValidMarkSpan, mt: isValidMatthewSpan, lk: isValidLukeSpan, jn: isValidJohnSpan };
 checkUnique(sayings, "id", "sayings");
 for (const saying of sayings) {
   const label = "Saying " + String(saying.id);
-  const match = /^(mk|mt|lk)-s-(\d{2})-(\d{2})-(\d{2})$/.exec(saying.id || "");
+  const match = /^(mk|mt|lk|jn)-s-(\d{2})-(\d{2})-(\d{2})$/.exec(saying.id || "");
   if (!match) { errors.push(label + ": invalid ID"); continue; }
   const bookId = match[1];
   const [chapter, first, last] = match.slice(2).map(Number);
@@ -261,7 +298,7 @@ for (const saying of sayings) {
   if (!parent || parent.bookId !== bookId) {
     errors.push(label + ": unknown or wrong-Gospel parent");
   } else {
-    const bounds = /^(mk|mt|lk)-(\d{2})-(\d{2})-(\d{2})$/.exec(parent.id);
+    const bounds = /^(mk|mt|lk|jn)-(\d{2})-(\d{2})-(\d{2})$/.exec(parent.id);
     if (!bounds || Number(bounds[2]) !== chapter || first < Number(bounds[3]) || last > Number(bounds[4])) {
       errors.push(label + ": verses outside parent literary unit");
     }
@@ -300,6 +337,11 @@ for (const saying of sayings) {
 if (sayings.filter(s => s.bookId==="mk").length < 35) errors.push("Mark sayings pilot unexpectedly incomplete");
 if (sayings.filter(s => s.bookId==="mt").length < 65) errors.push("Matthew sayings pilot unexpectedly incomplete");
 if (sayings.filter(s => s.bookId==="lk").length < 100) errors.push("Luke sayings pilot unexpectedly incomplete");
+if (sayings.filter(s => s.bookId==="jn").length < 85) errors.push("John sayings pilot unexpectedly incomplete");
+for(const saying of sayings.filter(s=>s.bookId==="jn")){
+  const p=passagesById.get(saying.passageId);
+  if(p?.unitType==="disputed" || ["jn-03-16-21","jn-03-31-36"].includes(saying.passageId))errors.push("Disputed or uncertain John passage cannot be core Jesus saying "+saying.id);
+}
 const contestedMark = sayings.find(s => s.id==="mk-s-07-18-23");
 if (!contestedMark?.caution) errors.push("Mark 7:19 caution missing");
 const widowsSaying = sayings.find(s => s.id==="mk-s-12-43-44");

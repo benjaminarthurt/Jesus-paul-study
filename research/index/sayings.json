@@ -1,5 +1,2055 @@
 [
   {
+    "id": "jn-s-01-38-39",
+    "passageId": "jn-01-35-42",
+    "bookId": "jn",
+    "chapter": 1,
+    "startVerse": 38,
+    "endVerse": 39,
+    "reference": "John 1:38–39",
+    "title": "What do you seek?",
+    "summary": "Jesus asks would-be followers what they are looking for and invites them to accompany him.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-s-01-42-42",
+    "passageId": "jn-01-35-42",
+    "bookId": "jn",
+    "chapter": 1,
+    "startVerse": 42,
+    "endVerse": 42,
+    "reference": "John 1:42",
+    "title": "Simon given a new name",
+    "summary": "Jesus gives Simon an additional name in an early meeting.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-s-01-43-43",
+    "passageId": "jn-01-43-51",
+    "bookId": "jn",
+    "chapter": 1,
+    "startVerse": 43,
+    "endVerse": 43,
+    "reference": "John 1:43",
+    "title": "Philip called",
+    "summary": "Jesus asks Philip to follow him.",
+    "audience": "individual",
+    "speechType": "call",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 1:17",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-s-01-47-51",
+    "passageId": "jn-01-43-51",
+    "bookId": "jn",
+    "chapter": 1,
+    "startVerse": 47,
+    "endVerse": 51,
+    "reference": "John 1:47–51",
+    "title": "Nathanael and the Son of Man",
+    "summary": "Jesus replies to Nathanael and promises a greater vision about the Son of Man.",
+    "audience": "individual",
+    "speechType": "teaching",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN01.htm"
+  },
+  {
+    "id": "jn-s-02-04-04",
+    "passageId": "jn-02-01-12",
+    "bookId": "jn",
+    "chapter": 2,
+    "startVerse": 4,
+    "endVerse": 4,
+    "reference": "John 2:4",
+    "title": "Cana and his hour",
+    "summary": "Jesus answers his mother at the wedding and refers to his hour.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN02.htm"
+  },
+  {
+    "id": "jn-s-02-07-08",
+    "passageId": "jn-02-01-12",
+    "bookId": "jn",
+    "chapter": 2,
+    "startVerse": 7,
+    "endVerse": 8,
+    "reference": "John 2:7–8",
+    "title": "Filling the water jars",
+    "summary": "Jesus instructs attendants to fill vessels and draw from them.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN02.htm"
+  },
+  {
+    "id": "jn-s-02-16-16",
+    "passageId": "jn-02-13-22",
+    "bookId": "jn",
+    "chapter": 2,
+    "startVerse": 16,
+    "endVerse": 16,
+    "reference": "John 2:16",
+    "title": "Temple commerce challenged",
+    "summary": "Jesus tells merchants to stop treating his Father's house as a market.",
+    "audience": "opponents",
+    "speechType": "critique",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 11:17",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN02.htm"
+  },
+  {
+    "id": "jn-s-02-19-19",
+    "passageId": "jn-02-13-22",
+    "bookId": "jn",
+    "chapter": 2,
+    "startVerse": 19,
+    "endVerse": 19,
+    "reference": "John 2:19",
+    "title": "Destroy and raise the temple",
+    "summary": "Jesus speaks enigmatically about raising a destroyed temple; the narrator later interprets it as his body.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN02.htm"
+  },
+  {
+    "id": "jn-s-03-03-08",
+    "passageId": "jn-03-01-15",
+    "bookId": "jn",
+    "chapter": 3,
+    "startVerse": 3,
+    "endVerse": 8,
+    "reference": "John 3:3–8",
+    "title": "Born from above",
+    "summary": "Jesus speaks with Nicodemus about birth from above and the Spirit.",
+    "audience": "individual",
+    "speechType": "teaching",
+    "topics": [
+      "kingdom",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN03.htm"
+  },
+  {
+    "id": "jn-s-03-10-15",
+    "passageId": "jn-03-01-15",
+    "bookId": "jn",
+    "chapter": 3,
+    "startVerse": 10,
+    "endVerse": 15,
+    "reference": "John 3:10–15",
+    "title": "The Son of Man lifted up",
+    "summary": "Jesus challenges Nicodemus and draws on an ancient wilderness story to discuss the Son of Man.",
+    "audience": "individual",
+    "speechType": "teaching",
+    "topics": [
+      "kingdom",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN03.htm"
+  },
+  {
+    "id": "jn-s-04-07-10",
+    "passageId": "jn-04-07-42",
+    "bookId": "jn",
+    "chapter": 4,
+    "startVerse": 7,
+    "endVerse": 10,
+    "reference": "John 4:7–10",
+    "title": "Living water offered",
+    "summary": "Jesus converses with a Samaritan woman about water and a divine gift.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-s-04-13-14",
+    "passageId": "jn-04-07-42",
+    "bookId": "jn",
+    "chapter": 4,
+    "startVerse": 13,
+    "endVerse": 14,
+    "reference": "John 4:13–14",
+    "title": "Water and lasting life",
+    "summary": "Jesus describes a gift of water that leads to enduring life.",
+    "audience": "individual",
+    "speechType": "teaching",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-s-04-21-24",
+    "passageId": "jn-04-07-42",
+    "bookId": "jn",
+    "chapter": 4,
+    "startVerse": 21,
+    "endVerse": 24,
+    "reference": "John 4:21–24",
+    "title": "Worship in spirit and truth",
+    "summary": "Jesus responds to a question about the proper place and character of worship.",
+    "audience": "individual",
+    "speechType": "teaching",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-s-04-25-26",
+    "passageId": "jn-04-07-42",
+    "bookId": "jn",
+    "chapter": 4,
+    "startVerse": 25,
+    "endVerse": 26,
+    "reference": "John 4:25–26",
+    "title": "The expected Messiah",
+    "summary": "Jesus answers a Samaritan woman's expectation about the Messiah.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-s-04-31-38",
+    "passageId": "jn-04-07-42",
+    "bookId": "jn",
+    "chapter": 4,
+    "startVerse": 31,
+    "endVerse": 38,
+    "reference": "John 4:31–38",
+    "title": "Food and the harvest",
+    "summary": "Jesus teaches disciples about doing God's will and sharing the work of a harvest.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 9:37–38",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-s-04-48-50",
+    "passageId": "jn-04-46-54",
+    "bookId": "jn",
+    "chapter": 4,
+    "startVerse": 48,
+    "endVerse": 50,
+    "reference": "John 4:48–50",
+    "title": "An official seeks healing",
+    "summary": "Jesus responds to a father's plea and directs him home to his living child.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
+    "id": "jn-s-05-08-09",
+    "passageId": "jn-05-01-15",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 8,
+    "endVerse": 9,
+    "reference": "John 5:8–9",
+    "title": "Rise and carry the mat",
+    "summary": "Jesus orders a disabled man to get up and carry his mat.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 2:11",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-05-17-17",
+    "passageId": "jn-05-16-18",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 17,
+    "endVerse": 17,
+    "reference": "John 5:17",
+    "title": "The Father's continuing work",
+    "summary": "Jesus answers opposition after a Sabbath healing by referring to his Father's work.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-05-19-23",
+    "passageId": "jn-05-19-30",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 19,
+    "endVerse": 23,
+    "reference": "John 5:19–23",
+    "title": "The Son's dependence on the Father",
+    "summary": "Jesus describes the Son as acting in relationship with the Father.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-05-24-29",
+    "passageId": "jn-05-19-30",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 24,
+    "endVerse": 29,
+    "reference": "John 5:24–29",
+    "title": "Hearing, life and judgment",
+    "summary": "Jesus links hearing, belief, resurrection and judgment.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-05-31-40",
+    "passageId": "jn-05-31-47",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 31,
+    "endVerse": 40,
+    "reference": "John 5:31–40",
+    "title": "Witnesses and evidence",
+    "summary": "Jesus appeals to other witnesses, his works and Scripture.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-05-41-47",
+    "passageId": "jn-05-31-47",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 41,
+    "endVerse": 47,
+    "reference": "John 5:41–47",
+    "title": "Moses as a witness",
+    "summary": "Jesus challenges opponents about praise and their reading of Moses.",
+    "audience": "opponents",
+    "speechType": "critique",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-06-20-20",
+    "passageId": "jn-06-16-21",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 20,
+    "endVerse": 20,
+    "reference": "John 6:20",
+    "title": "Fear on the water",
+    "summary": "Jesus reassures disciples as they see him crossing the water.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 14:27",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-26-29",
+    "passageId": "jn-06-22-29",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 26,
+    "endVerse": 29,
+    "reference": "John 6:26–29",
+    "title": "Work for lasting food",
+    "summary": "Jesus redirects seekers from temporary food to trust in God's sent one.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "discipleship",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-35-40",
+    "passageId": "jn-06-30-40",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 35,
+    "endVerse": 40,
+    "reference": "John 6:35–40",
+    "title": "The bread of life",
+    "summary": "Jesus identifies himself with bread that gives enduring satisfaction and life.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-43-51",
+    "passageId": "jn-06-41-51",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 43,
+    "endVerse": 51,
+    "reference": "John 6:43–51",
+    "title": "Bread from heaven",
+    "summary": "Jesus speaks of being drawn by the Father and giving life.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-53-58",
+    "passageId": "jn-06-52-59",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 53,
+    "endVerse": 58,
+    "reference": "John 6:53–58",
+    "title": "Flesh, blood and life",
+    "summary": "Jesus uses difficult flesh-and-blood language that later readers interpret in differing ways.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-61-65",
+    "passageId": "jn-06-60-66",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 61,
+    "endVerse": 65,
+    "reference": "John 6:61–65",
+    "title": "A hard saying",
+    "summary": "Jesus responds to disciples troubled by his teaching, speaking of Spirit and life.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-67-70",
+    "passageId": "jn-06-67-71",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 67,
+    "endVerse": 70,
+    "reference": "John 6:67–70",
+    "title": "Will the Twelve leave?",
+    "summary": "Jesus questions the Twelve about continuing with him and answers Peter's confession.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-07-06-08",
+    "passageId": "jn-07-01-13",
+    "bookId": "jn",
+    "chapter": 7,
+    "startVerse": 6,
+    "endVerse": 8,
+    "reference": "John 7:6–8",
+    "title": "Timing and the festival",
+    "summary": "Jesus tells his brothers about the difference between their timing and his.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-s-07-16-18",
+    "passageId": "jn-07-14-24",
+    "bookId": "jn",
+    "chapter": 7,
+    "startVerse": 16,
+    "endVerse": 18,
+    "reference": "John 7:16–18",
+    "title": "Teaching from his sender",
+    "summary": "Jesus identifies the source of his teaching as the one who sent him.",
+    "audience": "crowd",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-s-07-19-24",
+    "passageId": "jn-07-14-24",
+    "bookId": "jn",
+    "chapter": 7,
+    "startVerse": 19,
+    "endVerse": 24,
+    "reference": "John 7:19–24",
+    "title": "Judge justly",
+    "summary": "Jesus challenges apparent inconsistency over healing and Sabbath observance.",
+    "audience": "crowd",
+    "speechType": "critique",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 12:11–12",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-s-07-28-29",
+    "passageId": "jn-07-25-31",
+    "bookId": "jn",
+    "chapter": 7,
+    "startVerse": 28,
+    "endVerse": 29,
+    "reference": "John 7:28–29",
+    "title": "Identity and the sender",
+    "summary": "Jesus addresses speculation about his origins and the one who sent him.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-s-07-33-34",
+    "passageId": "jn-07-32-36",
+    "bookId": "jn",
+    "chapter": 7,
+    "startVerse": 33,
+    "endVerse": 34,
+    "reference": "John 7:33–34",
+    "title": "Going where others cannot",
+    "summary": "Jesus warns of an impending departure and fruitless searching.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-s-07-37-38",
+    "passageId": "jn-07-37-39",
+    "bookId": "jn",
+    "chapter": 7,
+    "startVerse": 37,
+    "endVerse": 38,
+    "reference": "John 7:37–38",
+    "title": "An invitation to drink",
+    "summary": "Jesus invites thirsty hearers to come to him for living water.",
+    "audience": "crowd",
+    "speechType": "instruction",
+    "topics": [
+      "identity-resurrection",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN07.htm"
+  },
+  {
+    "id": "jn-s-08-12-12",
+    "passageId": "jn-08-12-20",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 12,
+    "endVerse": 12,
+    "reference": "John 8:12",
+    "title": "The light of the world",
+    "summary": "Jesus identifies himself as light and associates following with life.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-s-08-14-19",
+    "passageId": "jn-08-12-20",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 14,
+    "endVerse": 19,
+    "reference": "John 8:14–19",
+    "title": "Testimony and the Father",
+    "summary": "Jesus answers challenges about the validity of his testimony.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-s-08-23-29",
+    "passageId": "jn-08-21-30",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 23,
+    "endVerse": 29,
+    "reference": "John 8:23–29",
+    "title": "From above and below",
+    "summary": "Jesus warns opponents about unbelief and his identity.",
+    "audience": "opponents",
+    "speechType": "warning",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-s-08-31-36",
+    "passageId": "jn-08-31-47",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 31,
+    "endVerse": 36,
+    "reference": "John 8:31–36",
+    "title": "Truth and freedom",
+    "summary": "Jesus connects remaining in his teaching to truth and liberation.",
+    "audience": "questioners",
+    "speechType": "teaching",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-s-08-42-47",
+    "passageId": "jn-08-31-47",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 42,
+    "endVerse": 47,
+    "reference": "John 8:42–47",
+    "title": "Hearing what comes from God",
+    "summary": "Jesus disputes claims to know God and challenges failures to hear.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-s-08-51-59",
+    "passageId": "jn-08-48-59",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 51,
+    "endVerse": 59,
+    "reference": "John 8:51–59",
+    "title": "Before Abraham",
+    "summary": "Jesus speaks of life and his relation to Abraham, provoking hostility.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-s-09-03-05",
+    "passageId": "jn-09-01-12",
+    "bookId": "jn",
+    "chapter": 9,
+    "startVerse": 3,
+    "endVerse": 5,
+    "reference": "John 9:3–5",
+    "title": "No simplistic blame for blindness",
+    "summary": "Jesus answers an inquiry about a blind man's condition and speaks of divine works.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [
+      {
+        "bookId": "lk",
+        "reference": "Luke 13:1–5",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN09.htm"
+  },
+  {
+    "id": "jn-s-09-07-07",
+    "passageId": "jn-09-01-12",
+    "bookId": "jn",
+    "chapter": 9,
+    "startVerse": 7,
+    "endVerse": 7,
+    "reference": "John 9:7",
+    "title": "Sent to wash in Siloam",
+    "summary": "Jesus directs a blind man to wash at a pool.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN09.htm"
+  },
+  {
+    "id": "jn-s-09-35-39",
+    "passageId": "jn-09-35-41",
+    "bookId": "jn",
+    "chapter": 9,
+    "startVerse": 35,
+    "endVerse": 39,
+    "reference": "John 9:35–39",
+    "title": "Sight and identity",
+    "summary": "Jesus meets the healed man and speaks of belief and judgment.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "identity-resurrection",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN09.htm",
+    "caution": "John 9:35 differs across textual witnesses between Son of Man and Son of God; its wording needs Greek apparatus review."
+  },
+  {
+    "id": "jn-s-10-01-06",
+    "passageId": "jn-10-01-10",
+    "bookId": "jn",
+    "chapter": 10,
+    "startVerse": 1,
+    "endVerse": 6,
+    "reference": "John 10:1–6",
+    "title": "Shepherd and sheep",
+    "summary": "Jesus speaks about sheep recognizing a trustworthy shepherd's voice.",
+    "audience": "crowd",
+    "speechType": "illustration",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-s-10-07-10",
+    "passageId": "jn-10-01-10",
+    "bookId": "jn",
+    "chapter": 10,
+    "startVerse": 7,
+    "endVerse": 10,
+    "reference": "John 10:7–10",
+    "title": "The gate of the sheep",
+    "summary": "Jesus describes his role through the image of a gate.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-s-10-11-18",
+    "passageId": "jn-10-11-21",
+    "bookId": "jn",
+    "chapter": 10,
+    "startVerse": 11,
+    "endVerse": 18,
+    "reference": "John 10:11–18",
+    "title": "The good shepherd",
+    "summary": "Jesus describes care for sheep and a shepherd's readiness to give his life.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "leadership",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-s-10-25-30",
+    "passageId": "jn-10-22-30",
+    "bookId": "jn",
+    "chapter": 10,
+    "startVerse": 25,
+    "endVerse": 30,
+    "reference": "John 10:25–30",
+    "title": "The Father and the sheep",
+    "summary": "Jesus explains the security of those who listen to him and speaks of unity with the Father.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-s-10-34-38",
+    "passageId": "jn-10-31-42",
+    "bookId": "jn",
+    "chapter": 10,
+    "startVerse": 34,
+    "endVerse": 38,
+    "reference": "John 10:34–38",
+    "title": "Scripture and sonship",
+    "summary": "Jesus answers a charge against his identity by appealing to Scripture and works.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
+    "id": "jn-s-11-04-04",
+    "passageId": "jn-11-01-16",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 4,
+    "endVerse": 4,
+    "reference": "John 11:4",
+    "title": "Lazarus' illness and glory",
+    "summary": "Jesus describes Lazarus' illness in relation to the disclosure of divine glory.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-s-11-11-15",
+    "passageId": "jn-11-01-16",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 11,
+    "endVerse": 15,
+    "reference": "John 11:11–15",
+    "title": "Lazarus' sleep and death",
+    "summary": "Jesus first describes Lazarus as sleeping and then clarifies that he has died.",
+    "audience": "disciples",
+    "speechType": "dialogue",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-s-11-25-27",
+    "passageId": "jn-11-17-27",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 25,
+    "endVerse": 27,
+    "reference": "John 11:25–27",
+    "title": "Resurrection and life",
+    "summary": "Jesus speaks with Martha about resurrection, life and belief.",
+    "audience": "individual",
+    "speechType": "teaching",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-s-11-40-43",
+    "passageId": "jn-11-38-44",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 40,
+    "endVerse": 43,
+    "reference": "John 11:40–43",
+    "title": "At the tomb of Lazarus",
+    "summary": "Jesus prays aloud before calling Lazarus out of the tomb.",
+    "audience": "public",
+    "speechType": "prayer",
+    "topics": [
+      "identity-resurrection",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-s-12-07-08",
+    "passageId": "jn-12-01-11",
+    "bookId": "jn",
+    "chapter": 12,
+    "startVerse": 7,
+    "endVerse": 8,
+    "reference": "John 12:7–8",
+    "title": "Defending Mary's anointing",
+    "summary": "Jesus responds to criticism of Mary's costly act before his death.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "women-authority",
+      "wealth-poverty"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 14:6–8",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-s-12-23-26",
+    "passageId": "jn-12-20-26",
+    "bookId": "jn",
+    "chapter": 12,
+    "startVerse": 23,
+    "endVerse": 26,
+    "reference": "John 12:23–26",
+    "title": "The grain of wheat",
+    "summary": "Jesus uses the death of a seed to discuss life, service and following.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 8:34–35",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-s-12-27-32",
+    "passageId": "jn-12-27-36",
+    "bookId": "jn",
+    "chapter": 12,
+    "startVerse": 27,
+    "endVerse": 32,
+    "reference": "John 12:27–32",
+    "title": "The hour and drawing others",
+    "summary": "Jesus reflects on the approaching hour, judgment and being lifted up.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-s-12-35-36",
+    "passageId": "jn-12-27-36",
+    "bookId": "jn",
+    "chapter": 12,
+    "startVerse": 35,
+    "endVerse": 36,
+    "reference": "John 12:35–36",
+    "title": "Walk in the light",
+    "summary": "Jesus calls listeners to respond while light is present.",
+    "audience": "crowd",
+    "speechType": "instruction",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-s-12-44-50",
+    "passageId": "jn-12-44-50",
+    "bookId": "jn",
+    "chapter": 12,
+    "startVerse": 44,
+    "endVerse": 50,
+    "reference": "John 12:44–50",
+    "title": "Belief and judgment",
+    "summary": "Jesus summarizes belief, the Father and the role of his words in judgment.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-s-13-06-11",
+    "passageId": "jn-13-01-17",
+    "bookId": "jn",
+    "chapter": 13,
+    "startVerse": 6,
+    "endVerse": 11,
+    "reference": "John 13:6–11",
+    "title": "Peter and footwashing",
+    "summary": "Jesus responds to Peter's reluctance to be washed.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-s-13-12-17",
+    "passageId": "jn-13-01-17",
+    "bookId": "jn",
+    "chapter": 13,
+    "startVerse": 12,
+    "endVerse": 17,
+    "reference": "John 13:12–17",
+    "title": "An example of service",
+    "summary": "Jesus explains his footwashing as a model for his followers.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "lk",
+        "reference": "Luke 22:25–27",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-s-13-18-20",
+    "passageId": "jn-13-18-30",
+    "bookId": "jn",
+    "chapter": 13,
+    "startVerse": 18,
+    "endVerse": 20,
+    "reference": "John 13:18–20",
+    "title": "Betrayal and receiving messengers",
+    "summary": "Jesus speaks of betrayal and reception of those he sends.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-s-13-21-27",
+    "passageId": "jn-13-18-30",
+    "bookId": "jn",
+    "chapter": 13,
+    "startVerse": 21,
+    "endVerse": 27,
+    "reference": "John 13:21–27",
+    "title": "Betrayal at the supper",
+    "summary": "Jesus identifies an impending betrayal in a meal conversation.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-s-13-31-35",
+    "passageId": "jn-13-31-38",
+    "bookId": "jn",
+    "chapter": 13,
+    "startVerse": 31,
+    "endVerse": 35,
+    "reference": "John 13:31–35",
+    "title": "A new command of love",
+    "summary": "Jesus instructs disciples to love one another.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-s-13-36-38",
+    "passageId": "jn-13-31-38",
+    "bookId": "jn",
+    "chapter": 13,
+    "startVerse": 36,
+    "endVerse": 38,
+    "reference": "John 13:36–38",
+    "title": "Peter's predicted denial",
+    "summary": "Jesus warns Peter that he will deny association with him.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 14:30",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN13.htm"
+  },
+  {
+    "id": "jn-s-14-01-07",
+    "passageId": "jn-14-01-14",
+    "bookId": "jn",
+    "chapter": 14,
+    "startVerse": 1,
+    "endVerse": 7,
+    "reference": "John 14:1–7",
+    "title": "The way, truth and life",
+    "summary": "Jesus encourages frightened disciples and speaks of access to the Father.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm",
+    "caution": "The modern application of claims about access to the Father to people of other traditions depends on contested theological interpretation."
+  },
+  {
+    "id": "jn-s-14-08-14",
+    "passageId": "jn-14-01-14",
+    "bookId": "jn",
+    "chapter": 14,
+    "startVerse": 8,
+    "endVerse": 14,
+    "reference": "John 14:8–14",
+    "title": "Seeing the Father",
+    "summary": "Jesus answers Philip and explains his works in relation to the Father.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm"
+  },
+  {
+    "id": "jn-s-14-15-21",
+    "passageId": "jn-14-15-24",
+    "bookId": "jn",
+    "chapter": 14,
+    "startVerse": 15,
+    "endVerse": 21,
+    "reference": "John 14:15–21",
+    "title": "Commands and the Advocate",
+    "summary": "Jesus relates love to keeping commandments and promises the Advocate.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm"
+  },
+  {
+    "id": "jn-s-14-22-24",
+    "passageId": "jn-14-15-24",
+    "bookId": "jn",
+    "chapter": 14,
+    "startVerse": 22,
+    "endVerse": 24,
+    "reference": "John 14:22–24",
+    "title": "Love and divine dwelling",
+    "summary": "Jesus answers a disciple about revelation and loving obedience.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm"
+  },
+  {
+    "id": "jn-s-14-25-31",
+    "passageId": "jn-14-25-31",
+    "bookId": "jn",
+    "chapter": 14,
+    "startVerse": 25,
+    "endVerse": 31,
+    "reference": "John 14:25–31",
+    "title": "Peace and the Spirit",
+    "summary": "Jesus speaks of the Spirit's instruction and offers peace.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN14.htm"
+  },
+  {
+    "id": "jn-s-15-01-08",
+    "passageId": "jn-15-01-17",
+    "bookId": "jn",
+    "chapter": 15,
+    "startVerse": 1,
+    "endVerse": 8,
+    "reference": "John 15:1–8",
+    "title": "Vine and branches",
+    "summary": "Jesus portrays his relationship with followers through the image of a vine.",
+    "audience": "disciples",
+    "speechType": "illustration",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN15.htm"
+  },
+  {
+    "id": "jn-s-15-09-17",
+    "passageId": "jn-15-01-17",
+    "bookId": "jn",
+    "chapter": 15,
+    "startVerse": 9,
+    "endVerse": 17,
+    "reference": "John 15:9–17",
+    "title": "Abide in love",
+    "summary": "Jesus calls disciples to mutual love and speaks of friendship and self-giving.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN15.htm"
+  },
+  {
+    "id": "jn-s-15-18-25",
+    "passageId": "jn-15-18-27",
+    "bookId": "jn",
+    "chapter": 15,
+    "startVerse": 18,
+    "endVerse": 25,
+    "reference": "John 15:18–25",
+    "title": "Facing hostility",
+    "summary": "Jesus warns that followers may experience opposition similar to his own.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN15.htm"
+  },
+  {
+    "id": "jn-s-15-26-27",
+    "passageId": "jn-15-18-27",
+    "bookId": "jn",
+    "chapter": 15,
+    "startVerse": 26,
+    "endVerse": 27,
+    "reference": "John 15:26–27",
+    "title": "Witness and the Advocate",
+    "summary": "Jesus describes testimony by the Spirit and disciples.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN15.htm"
+  },
+  {
+    "id": "jn-s-16-01-04",
+    "passageId": "jn-16-01-15",
+    "bookId": "jn",
+    "chapter": 16,
+    "startVerse": 1,
+    "endVerse": 4,
+    "reference": "John 16:1–4",
+    "title": "Persecution and exclusion",
+    "summary": "Jesus forecasts expulsion and violence against followers.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN16.htm"
+  },
+  {
+    "id": "jn-s-16-05-15",
+    "passageId": "jn-16-01-15",
+    "bookId": "jn",
+    "chapter": 16,
+    "startVerse": 5,
+    "endVerse": 15,
+    "reference": "John 16:5–15",
+    "title": "The Spirit of truth",
+    "summary": "Jesus speaks of the Advocate's work after his departure.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN16.htm"
+  },
+  {
+    "id": "jn-s-16-16-24",
+    "passageId": "jn-16-16-24",
+    "bookId": "jn",
+    "chapter": 16,
+    "startVerse": 16,
+    "endVerse": 24,
+    "reference": "John 16:16–24",
+    "title": "Sorrow becoming joy",
+    "summary": "Jesus compares grief and subsequent joy to childbirth.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN16.htm"
+  },
+  {
+    "id": "jn-s-16-25-33",
+    "passageId": "jn-16-25-33",
+    "bookId": "jn",
+    "chapter": 16,
+    "startVerse": 25,
+    "endVerse": 33,
+    "reference": "John 16:25–33",
+    "title": "Peace amid trouble",
+    "summary": "Jesus speaks of approaching abandonment and calls disciples to courage.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "prayer",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN16.htm"
+  },
+  {
+    "id": "jn-s-17-01-05",
+    "passageId": "jn-17-01-05",
+    "bookId": "jn",
+    "chapter": 17,
+    "startVerse": 1,
+    "endVerse": 5,
+    "reference": "John 17:1–5",
+    "title": "Prayer for glory",
+    "summary": "Jesus addresses the Father about his work and glory.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN17.htm"
+  },
+  {
+    "id": "jn-s-17-06-19",
+    "passageId": "jn-17-06-19",
+    "bookId": "jn",
+    "chapter": 17,
+    "startVerse": 6,
+    "endVerse": 19,
+    "reference": "John 17:6–19",
+    "title": "Prayer for present disciples",
+    "summary": "Jesus prays for his followers' preservation and sanctification.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "prayer",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN17.htm"
+  },
+  {
+    "id": "jn-s-17-20-26",
+    "passageId": "jn-17-20-26",
+    "bookId": "jn",
+    "chapter": 17,
+    "startVerse": 20,
+    "endVerse": 26,
+    "reference": "John 17:20–26",
+    "title": "Prayer for future believers",
+    "summary": "Jesus asks for unity among those who believe through subsequent testimony.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "prayer",
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN17.htm"
+  },
+  {
+    "id": "jn-s-18-04-09",
+    "passageId": "jn-18-01-11",
+    "bookId": "jn",
+    "chapter": 18,
+    "startVerse": 4,
+    "endVerse": 9,
+    "reference": "John 18:4–9",
+    "title": "Words at arrest",
+    "summary": "Jesus identifies himself before those arriving to arrest him.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
+  },
+  {
+    "id": "jn-s-18-20-23",
+    "passageId": "jn-18-12-27",
+    "bookId": "jn",
+    "chapter": 18,
+    "startVerse": 20,
+    "endVerse": 23,
+    "reference": "John 18:20–23",
+    "title": "Teaching under questioning",
+    "summary": "Jesus responds to interrogation and an officer's assault.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
+  },
+  {
+    "id": "jn-s-18-33-38",
+    "passageId": "jn-18-28-40",
+    "bookId": "jn",
+    "chapter": 18,
+    "startVerse": 33,
+    "endVerse": 38,
+    "reference": "John 18:33–38",
+    "title": "Kingship and truth",
+    "summary": "Jesus answers Pilate about the character of his kingdom and his witness to truth.",
+    "audience": "questioners",
+    "speechType": "dialogue",
+    "topics": [
+      "kingdom",
+      "authority",
+      "suffering"
+    ],
+    "parallels": [
+      {
+        "bookId": "mk",
+        "reference": "Mark 15:2",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
+  },
+  {
+    "id": "jn-s-19-09-11",
+    "passageId": "jn-19-01-16",
+    "bookId": "jn",
+    "chapter": 19,
+    "startVerse": 9,
+    "endVerse": 11,
+    "reference": "John 19:9–11",
+    "title": "Authority before Pilate",
+    "summary": "Jesus responds to Pilate's assertion of power.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN19.htm"
+  },
+  {
+    "id": "jn-s-19-26-27",
+    "passageId": "jn-19-17-27",
+    "bookId": "jn",
+    "chapter": 19,
+    "startVerse": 26,
+    "endVerse": 27,
+    "reference": "John 19:26–27",
+    "title": "Care for mother and disciple",
+    "summary": "Jesus addresses his mother and a disciple from the cross.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "suffering",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN19.htm"
+  },
+  {
+    "id": "jn-s-19-28-30",
+    "passageId": "jn-19-28-37",
+    "bookId": "jn",
+    "chapter": 19,
+    "startVerse": 28,
+    "endVerse": 30,
+    "reference": "John 19:28–30",
+    "title": "Final words",
+    "summary": "Jesus speaks about thirst and completion shortly before death.",
+    "audience": "public",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN19.htm",
+    "caution": "Narrated final words differ across the canonical Gospels; do not combine them into one unqualified chronology."
+  },
+  {
+    "id": "jn-s-20-15-17",
+    "passageId": "jn-20-11-18",
+    "bookId": "jn",
+    "chapter": 20,
+    "startVerse": 15,
+    "endVerse": 17,
+    "reference": "John 20:15–17",
+    "title": "Mary's message",
+    "summary": "The risen Jesus addresses Mary Magdalene and sends her to the disciples.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [
+      {
+        "bookId": "mt",
+        "reference": "Matthew 28:9–10",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm"
+  },
+  {
+    "id": "jn-s-20-19-23",
+    "passageId": "jn-20-19-23",
+    "bookId": "jn",
+    "chapter": 20,
+    "startVerse": 19,
+    "endVerse": 23,
+    "reference": "John 20:19–23",
+    "title": "Sending and forgiveness",
+    "summary": "The risen Jesus commissions disciples and speaks of forgiveness and retention of sins.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "mission",
+      "forgiveness"
+    ],
+    "parallels": [
+      {
+        "bookId": "lk",
+        "reference": "Luke 24:46–49",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+    "caution": "The forgiveness and retention saying has contested later ecclesial applications and cannot independently decide modern church office."
+  },
+  {
+    "id": "jn-s-20-26-29",
+    "passageId": "jn-20-24-29",
+    "bookId": "jn",
+    "chapter": 20,
+    "startVerse": 26,
+    "endVerse": 29,
+    "reference": "John 20:26–29",
+    "title": "Thomas and belief",
+    "summary": "Jesus responds to Thomas' demand for evidence and commends belief beyond sight.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN20.htm"
+  },
+  {
+    "id": "jn-s-21-05-06",
+    "passageId": "jn-21-01-14",
+    "bookId": "jn",
+    "chapter": 21,
+    "startVerse": 5,
+    "endVerse": 6,
+    "reference": "John 21:5–6",
+    "title": "Throw the net",
+    "summary": "The risen Jesus tells disciples where to cast a fishing net.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "parallels": [
+      {
+        "bookId": "lk",
+        "reference": "Luke 5:4–6",
+        "relationship": "related",
+        "status": "candidate"
+      }
+    ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm"
+  },
+  {
+    "id": "jn-s-21-10-13",
+    "passageId": "jn-21-01-14",
+    "bookId": "jn",
+    "chapter": 21,
+    "startVerse": 10,
+    "endVerse": 13,
+    "reference": "John 21:10–13",
+    "title": "Breakfast with disciples",
+    "summary": "Jesus invites the disciples to bring their catch and eat.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "identity-resurrection",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm"
+  },
+  {
+    "id": "jn-s-21-15-19",
+    "passageId": "jn-21-15-19",
+    "bookId": "jn",
+    "chapter": 21,
+    "startVerse": 15,
+    "endVerse": 19,
+    "reference": "John 21:15–19",
+    "title": "Peter tending the flock",
+    "summary": "Jesus repeatedly asks Peter about love and entrusts care for the flock.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm",
+    "caution": "Peter's threefold commission may be interpreted as restoration or broader pastoral leadership; later institutional implications require separate argument."
+  },
+  {
+    "id": "jn-s-21-20-23",
+    "passageId": "jn-21-20-23",
+    "bookId": "jn",
+    "chapter": 21,
+    "startVerse": 20,
+    "endVerse": 23,
+    "reference": "John 21:20–23",
+    "title": "Another disciple's future",
+    "summary": "Jesus answers Peter about a different disciple's future, after which the narrator clarifies a rumor.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN21.htm"
+  },
+  {
     "id": "lk-s-02-49-49",
     "passageId": "lk-02-41-52",
     "bookId": "lk",

@@ -104,7 +104,7 @@ test("Luke is available in the book catalog and Gospel teaching filter",()=>{
   const details=readFileSync("src/pages/teachings/[id].astro","utf8");
   assert.ok(book.includes("luke ? 24"));
   assert.ok(book.includes('"LUK"'));
-  assert.ok(browser.includes("All three indexed Gospels"));
+  assert.ok(browser.includes("All four indexed Gospels"));
   assert.ok(browser.includes("data-book={s.bookId}"));
   assert.ok(details.includes("bookName.get(saying.bookId)"));
   assert.ok(details.includes("candidateChapterUrl"));
