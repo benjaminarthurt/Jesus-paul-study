@@ -279,6 +279,451 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN20.htm"
   },
   {
+    "id": "lk-01-01-04",
+    "bookId": "lk",
+    "reference": "Luke 1:1–4",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prologue to Theophilus",
+    "summary": "The narrator describes researching and ordering inherited accounts for Theophilus; no saying of Jesus is recorded.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK01.htm"
+  },
+  {
+    "id": "lk-01-05-25",
+    "bookId": "lk",
+    "reference": "Luke 1:5–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "An announcement to Zechariah",
+    "summary": "An angel announces John's birth while Zechariah serves at the temple; the speech belongs to the angel and Zechariah.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK01.htm"
+  },
+  {
+    "id": "lk-01-26-38",
+    "bookId": "lk",
+    "reference": "Luke 1:26–38",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Annunciation to Mary",
+    "summary": "An angel tells Mary of a forthcoming child and Mary replies; this is infancy narrative, not Jesus teaching.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK01.htm"
+  },
+  {
+    "id": "lk-01-39-45",
+    "bookId": "lk",
+    "reference": "Luke 1:39–45",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Mary visits Elizabeth",
+    "summary": "Elizabeth greets Mary and blesses her amid the account of their pregnancies.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK01.htm"
+  },
+  {
+    "id": "lk-01-46-56",
+    "bookId": "lk",
+    "reference": "Luke 1:46–56",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Mary's praise song",
+    "summary": "Mary's song announces God's attention to the lowly and reversal of the powerful; it is attributed to Mary, not Jesus.",
+    "topics": [
+      "women-authority",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/LUK01.htm"
+  },
+  {
+    "id": "lk-01-57-66",
+    "bookId": "lk",
+    "reference": "Luke 1:57–66",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John's birth and naming",
+    "summary": "John is born and named; his father responds after a period of silence.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK01.htm"
+  },
+  {
+    "id": "lk-01-67-80",
+    "bookId": "lk",
+    "reference": "Luke 1:67–80",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Zechariah's prophetic song",
+    "summary": "Zechariah praises God's action on behalf of Israel and interprets John's future work; the words are his.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/LUK01.htm"
+  },
+  {
+    "id": "lk-02-01-07",
+    "bookId": "lk",
+    "reference": "Luke 2:1–7",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Jesus' birth in Bethlehem",
+    "summary": "Luke narrates the journey to Bethlehem and Jesus' birth in a particular political setting.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
+  },
+  {
+    "id": "lk-02-08-20",
+    "bookId": "lk",
+    "reference": "Luke 2:8–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Shepherds and angelic announcement",
+    "summary": "Shepherds hear an angelic announcement, visit the infant and report what they heard.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
+  },
+  {
+    "id": "lk-02-21-24",
+    "bookId": "lk",
+    "reference": "Luke 2:21–24",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Naming and temple rites",
+    "summary": "Jesus is named and his family follows ritual obligations after his birth.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
+  },
+  {
+    "id": "lk-02-25-38",
+    "bookId": "lk",
+    "reference": "Luke 2:25–38",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Simeon, Anna and recognition",
+    "summary": "Simeon and Anna respond prophetically at the temple; neither is a saying of the infant Jesus.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
+  },
+  {
+    "id": "lk-02-39-40",
+    "bookId": "lk",
+    "reference": "Luke 2:39–40",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Return to Nazareth",
+    "summary": "Jesus' family returns home and the narrator describes his growth.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
+  },
+  {
+    "id": "lk-02-41-52",
+    "bookId": "lk",
+    "reference": "Luke 2:41–52",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Twelve-year-old Jesus at the temple",
+    "summary": "Jesus asks and answers questions at the temple and responds to his parents about his Father's concerns.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
+  },
+  {
+    "id": "lk-03-01-06",
+    "bookId": "lk",
+    "reference": "Luke 3:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John's public ministry begins",
+    "summary": "The narrative dates John's appearance and applies prophetic language to his ministry.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK03.htm"
+  },
+  {
+    "id": "lk-03-07-20",
+    "bookId": "lk",
+    "reference": "Luke 3:7–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John's warnings and ethical instructions",
+    "summary": "John calls for repentance, sharing and fair treatment and is imprisoned; the teaching is attributed to John.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK03.htm"
+  },
+  {
+    "id": "lk-03-21-22",
+    "bookId": "lk",
+    "reference": "Luke 3:21–22",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Baptism and heavenly voice",
+    "summary": "Jesus is baptized and a heavenly declaration follows; Luke does not report a sermon here.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK03.htm"
+  },
+  {
+    "id": "lk-03-23-38",
+    "bookId": "lk",
+    "reference": "Luke 3:23–38",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Genealogy to Adam",
+    "summary": "The narrator traces Jesus' ancestry through a genealogy ending with Adam.",
+    "topics": [],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK03.htm"
+  },
+  {
+    "id": "lk-04-01-13",
+    "bookId": "lk",
+    "reference": "Luke 4:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Testing in the wilderness",
+    "summary": "Jesus responds to the tempter through scriptural appeals in a narrative of temptation.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-04-14-15",
+    "bookId": "lk",
+    "reference": "Luke 4:14–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Return to Galilee",
+    "summary": "Luke summarizes Jesus teaching in synagogues before giving the Nazareth scene.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-04-16-30",
+    "bookId": "lk",
+    "reference": "Luke 4:16–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Nazareth synagogue and rejection",
+    "summary": "Jesus reads Isaiah and proclaims fulfillment; the hometown crowd resists his words.",
+    "topics": [
+      "mission",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-04-31-37",
+    "bookId": "lk",
+    "reference": "Luke 4:31–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "An exorcism at Capernaum",
+    "summary": "Jesus confronts a disruptive spirit, and witnesses respond to the authority of his words.",
+    "topics": [
+      "healing",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-04-38-41",
+    "bookId": "lk",
+    "reference": "Luke 4:38–41",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healings at Simon's home",
+    "summary": "Jesus heals Simon's mother-in-law and many sick or afflicted people.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-04-42-44",
+    "bookId": "lk",
+    "reference": "Luke 4:42–44",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The kingdom proclaimed elsewhere",
+    "summary": "Jesus says that he must also announce God's kingdom to other towns.",
+    "topics": [
+      "kingdom",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-05-01-11",
+    "bookId": "lk",
+    "reference": "Luke 5:1–11",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A catch of fish and first disciples",
+    "summary": "Jesus directs an unexpected catch and calls Simon toward a new mission.",
+    "topics": [
+      "mission",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-05-12-16",
+    "bookId": "lk",
+    "reference": "Luke 5:12–16",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healing a man with skin disease",
+    "summary": "Jesus heals a petitioner, sends him for priestly inspection and withdraws to pray.",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-05-17-26",
+    "bookId": "lk",
+    "reference": "Luke 5:17–26",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Paralysis, forgiveness and authority",
+    "summary": "Jesus challenges objections to his authority to forgive and heals a paralyzed man.",
+    "topics": [
+      "healing",
+      "forgiveness",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-05-27-32",
+    "bookId": "lk",
+    "reference": "Luke 5:27–32",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Levi, table fellowship and sinners",
+    "summary": "Jesus calls Levi and answers objections to eating with people labeled sinners.",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-05-33-39",
+    "bookId": "lk",
+    "reference": "Luke 5:33–39",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fasting, garments and wine",
+    "summary": "Jesus replies to questions about fasting with wedding, garment and wineskin images.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-06-01-05",
+    "bookId": "lk",
+    "reference": "Luke 6:1–5",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Grain on the Sabbath",
+    "summary": "Jesus defends the disciples' grain-picking and discusses the Son of Man and the Sabbath.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-06-06-11",
+    "bookId": "lk",
+    "reference": "Luke 6:6–11",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healing on the Sabbath",
+    "summary": "Jesus challenges opponents to consider doing good and preserving life on the Sabbath.",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-06-12-16",
+    "bookId": "lk",
+    "reference": "Luke 6:12–16",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Night prayer and choosing the Twelve",
+    "summary": "Jesus prays and selects named apostles; this is primarily narrated commissioning.",
+    "topics": [
+      "prayer",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-06-17-19",
+    "bookId": "lk",
+    "reference": "Luke 6:17–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Crowds seeking healing",
+    "summary": "Luke describes a large gathered crowd and people healed before Jesus' sermon.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
     "id": "lk-06-20-26",
     "bookId": "lk",
     "reference": "Luke 6:20–26",
@@ -288,7 +733,144 @@
       "wealth-poverty"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm",
+    "unitType": "speech",
+    "title": "Blessings and woes"
+  },
+  {
+    "id": "lk-06-27-36",
+    "bookId": "lk",
+    "reference": "Luke 6:27–36",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Enemy-love and generosity",
+    "summary": "Jesus calls hearers to love opponents, be merciful and give without assuming reciprocity.",
+    "topics": [
+      "discipleship",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "speech",
     "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-06-37-42",
+    "bookId": "lk",
+    "reference": "Luke 6:37–42",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Do not judge hypocritically",
+    "summary": "Jesus warns against condemnation and uses the image of a speck and a log.",
+    "topics": [
+      "forgiveness",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-06-43-45",
+    "bookId": "lk",
+    "reference": "Luke 6:43–45",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Trees recognized by their fruit",
+    "summary": "Jesus compares the products of a person's heart to the fruit of a tree.",
+    "topics": [
+      "parables",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-06-46-49",
+    "bookId": "lk",
+    "reference": "Luke 6:46–49",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Hearing and acting: two builders",
+    "summary": "Jesus illustrates obedience to his words through building on contrasting foundations.",
+    "topics": [
+      "parables",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-07-01-10",
+    "bookId": "lk",
+    "reference": "Luke 7:1–10",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A centurion asks for healing",
+    "summary": "A centurion sends a request for his servant and Jesus comments on the man's trust.",
+    "topics": [
+      "healing",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-07-11-17",
+    "bookId": "lk",
+    "reference": "Luke 7:11–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Restoring a widow's son",
+    "summary": "Jesus has compassion on a bereaved woman and restores her son to life.",
+    "topics": [
+      "healing",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-07-18-23",
+    "bookId": "lk",
+    "reference": "Luke 7:18–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John's messengers and Jesus' works",
+    "summary": "Jesus answers messengers asking about his identity by pointing to healings and good news.",
+    "topics": [
+      "identity-resurrection",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-07-24-35",
+    "bookId": "lk",
+    "reference": "Luke 7:24–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John and the contrasting generation",
+    "summary": "Jesus interprets John's role and critiques inconsistent reactions to John and himself.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-07-36-50",
+    "bookId": "lk",
+    "reference": "Luke 7:36–50",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A woman, anointing and forgiven debt",
+    "summary": "Jesus tells a debt illustration while defending a woman's actions and announcing forgiveness.",
+    "topics": [
+      "forgiveness",
+      "inclusion",
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
   },
   {
     "id": "lk-08-01-03",
@@ -300,7 +882,345 @@
       "women-authority"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm",
+    "unitType": "context",
+    "title": "Women accompanying Jesus"
+  },
+  {
+    "id": "lk-08-04-15",
+    "bookId": "lk",
+    "reference": "Luke 8:4–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sower and explanation",
+    "summary": "Jesus gives a parable about scattered seed and explains different responses to God's word.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
     "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-08-16-18",
+    "bookId": "lk",
+    "reference": "Luke 8:16–18",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A lamp must be seen",
+    "summary": "Jesus teaches about receiving and disclosing light and careful hearing.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "illustration",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-08-19-21",
+    "bookId": "lk",
+    "reference": "Luke 8:19–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Family redefined by hearing",
+    "summary": "Jesus identifies family ties with hearing and acting on God's word.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-08-22-25",
+    "bookId": "lk",
+    "reference": "Luke 8:22–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Calming the storm",
+    "summary": "Jesus challenges the disciples' fear before calming a storm.",
+    "topics": [
+      "healing",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-08-26-39",
+    "bookId": "lk",
+    "reference": "Luke 8:26–39",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A man restored among the Gerasenes",
+    "summary": "Jesus releases a man from torment and tells him to report what God has done.",
+    "topics": [
+      "healing",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-08-40-56",
+    "bookId": "lk",
+    "reference": "Luke 8:40–56",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Jairus' daughter and a woman healed",
+    "summary": "Jesus responds to a father and a woman seeking healing in intertwined episodes.",
+    "topics": [
+      "healing",
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-09-01-06",
+    "bookId": "lk",
+    "reference": "Luke 9:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sending the Twelve",
+    "summary": "Jesus gives authority to the Twelve and directs travel, healing and proclamation.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-07-09",
+    "bookId": "lk",
+    "reference": "Luke 9:7–9",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Herod wonders about Jesus",
+    "summary": "Herod considers rumors about Jesus' identity and seeks to see him.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-10-17",
+    "bookId": "lk",
+    "reference": "Luke 9:10–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Feeding the crowd",
+    "summary": "Jesus welcomes a crowd, teaches about the kingdom and provides food through the disciples.",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-18-22",
+    "bookId": "lk",
+    "reference": "Luke 9:18–22",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Peter's confession and suffering",
+    "summary": "Jesus asks about his identity and predicts rejection, death and being raised.",
+    "topics": [
+      "identity-resurrection",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-23-27",
+    "bookId": "lk",
+    "reference": "Luke 9:23–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Self-denial and following",
+    "summary": "Jesus calls people to take up the cross and evaluates the cost of saving one's life.",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-28-36",
+    "bookId": "lk",
+    "reference": "Luke 9:28–36",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Transfiguration on the mountain",
+    "summary": "Jesus is transfigured before witnesses and a voice identifies him.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-37-43",
+    "bookId": "lk",
+    "reference": "Luke 9:37–43",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healing a boy after the mountain",
+    "summary": "Jesus heals a child amid the disciples' inability and the crowd's astonishment.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-44-45",
+    "bookId": "lk",
+    "reference": "Luke 9:44–45",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Another prediction of betrayal",
+    "summary": "Jesus warns the disciples of his impending betrayal, which they do not grasp.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-46-48",
+    "bookId": "lk",
+    "reference": "Luke 9:46–48",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Greatness and welcoming a child",
+    "summary": "Jesus responds to debate about status by placing a child before the disciples.",
+    "topics": [
+      "leadership",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-49-50",
+    "bookId": "lk",
+    "reference": "Luke 9:49–50",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Someone working outside the circle",
+    "summary": "Jesus responds to a report of another exorcist and discourages exclusionary control.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-51-56",
+    "bookId": "lk",
+    "reference": "Luke 9:51–56",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Turning toward Jerusalem",
+    "summary": "Luke marks Jesus' determination to travel to Jerusalem and narrates a Samaritan village's rejection.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-09-57-62",
+    "bookId": "lk",
+    "reference": "Luke 9:57–62",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Would-be followers on the road",
+    "summary": "Jesus answers three potential followers about the urgency and costs of following.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-10-01-12",
+    "bookId": "lk",
+    "reference": "Luke 10:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sending the seventy or seventy-two",
+    "summary": "Jesus commissions an enlarged group with instructions on travel, healing, hospitality and proclamation; the number is textually disputed.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm",
+    "textualStatus": "seventy-or-seventy-two",
+    "textualNote": "Manuscripts differ between seventy and seventy-two envoys in Luke 10:1,17; the precise number should not be asserted as unambiguous without a critical apparatus."
+  },
+  {
+    "id": "lk-10-13-16",
+    "bookId": "lk",
+    "reference": "Luke 10:13–16",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Warnings to rejecting towns",
+    "summary": "Jesus pronounces woes and connects receiving messengers with receiving himself.",
+    "topics": [
+      "mission",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-10-17-20",
+    "bookId": "lk",
+    "reference": "Luke 10:17–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Return from the mission",
+    "summary": "The envoys report success, and Jesus redirects their celebration toward belonging to God.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-10-21-24",
+    "bookId": "lk",
+    "reference": "Luke 10:21–24",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Joy and revelation",
+    "summary": "Jesus gives thanks and privately discusses the privilege of witnessing what disciples see.",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-10-25-37",
+    "bookId": "lk",
+    "reference": "Luke 10:25–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Neighbor-love and the Samaritan",
+    "summary": "A legal expert questions Jesus about life and the definition of a neighbor; Jesus tells the Samaritan story.",
+    "topics": [
+      "mosaic-law",
+      "inclusion",
+      "parables"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
   },
   {
     "id": "lk-10-38-42",
@@ -312,7 +1232,109 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm",
+    "unitType": "dialogue",
+    "title": "Mary and Martha"
+  },
+  {
+    "id": "lk-11-01-13",
+    "bookId": "lk",
+    "reference": "Luke 11:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prayer and persistence",
+    "summary": "Jesus gives prayer instruction, a prayer model and an analogy about asking.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-11-14-23",
+    "bookId": "lk",
+    "reference": "Luke 11:14–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Accusations of demonic power",
+    "summary": "Jesus responds to critics by arguing that a divided kingdom cannot endure.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-11-24-28",
+    "bookId": "lk",
+    "reference": "Luke 11:24–28",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Empty house and hearing the word",
+    "summary": "Jesus warns about a spirit's return and values hearing and keeping God's word.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-11-29-32",
+    "bookId": "lk",
+    "reference": "Luke 11:29–32",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Demand for a sign",
+    "summary": "Jesus compares the audience to Nineveh and the queen of the south in a sign controversy.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-11-33-36",
+    "bookId": "lk",
+    "reference": "Luke 11:33–36",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The lamp and the eye",
+    "summary": "Jesus speaks of light and the body's eye as a metaphor for inner perception.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "illustration",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-11-37-54",
+    "bookId": "lk",
+    "reference": "Luke 11:37–54",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Meals, woes and hypocrisy",
+    "summary": "Jesus challenges ritual performance and the burdens placed on others by religious experts.",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK11.htm"
+  },
+  {
+    "id": "lk-12-01-12",
+    "bookId": "lk",
+    "reference": "Luke 12:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Beware hypocrisy; do not fear",
+    "summary": "Jesus warns about hypocrisy, confession under pressure and reliance on divine help.",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
   },
   {
     "id": "lk-12-13-21",
@@ -324,7 +1346,9 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm",
+    "unitType": "parable",
+    "title": "The rich fool"
   },
   {
     "id": "lk-12-22-34",
@@ -336,7 +1360,278 @@
       "wealth-poverty"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm",
+    "unitType": "speech",
+    "title": "Anxiety, the kingdom and alms"
+  },
+  {
+    "id": "lk-12-35-48",
+    "bookId": "lk",
+    "reference": "Luke 12:35–48",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Waiting servants and accountability",
+    "summary": "Jesus describes attentive servants and warns leaders about abusing their authority.",
+    "topics": [
+      "parables",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "parable",
     "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-12-49-53",
+    "bookId": "lk",
+    "reference": "Luke 12:49–53",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Division and approaching crisis",
+    "summary": "Jesus speaks of division and the conflict his mission can provoke.",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-12-54-59",
+    "bookId": "lk",
+    "reference": "Luke 12:54–59",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Recognize the moment and settle disputes",
+    "summary": "Jesus criticizes poor discernment of the times and urges settlement before judgment.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
+    "id": "lk-13-01-09",
+    "bookId": "lk",
+    "reference": "Luke 13:1–9",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Repentance and the unfruitful fig tree",
+    "summary": "Jesus rejects simplistic judgments about victims of disasters and tells a fruit-tree parable.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-13-10-17",
+    "bookId": "lk",
+    "reference": "Luke 13:10–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healing a bent woman on the Sabbath",
+    "summary": "Jesus heals a woman and answers objections by invoking liberation and Sabbath responsibility.",
+    "topics": [
+      "healing",
+      "women-authority",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-13-18-21",
+    "bookId": "lk",
+    "reference": "Luke 13:18–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Mustard and leaven",
+    "summary": "Jesus compares the kingdom to small beginnings that grow or transform a whole.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-13-22-30",
+    "bookId": "lk",
+    "reference": "Luke 13:22–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The narrow entrance",
+    "summary": "Jesus answers a question about salvation and warns about a closed door and surprising reversals.",
+    "topics": [
+      "kingdom",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-13-31-35",
+    "bookId": "lk",
+    "reference": "Luke 13:31–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Lament for Jerusalem",
+    "summary": "Jesus responds to a warning about Herod and laments Jerusalem's treatment of messengers.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
+    "id": "lk-14-01-06",
+    "bookId": "lk",
+    "reference": "Luke 14:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sabbath healing at a meal",
+    "summary": "Jesus asks whether healing is permissible on the Sabbath and heals a man.",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-14-07-11",
+    "bookId": "lk",
+    "reference": "Luke 14:7–11",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Choosing the lower place",
+    "summary": "Jesus tells a meal-setting parable criticizing public status competition.",
+    "topics": [
+      "parables",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-14-12-14",
+    "bookId": "lk",
+    "reference": "Luke 14:12–14",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Invite those unable to repay",
+    "summary": "Jesus urges a host to welcome the poor and disabled rather than only those who can reciprocate.",
+    "topics": [
+      "wealth-poverty",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "instruction",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-14-15-24",
+    "bookId": "lk",
+    "reference": "Luke 14:15–24",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The great banquet",
+    "summary": "Jesus describes an invitation refused by initial guests and extended to people otherwise excluded.",
+    "topics": [
+      "parables",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-14-25-35",
+    "bookId": "lk",
+    "reference": "Luke 14:25–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Counting the cost",
+    "summary": "Jesus warns would-be followers to assess the demands of discipleship through vivid examples.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
+    "id": "lk-15-01-07",
+    "bookId": "lk",
+    "reference": "Luke 15:1–7",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The lost sheep",
+    "summary": "Jesus answers critics of his meals with sinners by portraying the joy of finding a lost sheep.",
+    "topics": [
+      "parables",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK15.htm"
+  },
+  {
+    "id": "lk-15-08-10",
+    "bookId": "lk",
+    "reference": "Luke 15:8–10",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The lost coin",
+    "summary": "Jesus compares recovery of a missing coin with joy over a person who repents.",
+    "topics": [
+      "parables",
+      "inclusion",
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK15.htm"
+  },
+  {
+    "id": "lk-15-11-32",
+    "bookId": "lk",
+    "reference": "Luke 15:11–32",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A parent and two sons",
+    "summary": "Jesus tells a story of a lost son welcomed home and an elder brother's resentment.",
+    "topics": [
+      "parables",
+      "forgiveness",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK15.htm"
+  },
+  {
+    "id": "lk-16-01-13",
+    "bookId": "lk",
+    "reference": "Luke 16:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Shrewd manager and divided loyalties",
+    "summary": "Jesus tells of a manager's response to loss of work and warns against serving both God and wealth.",
+    "topics": [
+      "parables",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+  },
+  {
+    "id": "lk-16-14-15",
+    "bookId": "lk",
+    "reference": "Luke 16:14–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The Pharisees and appearances",
+    "summary": "Jesus challenges people who justify themselves publicly while God knows their hearts.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
   },
   {
     "id": "lk-16-16-17",
@@ -348,6 +1643,22 @@
       "mosaic-law"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm",
+    "unitType": "speech",
+    "title": "The Law and God's kingdom"
+  },
+  {
+    "id": "lk-16-18-18",
+    "bookId": "lk",
+    "reference": "Luke 16:18–18",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Divorce and remarriage",
+    "summary": "Jesus speaks briefly about divorce and remarriage; its placement and relation to other Gospel versions require care.",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "unitType": "speech",
     "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
   },
   {
@@ -360,7 +1671,115 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm",
+    "unitType": "parable",
+    "title": "Rich man and Lazarus"
+  },
+  {
+    "id": "lk-17-01-10",
+    "bookId": "lk",
+    "reference": "Luke 17:1–10",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Stumbling, repeated forgiveness and duty",
+    "summary": "Jesus warns about causing others to stumble, instructs repeated forgiveness and uses a servant analogy.",
+    "topics": [
+      "forgiveness",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-17-11-19",
+    "bookId": "lk",
+    "reference": "Luke 17:11–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Ten people with skin disease healed",
+    "summary": "Jesus heals ten people, while a Samaritan returns to give thanks.",
+    "topics": [
+      "healing",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-17-20-21",
+    "bookId": "lk",
+    "reference": "Luke 17:20–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "When the kingdom comes",
+    "summary": "Jesus answers a question about the kingdom's coming and presence.",
+    "topics": [
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-17-22-37",
+    "bookId": "lk",
+    "reference": "Luke 17:22–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The days of the Son of Man",
+    "summary": "Jesus warns about sudden judgment, false signs and the costs of clinging to life.",
+    "topics": [
+      "end-times",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK17.htm"
+  },
+  {
+    "id": "lk-18-01-08",
+    "bookId": "lk",
+    "reference": "Luke 18:1–8",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Persistent widow and an unjust judge",
+    "summary": "Jesus uses a widow seeking justice to encourage persistence in prayer.",
+    "topics": [
+      "prayer",
+      "parables",
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-18-09-14",
+    "bookId": "lk",
+    "reference": "Luke 18:9–14",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Pharisee and tax collector pray",
+    "summary": "Jesus contrasts the self-congratulation of one worshiper with another's appeal for mercy.",
+    "topics": [
+      "prayer",
+      "parables",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-18-15-17",
+    "bookId": "lk",
+    "reference": "Luke 18:15–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Welcoming children",
+    "summary": "Jesus urges that young children not be prevented from approaching.",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
   },
   {
     "id": "lk-18-18-30",
@@ -372,6 +1791,37 @@
       "wealth-poverty"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm",
+    "unitType": "dialogue",
+    "title": "The rich ruler"
+  },
+  {
+    "id": "lk-18-31-34",
+    "bookId": "lk",
+    "reference": "Luke 18:31–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Suffering foretold",
+    "summary": "Jesus predicts suffering, death and resurrection, but the disciples do not understand.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
+  },
+  {
+    "id": "lk-18-35-43",
+    "bookId": "lk",
+    "reference": "Luke 18:35–43",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A blind man at Jericho",
+    "summary": "Jesus responds to an appeal for mercy and restores sight as others praise God.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
     "sourceUrl": "https://ebible.org/engwebp/LUK18.htm"
   },
   {
@@ -384,7 +1834,451 @@
       "wealth-poverty"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm",
+    "unitType": "dialogue",
+    "title": "Zacchaeus and restitution"
+  },
+  {
+    "id": "lk-19-11-27",
+    "bookId": "lk",
+    "reference": "Luke 19:11–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Nobleman and entrusted money",
+    "summary": "Jesus tells a parable about a nobleman, entrusted funds and later accountability near Jerusalem.",
+    "topics": [
+      "parables",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "parable",
     "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-19-28-40",
+    "bookId": "lk",
+    "reference": "Luke 19:28–40",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Entry into Jerusalem",
+    "summary": "Luke narrates preparations for Jesus' arrival and the crowd's public praise.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-19-41-44",
+    "bookId": "lk",
+    "reference": "Luke 19:41–44",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Weeping over Jerusalem",
+    "summary": "Jesus laments the city's inability to recognize the time of its visitation.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-19-45-48",
+    "bookId": "lk",
+    "reference": "Luke 19:45–48",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Temple teaching and disruption",
+    "summary": "Jesus drives sellers from the temple and teaches there under hostile observation.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
+    "id": "lk-20-01-08",
+    "bookId": "lk",
+    "reference": "Luke 20:1–8",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Authority challenged",
+    "summary": "Jesus answers a question about his authority with a question about John's baptism.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-20-09-19",
+    "bookId": "lk",
+    "reference": "Luke 20:9–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The tenants of a vineyard",
+    "summary": "Jesus tells a vineyard story interpreted as a challenge to entrusted leaders.",
+    "topics": [
+      "parables",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-20-20-26",
+    "bookId": "lk",
+    "reference": "Luke 20:20–26",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Caesar's taxes and God's claim",
+    "summary": "Jesus answers a trap about tribute with a distinction between obligations.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-20-27-40",
+    "bookId": "lk",
+    "reference": "Luke 20:27–40",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A question about resurrection",
+    "summary": "Jesus disputes a marriage-based challenge to belief in resurrection.",
+    "topics": [
+      "identity-resurrection",
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-20-41-47",
+    "bookId": "lk",
+    "reference": "Luke 20:41–47",
+    "sourceLayer": "jesus-synoptic",
+    "title": "David's son and warnings about scribes",
+    "summary": "Jesus poses a scriptural identity question and warns about exploited widows.",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK20.htm"
+  },
+  {
+    "id": "lk-21-01-04",
+    "bookId": "lk",
+    "reference": "Luke 21:1–4",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A widow's small offering",
+    "summary": "Jesus notices a poor widow's offering; context includes critique of those exploiting widows.",
+    "topics": [
+      "wealth-poverty",
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-21-05-19",
+    "bookId": "lk",
+    "reference": "Luke 21:5–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Temple destruction and trouble",
+    "summary": "Jesus foretells destruction and advises endurance under disturbances and persecution.",
+    "topics": [
+      "end-times",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-21-20-24",
+    "bookId": "lk",
+    "reference": "Luke 21:20–24",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Jerusalem surrounded",
+    "summary": "Jesus describes siege, flight and devastation in the language of impending judgment.",
+    "topics": [
+      "end-times",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-21-25-28",
+    "bookId": "lk",
+    "reference": "Luke 21:25–28",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Signs and the Son of Man",
+    "summary": "Jesus describes cosmic distress and calls followers to hope amid upheaval.",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-21-29-36",
+    "bookId": "lk",
+    "reference": "Luke 21:29–36",
+    "sourceLayer": "jesus-synoptic",
+    "title": "A fig tree and staying awake",
+    "summary": "Jesus gives a seasonal illustration and urges vigilance rather than dullness.",
+    "topics": [
+      "end-times",
+      "parables"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-21-37-38",
+    "bookId": "lk",
+    "reference": "Luke 21:37–38",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Teaching by day and lodging outside",
+    "summary": "The narrator summarizes Jesus' daily public teaching and nights spent outside the city.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
+  },
+  {
+    "id": "lk-22-01-06",
+    "bookId": "lk",
+    "reference": "Luke 22:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Plot against Jesus and Judas' arrangement",
+    "summary": "Leaders plan Jesus' death while Judas arranges betrayal.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-22-07-13",
+    "bookId": "lk",
+    "reference": "Luke 22:7–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Preparation for the Passover meal",
+    "summary": "Jesus directs preparations and disciples secure a place for the meal.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-22-14-23",
+    "bookId": "lk",
+    "reference": "Luke 22:14–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Meal, covenant and betrayal",
+    "summary": "Jesus speaks during a final meal and predicts betrayal; details of verses 19–20 vary among witnesses.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm",
+    "textualStatus": "disputed-supper-wording",
+    "textualNote": "The order and wording of the cup and bread, especially Luke 22:19b–20, differ among textual witnesses. Compare critical Greek editions before claiming a verbatim form."
+  },
+  {
+    "id": "lk-22-24-38",
+    "bookId": "lk",
+    "reference": "Luke 22:24–38",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Leadership, loyalty and future testing",
+    "summary": "Jesus responds to a quarrel over status, discusses service and predicts denial.",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-22-39-46",
+    "bookId": "lk",
+    "reference": "Luke 22:39–46",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prayer at the Mount of Olives",
+    "summary": "Jesus prays under distress; verses 43–44 mentioning an angel and sweat have important manuscript disagreement.",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "prayer",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm",
+    "textualStatus": "disputed-angel-and-sweat",
+    "textualNote": "Luke 22:43–44, describing angelic strengthening and sweat like blood, is absent from important early witnesses but present in others; authenticity is disputed, not settled by the displayed edition."
+  },
+  {
+    "id": "lk-22-47-53",
+    "bookId": "lk",
+    "reference": "Luke 22:47–53",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Betrayal and arrest",
+    "summary": "Judas arrives with a group, and Jesus addresses betrayal and violence.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-22-54-62",
+    "bookId": "lk",
+    "reference": "Luke 22:54–62",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Peter's denial",
+    "summary": "Peter denies association with Jesus and remembers the prediction.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-22-63-71",
+    "bookId": "lk",
+    "reference": "Luke 22:63–71",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Mockery and hearing before the council",
+    "summary": "Jesus faces abuse and questioning about his identity.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-23-01-07",
+    "bookId": "lk",
+    "reference": "Luke 23:1–7",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Jesus before Pilate",
+    "summary": "Jesus responds briefly to Pilate while accusers press charges.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-23-08-12",
+    "bookId": "lk",
+    "reference": "Luke 23:8–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Jesus before Herod",
+    "summary": "Herod questions Jesus, who gives no answer, and the narrative describes mockery.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-23-13-25",
+    "bookId": "lk",
+    "reference": "Luke 23:13–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sentencing and release of Barabbas",
+    "summary": "Pilate seeks to avoid condemning Jesus, but the crowd demands crucifixion.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-23-26-31",
+    "bookId": "lk",
+    "reference": "Luke 23:26–31",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Words to mourning women",
+    "summary": "Jesus tells women mourning him to consider impending suffering for Jerusalem.",
+    "topics": [
+      "suffering",
+      "women-authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-23-32-43",
+    "bookId": "lk",
+    "reference": "Luke 23:32–43",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Crucifixion and two criminals",
+    "summary": "Luke reports Jesus' exchange with a condemned man; the prayer in verse 34 has manuscript variation.",
+    "topics": [
+      "suffering",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm",
+    "textualStatus": "disputed-prayer-23-34",
+    "textualNote": "The prayer attributed to Jesus in Luke 23:34a is omitted in some early witnesses and retained by others. Scholarly opinions differ about whether this is an insertion or omission."
+  },
+  {
+    "id": "lk-23-44-49",
+    "bookId": "lk",
+    "reference": "Luke 23:44–49",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Death and witnesses",
+    "summary": "Luke narrates Jesus' death and responses from witnesses.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
+    "id": "lk-23-50-56",
+    "bookId": "lk",
+    "reference": "Luke 23:50–56",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Burial and women preparing spices",
+    "summary": "Joseph buries Jesus and women observe the tomb and prepare burial spices.",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
   },
   {
     "id": "lk-24-01-11",
@@ -396,7 +2290,70 @@
       "women-authority"
     ],
     "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+    "unitType": "context",
+    "title": "Women as witnesses at the tomb"
+  },
+  {
+    "id": "lk-24-12-12",
+    "bookId": "lk",
+    "reference": "Luke 24:12–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Peter visits the tomb",
+    "summary": "Peter sees evidence at the burial place; manuscript support for the verse has been discussed.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+    "textualStatus": "variant-verse-12",
+    "textualNote": "The verse concerning Peter's visit to the tomb has textual-history discussion; this index records reference coverage only, not an adjudicated earliest wording."
+  },
+  {
+    "id": "lk-24-13-35",
+    "bookId": "lk",
+    "reference": "Luke 24:13–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "The road to Emmaus",
+    "summary": "Two disciples encounter the risen Jesus, who interprets Scripture and is recognized in the breaking of bread.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
     "sourceUrl": "https://ebible.org/engwebp/LUK24.htm"
+  },
+  {
+    "id": "lk-24-36-49",
+    "bookId": "lk",
+    "reference": "Luke 24:36–49",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Appearance and commission in Jerusalem",
+    "summary": "Luke narrates a further appearance, bodily demonstration and instruction to proclaim repentance and forgiveness.",
+    "topics": [
+      "identity-resurrection",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/LUK24.htm"
+  },
+  {
+    "id": "lk-24-50-53",
+    "bookId": "lk",
+    "reference": "Luke 24:50–53",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Blessing, departure and worship",
+    "summary": "Jesus blesses followers and departs; details of ascension wording have textual-history questions.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+    "textualStatus": "variant-ascension-wording",
+    "textualNote": "The wording describing Jesus' departure or being carried into heaven in Luke 24:51 has a notable Western textual variant; exact wording requires a textual apparatus."
   },
   {
     "id": "mk-01-01-13",
