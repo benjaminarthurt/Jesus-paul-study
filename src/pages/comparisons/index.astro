@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { getCollection } from "astro:content";
+import evidence from "../../../research/index/evidence.json";
 const entries = (await getCollection("comparisons")).sort((a,b) => a.data.title.localeCompare(b.data.title));
 ---
 <Base title="Comparisons">
@@ -9,7 +10,7 @@ const entries = (await getCollection("comparisons")).sort((a,b) => a.data.title.
   <div class="card-grid">
     {entries.map(item => <article class="card">
       <div class="meta"><span class="status" data-state={item.data.status}>{item.data.status}</span><span>{item.data.classification.replaceAll("-"," ")}</span></div>
-      <h3><a class="title-link" href={`/comparisons/${item.id}/`}>{item.data.title}</a></h3><p>{item.data.summary}</p>
+      <h3><a class="title-link" href={`/comparisons/${item.id}/`}>{item.data.title}</a></h3><p>{item.data.summary}</p><p class="meta">{evidence.filter(e=>e.comparisonId===item.id).length ? `${evidence.filter(e=>e.comparisonId===item.id).length} preliminary evidence claims and sourced counterreadings` : "Comparison outline; source audit pending"}</p>
     </article>)}
   </div>
 </Base>

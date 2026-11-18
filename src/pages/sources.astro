@@ -1,15 +1,38 @@
 ---
 import Base from "../layouts/Base.astro";
+import sources from "../../research/index/sources.json";
+import evidence from "../../research/index/evidence.json";
+const sorted = [...sources].sort((a,b)=>a.title.localeCompare(b.title));
+const accessLabels: Record<string,string> = {
+  "full-text": "Full text or online article inspected",
+  "publisher-abstract-only": "Publisher abstract only",
+  "selected-excerpt": "Selected excerpt only"
+};
+const counts = new Map(sorted.map(s=>[s.id,evidence.filter(e=>e.sourceIds.includes(s.id)).length]));
 ---
 <Base title="Sources and review">
-  <div class="study">
-    <p class="eyebrow">Research integrity</p><h1>Sources &amp; review</h1>
-    <p class="lead">Published research will identify each primary passage, historical claim, interpretation, and contemporary inference.</p>
-    <h2>Current state</h2>
-    <p>No pilot comparison has yet been certified as source-checked. The initial outlines contain original paraphrases and research questions rather than extended Bible quotations or verified scholarly citations.</p>
-    <h2>Planned bibliography</h2>
-    <p>Each research claim will reference a specific biblical edition and, where warranted, academic literature with an author, title, publication year, and page or stable section. Manuscript questions and authorship disputes will receive separate notes.</p>
-    <h2>Corrections</h2>
-    <p>Conclusions will be versioned in Git, with interpretive changes documented rather than silently overwritten.</p>
-  </div>
+  <p class="eyebrow">Research transparency</p>
+  <h1>Sources &amp; bibliography</h1>
+  <p class="lead">A traceable record of the primary Bible edition and outside scholarship used in each research pilot. Every entry specifies exactly how much source material was inspected.</p>
+  <p class="warning">Having a source link does <strong>not</strong> mean a study has passed independent scholarly review. All current comparisons remain marked <strong>draft</strong>. An abstract is not the same as examining a complete monograph.</p>
+  <section aria-labelledby="bibliography-heading">
+    <h2 id="bibliography-heading">Cataloged sources ({sorted.length})</h2>
+    <div class="card-grid">
+      {sorted.map(s=><article class="card" id={`source-${s.id}`}>
+        <p class="eyebrow">{s.type.replaceAll("-"," ")}</p>
+        <h3><a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a></h3>
+        <p><strong>{s.author}</strong> · {s.publisher}{s.year ? ` · ${s.year}` : ""}</p>
+        <p><strong>Specific material:</strong> {s.location}</p>
+        <p><strong>Access:</strong> {accessLabels[s.accessScope] ?? s.accessScope}</p>
+        <p>{s.note}</p>
+        <div class="meta">Cited by {counts.get(s.id)} preliminary evidence claim(s)</div>
+      </article>)}
+    </div>
+  </section>
+  <section class="study">
+    <h2>Editorial status and correction policy</h2>
+    <p>The source catalog is expanded alongside the studies. Research status changes from <em>draft</em> to <em>source-checked</em> only after the relevant primary texts, counterarguments, manuscript notes and scholarly sources have actually been checked. <em>Reviewed</em> requires a separate editorial pass.</p>
+    <p>Corrections remain traceable in Git history; studies should state when a new reading changes a previous conclusion. Ancient descriptions, theological interpretation and modern application are tracked separately.</p>
+    <p>Start with the <a href="/comparisons/law-and-faith/">Mosaic Law evidence ledger</a> for examples of a claim-by-claim analysis.</p>
+  </section>
 </Base>
