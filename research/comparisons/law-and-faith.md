@@ -2,7 +2,7 @@
 title: The Law, Faith, and Gentile Inclusion
 summary: Is the continuing force of the Mosaic Law in Matthew compatible with Paul's arguments in Galatians and Romans?
 status: draft
-jesus: [mt-05-17-20, mt-05-21-48, mk-07-01-23, mt-15-01-20, lk-16-16-17]
+jesus: [mt-05-17-20, mt-05-21-48, mk-07-01-13, mk-07-14-23, mt-15-01-20, lk-16-16-17]
 paul: [ga-02-11-21, ga-03-10-14, ga-03-23-25, ga-05-02-06, ga-05-13-14, ro-03-28-31, ro-07-01-06, ro-07-07-12, ro-08-01-04, ro-10-04-04, ro-13-08-10]
 context: [ga-02-01-10, ac-15-01-29]
 sourceIds: [web-protestant-66, novenson-2023-law, trout-2015-fulfilment, williams-2024-mark7, thiessen-2016-gentiles, abs-jerusalem-2010]
