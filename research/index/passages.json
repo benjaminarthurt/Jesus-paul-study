@@ -1,111 +1,12 @@
 [
   {
-    "id": "mt-05-17-20",
-    "bookId": "mt",
-    "reference": "Matthew 5:17–20",
-    "sourceLayer": "jesus-synoptic",
-    "summary": "Jesus speaks of fulfilling the Law and the continuing importance of its commands.",
-    "topics": [
-      "mosaic-law"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "mk-07-01-23",
-    "bookId": "mk",
-    "reference": "Mark 7:1–23",
-    "sourceLayer": "jesus-synoptic",
-    "summary": "Jesus disputes religious traditions concerning purity and defilement.",
-    "topics": [
-      "mosaic-law"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "ga-03-23-25",
-    "bookId": "ga",
-    "reference": "Galatians 3:23–25",
+    "id": "1co-07-10-16",
+    "bookId": "1co",
+    "reference": "1 Corinthians 7:10–16",
     "sourceLayer": "paul-undisputed",
-    "summary": "Paul describes the Law's supervisory role and a changed relationship to it through faith.",
+    "summary": "Paul differentiates an instruction attributed to the Lord from further guidance on mixed-belief marriages.",
     "topics": [
-      "mosaic-law"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "ro-07-01-06",
-    "bookId": "ro",
-    "reference": "Romans 7:1–6",
-    "sourceLayer": "paul-undisputed",
-    "summary": "Paul uses an analogy about law to discuss a new relationship to service in the Spirit.",
-    "topics": [
-      "mosaic-law"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "lk-06-20-26",
-    "bookId": "lk",
-    "reference": "Luke 6:20–26",
-    "sourceLayer": "jesus-synoptic",
-    "summary": "Luke juxtaposes blessings and woes involving poverty, hunger, wealth, and satisfaction.",
-    "topics": [
-      "wealth-poverty"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "mk-10-17-31",
-    "bookId": "mk",
-    "reference": "Mark 10:17–31",
-    "sourceLayer": "jesus-synoptic",
-    "summary": "Jesus challenges a wealthy man and discusses the difficulty of entering God's kingdom with riches.",
-    "topics": [
-      "wealth-poverty"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "mt-25-31-46",
-    "bookId": "mt",
-    "reference": "Matthew 25:31–46",
-    "sourceLayer": "jesus-synoptic",
-    "summary": "The Son of Man's judgment scene centers on treatment of the hungry, stranger, sick, and imprisoned.",
-    "topics": [
-      "wealth-poverty"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "2co-08-01-15",
-    "bookId": "2co",
-    "reference": "2 Corinthians 8:1–15",
-    "sourceLayer": "paul-undisputed",
-    "summary": "Paul appeals for generosity and equity in support of other believers.",
-    "topics": [
-      "wealth-poverty"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "lk-08-01-03",
-    "bookId": "lk",
-    "reference": "Luke 8:1–3",
-    "sourceLayer": "jesus-synoptic",
-    "summary": "Women are named as accompanying and supporting Jesus' ministry.",
-    "topics": [
-      "women-authority"
-    ],
-    "status": "draft"
-  },
-  {
-    "id": "ro-16-01-16",
-    "bookId": "ro",
-    "reference": "Romans 16:1–16",
-    "sourceLayer": "paul-undisputed",
-    "summary": "Paul commends women and men among his coworkers and networks.",
-    "topics": [
-      "women-authority"
+      "marriage-divorce"
     ],
     "status": "draft"
   },
@@ -132,6 +33,718 @@
     "status": "draft"
   },
   {
+    "id": "2co-08-01-15",
+    "bookId": "2co",
+    "reference": "2 Corinthians 8:1–15",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul appeals for generosity and equity in support of other believers.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ga-03-23-25",
+    "bookId": "ga",
+    "reference": "Galatians 3:23–25",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes the Law's supervisory role and a changed relationship to it through faith.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lk-06-20-26",
+    "bookId": "lk",
+    "reference": "Luke 6:20–26",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Luke juxtaposes blessings and woes involving poverty, hunger, wealth, and satisfaction.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lk-08-01-03",
+    "bookId": "lk",
+    "reference": "Luke 8:1–3",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Women are named as accompanying and supporting Jesus' ministry.",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mk-01-01-13",
+    "bookId": "mk",
+    "reference": "Mark 1:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "John and Jesus introduced",
+    "summary": "John's proclamation, Jesus' baptism and testing introduce the narrative; John is the speaker in the proclamation.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-01-14-15",
+    "bookId": "mk",
+    "reference": "Mark 1:14–15",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Kingdom proclaimed",
+    "summary": "Jesus announces the nearness of God's kingdom and calls for repentance and trust.",
+    "topics": [
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-01-16-20",
+    "bookId": "mk",
+    "reference": "Mark 1:16–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "First followers called",
+    "summary": "Jesus summons fishermen to follow him and gives their work a new purpose.",
+    "topics": [
+      "discipleship",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-01-21-28",
+    "bookId": "mk",
+    "reference": "Mark 1:21–28",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Synagogue teaching and exorcism",
+    "summary": "The narrative reports teaching and an exorcism, but not the content of the synagogue lesson.",
+    "topics": [
+      "authority",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-01-29-34",
+    "bookId": "mk",
+    "reference": "Mark 1:29–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healings in Capernaum",
+    "summary": "Jesus heals Simon's mother-in-law and many others; no general instruction is recorded.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-01-35-39",
+    "bookId": "mk",
+    "reference": "Mark 1:35–39",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prayer and itinerant mission",
+    "summary": "Jesus prays and explains the purpose of continuing to preach in other towns.",
+    "topics": [
+      "prayer",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-01-40-45",
+    "bookId": "mk",
+    "reference": "Mark 1:40–45",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Cleansing and priestly obligations",
+    "summary": "Jesus responds to a man's request for cleansing and directs him to fulfill Moses' prescribed offering.",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-02-01-12",
+    "bookId": "mk",
+    "reference": "Mark 2:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Forgiveness and a paralyzed man",
+    "summary": "Jesus claims authority to forgive and heals a man carried by companions.",
+    "topics": [
+      "forgiveness",
+      "authority",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-02-13-17",
+    "bookId": "mk",
+    "reference": "Mark 2:13–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Levi and table fellowship",
+    "summary": "Jesus eats with tax collectors and others labeled sinners, comparing his mission to a physician's work.",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-02-18-22",
+    "bookId": "mk",
+    "reference": "Mark 2:18–22",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fasting and wineskins",
+    "summary": "Jesus answers a fasting question through wedding, fabric, and wineskin imagery.",
+    "topics": [
+      "authority",
+      "prayer"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-02-23-28",
+    "bookId": "mk",
+    "reference": "Mark 2:23–28",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sabbath grain dispute",
+    "summary": "Jesus appeals to David and describes Sabbath's purpose and the Son of Man's authority.",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-03-01-06",
+    "bookId": "mk",
+    "reference": "Mark 3:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sabbath healing",
+    "summary": "Jesus frames a Sabbath question around doing good and preserving life.",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-03-07-19",
+    "bookId": "mk",
+    "reference": "Mark 3:7–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Crowds and the Twelve",
+    "summary": "Healings are reported and the Twelve are appointed for mission; most details are narrative.",
+    "topics": [
+      "healing",
+      "mission",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-03-20-30",
+    "bookId": "mk",
+    "reference": "Mark 3:20–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Divided house and Spirit warning",
+    "summary": "Jesus disputes claims of demonic agency and warns about blasphemy against the Holy Spirit.",
+    "topics": [
+      "authority",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-03-31-35",
+    "bookId": "mk",
+    "reference": "Mark 3:31–35",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Doing God's will defines kinship",
+    "summary": "Jesus reorients the idea of family toward those who do God's will.",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-04-01-20",
+    "bookId": "mk",
+    "reference": "Mark 4:1–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sower and explanation",
+    "summary": "Jesus tells and interprets a sowing parable about different responses to the word.",
+    "topics": [
+      "parables",
+      "kingdom",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-04-21-25",
+    "bookId": "mk",
+    "reference": "Mark 4:21–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Lamp and measures",
+    "summary": "Jesus speaks about hidden things, listening, and measure.",
+    "topics": [
+      "parables"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-04-26-29",
+    "bookId": "mk",
+    "reference": "Mark 4:26–29",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Growing seed",
+    "summary": "Jesus compares the kingdom to seed growing through stages.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-04-30-34",
+    "bookId": "mk",
+    "reference": "Mark 4:30–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Mustard seed",
+    "summary": "Jesus compares the kingdom to a tiny seed growing into a large plant.",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-04-35-41",
+    "bookId": "mk",
+    "reference": "Mark 4:35–41",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Storm stilled",
+    "summary": "Jesus calms the storm and asks the disciples why they fear and lack faith.",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-05-01-20",
+    "bookId": "mk",
+    "reference": "Mark 5:1–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Gerasene man restored",
+    "summary": "Jesus heals a man and sends him to tell others of mercy shown to him.",
+    "topics": [
+      "healing",
+      "inclusion",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-05-21-43",
+    "bookId": "mk",
+    "reference": "Mark 5:21–43",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Woman healed and Jairus' daughter raised",
+    "summary": "Two intertwined stories focus on healing, fear, trust, and restoration.",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-06-01-06",
+    "bookId": "mk",
+    "reference": "Mark 6:1–6",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Rejection in Nazareth",
+    "summary": "Jesus comments on the limited honor of a prophet among familiar people.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-06-07-13",
+    "bookId": "mk",
+    "reference": "Mark 6:7–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sending of the Twelve",
+    "summary": "Jesus gives travel and hospitality instructions to the Twelve.",
+    "topics": [
+      "mission",
+      "discipleship"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-06-14-29",
+    "bookId": "mk",
+    "reference": "Mark 6:14–29",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Death of John the Baptist",
+    "summary": "The narrator recounts John's execution; this is not a teaching by Jesus.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-06-30-44",
+    "bookId": "mk",
+    "reference": "Mark 6:30–44",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Feeding the crowd",
+    "summary": "Jesus calls for rest, has compassion on the crowd, teaches and feeds it; his teaching's substance is not quoted.",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-06-45-52",
+    "bookId": "mk",
+    "reference": "Mark 6:45–52",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Walking on the sea",
+    "summary": "Jesus reassures the frightened disciples as the narrator notes their lack of understanding.",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-06-53-56",
+    "bookId": "mk",
+    "reference": "Mark 6:53–56",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healings at Gennesaret",
+    "summary": "People seek healing by touching Jesus' clothing; no sustained discourse is recorded.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-07-01-13",
+    "bookId": "mk",
+    "reference": "Mark 7:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Tradition and Corban",
+    "summary": "Jesus criticizes religious custom he says undermines the duty to honor parents.",
+    "topics": [
+      "authority",
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-07-01-23",
+    "bookId": "mk",
+    "reference": "Mark 7:1–23",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus disputes religious traditions concerning purity and defilement.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "title": "Purity and tradition — composite anchor",
+    "unitType": "composite",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-07-14-23",
+    "bookId": "mk",
+    "reference": "Mark 7:14–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Defilement and the heart",
+    "summary": "Jesus distinguishes external intake from conduct issuing from the heart; the treatment of verse 19 needs a textual note.",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-07-24-30",
+    "bookId": "mk",
+    "reference": "Mark 7:24–30",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Syrophoenician mother's request",
+    "summary": "A Gentile woman responds to Jesus' image about bread and children, and her daughter is healed.",
+    "topics": [
+      "inclusion",
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-07-31-37",
+    "bookId": "mk",
+    "reference": "Mark 7:31–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Healing a deaf man",
+    "summary": "Jesus heals a deaf man and enjoins discretion; the story is mainly action.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-08-01-10",
+    "bookId": "mk",
+    "reference": "Mark 8:1–10",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Feeding four thousand",
+    "summary": "Jesus has compassion for a hungry crowd and feeds them.",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-08-11-13",
+    "bookId": "mk",
+    "reference": "Mark 8:11–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Demand for a sign",
+    "summary": "Jesus refuses to provide the requested sign in a dispute with Pharisees.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-08-14-21",
+    "bookId": "mk",
+    "reference": "Mark 8:14–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Warning against leaven",
+    "summary": "Jesus cautions against the leaven of the Pharisees and Herod and challenges the disciples' understanding.",
+    "topics": [
+      "authority",
+      "parables"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-08-22-26",
+    "bookId": "mk",
+    "reference": "Mark 8:22–26",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sight restored in stages",
+    "summary": "Jesus heals a blind man in stages.",
+    "topics": [
+      "healing"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-08-27-33",
+    "bookId": "mk",
+    "reference": "Mark 8:27–33",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Peter's confession and suffering",
+    "summary": "Peter identifies Jesus as Christ and Jesus foretells rejection and death.",
+    "topics": [
+      "identity-resurrection",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-08-34-38",
+    "bookId": "mk",
+    "reference": "Mark 8:34–38",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Take up the cross",
+    "summary": "Jesus calls the crowd and disciples to self-denial and following him despite cost.",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-09-01-13",
+    "bookId": "mk",
+    "reference": "Mark 9:1–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Kingdom promise and transfiguration",
+    "summary": "Jesus speaks of the kingdom's power and later of Elijah; the transfiguration itself is narrated.",
+    "topics": [
+      "kingdom",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-09-14-29",
+    "bookId": "mk",
+    "reference": "Mark 9:14–29",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Child healed and belief",
+    "summary": "Jesus addresses a father's plea and his disciples' inability to heal.",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-09-30-32",
+    "bookId": "mk",
+    "reference": "Mark 9:30–32",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prediction of death and rising",
+    "summary": "Jesus predicts death and resurrection; disciples do not understand.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-09-33-37",
+    "bookId": "mk",
+    "reference": "Mark 9:33–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Greatness and a child",
+    "summary": "Jesus associates greatness with becoming servant of all and welcoming a child.",
+    "topics": [
+      "leadership",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-09-38-41",
+    "bookId": "mk",
+    "reference": "Mark 9:38–41",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Outsider acting in Jesus' name",
+    "summary": "Jesus cautions disciples against stopping someone acting in his name.",
+    "topics": [
+      "inclusion",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-09-42-50",
+    "bookId": "mk",
+    "reference": "Mark 9:42–50",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Warnings about stumbling",
+    "summary": "Jesus first warns against causing a vulnerable believer to stumble (v. 42), then uses severe body-part imagery about what causes one's own stumbling (vv. 43–48), concluding with salt and peace (vv. 49–50). Verse inclusion varies in textual traditions.",
+    "topics": [
+      "discipleship",
+      "end-times"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
     "id": "mk-10-02-12",
     "bookId": "mk",
     "reference": "Mark 10:2–12",
@@ -140,16 +753,553 @@
     "topics": [
       "marriage-divorce"
     ],
+    "status": "draft",
+    "title": "Marriage and divorce",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-10-13-16",
+    "bookId": "mk",
+    "reference": "Mark 10:13–16",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Welcome children",
+    "summary": "Jesus welcomes children and connects their example to receiving God's kingdom.",
+    "topics": [
+      "kingdom",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-10-17-31",
+    "bookId": "mk",
+    "reference": "Mark 10:17–31",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus challenges a wealthy man and discusses the difficulty of entering God's kingdom with riches.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "title": "Rich man and possessions",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-10-32-34",
+    "bookId": "mk",
+    "reference": "Mark 10:32–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Prediction on the road",
+    "summary": "Jesus foretells mockery, execution and resurrection in Jerusalem.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-10-35-45",
+    "bookId": "mk",
+    "reference": "Mark 10:35–45",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Servant leadership",
+    "summary": "Jesus rejects dominative leadership among disciples and frames his mission as service.",
+    "topics": [
+      "leadership",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-10-46-52",
+    "bookId": "mk",
+    "reference": "Mark 10:46–52",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Bartimaeus healed",
+    "summary": "Jesus responds to a blind beggar's plea and attributes healing to faith.",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-11-01-11",
+    "bookId": "mk",
+    "reference": "Mark 11:1–11",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Entry into Jerusalem",
+    "summary": "Jesus arranges his entry and enters Jerusalem to public acclaim; this is mainly narrative.",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-11-12-19",
+    "bookId": "mk",
+    "reference": "Mark 11:12–19",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fig tree and temple action",
+    "summary": "Jesus pronounces against a fig tree and disrupts commerce in the temple, citing prayer for all nations.",
+    "topics": [
+      "authority",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "action",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-11-20-26",
+    "bookId": "mk",
+    "reference": "Mark 11:20–26",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Faith, prayer and forgiveness",
+    "summary": "Jesus draws a lesson about faith, prayer and forgiving others; verse 26 is textually disputed.",
+    "topics": [
+      "prayer",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-11-27-33",
+    "bookId": "mk",
+    "reference": "Mark 11:27–33",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Challenge over authority",
+    "summary": "Jesus counters an authority question with a question about John's baptism.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-12-01-12",
+    "bookId": "mk",
+    "reference": "Mark 12:1–12",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Wicked tenants",
+    "summary": "Jesus portrays tenants abusing servants and killing the owner's son; opponents understand the parable as directed at them.",
+    "topics": [
+      "parables",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-12-13-17",
+    "bookId": "mk",
+    "reference": "Mark 12:13–17",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Taxes and Caesar",
+    "summary": "Jesus answers a taxation challenge by distinguishing what is Caesar's from what belongs to God.",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-12-18-27",
+    "bookId": "mk",
+    "reference": "Mark 12:18–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Resurrection debate",
+    "summary": "Jesus disputes a denial of resurrection using scripture and an account of resurrected life.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-12-28-34",
+    "bookId": "mk",
+    "reference": "Mark 12:28–34",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Greatest commandments",
+    "summary": "Jesus centers love of God and neighbor as foundational commandments.",
+    "topics": [
+      "mosaic-law",
+      "inclusion"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-12-35-37",
+    "bookId": "mk",
+    "reference": "Mark 12:35–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "David and the Messiah",
+    "summary": "Jesus questions a conventional reading of the Messiah as David's son.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-12-38-40",
+    "bookId": "mk",
+    "reference": "Mark 12:38–40",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Warning against scribal exploitation",
+    "summary": "Jesus criticizes ostentatious status and devouring widows' houses.",
+    "topics": [
+      "authority",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-12-41-44",
+    "bookId": "mk",
+    "reference": "Mark 12:41–44",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Widow's offering",
+    "summary": "Jesus comments on a poor widow's contribution; whether the passage praises her or critiques the setting is disputed.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-13-01-08",
+    "bookId": "mk",
+    "reference": "Mark 13:1–8",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Temple destruction and early warnings",
+    "summary": "Jesus predicts the temple's destruction and warns against deception and alarm.",
+    "topics": [
+      "end-times",
+      "authority"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-13-09-13",
+    "bookId": "mk",
+    "reference": "Mark 13:9–13",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Persecution and witness",
+    "summary": "Jesus anticipates persecution and instructs disciples to persevere in testimony.",
+    "topics": [
+      "end-times",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-13-14-23",
+    "bookId": "mk",
+    "reference": "Mark 13:14–23",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Distress and false claimants",
+    "summary": "Jesus speaks of flight from danger and warns against deceptive messianic claims.",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-13-24-27",
+    "bookId": "mk",
+    "reference": "Mark 13:24–27",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Son of Man and gathering",
+    "summary": "Jesus depicts cosmic upheaval and the Son of Man gathering chosen ones.",
+    "topics": [
+      "end-times",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-13-28-37",
+    "bookId": "mk",
+    "reference": "Mark 13:28–37",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Fig tree and vigilance",
+    "summary": "Jesus uses a fig tree comparison and cautions that the timing is unknown.",
+    "topics": [
+      "end-times",
+      "parables"
+    ],
+    "status": "draft",
+    "unitType": "parable",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-14-01-11",
+    "bookId": "mk",
+    "reference": "Mark 14:1–11",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Plot, anointing and betrayal",
+    "summary": "Jesus defends a woman's costly act in the setting of a plot and Judas' betrayal; other scenes are narrated.",
+    "topics": [
+      "wealth-poverty",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-14-12-21",
+    "bookId": "mk",
+    "reference": "Mark 14:12–21",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Passover arrangements and betrayer",
+    "summary": "Jesus directs meal preparations and predicts betrayal.",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-14-22-25",
+    "bookId": "mk",
+    "reference": "Mark 14:22–25",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Bread and covenant cup",
+    "summary": "Jesus interprets shared bread and wine in relation to his body, blood, covenant and kingdom.",
+    "topics": [
+      "suffering",
+      "kingdom"
+    ],
+    "status": "draft",
+    "unitType": "speech",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-14-26-31",
+    "bookId": "mk",
+    "reference": "Mark 14:26–31",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Denial predicted",
+    "summary": "Jesus predicts desertion and Peter's repeated denial.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-14-32-42",
+    "bookId": "mk",
+    "reference": "Mark 14:32–42",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Gethsemane and watchfulness",
+    "summary": "Jesus prays in distress and calls his disciples to watch and pray.",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-14-43-65",
+    "bookId": "mk",
+    "reference": "Mark 14:43–65",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Arrest and council",
+    "summary": "Jesus is arrested, questioned by the high priest, and responds about identity and vindication.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-14-66-72",
+    "bookId": "mk",
+    "reference": "Mark 14:66–72",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Peter's denials",
+    "summary": "Peter denies knowing Jesus, matching an earlier prediction; Jesus is not speaking here.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-15-01-05",
+    "bookId": "mk",
+    "reference": "Mark 15:1–5",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Jesus before Pilate",
+    "summary": "Jesus answers Pilate briefly and is otherwise largely silent.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "dialogue",
+    "sourceUrl": "https://ebible.org/engwebp/MRK15.htm"
+  },
+  {
+    "id": "mk-15-06-32",
+    "bookId": "mk",
+    "reference": "Mark 15:6–32",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Sentence and crucifixion",
+    "summary": "The narrative recounts Barabbas, mockery and crucifixion; Jesus does not give a new teaching discourse.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK15.htm"
+  },
+  {
+    "id": "mk-15-33-39",
+    "bookId": "mk",
+    "reference": "Mark 15:33–39",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Jesus' death",
+    "summary": "Jesus voices a lament connected to Psalm 22 and dies; this is not a general ethical instruction.",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK15.htm"
+  },
+  {
+    "id": "mk-15-40-47",
+    "bookId": "mk",
+    "reference": "Mark 15:40–47",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Women witnesses and burial",
+    "summary": "Women observe events and Jesus is buried; narrative testimony rather than recorded teaching.",
+    "topics": [
+      "women-authority",
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK15.htm"
+  },
+  {
+    "id": "mk-16-01-08",
+    "bookId": "mk",
+    "reference": "Mark 16:1–8",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Empty tomb and messenger",
+    "summary": "Women hear the young man's announcement at the empty tomb; Jesus does not speak in this passage.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "unitType": "context",
+    "sourceUrl": "https://ebible.org/engwebp/MRK16.htm"
+  },
+  {
+    "id": "mk-16-09-20",
+    "bookId": "mk",
+    "reference": "Mark 16:9–20",
+    "sourceLayer": "jesus-synoptic",
+    "title": "Longer ending of Mark",
+    "summary": "A textually disputed ending includes attributed words of the risen Jesus concerning mission and signs; do not present as uncontested Markan teaching.",
+    "topics": [
+      "identity-resurrection",
+      "mission"
+    ],
+    "status": "draft",
+    "unitType": "disputed",
+    "sourceUrl": "https://ebible.org/engwebp/MRK16.htm",
+    "textualStatus": "disputed-longer-ending",
+    "textualNote": "Mark 16:9–20 is absent from some early witnesses and commonly considered a later ending; scholarly and confessional assessments differ."
+  },
+  {
+    "id": "mt-05-17-20",
+    "bookId": "mt",
+    "reference": "Matthew 5:17–20",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "Jesus speaks of fulfilling the Law and the continuing importance of its commands.",
+    "topics": [
+      "mosaic-law"
+    ],
     "status": "draft"
   },
   {
-    "id": "1co-07-10-16",
-    "bookId": "1co",
-    "reference": "1 Corinthians 7:10–16",
-    "sourceLayer": "paul-undisputed",
-    "summary": "Paul differentiates an instruction attributed to the Lord from further guidance on mixed-belief marriages.",
+    "id": "mt-25-31-46",
+    "bookId": "mt",
+    "reference": "Matthew 25:31–46",
+    "sourceLayer": "jesus-synoptic",
+    "summary": "The Son of Man's judgment scene centers on treatment of the hungry, stranger, sick, and imprisoned.",
     "topics": [
-      "marriage-divorce"
+      "wealth-poverty"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ro-07-01-06",
+    "bookId": "ro",
+    "reference": "Romans 7:1–6",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul uses an analogy about law to discuss a new relationship to service in the Spirit.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ro-16-01-16",
+    "bookId": "ro",
+    "reference": "Romans 16:1–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul commends women and men among his coworkers and networks.",
+    "topics": [
+      "women-authority"
     ],
     "status": "draft"
   }

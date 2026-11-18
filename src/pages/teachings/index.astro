@@ -1,0 +1,79 @@
+---
+import Base from "../../layouts/Base.astro";
+import sayings from "../../../research/index/sayings.json";
+import { getCollection } from "astro:content";
+const topics = await getCollection("topics");
+const topicTitle = new Map(topics.map(t => [t.id,t.data.title]));
+const topicIds = [...new Set(sayings.flatMap(s=>s.topics))].sort((a,b)=>a.localeCompare(b));
+const audienceLabels = [...new Set(sayings.map(s=>s.audience))].sort();
+const sorted = [...sayings].sort((a,b)=>a.chapter-b.chapter || a.startVerse-b.startVerse);
+---
+<Base title="Teachings attributed to Jesus in Mark" description="Search preliminary Jesus-speech spans in Mark by audience, topic, and reference.">
+  <p class="eyebrow">The Jesus teachings catalog · Mark pilot</p>
+  <h1>Teachings attributed to Jesus</h1>
+  <p class="lead">A developing index of passages containing speech attributed to Jesus in the Gospel of Mark. Each record preserves the scene around the words and distinguishes proposed Gospel parallels from verified equivalences.</p>
+  <p class="warning"><strong>Draft inventory only.</strong> These are selected speech-bearing spans, not a complete, verbatim concordance. Some spans include another speaker or a narrator's words. Gospel parallels are research candidates, not established text-critical findings.</p>
+  <section class="panel" aria-label="Filter teachings">
+    <div class="study-controls">
+      <label>Search title, summary, or reference
+        <input type="search" id="teaching-search" placeholder="e.g. Sabbath, wealth, Mark 10" autocomplete="off" />
+      </label>
+      <label>Research topic
+        <select id="teaching-topic">
+          <option value="">All topics</option>
+          {topicIds.map(id=><option value={id}>{topicTitle.get(id) ?? id}</option>)}
+        </select>
+      </label>
+      <label>Audience
+        <select id="teaching-audience">
+          <option value="">All audiences</option>
+          {audienceLabels.map(value=><option value={value}>{value}</option>)}
+        </select>
+      </label>
+    </div>
+  </section>
+  <p class="result-count" id="teaching-count" role="status" aria-live="polite">{sorted.length} records shown</p>
+  <section class="card-grid" id="teaching-results" aria-label="Speech-bearing passages">
+    {sorted.map(s=><article class="card teaching-card"
+      data-search={`${s.reference} ${s.title} ${s.summary}`.toLowerCase()}
+      data-topics={s.topics.join(" ")}
+      data-audience={s.audience}>
+      <div class="meta">
+        <strong>{s.reference}</strong>
+        <span class="status" data-state={s.status}>{s.status}</span>
+        <span>{s.speechType.replaceAll("-"," ")}</span>
+      </div>
+      <h3><a class="title-link" href={`/teachings/${s.id}/`}>{s.title}</a></h3>
+      <p>{s.summary}</p>
+      <div class="meta"><span>Audience: {s.audience}</span><span>·</span><span>{s.parallels.length} parallel candidates</span></div>
+    </article>)}
+  </section>
+  <p id="teaching-empty" class="muted" hidden>No records match those filters.</p>
+  <script>
+    const search = document.querySelector<HTMLInputElement>("#teaching-search");
+    const topic = document.querySelector<HTMLSelectElement>("#teaching-topic");
+    const audience = document.querySelector<HTMLSelectElement>("#teaching-audience");
+    const cards = Array.from(document.querySelectorAll<HTMLElement>(".teaching-card"));
+    const count = document.querySelector<HTMLElement>("#teaching-count");
+    const empty = document.querySelector<HTMLElement>("#teaching-empty");
+    const update = () => {
+      const q = (search?.value ?? "").trim().toLowerCase();
+      const t = topic?.value ?? "";
+      const a = audience?.value ?? "";
+      let visible = 0;
+      for (const card of cards) {
+        const tags = (card.dataset.topics ?? "").split(" ");
+        const matches = (!q || (card.dataset.search ?? "").includes(q))
+          && (!t || tags.includes(t))
+          && (!a || card.dataset.audience === a);
+        card.hidden = !matches;
+        if (matches) visible++;
+      }
+      if (count) count.textContent = visible + (visible === 1 ? " record shown" : " records shown");
+      if (empty) empty.hidden = visible !== 0;
+    };
+    search?.addEventListener("input",update);
+    topic?.addEventListener("change",update);
+    audience?.addEventListener("change",update);
+  </script>
+</Base>

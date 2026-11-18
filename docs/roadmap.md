@@ -7,7 +7,9 @@
 - Astro static website with topics, book browsing, modern-issue pages and comparison views.
 - Automated referential-integrity checks.
 
-## Phase 2 — Gospels
+## Phase 2 — Gospels (underway)
+
+The initial Mark map adds 77 draft literary units across all 16 chapters, with source chapter links and distinctions among speech, dialogue, action, and contextual narrative. This is **not** a verified exhaustive index of sayings. Next passes must map precise speeches, textual variants, Synoptic parallels and scholarly sources.
 
 - Exhaustive pericope inventory and Jesus-speech/action tags for Mark, Matthew, Luke, John.
 - Synoptic parallel map; Gospel-specific differences; significant variants.
