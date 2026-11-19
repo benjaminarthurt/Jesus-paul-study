@@ -2070,6 +2070,66 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK02.htm"
   },
   {
+    "id": "lk-s-04-04-04",
+    "passageId": "lk-04-01-13",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 4,
+    "endVerse": 4,
+    "reference": "Luke 4:4",
+    "title": "Scripture in the wilderness: bread",
+    "summary": "Jesus rebuts the first wilderness temptation through an appeal to scripture.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-s-04-08-08",
+    "passageId": "lk-04-01-13",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 8,
+    "endVerse": 8,
+    "reference": "Luke 4:8",
+    "title": "Scripture in the wilderness: worship",
+    "summary": "Jesus responds to a temptation involving worldly authority by referring to worship of God alone.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-s-04-12-12",
+    "passageId": "lk-04-01-13",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 12,
+    "endVerse": 12,
+    "reference": "Luke 4:12",
+    "title": "Scripture in the wilderness: testing God",
+    "summary": "Jesus rebuts a temptation at the temple using a scriptural injunction against testing God.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
     "id": "lk-s-04-18-21",
     "passageId": "lk-04-16-30",
     "bookId": "lk",
@@ -4998,6 +5058,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
   },
   {
+    "id": "lk-s-23-03-03",
+    "passageId": "lk-23-01-07",
+    "bookId": "lk",
+    "chapter": 23,
+    "startVerse": 3,
+    "endVerse": 3,
+    "reference": "Luke 23:3",
+    "title": "Response to Pilate's kingship question",
+    "summary": "Jesus replies briefly to the governor's interrogation in Luke's trial narrative.",
+    "audience": "questioners",
+    "speechType": "response",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK23.htm"
+  },
+  {
     "id": "lk-s-23-28-31",
     "passageId": "lk-23-26-31",
     "bookId": "lk",
@@ -6463,6 +6543,68 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
   },
   {
+    "id": "mk-s-15-02-02",
+    "passageId": "mk-15-01-05",
+    "bookId": "mk",
+    "chapter": 15,
+    "startVerse": 2,
+    "endVerse": 2,
+    "reference": "Mark 15:2",
+    "title": "Response to Pilate",
+    "summary": "Jesus gives a brief answer to Pilate's kingship question, then largely remains silent.",
+    "audience": "questioners",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK15.htm"
+  },
+  {
+    "id": "mk-s-15-34-34",
+    "passageId": "mk-15-33-39",
+    "bookId": "mk",
+    "chapter": 15,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Mark 15:34",
+    "title": "Lament at the cross",
+    "summary": "Jesus voices a lament echoing Psalm 22; this is a cry in a death narrative, not an instruction to followers.",
+    "audience": "public",
+    "speechType": "prayer",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK15.htm",
+    "caution": "The transliterated cry and its translation are linked to Psalm 22 and need language-level review; do not combine the Gospels' final sayings into a single verbal transcript."
+  },
+  {
+    "id": "mt-s-03-15-15",
+    "passageId": "mt-03-13-17",
+    "bookId": "mt",
+    "chapter": 3,
+    "startVerse": 15,
+    "endVerse": 15,
+    "reference": "Matthew 3:15",
+    "title": "Baptism and fulfilling righteousness",
+    "summary": "Jesus responds to John's reluctance to baptize him and relates the action to fulfilling righteousness.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT03.htm"
+  },
+  {
     "id": "mt-s-04-17-17",
     "passageId": "mt-04-12-17",
     "bookId": "mt",
@@ -7739,6 +7881,90 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
   },
   {
+    "id": "mt-s-14-16-18",
+    "passageId": "mt-14-13-21",
+    "bookId": "mt",
+    "chapter": 14,
+    "startVerse": 16,
+    "endVerse": 18,
+    "reference": "Matthew 14:16–18",
+    "title": "Disciples tasked with feeding the crowd",
+    "summary": "Jesus redirects disciples to feed the gathered crowd and tells them to bring the available food.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
+  },
+  {
+    "id": "mt-s-14-27-27",
+    "passageId": "mt-14-22-33",
+    "bookId": "mt",
+    "chapter": 14,
+    "startVerse": 27,
+    "endVerse": 27,
+    "reference": "Matthew 14:27",
+    "title": "Fear and reassurance on the water",
+    "summary": "Jesus reassures frightened disciples when approaching the boat in the night.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
+  },
+  {
+    "id": "mt-s-14-29-29",
+    "passageId": "mt-14-22-33",
+    "bookId": "mt",
+    "chapter": 14,
+    "startVerse": 29,
+    "endVerse": 29,
+    "reference": "Matthew 14:29",
+    "title": "Invitation to Peter on the water",
+    "summary": "Jesus responds to Peter's request with a brief invitation to approach.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
+  },
+  {
+    "id": "mt-s-14-31-31",
+    "passageId": "mt-14-22-33",
+    "bookId": "mt",
+    "chapter": 14,
+    "startVerse": 31,
+    "endVerse": 31,
+    "reference": "Matthew 14:31",
+    "title": "Peter's fear and doubt",
+    "summary": "Jesus helps Peter and questions the doubt displayed during the incident.",
+    "audience": "individual",
+    "speechType": "question",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
+  },
+  {
     "id": "mt-s-15-10-20",
     "passageId": "mt-15-01-20",
     "bookId": "mt",
@@ -7860,6 +8086,70 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-17-17-20",
+    "passageId": "mt-17-14-21",
+    "bookId": "mt",
+    "chapter": 17,
+    "startVerse": 17,
+    "endVerse": 20,
+    "reference": "Matthew 17:17–20",
+    "title": "Healing and the faith of the disciples",
+    "summary": "Jesus responds to a father's request, heals a boy and later explains the disciples' failed attempt using faith imagery.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "healing",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm",
+    "caution": "Matthew 17:21 is textually disputed and omitted from the selected speech span; do not assume the added prayer-and-fasting clause was present in the earliest form."
+  },
+  {
+    "id": "mt-s-17-22-23",
+    "passageId": "mt-17-22-23",
+    "bookId": "mt",
+    "chapter": 17,
+    "startVerse": 22,
+    "endVerse": 23,
+    "reference": "Matthew 17:22–23",
+    "title": "Second prediction of death and resurrection",
+    "summary": "Jesus tells disciples that the Son of Man will be handed over, killed and raised.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
+  },
+  {
+    "id": "mt-s-17-25-27",
+    "passageId": "mt-17-24-27",
+    "bookId": "mt",
+    "chapter": 17,
+    "startVerse": 25,
+    "endVerse": 27,
+    "reference": "Matthew 17:25–27",
+    "title": "Temple tax and avoiding offense",
+    "summary": "Jesus discusses the tax with Peter and directs him to an unusual means of payment.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
   },
   {
     "id": "mt-s-18-01-05",
@@ -8605,6 +8895,48 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-27-11-11",
+    "passageId": "mt-27-11-26",
+    "bookId": "mt",
+    "chapter": 27,
+    "startVerse": 11,
+    "endVerse": 11,
+    "reference": "Matthew 27:11",
+    "title": "Brief reply concerning kingship",
+    "summary": "Jesus responds to Pilate's question about being king, followed by silence under accusation.",
+    "audience": "questioners",
+    "speechType": "response",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT27.htm"
+  },
+  {
+    "id": "mt-s-27-46-46",
+    "passageId": "mt-27-45-56",
+    "bookId": "mt",
+    "chapter": 27,
+    "startVerse": 46,
+    "endVerse": 46,
+    "reference": "Matthew 27:46",
+    "title": "Lament at Jesus' death",
+    "summary": "Matthew reports Jesus crying a Psalm-related lament while dying.",
+    "audience": "public",
+    "speechType": "prayer",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT27.htm",
+    "caution": "The lament relates to Psalm 22 and resembles Mark 15:34, but source language and wording differ; do not replace the Lukan and Johannine death accounts with a harmonized speech sequence."
   },
   {
     "id": "mt-s-28-18-20",

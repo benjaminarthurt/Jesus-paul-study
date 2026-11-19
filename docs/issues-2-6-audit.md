@@ -7,7 +7,7 @@ This record distinguishes **automated structural checks** from **interpretive ve
 
 | Issue | Target | What was checked | Limit of check |
 | --- | --- | --- | --- |
-| #2 | Selected Gospel speech warnings | Added selected-saying caution display on four-Gospel comparison cards (John and the two Lord's Prayer forms can require warnings not present on parent units). | 321 selected speech spans remain draft; full clause-level attribution and Greek-variant audit remains. |
+| #2 | Selected Gospel speech warnings | Added selected-saying caution display on four-Gospel comparison cards (John and the two Lord's Prayer forms can require warnings not present on parent units). | 337 selected speech spans remain draft; full clause-level attribution and Greek-variant audit remains. |
 | #3 | Matthew 5; Galatians 3/5; Romans 3 | Cross-referenced literary claims against Novenson's accessible *Law in the New Testament* §§2.1, 5 and named WEBP chapters. | No independent Greek grammatical audit, historical reconstruction or corroborating Second Temple specialists. |
 | #4 | Mark 12; Luke 20–21; 2 Corinthians 8–9 | Located Mark/Luke's **shared** sequence, separated it from framing details, and checked Barclay's full accessible 2023 article (Introduction and Conclusions). Added Otten's competing widow discussion as **abstract only**. | Full Otten text and Greek source comparison pending. |
 | #5 | 1 Corinthians 11/14; Romans 16; 1 Timothy 2 | Confirmed 14:34–35 is relocated in some Western witnesses without claiming that every surviving manuscript omits it; juxtaposed Wilson's full article (§§6–7) and Bird's repository **abstract only**. | Critical apparatus, complete thesis, and independent ancient-greek term review pending. |
@@ -27,4 +27,11 @@ This record distinguishes **automated structural checks** from **interpretive ve
 3. **Issue #4:** full Otten/Kubiś close reading; Greek and Roman gift-exchange context; contemporary policy claims distinguished from ancient statements.
 4. **Issue #5:** Greek manuscript evidence for 1 Corinthians 14, Junia/office terminology, Pastorals authorship and competing modern interpretations.
 5. **Issue #6:** authorized production origin, full keyboard/screen-reader audit, real-phone layout and performance checks, and a decision whether to incorporate verbatim WEBP text.
+
+
+## Targeted speech-bearing additions
+
+Added **16 draft selected speech-bearing spans** with stable parent passage IDs and WEBP chapter links, after checking relevant source chapters: Mark 15 (trial response and Psalm-related lament), Matthew 3 (baptism), Matthew 14 (feeding and water-scene words), Matthew 17 (healing, prediction and tax exchange), Matthew 27 (trial response and lament), Luke 4 (three wilderness replies), and Luke 23 (trial response). Their source URLs are checked against the WEBP edition, but **the sayings themselves are not independently verified against a critical Greek apparatus**.
+
+No selected saying is added for Mark 16:1–8, which contains no direct post-resurrection speech of Jesus in the earliest recoverable shorter ending. Luke 1's Mary/Zechariah speech and Matthew 3's Baptist proclamation are likewise not mislabeled as Jesus' speech. The presence of a chapter without indexed sayings is not automatically a completeness defect.
 
