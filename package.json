@@ -9,7 +9,8 @@
     "preview": "astro preview",
     "check": "node scripts/validate-content.mjs",
     "test:validator": "node --test tests/*.test.mjs",
-    "test:site": "node scripts/audit-site.mjs"
+    "test:site": "node scripts/audit-site.mjs",
+    "audit:gospel-speech": "node scripts/report-gospel-speech-gaps.mjs"
   },
   "dependencies": {
     "astro": "^7.4.12",
