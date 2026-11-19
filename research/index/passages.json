@@ -12,6 +12,19 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
   },
   {
+    "id": "1co-07-17-24",
+    "bookId": "1co",
+    "reference": "1 Corinthians 7:17–24",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses calling and social status, including circumcision, enslaved persons and the possibility of obtaining freedom, while urging believers to belong to Christ.",
+    "topics": [
+      "inclusion",
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+  },
+  {
     "id": "1co-11-02-16",
     "bookId": "1co",
     "reference": "1 Corinthians 11:2–16",
@@ -22,6 +35,19 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-13-01-13",
+    "bookId": "1co",
+    "reference": "1 Corinthians 13:1–13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul places love above impressive gifts, describes its character and durability, and emphasizes its superiority to faith and hope in the current argument.",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm"
   },
   {
     "id": "1co-14-26-40",
@@ -72,6 +98,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
+    "id": "1th-04-09-12",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 4:9–12",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul commends mutual love, urges growth in care for others and gives practical counsel about quiet living, work and relationships with outsiders.",
+    "topics": [
+      "discipleship",
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+  },
+  {
+    "id": "1th-05-12-22",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 5:12–22",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul asks the community to respect those who labor among them, support the weak, pursue good rather than revenge, pray continually and evaluate prophetic claims.",
+    "topics": [
+      "leadership",
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
   },
   {
     "id": "1ti-02-08-15",
@@ -6555,6 +6608,33 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT28.htm"
   },
   {
+    "id": "phm-01-08-21",
+    "bookId": "phm",
+    "reference": "Philemon 1:8–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul appeals rather than simply commands Philemon to receive Onesimus as a beloved brother, while the letter leaves questions of legal manumission and slavery unresolved.",
+    "topics": [
+      "inclusion",
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+  },
+  {
+    "id": "php-02-01-11",
+    "bookId": "php",
+    "reference": "Philippians 2:1–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul urges unity and humility through concern for others, presenting Christ's self-emptying and exaltation as a model; interpretation of the Christ hymn's source and form is debated.",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
     "id": "php-04-02-03",
     "bookId": "php",
     "reference": "Philippians 4:2–3",
@@ -6562,6 +6642,19 @@
     "summary": "Paul urges reconciliation between Euodia and Syntyche, whom he describes as having struggled alongside him in the gospel.",
     "topics": [
       "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "php-04-04-07",
+    "bookId": "php",
+    "reference": "Philippians 4:4–7",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul encourages joy, gentle conduct, prayer with thanksgiving and freedom from anxiety while speaking about God's peace.",
+    "topics": [
+      "prayer",
+      "discipleship"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
@@ -6637,6 +6730,32 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-12-14-21",
+    "bookId": "ro",
+    "reference": "Romans 12:14–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul exhorts the Roman believers to bless persecutors, refuse retaliation, seek peace where possible and answer harm with good.",
+    "topics": [
+      "discipleship",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-13-01-07",
+    "bookId": "ro",
+    "reference": "Romans 13:1–7",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul urges subordination to governing authorities, describes rulers' claimed public functions, and speaks about taxes, respect and accountability.",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
   },
   {
     "id": "ro-13-08-10",

@@ -1,0 +1,516 @@
+[
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "law-fulfillment-and-gentile-observance",
+    "title": "Law and covenant: Matthew's Jesus and Paul's Gentile mission",
+    "topicId": "mosaic-law",
+    "classification": "apparent-tension",
+    "researchQuestion": "Does Matthew's assertion of enduring commandments conflict with Paul's refusal to require circumcision of Gentiles?",
+    "assessment": "A genuine interpretive tension remains if Matthew 5:19 is extended without qualification to every Torah requirement for every later Gentile believer. Galatians specifically argues against circumcision as an entry condition, whereas Romans also affirms the Law's value.",
+    "commonGround": "Both Gospel teaching and Paul's letters present faithfulness to God as ethically consequential rather than an excuse to abandon love of neighbor.",
+    "differences": [
+      "Matthew's Jesus defends the Law and Prophets within a discourse addressing disciples and their righteousness.",
+      "Paul argues as a missionary negotiating Gentile participation and differentiates justification, circumcision and the role of Torah, while sometimes explicitly affirming the Law."
+    ],
+    "counterReading": "A contextual reading distinguishes Matthew's Jewish audience and Jesus' fulfilling interpretation from Paul's specific Gentile circumcision dispute; this may reduce but not erase the tension.",
+    "limitations": "Neither source alone proves every Gospel command applies identically to all Gentile congregations. The historical Jesus' precise words and the interpretation of 'fulfill' remain debated.",
+    "sourceIds": [
+      "web-protestant-66",
+      "novenson-2023-law",
+      "thiessen-2016-gentiles"
+    ],
+    "jesus": [
+      {
+        "passageId": "mt-05-17-20",
+        "note": "Matthew 5 emphasizes continuity and the practice of commandments."
+      },
+      {
+        "passageId": "lk-16-16-17",
+        "note": "Luke juxtaposes the kingdom's announcement with the durability of the Law.",
+        "sayingId": "lk-s-16-16-17"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "ga-03-23-25",
+        "note": "Galatians describes the Law's custodial role before the coming of faith."
+      },
+      {
+        "passageId": "ga-05-02-06",
+        "note": "Galatians warns Gentile readers about adopting circumcision as necessary to belonging."
+      },
+      {
+        "passageId": "ro-03-28-31",
+        "note": "Romans insists that faith does not simply nullify the Law."
+      }
+    ],
+    "relatedComparison": "law-and-faith"
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "love-of-enemies-and-retaliation",
+    "title": "Love enemies: Jesus and Paul's counsel on retaliation",
+    "topicId": "forgiveness",
+    "classification": "agreement",
+    "researchQuestion": "Does Paul oppose Jesus' instructions about blessing enemies and refusing personal retaliation?",
+    "assessment": "The selected Pauline instructions substantially agree with the Gospel demands to bless opponents and avoid reciprocal harm. Paul's appeal to God's vengeance in Romans 12 adds a rationale that requires distinct interpretation.",
+    "commonGround": "The Gospel teachings and Romans 12 emphasize active good toward opponents rather than private revenge.",
+    "differences": [
+      "Matthew and Luke formulate enemy-love in extended teachings about conduct toward opponents and the character of God.",
+      "Romans addresses a network of congregations through commands against personal revenge and a scriptural appeal to God's judgment; 1 Thessalonians applies nonretaliation within and beyond community life."
+    ],
+    "counterReading": "Some interpreters emphasize that Romans 12 leaves final vengeance to God, while others read the positive commands as consonant with Jesus' call to love enemies; the presence of divine judgment does not directly authorize human revenge.",
+    "limitations": "Agreement on personal nonretaliation cannot by itself settle questions about policing, state force or war; Romans 13 requires separate contextual analysis.",
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "jesus": [
+      {
+        "passageId": "mt-05-21-48",
+        "note": "Matthew locates enemy-love within ethical contrasts to inherited interpretations.",
+        "sayingId": "mt-s-05-43-48"
+      },
+      {
+        "passageId": "lk-06-27-36",
+        "note": "Luke connects enemy-love with giving and lending without expectation.",
+        "sayingId": "lk-s-06-27-36"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "ro-12-14-21",
+        "note": "Paul instructs believers to bless persecutors, pursue peace when possible, and do good to opponents."
+      },
+      {
+        "passageId": "1th-05-12-22",
+        "note": "The letter opposes returning evil for evil while urging good conduct."
+      }
+    ],
+    "relatedComparison": null
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "poverty-generosity-and-collections",
+    "title": "Care for the poor: Gospel demands and Paul's relief collection",
+    "topicId": "wealth-poverty",
+    "classification": "different-emphasis",
+    "researchQuestion": "Does Paul's fundraising strategy dilute or implement Jesus' demanding teachings about the poor and wealth?",
+    "assessment": "There is substantial overlap in concern for people in need, alongside differences between Jesus' narrated calls to disciples and Paul's organized material relief for other congregations.",
+    "commonGround": "Jesus' teachings call attention to vulnerable people, and Paul coordinates voluntary aid and equitable sharing among communities.",
+    "differences": [
+      "Luke's blessings and meal teaching foreground the poor and people unable to repay hospitality; Matthew 25 presents a judgment scene emphasizing vulnerable people.",
+      "Paul explicitly organizes a contribution for Jerusalem, requests gifts according to means, and discusses fairness, consent and accountability between churches."
+    ],
+    "counterReading": "Some argue Paul concretely institutionalizes Jesus' concern; others note that a collection for fellow believers is not automatically a universal redistribution program. Neither inference settles modern tax policy.",
+    "limitations": "The poor in Paul's Jerusalem collection are not automatically identical with every category of vulnerable persons in Matthew 25. Coercing poor donors contradicts Paul's emphasis on willingness.",
+    "sourceIds": [
+      "web-protestant-66",
+      "barclay-2023-rich-poverty",
+      "welborn-2013-equality"
+    ],
+    "jesus": [
+      {
+        "passageId": "lk-06-20-26",
+        "note": "Luke blesses the poor and hungry and pronounces corresponding warnings about riches.",
+        "sayingId": "lk-s-06-20-26"
+      },
+      {
+        "passageId": "lk-14-12-14",
+        "note": "Jesus instructs a host to include people who cannot repay hospitality.",
+        "sayingId": "lk-s-14-12-14"
+      },
+      {
+        "passageId": "mt-25-31-46",
+        "note": "Matthew links judgment to the treatment of people in need.",
+        "sayingId": "mt-s-25-31-46"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "2co-08-01-15",
+        "note": "Paul argues for willing gifts and sufficiency across congregations."
+      },
+      {
+        "passageId": "1co-16-01-04",
+        "note": "He gives a practical mechanism for collecting and delivering contributions."
+      },
+      {
+        "passageId": "ro-15-25-28",
+        "note": "He explains the collection's destination in Jerusalem."
+      }
+    ],
+    "relatedComparison": "wealth-and-generosity"
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "divorce-the-lord-and-pauls-guidance",
+    "title": "Divorce: Gospel sayings and Paul's distinction of authority",
+    "topicId": "marriage-divorce",
+    "classification": "different-emphasis",
+    "researchQuestion": "How does Paul's stated distinction between a command attributed to the Lord and his own guidance relate to the Gospel divorce sayings?",
+    "assessment": "Paul explicitly appeals to an instruction of the Lord concerning marital separation while supplying his own judgment about cases involving an unbelieving spouse.",
+    "commonGround": "Gospel accounts and 1 Corinthians address marital stability and treat divorce as a serious ethical matter.",
+    "differences": [
+      "Mark narrates a controversy and later private instruction; Matthew includes qualification language in its marriage teaching.",
+      "1 Corinthians 7:10–16 explicitly distinguishes a command attributed to the Lord from Paul speaking to believers in mixed-belief marriages, which the selected Gospel episodes do not address in the same way."
+    ],
+    "counterReading": "Paul's guidance can be interpreted as an application to a new situation, or as a modification of a strict prohibition. The textual evidence does not decide all contemporary divorce and remarriage cases.",
+    "limitations": "The reference to 'not I but the Lord' is a reported authority distinction in Paul's letter, not an independently recoverable audio transcript of Jesus' utterance.",
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "jesus": [
+      {
+        "passageId": "mk-10-02-12",
+        "note": "Mark distinguishes the public challenge from private teaching to disciples.",
+        "sayingId": "mk-s-10-11-12"
+      },
+      {
+        "passageId": "mt-19-01-12",
+        "note": "Matthew includes the debated exception language within the divorce dispute.",
+        "sayingId": "mt-s-19-04-09"
+      },
+      {
+        "passageId": "lk-16-18-18",
+        "note": "Luke has a short statement in a different literary context.",
+        "sayingId": "lk-s-16-18-18"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "1co-07-10-16",
+        "note": "Paul draws a boundary between a Lord-attributed prohibition and his own advice concerning a nonbelieving spouse."
+      }
+    ],
+    "relatedComparison": null
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "women-witnesses-and-pauline-coworkers",
+    "title": "Women as witnesses and coworkers across Gospels and Paul",
+    "topicId": "women-authority",
+    "classification": "interpretation-dependent",
+    "researchQuestion": "How do Gospel portrayals of women and Paul's named coworkers relate to restrictions appearing elsewhere in the Pauline corpus?",
+    "assessment": "The Gospel accounts and undisputed Pauline letters explicitly portray women acting in consequential roles. The significance for later formal office and the interpretation of 1 Corinthians 14 remain contested.",
+    "commonGround": "Narratives of women following or witnessing to Jesus and letters recognizing women as coworkers resist a simplistic claim that women held no meaningful role.",
+    "differences": [
+      "Luke reports women traveling with and materially supporting Jesus; John foregrounds Mary Magdalene at the resurrection tomb.",
+      "Romans 16 and Philippians 4 identify coworkers in Pauline networks, and 1 Corinthians 11 assumes women pray or prophesy, while 1 Corinthians 14:34–35 introduces a disputed regulation."
+    ],
+    "counterReading": "Some readers distinguish witnessing, prophecy, household patronage, and formal authoritative teaching offices. Others argue the named roles make later restrictions unlikely or locally limited; a conclusion needs a careful history of terms and textual variants.",
+    "limitations": "1 Timothy is a disputed-authorship letter and appears as context, not a direct word of the seven undisputed letters. Transposition of 1 Corinthians 14:34–35 is not the same as proof of an original omission.",
+    "sourceIds": [
+      "web-protestant-66",
+      "sybrandi-2024-romans16",
+      "tolmie-2014-gal328"
+    ],
+    "jesus": [
+      {
+        "passageId": "lk-08-01-03",
+        "note": "Luke narrates women accompanying Jesus and supporting the mission."
+      },
+      {
+        "passageId": "jn-20-11-18",
+        "note": "John's Mary Magdalene tells disciples of a resurrection encounter.",
+        "sayingId": "jn-s-20-15-17"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "ro-16-01-16",
+        "note": "Paul recognizes Phoebe, Prisca, Junia and other named women."
+      },
+      {
+        "passageId": "php-04-02-03",
+        "note": "Paul calls attention to women who struggled alongside him in gospel work."
+      },
+      {
+        "passageId": "1co-11-02-16",
+        "note": "The passage presupposes women praying and prophesying in the assembly."
+      }
+    ],
+    "context": [
+      {
+        "passageId": "1co-14-34-35",
+        "reason": "A contested silence instruction in a generally undisputed letter; placement and scope require text-critical and interpretive scrutiny."
+      },
+      {
+        "passageId": "1ti-02-08-15",
+        "reason": "A different, disputed-authorship letter with restrictive instructions; never present as uncontested personal words from Paul."
+      }
+    ],
+    "relatedComparison": "women-and-assembly"
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "status-leadership-and-humility",
+    "title": "Leadership by service: Jesus, Philippians and Philemon",
+    "topicId": "leadership",
+    "classification": "agreement",
+    "researchQuestion": "Does Paul's model of humility and voluntary appeal reinforce or replace Jesus' critique of status and domination?",
+    "assessment": "The selected material places service, humility and care for others at the center. Philemon also contains a rhetorically complex appeal invoking Paul's authority.",
+    "commonGround": "Gospel presentations of Jesus' service and Paul's instruction in Philippians both challenge self-promotion and elevate concern for others.",
+    "differences": [
+      "Mark contrasts Gentile rulers' domination with disciples' service; John dramatizes service by footwashing at a meal.",
+      "Philippians frames humility through a theological account of Christ's self-emptying, while Philemon makes an interpersonal appeal rather than a universal teaching about governmental structures."
+    ],
+    "counterReading": "One can see strong continuity in their moral model while recognizing that Paul's ability to command in Philemon complicates any claim he rejects all forms of authority.",
+    "limitations": "The interpretive status and pre-Pauline origins of the Philippians 2 hymn are debated; no specific source history is assumed.",
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "jesus": [
+      {
+        "passageId": "mk-10-35-45",
+        "note": "Mark reports Jesus' rejection of status-based domination among followers.",
+        "sayingId": "mk-s-10-42-45"
+      },
+      {
+        "passageId": "jn-13-01-17",
+        "note": "John uses the washing of disciples' feet as an enacted example of service.",
+        "sayingId": "jn-s-13-12-17"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "php-02-01-11",
+        "note": "Paul urges communal humility through a portrayal of Christ's self-giving."
+      },
+      {
+        "passageId": "phm-01-08-21",
+        "note": "Paul presents love as a reason to appeal but also names his capacity to command."
+      }
+    ],
+    "relatedComparison": null
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "political-authority-and-taxation",
+    "title": "Political authority: Jesus' tax response and Romans 13",
+    "topicId": "authority",
+    "classification": "apparent-tension",
+    "researchQuestion": "Does the tax-trap answer attributed to Jesus establish the same political ethic as Paul's instruction concerning governing authorities?",
+    "assessment": "The texts both address public authority, but the nature of the question differs substantially. Romans 13 outlines submission and reasons for recognizing authorities; the Gospel tax saying answers a trap without laying out a state theory.",
+    "commonGround": "Both passages engage the reality of taxation and authority without treating power as entirely outside ethical examination.",
+    "differences": [
+      "In Matthew and Mark, Jesus responds to a politically dangerous question by distinguishing what is owed to Caesar and God.",
+      "Romans 13:1–7 describes authorities as permitted or established by God, discusses punishment of wrongdoing, and instructs readers to pay taxes and respect."
+    ],
+    "counterReading": "Some take Romans 13 as sweeping support for state authority; others emphasize its rhetorical and historical limits, note Romans 12's prohibition of personal revenge, and read Jesus' Godward claim as a check on Caesar.",
+    "limitations": "Neither an ancient coin exchange nor Romans' instruction about authorities resolves the legitimacy of any particular contemporary government, military action or civil disobedience.",
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "jesus": [
+      {
+        "passageId": "mt-22-15-22",
+        "note": "Matthew places the tax question amid efforts to trap Jesus in Jerusalem.",
+        "sayingId": "mt-s-22-21-21"
+      },
+      {
+        "passageId": "mk-10-35-45",
+        "note": "Mark offers a separate teaching against domination among Jesus' followers.",
+        "sayingId": "mk-s-10-42-45"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "ro-13-01-07",
+        "note": "Paul discusses governing authorities, punishment, taxes, and honor."
+      },
+      {
+        "passageId": "ro-12-14-21",
+        "note": "Paul immediately before this section calls for blessing opponents and refusing private vengeance."
+      }
+    ],
+    "relatedComparison": null
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "slavery-belonging-and-onesimus",
+    "title": "Belonging, slavery and Onesimus: the limits of the evidence",
+    "topicId": "inclusion",
+    "classification": "insufficient-evidence",
+    "researchQuestion": "Do the Gospels' inclusion themes and Paul's statements about unity and Onesimus establish a common mandate to abolish slavery?",
+    "assessment": "The selected texts support challenges to exclusion and distinctions of status within the movement, but do not by themselves provide an explicit first-century program to abolish the Roman institution of slavery.",
+    "commonGround": "The Gospel narratives include outsiders as neighbors or interlocutors, while Paul calls persons across legal and ethnic categories members in Christ.",
+    "differences": [
+      "Jesus' Samaritan parable and encounter concern neighbor-love and social or religious boundaries rather than legal manumission.",
+      "Galatians speaks of unity in Christ; 1 Corinthians addresses enslaved believers and possible freedom; Philemon requests a changed relationship with Onesimus without explicitly recording manumission."
+    ],
+    "counterReading": "Some see a foundation for abolition in Paul's language about siblinghood and equality; others emphasize that the letter does not demand legal emancipation and that these contexts are addressed to particular communities.",
+    "limitations": "Philemon's precise legal circumstances and Onesimus's relationship to Philemon remain historically debated. Do not equate moral inclusion with demonstrable abolition of slavery.",
+    "sourceIds": [
+      "web-protestant-66",
+      "tolmie-2014-gal328"
+    ],
+    "jesus": [
+      {
+        "passageId": "lk-10-25-37",
+        "note": "Jesus' parable challenges the question of who acts as a neighbor.",
+        "sayingId": "lk-s-10-30-37"
+      },
+      {
+        "passageId": "jn-04-07-42",
+        "note": "John narrates an extended exchange across a Samaritan–Jewish social boundary."
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "ga-03-26-29",
+        "note": "Paul uses a unifying formula encompassing enslaved and free persons."
+      },
+      {
+        "passageId": "1co-07-17-24",
+        "note": "Paul comments on social position and the possibility of freedom while calling people to Christ."
+      },
+      {
+        "passageId": "phm-01-08-21",
+        "note": "Paul urges Philemon to receive Onesimus as a brother, while legal freedom remains unrecorded."
+      }
+    ],
+    "relatedComparison": null
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "anxiety-prayer-and-work",
+    "title": "Anxiety, prayer and work in Jesus and Paul",
+    "topicId": "discipleship",
+    "classification": "different-emphasis",
+    "researchQuestion": "Is Paul's call to work quietly incompatible with the Gospel instruction not to worry about material needs?",
+    "assessment": "There is no necessary contradiction between not being consumed by anxiety and taking responsible action; the texts address distinct immediate concerns.",
+    "commonGround": "Both the Gospel speeches and Paul's letters encourage trust, love and practical faithfulness instead of anxious preoccupation with status.",
+    "differences": [
+      "Matthew and Luke place warnings against worry in teachings about possessions, provision and seeking God's kingdom.",
+      "First Thessalonians asks believers to practice mutual love and support themselves through work, while Philippians 4 urges prayer and thanksgiving instead of anxiety."
+    ],
+    "counterReading": "A slogan that Jesus forbade ordinary labor cannot be sustained from Matthew 6 or Luke 12 alone; Paul's counsel can be seen as an application to community life, but differences in economic conditions warrant historical attention.",
+    "limitations": "Anxiety may include material deprivation or clinical concerns not directly addressed by the ancient rhetorical categories; the texts are not a replacement for economic or medical support.",
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "jesus": [
+      {
+        "passageId": "mt-06-25-34",
+        "note": "Matthew speaks against worry over food and clothing.",
+        "sayingId": "mt-s-06-25-34"
+      },
+      {
+        "passageId": "lk-12-22-34",
+        "note": "Luke combines trust in provision with a command to seek the kingdom.",
+        "sayingId": "lk-s-12-22-34"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "1th-04-09-12",
+        "note": "Paul calls for mutual love, quiet living and working with one's hands."
+      },
+      {
+        "passageId": "php-04-04-07",
+        "note": "Paul encourages prayer, thanksgiving and peace rather than anxiety."
+      }
+    ],
+    "relatedComparison": null
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "prayer-and-perseverance",
+    "title": "Prayer taught by Jesus and urged by Paul",
+    "topicId": "prayer",
+    "classification": "agreement",
+    "researchQuestion": "How do Jesus' model prayer and Paul's brief prayer commands relate?",
+    "assessment": "Both corpora encourage prayer and thanksgiving to God; they differ in genre, verbal structure and immediate audience.",
+    "commonGround": "Both the Gospel and epistolary teachings present prayer as ordinary, repeated participation in life before God.",
+    "differences": [
+      "Matthew supplies a patterned petition in the context of private prayer and hypocrisy; Luke narrates a request from disciples to teach them to pray.",
+      "Paul's letters exhort ongoing prayer and thanksgiving but do not reproduce the Gospel Lord's Prayer as a complete set formula in these passages."
+    ],
+    "counterReading": "Some traditions take Jesus' prayer as a fixed liturgical formula; others see a model for priorities. Neither interpretation can be deduced solely from Paul's brief exhortations.",
+    "limitations": "The manuscript transmission and differing lengths of the Lord's Prayer in Matthew and Luke are separate textual problems, not proof that Paul rejected the prayer.",
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "jesus": [
+      {
+        "passageId": "mt-06-05-15",
+        "note": "Matthew teaches prayer in contrast to public display and links forgiveness.",
+        "sayingId": "mt-s-06-09-13"
+      },
+      {
+        "passageId": "lk-11-01-13",
+        "note": "Luke introduces the prayer through a disciple's request and follows with examples of asking.",
+        "sayingId": "lk-s-11-02-04"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "1th-05-12-22",
+        "note": "Paul encourages persistent prayer, thanksgiving and mutual support."
+      },
+      {
+        "passageId": "php-04-04-07",
+        "note": "Paul links request and thanksgiving with peace amid anxiety."
+      }
+    ],
+    "relatedComparison": null
+  },
+  {
+    "status": "draft",
+    "primarySourceId": "web-protestant-66",
+    "id": "neighbor-love-and-the-law",
+    "title": "Neighbor-love and the Law in Jesus and Paul",
+    "topicId": "mosaic-law",
+    "classification": "agreement",
+    "researchQuestion": "Does Paul depart from the centrality of neighbor-love in the Gospel accounts?",
+    "assessment": "The selected Pauline letters explicitly summarize ethical responsibility through neighbor-love, closely aligning with Gospel portrayals of the greatest commandments.",
+    "commonGround": "Both Gospel teaching and Paul place love for neighbor centrally within interpretation and practice of divine instruction.",
+    "differences": [
+      "Mark depicts Jesus quoting Jewish commandments in dialogue with a scribe; Luke's lawyer articulates the paired commandments before Jesus' Good Samaritan teaching.",
+      "Paul summarizes the Law through love in Galatians and Romans, then develops practical community ethics, including charity and nonretaliation."
+    ],
+    "counterReading": "Agreement on love does not erase all disputes about circumcision, justification, sexual ethics or specific Torah obligations; invoking one shared principle cannot settle those debates.",
+    "limitations": "In Luke 10:25–28 the lawyer, not Jesus, voices the commandment list. Source-layer labels must not obscure this distinction.",
+    "sourceIds": [
+      "web-protestant-66",
+      "novenson-2023-law"
+    ],
+    "jesus": [
+      {
+        "passageId": "mk-12-28-34",
+        "note": "Mark reports Jesus connecting love of God and neighbor to central commandments.",
+        "sayingId": "mk-s-12-29-31"
+      },
+      {
+        "passageId": "lk-10-25-37",
+        "note": "In Luke the legal expert recites the commandments and Jesus asks him to act on them and tells a parable.",
+        "sayingId": "lk-s-10-25-28"
+      }
+    ],
+    "paul": [
+      {
+        "passageId": "ga-05-13-14",
+        "note": "Paul describes serving others in love and cites neighbor-love as fulfilling the Law."
+      },
+      {
+        "passageId": "ro-13-08-10",
+        "note": "Paul lists ethical commandments and says love fulfills the Law."
+      },
+      {
+        "passageId": "1co-13-01-13",
+        "note": "Paul places love above other gifts in his discussion of community life."
+      }
+    ],
+    "relatedComparison": "law-and-faith"
+  }
+]
