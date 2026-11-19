@@ -3,12 +3,14 @@ import Base from "../../layouts/Base.astro";
 import sayings from "../../../research/index/sayings.json";
 import passages from "../../../research/index/passages.json";
 import books from "../../../research/index/books.json";
+import jesusPaulDossiers from "../../../research/index/jesus-paul-dossiers.json";
 import gospelDossiers from "../../../research/index/gospel-parallels.json";
 export function getStaticPaths() {
   return sayings.map(s => ({ params: { id: s.id }, props: { saying: s } }));
 }
 const { saying } = Astro.props;
 const parent = passages.find(p=>p.id === saying.passageId);
+const jesusPaulStudies=jesusPaulDossiers.filter(d=>d.jesus.some(w=>w.passageId===saying.passageId&&(!("sayingId" in w)||w.sayingId===saying.id)));
 const bookName = new Map(books.map(b=>[b.id,b.title]));
 const gospelStudies=gospelDossiers.filter(d=>d.witnesses.some(w=>
   ("sayingId" in w && w.sayingId===saying.id) ||
@@ -66,6 +68,11 @@ const candidateChapterUrl = (p: {bookId:string,reference:string}) => {
       <h2>Curated Gospel comparisons featuring this teaching</h2>
       <p class="muted">Draft comparisons identify specific literary similarities and differences. They do not claim independent historical accounts.</p>
       <ul>{gospelStudies.map(d=><li><a href={`/gospel-parallels/${d.id}/`}>{d.title}</a></li>)}</ul>
+    </section>}
+    {jesusPaulStudies.length>0 && <section class="panel">
+      <h2>Jesus and Paul: related comparisons</h2>
+      <p class="muted">Preliminary cross-corpus studies distinguish the Gospel portrayal, Paul's letters and their historical audiences.</p>
+      <ul>{jesusPaulStudies.map(d=><li><a href={`/jesus-paul/${d.id}/`}>{d.title}</a></li>)}</ul>
     </section>}
     <p><a href="/teachings/">All recorded teaching spans</a></p>
   </div>

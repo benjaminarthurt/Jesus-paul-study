@@ -67,3 +67,7 @@ The John pilot maps all 21 chapters into 88 draft literary units (including two 
 ## Curated four-Gospel comparison pilot (November 2026)
 
 The four-Gospel dossier library adds 16 provisional research comparisons and 51 structured witness entries, with stable passage/saying links, literary-context differences, competing readings, and validation of all references and sources. `/gospel-parallels/` is the public entry point. The research remains **draft** pending exact textual collation and specialist editorial review.
+
+## Jesus–Paul cross-corpus comparison (November 2026)
+
+Eleven first-pass Jesus–Paul case studies now compare Gospel literary portrayals with selected passages from all seven generally undisputed letters. Nine additional Pauline passages provide coverage of love of enemies, government, social status, love, humility, prayer, labor and Onesimus. The static website adds `/jesus-paul/` and stable detail pages with source-layer labels, source links, counterreadings, contextual-source cautions, topic and category filters, and reciprocal links from passage and teaching records. New tests validate evidence parentage, exclusions of disputed letters as direct Paul, bibliographic declarations and the high burden for a direct-contradiction label. **All interpretations remain draft.**

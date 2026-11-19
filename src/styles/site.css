@@ -178,3 +178,24 @@ p {max-width:78ch}
 .gospel-witness .warning{font-size:.86rem}
 @media(max-width:950px){.gospel-witness-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:650px){.gospel-dossier-controls,.gospel-witness-grid{grid-template-columns:1fr}}
+
+
+/* Jesus–Paul comparative dossier UI */
+.jp-controls{display:grid;grid-template-columns:minmax(190px,2fr) repeat(2,minmax(145px,1fr));gap:1rem}
+.jp-controls label{display:flex;flex-direction:column;gap:.4rem;font-size:.85rem;font-weight:700}
+.jp-controls input,.jp-controls select{width:100%;min-width:0;border:1px solid #a8b8b7;background:white;color:var(--ink);border-radius:.4rem;padding:.65rem;font:inherit}
+.jp-controls input:focus-visible,.jp-controls select:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.jp-subheading{margin-top:.2rem}
+.jp-filter-panel{margin:1.25rem 0}
+.jp-card[hidden],#jp-empty[hidden]{display:none}
+.jp-card-title{font-size:1.15rem;margin:.5rem 0}
+.jp-card-title a{text-decoration:none}
+.jp-meta{font-size:.84rem}
+.jp-witness-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem;align-items:start}
+.jp-witness-columns h2{margin-top:.8rem}
+.jp-witness{margin-bottom:.85rem;min-width:0;overflow-wrap:anywhere}
+.jp-witness h3{margin:.45rem 0}
+.jp-witness .warning{font-size:.88rem}
+.jp-witness p{margin:.45rem 0 .75rem}
+.jp-background,.jp-sources{margin-top:2rem}
+@media(max-width:780px){.jp-controls,.jp-witness-columns{grid-template-columns:1fr}}

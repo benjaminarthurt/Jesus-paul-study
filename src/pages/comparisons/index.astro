@@ -7,6 +7,7 @@ const entries = (await getCollection("comparisons")).sort((a,b) => a.data.title.
 <Base title="Comparisons">
   <p class="eyebrow">Passage versus passage</p><h1>Comparisons</h1>
   <p class="lead">Each case tests a proposed connection or tension, including explanations that might reconcile the passages.</p>
+  <p class="panel">New: <a href="/jesus-paul/">Browse the curated Jesus–Paul comparisons</a> across the seven generally undisputed letters, with agreement, tensions, counterreadings and text-specific limits.</p>
   <div class="card-grid">
     {entries.map(item => <article class="card">
       <div class="meta"><span class="status" data-state={item.data.status}>{item.data.status}</span><span>{item.data.classification.replaceAll("-"," ")}</span></div>

@@ -1,0 +1,103 @@
+---
+import Base from "../../layouts/Base.astro";
+import dossiers from "../../../research/index/jesus-paul-dossiers.json";
+import passages from "../../../research/index/passages.json";
+import sayings from "../../../research/index/sayings.json";
+import sources from "../../../research/index/sources.json";
+import books from "../../../research/index/books.json";
+import { compareHref } from "../../lib/passage-search.mjs";
+
+export function getStaticPaths(){
+  return dossiers.map(d=>({params:{id:d.id},props:{dossier:d}}));
+}
+const { dossier }=Astro.props;
+const passageMap=new Map(passages.map(p=>[p.id,p]));
+const sayingMap=new Map(sayings.map(s=>[s.id,s]));
+const bookMap=new Map(books.map(b=>[b.id,b]));
+const sourceMap=new Map(sources.map(s=>[s.id,s]));
+const js=dossier.jesus.map(w=>({w,passage:passageMap.get(w.passageId),saying:("sayingId" in w ? sayingMap.get(w.sayingId) : undefined)}));
+const ps=dossier.paul.map(w=>({w,passage:passageMap.get(w.passageId)}));
+const background=("context" in dossier && Array.isArray(dossier.context))?dossier.context:[];
+const context=background.map(w=>({w,passage:passageMap.get(w.passageId)}));
+const cited=dossier.sourceIds.map(id=>sourceMap.get(id)).filter(Boolean);
+const categories:Record<string,string>={
+  agreement:"Agreement","different-emphasis":"Different emphasis",extension:"Extension",
+  "apparent-tension":"Apparent tension","direct-contradiction":"Direct contradiction",
+  "insufficient-evidence":"Insufficient evidence",
+  "interpretation-dependent":"Interpretation-dependent"
+};
+---
+<Base title={dossier.title} description={dossier.researchQuestion}>
+  <p class="eyebrow">Jesus–Paul comparison · {categories[dossier.classification]??dossier.classification}</p>
+  <h1>{dossier.title}</h1>
+  <p class="lead">{dossier.researchQuestion}</p>
+  <div class="meta kicker"><span class="status" data-state={dossier.status}>{dossier.status}</span><a href={`/topics/${dossier.topicId}/`}>{dossier.topicId.replaceAll("-"," ")}</a></div>
+  <p class="warning"><strong>Provisional comparison, not proof of contradiction.</strong> The Gospel voice of Jesus is preserved as a literary witness rather than a verified transcript; undisputed letters are generally accepted as Paul's, but interpretation of individual instructions remains debated. All explanations are editorial paraphrases. Read each cited primary text and its literary setting.</p>
+  <section class="jp-witness-columns" aria-label="Primary source witnesses">
+    <div>
+      <h2>Jesus as portrayed in the Gospels</h2>
+      {js.map(({w,passage,saying})=>passage && <article class="panel jp-witness">
+        <p class="meta">{bookMap.get(passage.bookId)?.title} · {passage.status} · Gospel literary witness</p>
+        <h3>{passage.reference}</h3>
+        <p>{w.note}</p>
+        <p class="muted">{passage.summary}</p>
+        {("textualNote" in passage && passage.textualNote) && <p class="warning"><strong>Textual caution:</strong> {passage.textualNote}</p>}
+        <p><a href={`/passages/${passage.id}/`}>Passage research and citation</a></p>
+        {saying && <p><a href={`/teachings/${saying.id}/`}>Selected speech-bearing span: {saying.reference}</a></p>}
+        <p><a href={passage.sourceUrl} rel="noopener noreferrer" target="_blank">Read original Gospel chapter (WEBP)</a></p>
+      </article>)}
+    </div>
+    <div>
+      <h2>Paul in the seven undisputed letters</h2>
+      {ps.map(({w,passage})=>passage && <article class="panel jp-witness">
+        <p class="meta">{bookMap.get(passage.bookId)?.title} · {passage.status} · Generally undisputed Pauline letter</p>
+        <h3>{passage.reference}</h3>
+        <p>{w.note}</p>
+        <p class="muted">{passage.summary}</p>
+        {("textualNote" in passage && passage.textualNote) && <p class="warning"><strong>Textual caution:</strong> {passage.textualNote}</p>}
+        <p><a href={`/passages/${passage.id}/`}>Passage research and citation</a></p>
+        <p><a href={passage.sourceUrl} rel="noopener noreferrer" target="_blank">Read Pauline letter chapter (WEBP)</a></p>
+      </article>)}
+    </div>
+  </section>
+  <section class="study prose">
+    <h2>Preliminary assessment: {categories[dossier.classification]??dossier.classification}</h2>
+    <p>{dossier.assessment}</p>
+    <h2>Where the texts agree</h2>
+    <p>{dossier.commonGround}</p>
+    <h2>Differences in wording, scope or purpose</h2>
+    <ul>{dossier.differences.map(x=><li>{x}</li>)}</ul>
+    <h2>Alternative reading or reconciliation</h2>
+    <p>{dossier.counterReading}</p>
+    <h2>Evidence limits and unresolved questions</h2>
+    <p>{dossier.limitations}</p>
+  </section>
+  {context.length>0 && <section class="panel jp-background">
+    <h2>Contextual witness — not uncontested Pauline authorship</h2>
+    <p class="muted">Background texts may be disputed, textually qualified or outside the seven-letter set. They are not evidence that Paul personally wrote the words.</p>
+    {context.map(({w,passage})=>passage&&<article class="reference">
+      <h3>{passage.reference}</h3>
+      <p>{w.reason}</p>
+      <p class="meta">{passage.sourceLayer==="paul-disputed"?"Disputed Pauline authorship":passage.sourceLayer==="acts"?"Acts narrative":passage.sourceLayer==="paul-undisputed"?"Generally undisputed letter; passage wording or interpretation may still be contested":"Other contextual witness"}</p>
+      {("textualNote" in passage && passage.textualNote) && <p class="warning">{passage.textualNote}</p>}
+      <p><a href={`/passages/${passage.id}/`}>Source record</a> · <a href={passage.sourceUrl} target="_blank" rel="noopener noreferrer">Read primary chapter</a></p>
+    </article>)}
+  </section>}
+  <section class="group">
+    <h2>Explore these references</h2>
+    <p><a href={compareHref(dossier.jesus[0].passageId,dossier.paul[0].passageId)}>Open the leading Gospel and Pauline references side by side</a></p>
+    {dossier.relatedComparison && <p><a href={`/comparisons/${dossier.relatedComparison}/`}>Read the existing extended analysis and claim-level evidence ledger</a></p>}
+  </section>
+  <section class="panel jp-sources">
+    <h2>Source bibliography and access</h2>
+    <p class="muted">The primary text is the public-domain World English Bible. Secondary resources help frame interpretation but do not necessarily establish every specific observation below. Publisher abstract access is not full-text research.</p>
+    <ol class="source-list">
+      {cited.map(source=>source && <li>
+        <a href={source.url} target="_blank" rel="noopener noreferrer"><strong>{source.author} — {source.title}</strong></a>
+        <span>{source.publisher} · Access: {source.accessScope.replaceAll("-"," ")}</span>
+        <small>{source.note}</small>
+      </li>)}
+    </ol>
+  </section>
+  <p><a href="/jesus-paul/">All Jesus–Paul comparisons</a></p>
+</Base>

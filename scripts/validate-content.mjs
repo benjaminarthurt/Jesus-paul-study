@@ -401,6 +401,79 @@ for(const dossier of gospelDossiers){
 }
 if(gospelDossiers.length<15)errors.push("Expected at least 15 preliminary Gospel comparison dossiers");
 
+
+// Jesus-Paul comparison records distinguish the Gospel's literary portrayal
+// from passages in the seven generally undisputed letters. A proposed direct
+// contradiction is not the default label and requires explicit extra argument.
+const jesusPaulDossiers=readJson("research/index/jesus-paul-dossiers.json");
+const undisputedBooks=new Set(["ro","1co","2co","ga","php","1th","phm"]);
+const jpKinds=new Set(["agreement","different-emphasis","extension","apparent-tension",
+  "direct-contradiction","insufficient-evidence","interpretation-dependent"]);
+checkUnique(jesusPaulDossiers,"id","Jesus-Paul dossiers");
+const jpPaulCoverage=new Set();
+for(const dossier of jesusPaulDossiers){
+  const label="Jesus-Paul dossier "+String(dossier.id);
+  if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(dossier.id??""))errors.push(label+": invalid URL-safe ID");
+  if(dossier.status!=="draft")errors.push(label+": pilot status must be draft");
+  if(!jpKinds.has(dossier.classification))errors.push(label+": unknown assessment category");
+  if(!topicIds.has(dossier.topicId))errors.push(label+": unknown topic");
+  for(const name of ["title","researchQuestion","assessment","commonGround","counterReading","limitations"]){
+    if(typeof dossier[name]!=="string"||dossier[name].trim().length<35)
+      errors.push(label+": insufficient editorial "+name);
+  }
+  if(!Array.isArray(dossier.differences)||dossier.differences.length<2||
+    dossier.differences.some(x=>typeof x!=="string"||x.trim().length<35)){
+      errors.push(label+": requires at least two substantive differences");
+  }
+  const sourceRefs=requireStrings(dossier.sourceIds,label+" sources");
+  if(!sourceRefs.length||new Set(sourceRefs).size!==sourceRefs.length)
+    errors.push(label+": requires distinct source IDs");
+  for(const id of sourceRefs)if(!sourceIds.has(id))errors.push(label+": unknown bibliography source "+id);
+  if(dossier.primarySourceId!=="web-protestant-66"||!sourceRefs.includes(dossier.primarySourceId))
+    errors.push(label+": expected declared primary WEBP edition");
+  if(!Array.isArray(dossier.jesus)||!dossier.jesus.length||
+     !Array.isArray(dossier.paul)||!dossier.paul.length){
+     errors.push(label+": requires both Gospel and Pauline witnesses");continue;
+  }
+  for(const w of dossier.jesus){
+    const p=passagesById.get(w.passageId);
+    if(!p||!p.sourceLayer.startsWith("jesus-")||!["mt","mk","lk","jn"].includes(p.bookId))
+      errors.push(label+": invalid Gospel literary witness "+w.passageId);
+    else if(p.unitType==="disputed")errors.push(label+": cannot use disputed Gospel speech as ordinary witness "+w.passageId);
+    if(typeof w.note!=="string"||w.note.trim().length<25)
+      errors.push(label+": Gospel witness lacks substantive note "+w.passageId);
+    if(w.sayingId){
+      const s=selectedSayingById.get(w.sayingId);
+      if(!s||s.passageId!==w.passageId||s.bookId!==p?.bookId)
+        errors.push(label+": saying must match exact Gospel parent "+w.sayingId);
+    }
+  }
+  for(const w of dossier.paul){
+    const p=passagesById.get(w.passageId);
+    if(!p||p.sourceLayer!=="paul-undisputed"||!undisputedBooks.has(p.bookId))
+      errors.push(label+": direct Pauline witness not one of the seven generally undisputed letters "+w.passageId);
+    else jpPaulCoverage.add(p.bookId);
+    if(typeof w.note!=="string"||w.note.trim().length<25)
+      errors.push(label+": Pauline witness lacks substantive note "+w.passageId);
+  }
+  for(const w of (dossier.context??[])){
+    if(!passagesById.has(w.passageId)||typeof w.reason!=="string"||w.reason.trim().length<30)
+      errors.push(label+": contextual witness lacks a valid passage and explicit caution "+w.passageId);
+    if(dossier.paul.some(p=>p.passageId===w.passageId))
+      errors.push(label+": contextual witness must not duplicate direct Pauline evidence "+w.passageId);
+  }
+  if(dossier.relatedComparison&&!comparisonMap.has(dossier.relatedComparison))
+    errors.push(label+": unregistered extended comparison "+dossier.relatedComparison);
+  if(dossier.classification==="direct-contradiction"){
+    for(const key of ["propositionA","propositionB","sameScopeAnalysis","remainingCounterEvidence"]){
+      if(typeof dossier[key]!=="string"||dossier[key].trim().length<60)
+        errors.push(label+": direct contradiction requires explicit same-scope proof "+key);
+    }
+  }
+}
+if(jesusPaulDossiers.length<10)errors.push("Jesus-Paul study pilot unexpectedly incomplete");
+for(const id of undisputedBooks)if(!jpPaulCoverage.has(id))errors.push("Seven-letter comparison lacks "+id);
+
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exitCode = 1;

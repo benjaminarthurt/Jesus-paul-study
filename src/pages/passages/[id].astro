@@ -5,6 +5,7 @@ import books from "../../../research/index/books.json";
 import evidence from "../../../research/index/evidence.json";
 import gospelDossiers from "../../../research/index/gospel-parallels.json";
 import sources from "../../../research/index/sources.json";
+import jesusPaulDossiers from "../../../research/index/jesus-paul-dossiers.json";
 import { getCollection } from "astro:content";
 import { corpusLabels, primaryUrlIsTrusted, compareHref } from "../../lib/passage-search.mjs";
 
@@ -19,6 +20,7 @@ const sourceNames=new Map(sources.map(s=>[s.id,s]));
 const claims=evidence.filter(c=>c.passageIds.includes(passage.id));
 const referencedStudies=studies.filter(s=>[...s.data.jesus,...s.data.paul,...(s.data.context??[])].includes(passage.id));
 const gospelStudies=gospelDossiers.filter(d=>d.witnesses.some(w=>w.passageId===passage.id));
+const jesusPaulStudies=jesusPaulDossiers.filter(d=>[...d.jesus,...d.paul,...("context" in d?d.context:[])].some(w=>w.passageId===passage.id));
 const composite = "unitType" in passage && passage.unitType === "composite";
 const selectedLeft = passage.sourceLayer.startsWith("jesus-") ? passage.id : "mt-05-17-20";
 const selectedRight = passage.sourceLayer.startsWith("jesus-") ? "ga-03-23-25" : passage.id;
@@ -69,6 +71,11 @@ const selectedRight = passage.sourceLayer.startsWith("jesus-") ? "ga-03-23-25" :
         <span class="meta">{d.comparisonType.replaceAll("-"," ")} · {d.status}</span>
       </li>)}
     </ul> : <p class="muted">No curated Gospel comparison currently selects this reference.</p>}
+    <h3>Curated Jesus–Paul comparisons</h3>
+    {jesusPaulStudies.length ? <ul class="compact-list">{jesusPaulStudies.map(d=><li>
+      <a href={`/jesus-paul/${d.id}/`}>{d.title}</a>
+      <span class="meta">{d.classification.replaceAll("-"," ")} · {d.status}</span>
+    </li>)}</ul> : <p class="muted">No curated Jesus–Paul dossier currently includes this passage.</p>}
     <h3>Evidence ledger links</h3>
     {claims.length ? <ul class="compact-list">{claims.map(c=><li>
       <a href={"/comparisons/" + c.comparisonId + "/#" + c.id}>{c.title}</a>
