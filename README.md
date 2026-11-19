@@ -64,3 +64,9 @@ No copyright license has yet been granted for the project's original research or
 ## Curated four-Gospel comparisons
 
 Browse `/gospel-parallels/` for **16 draft comparison dossiers** with **51 linked Gospel witness entries**, preserving each Gospel's original literary context and differences. Each study includes competing readings, cautions, existing passage and saying links, and bibliographic access-scope notes. Seven dossiers span all four Gospels. These are editorial research leads, **not verified independent historical witness claims**. See `docs/gospel-parallels-method.md`.
+
+## Jesus–Paul comparisons (seven generally undisputed Pauline letters)
+
+The first `/jesus-paul/` pilot contains **11 draft studies**, with **24 Gospel** and **26 undisputed-Pauline** witness entries. Search and filter by topic and assessment, then read side-by-side editorial paraphrases, the original WEBP source chapters, counterreadings, and limitations. The index adds nine previously unindexed passages from Romans, 1 Corinthians, Philippians, 1 Thessalonians and Philemon, so **all seven generally undisputed letters** occur as direct evidence somewhere in the pilot.
+
+Disputed Pauline letters and Acts are not treated as Paul's own direct testimony. No study presently claims a proven **direct contradiction**; that stronger category requires explicit proof of incompatible same-scope propositions and responses to plausible counterarguments. This is **draft**, not a historical-critical word-level concordance. See `docs/jesus-paul-review-log.md` and `docs/jesus-paul-method.md`.

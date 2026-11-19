@@ -1,0 +1,110 @@
+---
+import Base from "../../layouts/Base.astro";
+import dossiers from "../../../research/index/jesus-paul-dossiers.json";
+import books from "../../../research/index/books.json";
+import { getCollection } from "astro:content";
+
+const topics=await getCollection("topics");
+const topicNames=new Map(topics.map(t=>[t.id,t.data.title]));
+const bookNames=new Map(books.map(b=>[b.id,b.title]));
+const topicIds=[...new Set(dossiers.map(d=>d.topicId))].sort();
+const categories:Record<string,string>={
+  agreement:"Agreement",
+  "different-emphasis":"Different emphasis",
+  extension:"Extension",
+  "apparent-tension":"Apparent tension",
+  "direct-contradiction":"Direct contradiction",
+  "insufficient-evidence":"Insufficient evidence",
+  "interpretation-dependent":"Interpretation-dependent"
+};
+const counts=dossiers.reduce((a,d)=>{a[d.classification]=(a[d.classification]??0)+1;return a;},{} as Record<string,number>);
+---
+<Base title="Jesus and Paul: curated comparisons" description="Review draft source-linked comparisons of Jesus' teachings in the four Gospels and Paul's seven generally undisputed letters, with counterreadings and authorship cautions.">
+  <p class="eyebrow">Teachings · Gospels and Pauline letters</p>
+  <h1>Jesus and Paul, compared</h1>
+  <p class="lead">Explore where the Gospel portrayals of Jesus and Paul's generally undisputed letters align, differ in emphasis, or raise real interpretive tensions.</p>
+  <p class="warning"><strong>All studies are preliminary.</strong> A literary portrayal of Jesus is not an authenticated verbatim transcript, and Paul's letters address particular communities. No dossier here has yet established a direct contradiction after matching audience, scope, wording and historical context. Counterreadings and evidence limits remain visible on every page.</p>
+  <section aria-label="Research scope" class="panel">
+    <h2 class="jp-subheading">Scope and authorship</h2>
+    <p>The direct Pauline witness pool is limited to <strong>Romans, 1 Corinthians, 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon</strong>. Disputed Pauline letters and Acts can appear as clearly labeled background, never as uncontested words of Paul.</p>
+    <p class="muted">{dossiers.length} draft comparisons · {dossiers.reduce((n,d)=>n+d.jesus.length,0)} selected Gospel witness entries · {dossiers.reduce((n,d)=>n+d.paul.length,0)} Pauline witness entries · {Object.keys(counts).length} provisional assessment categories.</p>
+  </section>
+  <section class="panel jp-filter-panel" aria-label="Filter Jesus and Paul comparisons">
+    <div class="jp-controls">
+      <label>Search the research questions
+        <input id="jp-search" type="search" placeholder="e.g. divorce, slavery, Law" autocomplete="off"/>
+      </label>
+      <label>Topic
+        <select id="jp-topic">
+          <option value="">All topics</option>
+          {topicIds.map(id=><option value={id}>{topicNames.get(id)??id}</option>)}
+        </select>
+      </label>
+      <label>Assessment
+        <select id="jp-class">
+          <option value="">All assessments</option>
+          {Object.entries(categories).filter(([id])=>counts[id]).map(([id,label])=><option value={id}>{label}</option>)}
+        </select>
+      </label>
+    </div>
+  </section>
+  <p class="result-count" id="jp-count" role="status" aria-live="polite">{dossiers.length} studies shown</p>
+  <section class="card-grid" aria-label="Jesus and Paul comparison dossiers">
+    {dossiers.map(d=><article class="card jp-card"
+      data-search={`${d.id} ${d.title} ${d.topicId} ${topicNames.get(d.topicId)??""} ${d.researchQuestion} ${d.assessment} ${d.commonGround} ${d.differences.join(" ")}`.toLowerCase()}
+      data-topic={d.topicId}
+      data-class={d.classification}>
+      <div class="meta"><span class="status" data-state={d.status}>{d.status}</span><span>{categories[d.classification]??d.classification}</span></div>
+      <h2 class="jp-card-title"><a href={`/jesus-paul/${d.id}/`}>{d.title}</a></h2>
+      <p>{d.researchQuestion}</p>
+      <p class="muted jp-meta">{d.jesus.length} Gospel witnesses · {d.paul.length} Pauline witnesses · {d.paul.map(w=>bookNames.get(w.passageId.split("-").slice(0,-3).join("-"))).filter(Boolean).filter((x,i,a)=>a.indexOf(x)===i).join(", ")}</p>
+      <a href={`/jesus-paul/${d.id}/`}>Read the comparison and counterreadings</a>
+    </article>)}
+  </section>
+  <p id="jp-empty" class="muted" hidden>No studies match these filters.</p>
+  <section class="group">
+    <h2>How assessments work</h2>
+    <p><strong>Agreement</strong> records overlapping teaching; <strong>different emphasis</strong> identifies different questions or applications; <strong>apparent tension</strong> identifies a genuine question to test. <strong>Insufficient evidence</strong> means the cited texts do not support a strong verdict. A <strong>direct contradiction</strong> would require incompatible propositions about the same subject, audience and circumstances after addressing credible counterreadings. No current comparison is presented at that level of certainty.</p>
+    <p>Compare accounts within <a href="/gospel-parallels/">the four-Gospel library</a>, or explore existing <a href="/comparisons/">long-form Jesus–Paul research studies</a>.</p>
+  </section>
+  <script>
+    const search=document.querySelector<HTMLInputElement>("#jp-search");
+    const topic=document.querySelector<HTMLSelectElement>("#jp-topic");
+    const category=document.querySelector<HTMLSelectElement>("#jp-class");
+    const cards=[...document.querySelectorAll<HTMLElement>(".jp-card")];
+    const count=document.querySelector<HTMLElement>("#jp-count");
+    const empty=document.querySelector<HTMLElement>("#jp-empty");
+    function update(writeUrl=false){
+      const words=(search?.value??"").trim().toLowerCase().split(/\s+/).filter(Boolean);
+      const t=topic?.value??"",c=category?.value??"";
+      let shown=0;
+      for(const card of cards){
+        const visible=words.every(word=>(card.dataset.search??"").includes(word))&&
+          (!t||card.dataset.topic===t)&&(!c||card.dataset.class===c);
+        card.hidden=!visible;if(visible)shown++;
+      }
+      if(count)count.textContent=`${shown} ${shown===1?"study":"studies"} shown`;
+      if(empty)empty.hidden=shown!==0;
+      if(writeUrl){
+        const params=new URLSearchParams();
+        if(search?.value.trim())params.set("q",search.value.trim());
+        if(t)params.set("topic",t);
+        if(c)params.set("class",c);
+        history.replaceState(null,"",location.pathname+(params.size?"?"+params:""));
+      }
+    }
+    function restore(){
+      const params=new URLSearchParams(location.search);
+      if(search)search.value=params.get("q")??"";
+      if(topic)topic.value=[...topic.options].some(x=>x.value===params.get("topic"))?params.get("topic")??"":"";
+      if(category)category.value=[...category.options].some(x=>x.value===params.get("class"))?params.get("class")??"":"";
+      update();
+    }
+    for(const node of [search,topic,category]){
+      node?.addEventListener("input",()=>update(true));
+      node?.addEventListener("change",()=>update(true));
+    }
+    window.addEventListener("popstate",restore);
+    restore();
+  </script>
+</Base>
