@@ -41,10 +41,16 @@ All data is bundled in the static build: there is no external search service, te
 - [x] Multi-facet search, URL state, citation links, authorship and review-state labels.
 - [x] Two-column reference reader, source links, caution cards, evidence deep links.
 - [x] Automated tests for filtering, URL selection, chapter link safety and UI structure.
-- [ ] Verify deployment origin and absolute canonical tags in the target host.
+- [x] Automated root-path canonical generation checked against a synthetic HTTPS origin in CI (not a real deployment).\n- [x] Built-site internal navigation and fragment URLs audited by `npm run test:site`.\n- [ ] Verify deployment origin and absolute canonical tags on the actual hosting target.
 - [ ] Independently review all cited texts and text-critical apparatus.
 - [ ] If full verse text is ever embedded, establish edition provenance and avoid misrepresenting modifications as an original translation.
 - [ ] Conduct keyboard/screen-reader QA and real-device contrast/performance checks.
 - [ ] Build candidate Synoptic parallel relationships, verifying wording and scope rather than auto-equating passages.
 
 This is a **first working reference reader**, not a complete scholarly text apparatus.
+
+## Automated publication smoke checks (November 2026)
+
+Run `npm run build && npm run test:site` to check all internal anchor destinations and fragments in the generated HTML. CI builds with `PUBLIC_SITE_URL=https://site.example.test` only to exercise canonical generation without inventing a production domain. This synthetic origin is **not** the production URL. When a real domain has been selected, rebuild with its true HTTPS origin and repeat tests against deployment.
+
+This audit does not inspect remote links, render CSS, run client-side scripts, verify color contrast, or simulate assistive technology. Those require a real host and manual browser/screen-reader accessibility work. Never report a passed internal-link audit as an end-to-end WCAG audit.

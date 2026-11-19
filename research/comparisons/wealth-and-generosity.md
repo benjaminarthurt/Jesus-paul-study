@@ -5,7 +5,7 @@ status: draft
 jesus: [mk-10-17-31, mt-19-16-30, lk-18-18-30, lk-06-20-26, lk-12-13-21, lk-12-22-34, lk-16-19-31, lk-19-01-10, mt-06-19-24, mt-06-25-34, mt-25-31-46, mk-12-38-40, mk-12-41-44, mk-14-01-11]
 paul: [2co-08-01-15, 2co-09-01-15, 1co-16-01-04, ro-15-25-28, ro-12-09-13, ga-02-01-10]
 context: [ac-04-32-37, 1ti-06-06-19]
-sourceIds: [web-protestant-66, barclay-2023-rich-poverty, welborn-2013-equality, ndekha-2020-luke6, vanzyl-2013-matthew25, shively-2012-mark10, kubis-2015-widow]
+sourceIds: [web-protestant-66, barclay-2023-rich-poverty, welborn-2013-equality, ndekha-2020-luke6, vanzyl-2013-matthew25, shively-2012-mark10, kubis-2015-widow, otten-2023-widow]
 classification: different-emphasis
 ---
 ## Research question and caution
@@ -101,3 +101,22 @@ Particularly important safeguards are protecting poor donors from coercive fundr
 ## Sources and revision record
 
 This pilot has a claim-by-claim evidence ledger and linked bibliography. See the [research methodology](/methodology/) for general guidance; detailed outstanding source-audit tasks are maintained in `docs/wealth-poverty-review-log.md` in the repository. Revision history will remain in Git.
+
+
+## Targeted close comparison: the widow, a collection, and coercion (November 2026)
+
+This is a bounded passage comparison rather than a final judgment about historical intent or modern economics.
+
+| Primary reference | What is explicitly narrated or instructed | What remains a disputed inference |
+| --- | --- | --- |
+| [Mark 12:38–44](https://ebible.org/engwebp/MRK12.htm) | A warning about scribes who exploit widows precedes the widow's contribution; Jesus calls attention to the significance of her giving. | The narrator does not explicitly state whether Jesus praises sacrifice, exposes institutional harm, or does both. |
+| [Luke 20:45–47; 21:1–4](https://ebible.org/engwebp/LUK21.htm) | A matching warning about scribes comes immediately before the widow's offering; Luke omits some of Mark's staging and coin conversion detail. | The shared placement is **common ground**, not a difference between accounts. |
+| [2 Corinthians 8:8, 12–15](https://ebible.org/engwebp/2CO08.htm) | Paul differentiates counsel from command, speaks of gifts appropriate to capacity, and rejects burdening givers to relieve recipients. | Voluntary language does not eliminate all social pressure to donate. |
+| [2 Corinthians 9:7](https://ebible.org/engwebp/2CO09.htm) | Paul emphasizes willingness in giving rather than compulsion. | This is not a promise of guaranteed monetary returns or a blanket rule about welfare policy. |
+
+Jeremy D. Otten, [“Copper Coins, Catchwords, and Contextual Cues”](https://doi.org/10.53751/001c.72643), *Tyndale Bulletin* **74 (2023), 29–48**, engages the literary link between Mark's widow and the preceding condemnation of scribes; its abstract indicates an active dispute over tragic and commendatory readings. **Only the abstract/metadata was inspected for this addition; the full paper has not been critically reviewed here.** Adam Kubiś, [“The Poor Widow's Mites”](https://doi.org/10.31743/ba.535), *The Biblical Annals* **3(2) (2013), 339–381**, likewise identifies both positive and negative interpretations. Neither summary proves that the episode is an instruction to poor donors.
+
+John M. G. Barclay, [“Rich Poverty”](https://doi.org/10.1017/S002868852200039X), *New Testament Studies* **69(3) (2023), 243–257**, especially **Introduction** and **Conclusions**, distinguishes material poverty from the dignity of giving and warns that the text can be used to pressure the poor. That scholarly application is not itself a direct command by Paul.
+
+**Outstanding before source-checked:** compare the Greek source terms for the widow's livelihood and Paul's equality/capacity language; read and assess the full Otten and Kubiś arguments rather than relying on abstracts; document Jewish and Roman gift-exchange and poverty context; verify the two Gospel episodes against manuscript and literary synopses.
+
