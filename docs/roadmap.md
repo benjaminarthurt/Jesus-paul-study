@@ -63,3 +63,7 @@ The next Gospel pilot maps Luke's 24 chapters into 143 preliminary literary unit
 ## John literary and speech-bearing catalog (November 2026)
 
 The John pilot maps all 21 chapters into 88 draft literary units (including two preserved anchor passages), adds 93 selected speech-bearing spans and 15 conservative cross-Gospel candidate links, and extends navigation to all four Gospels. A validation guard excludes the textually contested John 7:53–8:11 from the core sayings layer. John 3 narrator/Jesus speech boundary ambiguity is separated from true manuscript variants in the search facet. Manuscript cautions cover John 1:18, 5:3b–4 and 9:35, with interpretive cautions for John 20 and the epilogue. See `research/books/john.md` and `docs/john-review-log.md`. **Draft, subject to independent scholarly checking.**
+
+## Curated four-Gospel comparison pilot (November 2026)
+
+The four-Gospel dossier library adds 16 provisional research comparisons and 51 structured witness entries, with stable passage/saying links, literary-context differences, competing readings, and validation of all references and sources. `/gospel-parallels/` is the public entry point. The research remains **draft** pending exact textual collation and specialist editorial review.

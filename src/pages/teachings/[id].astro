@@ -3,12 +3,18 @@ import Base from "../../layouts/Base.astro";
 import sayings from "../../../research/index/sayings.json";
 import passages from "../../../research/index/passages.json";
 import books from "../../../research/index/books.json";
+import gospelDossiers from "../../../research/index/gospel-parallels.json";
 export function getStaticPaths() {
   return sayings.map(s => ({ params: { id: s.id }, props: { saying: s } }));
 }
 const { saying } = Astro.props;
 const parent = passages.find(p=>p.id === saying.passageId);
 const bookName = new Map(books.map(b=>[b.id,b.title]));
+const gospelStudies=gospelDossiers.filter(d=>d.witnesses.some(w=>
+  ("sayingId" in w && w.sayingId===saying.id) ||
+  (!("sayingId" in w) && w.passageId===saying.passageId)
+));
+
 const sourcePrefixes: Record<string,string> = {mt:"MAT",mk:"MRK",lk:"LUK",jn:"JHN"};
 const candidateChapterUrl = (p: {bookId:string,reference:string}) => {
   const chapter = Number(p.reference.match(/ (\d+):/)?.[1]);
@@ -56,6 +62,11 @@ const candidateChapterUrl = (p: {bookId:string,reference:string}) => {
         </li>)}
       </ul> : <p class="muted">No parallel candidate has been recorded for this entry.</p>}
     </section>
+    {gospelStudies.length>0 && <section class="panel">
+      <h2>Curated Gospel comparisons featuring this teaching</h2>
+      <p class="muted">Draft comparisons identify specific literary similarities and differences. They do not claim independent historical accounts.</p>
+      <ul>{gospelStudies.map(d=><li><a href={`/gospel-parallels/${d.id}/`}>{d.title}</a></li>)}</ul>
+    </section>}
     <p><a href="/teachings/">All recorded teaching spans</a></p>
   </div>
 </Base>

@@ -322,5 +322,41 @@
     "url": "https://classic.net.bible.org/passage.php?passage=Joh+7%3A53--8%3A11",
     "accessScope": "full-text",
     "note": "Editorial note inspected for early omission and differing manuscript locations of the adulterous-woman story. Majority early textual evidence weighs against Johannine originality; this does not by itself determine whether the story preserves an early historical tradition."
+  },
+  {
+    "id": "kloppenborg-2023-synoptic",
+    "type": "academic-book",
+    "author": "John S. Kloppenborg",
+    "title": "The History and Prospects of the Synoptic Problem",
+    "publisher": "Oxford University Press",
+    "year": 2023,
+    "location": "Oxford Handbook chapter abstract: Gospel agreements, differences, and source hypotheses",
+    "url": "https://academic.oup.com/edited-volume/45760/chapter-abstract/398723290",
+    "accessScope": "publisher-abstract-only",
+    "note": "Only the publisher's abstract was accessible. It supports the need to investigate Gospel literary relationships, not any specific reconstruction. The chapter's full text was not consulted."
+  },
+  {
+    "id": "felix-just-john-synoptics",
+    "type": "scholarly-overview",
+    "author": "Felix Just, S.J., Ph.D.",
+    "title": "Contrasts between John and the Synoptics",
+    "publisher": "Catholic-Resources.org",
+    "year": null,
+    "location": "Comparative overview of Johannine material, chronology, temple action, anointing, and final meal",
+    "url": "https://ww.catholic-resources.org/John/Synoptic-Differences.htm",
+    "accessScope": "full-text",
+    "note": "The open overview was inspected. It is a curated scholarly teaching aid, not an independent peer-reviewed monograph; historical chronologies and source models remain debated."
+  },
+  {
+    "id": "usccb-john-intro",
+    "type": "scholarly-overview",
+    "author": "United States Conference of Catholic Bishops",
+    "title": "Introduction to the Gospel according to John",
+    "publisher": "USCCB Bible",
+    "year": null,
+    "location": "Gospel introduction: Johannine signs, literary structure, theology and relationship to the Synoptics",
+    "url": "https://bible.usccb.org/bible/john/0",
+    "accessScope": "full-text",
+    "note": "The public editorial introduction was inspected for literary organization and differences from the Synoptics. Its historical interpretations are not imposed as settled findings."
   }
 ]

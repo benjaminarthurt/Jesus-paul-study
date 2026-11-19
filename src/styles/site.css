@@ -161,3 +161,20 @@ p {max-width:78ch}
 .passage-source,.passage-topic{margin-bottom:1rem}
 .passage-source h2,.passage-topic h2{margin-top:0}
 @media(max-width:760px){.search-filters,.compare-form{grid-template-columns:1fr}.search-filters .search-wide,.compare-buttons{grid-column:auto}}
+
+
+/* Curated comparative Gospel dossier index and four-column source viewer */
+.gospel-dossier-controls {display:grid;grid-template-columns:minmax(180px,2fr) repeat(2,minmax(150px,1fr));gap:1rem}
+.gospel-dossier-controls label {display:flex;flex-direction:column;gap:.4rem;font-size:.85rem;font-weight:750}
+.gospel-dossier-controls input,.gospel-dossier-controls select {width:100%;min-width:0;font:inherit;font-size:1rem;padding:.6rem;border:1px solid #a8b8b7;background:#fff;color:var(--ink);border-radius:.4rem}
+.gospel-dossier-controls input:focus-visible,.gospel-dossier-controls select:focus-visible {outline:3px solid var(--gold);outline-offset:2px}
+.gospel-dossier-card[hidden],#dossier-empty[hidden]{display:none}
+.dossier-card-heading{font-size:1.18rem;margin:.5rem 0}
+.dossier-card-heading a{text-decoration:none}
+.gospel-witness-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem;align-items:start}
+.gospel-witness{min-width:0;overflow-wrap:anywhere}
+.gospel-witness h3{font-size:1.18rem;margin:.6rem 0}
+.gospel-witness p{font-size:.93rem}
+.gospel-witness .warning{font-size:.86rem}
+@media(max-width:950px){.gospel-witness-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.gospel-dossier-controls,.gospel-witness-grid{grid-template-columns:1fr}}
