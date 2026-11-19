@@ -35,3 +35,7 @@ Added **16 draft selected speech-bearing spans** with stable parent passage IDs 
 
 No selected saying is added for Mark 16:1–8, which contains no direct post-resurrection speech of Jesus in the earliest recoverable shorter ending. Luke 1's Mary/Zechariah speech and Matthew 3's Baptist proclamation are likewise not mislabeled as Jesus' speech. The presence of a chapter without indexed sayings is not automatically a completeness defect.
 
+
+## Bibliography date reconciliation
+
+The publisher's [Adam Kubiś article record](https://czasopisma.kul.pl/index.php/ba/article/view/535) gives **Published 2015-11-08** and its recommended citation is **Kubiś (2015), *The Biblical Annals* 3(2), 339–381**. The volume/issue number may suggest a different calendar year, but this repository follows the publisher's explicit publication date. The stable bibliography ID `kubis-2015-widow` is preserved and the new wealth-study citation corrected from 2013 to 2015. This resolves metadata consistency, not the full Greek-text review.

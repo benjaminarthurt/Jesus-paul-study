@@ -41,7 +41,9 @@ All data is bundled in the static build: there is no external search service, te
 - [x] Multi-facet search, URL state, citation links, authorship and review-state labels.
 - [x] Two-column reference reader, source links, caution cards, evidence deep links.
 - [x] Automated tests for filtering, URL selection, chapter link safety and UI structure.
-- [x] Automated root-path canonical generation checked against a synthetic HTTPS origin in CI (not a real deployment).\n- [x] Built-site internal navigation and fragment URLs audited by `npm run test:site`.\n- [ ] Verify deployment origin and absolute canonical tags on the actual hosting target.
+- [x] Automated root-path canonical generation checked against a synthetic HTTPS origin in CI (not a real deployment).
+- [x] Built-site internal navigation and fragment URLs audited by `npm run test:site`.
+- [ ] Verify deployment origin and absolute canonical tags on the actual hosting target.
 - [ ] Independently review all cited texts and text-critical apparatus.
 - [ ] If full verse text is ever embedded, establish edition provenance and avoid misrepresenting modifications as an original translation.
 - [ ] Conduct keyboard/screen-reader QA and real-device contrast/performance checks.
