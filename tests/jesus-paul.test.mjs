@@ -168,3 +168,19 @@ test("Jesus-Paul pages expose taxonomy, original sources, crosslinks and no-JS f
   assert.match(css,/\.jp-witness-columns/);
   assert.match(css,/\.jp-card\[hidden\]/);
 });
+
+test("selected saying cautions are displayed alongside Gospel witness cards",()=>{
+  const detail=readFileSync("src/pages/jesus-paul/[id].astro","utf8");
+  assert.match(detail,/saying\?\.caution/);
+  assert.match(detail,/Selected saying caution:/);
+  assert.match(detail,/\{saying\.caution\}/);
+  const prayer=byId.get("prayer-and-perseverance");
+  const matthew=prayer.jesus.find(w=>w.sayingId==="mt-s-06-09-13");
+  const luke=prayer.jesus.find(w=>w.sayingId==="lk-s-11-02-04");
+  for(const w of [matthew,luke]){
+    assert.ok(w,"The prayer dossier should retain both speech-bearing references");
+    const passage=passages.get(w.passageId);
+    assert.ok(!passage.textualNote,"Regression must exercise saying-only cautions");
+    assert.ok(sayings.get(w.sayingId)?.caution?.length>35,w.sayingId);
+  }
+});

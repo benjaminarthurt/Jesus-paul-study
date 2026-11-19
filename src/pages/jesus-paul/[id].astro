@@ -41,7 +41,8 @@ const categories:Record<string,string>={
         <h3>{passage.reference}</h3>
         <p>{w.note}</p>
         <p class="muted">{passage.summary}</p>
-        {("textualNote" in passage && passage.textualNote) && <p class="warning"><strong>Textual caution:</strong> {passage.textualNote}</p>}
+        {("textualNote" in passage && passage.textualNote) && <p class="warning"><strong>Passage caution:</strong> {passage.textualNote}</p>}
+        {saying?.caution && <p class="warning"><strong>Selected saying caution:</strong> {saying.caution}</p>}
         <p><a href={`/passages/${passage.id}/`}>Passage research and citation</a></p>
         {saying && <p><a href={`/teachings/${saying.id}/`}>Selected speech-bearing span: {saying.reference}</a></p>}
         <p><a href={passage.sourceUrl} rel="noopener noreferrer" target="_blank">Read original Gospel chapter (WEBP)</a></p>
