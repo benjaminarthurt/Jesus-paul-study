@@ -19,7 +19,7 @@
 
 **Convergence:** These narratives portray women as significant participants and witnesses; Romans 16 and Philippians 4 also portray women as important collaborators.
 
-**Potential tension:** Restrictive instructions in 1 Corinthians 14:34–35 and 1 Timothy 2:11–15 may appear difficult to reconcile with women transmitting authoritative religious messages. However, an eyewitness commission, prophecy, teaching, and oversight are not identical activities; whether restrictions apply to them is a contested inference.
+**Potential tension:** Restrictive instructions in 1 Corinthians 14:34–35 and in 1 Timothy 2:11–15 (a letter of disputed Pauline authorship) may appear difficult to reconcile with women transmitting authoritative religious messages. However, an eyewitness commission, prophecy, teaching, and oversight are not identical activities; whether restrictions apply to them is a contested inference.
 
 **Methodological asymmetry:** The Gospels are later literary witnesses portraying Jesus' ministry, while undisputed Pauline letters are first-person correspondence. A historical claim about what Jesus *personally prescribed for all later churches* needs more than an episode of Gospel narrative.
 
