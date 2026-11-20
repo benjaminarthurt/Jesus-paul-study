@@ -5,7 +5,7 @@ status: draft
 jesus: [lk-08-01-03, lk-10-38-42, lk-24-01-11, jn-04-07-42, jn-20-11-18, mt-28-01-10, mk-15-40-47]
 paul: [ro-16-01-16, ro-16-01-02, ro-16-03-07, 1co-11-02-16, 1co-14-26-40, 1co-14-34-35, ga-03-26-29, php-04-02-03, 1co-16-19-19]
 context: [ac-18-24-26, 1ti-02-08-15, 1ti-03-01-13, tit-02-03-05]
-sourceIds: [web-protestant-66, sybrandi-2024-romans16, burer-wallace-2001-junia, niccum-1997-cor14, wilson-2022-cor14, tolmie-2014-gal328, collins-2010-pastorals, bfc-2023-1tim2, baum-2014-cor14]
+sourceIds: [web-protestant-66, sybrandi-2024-romans16, burer-wallace-2001-junia, niccum-1997-cor14, wilson-2022-cor14, tolmie-2014-gal328, collins-2010-pastorals, bfc-2023-1tim2, baum-2014-cor14, bird-cor14-nottingham]
 classification: apparent-tension
 ---
 ## Question and framing
@@ -108,3 +108,20 @@ Different writings and communities may preserve partially competing social arran
 The ancient texts do not themselves define modern ordination, denominational bylaws, nonprofit board rights, employment law or civil gender equality. Application requires identifying which historical claims are textual, which are interpretive, and which are additional normative choices. A future issue dossier can document official denominational positions; it must avoid inventing unanimity or generalizing from single congregations.
 
 **Editorial status: draft.** This pilot has linked primary text, scholarly sources, opposing interpretations and access disclosures, but it is not an independent critical-text investigation or a reviewed conclusion. See the [bibliography](/sources/) and the repository's `docs/women-authority-review-log.md` for the outstanding scholarly checks.
+
+
+## Targeted manuscript/source distinction (November 2026)
+
+Four separate questions must not be collapsed:
+
+| Question | Textual basis | What the evidence does **not** yet settle |
+| --- | --- | --- |
+| Are women represented as active participants? | [Luke 8:1–3](https://ebible.org/engwebp/LUK08.htm), [Romans 16:1–16](https://ebible.org/engwebp/ROM16.htm), [1 Corinthians 11:2–16](https://ebible.org/engwebp/1CO11.htm) | The exact equivalence of ancient terms for service, patronage, apostleship, prophecy and modern ordained office. |
+| What is the manuscript status of the silence instruction? | [1 Corinthians 14:26–40](https://ebible.org/engwebp/1CO14.htm) | Some Western witnesses place **14:34–35 after 14:40**; their transposition is real evidence of textual instability, **not** proof that all or most manuscripts omit the verses. |
+| Is 14:34–35 Paul's own assertion, quotation being rebutted, or interpolation? | Compare 1 Corinthians 11 and 14 in the same broadly undisputed Pauline letter. | The manuscript location alone cannot choose among all these hypotheses; argument requires syntax, rhetoric and a Greek apparatus. |
+| Is 1 Timothy 2 direct evidence of Paul's own teaching? | [1 Timothy 2:8–15](https://ebible.org/engwebp/1TI02.htm) | Authorship of the Pastoral Epistles is debated. It belongs in a separate `paul-disputed` layer regardless of whether its ethical teaching is accepted by a tradition. |
+
+Joseph A. P. Wilson, [“Recasting Paul as a Chauvinist”](https://www.mdpi.com/2077-1444/13/5/432), *Religions* **13(5) (2022)**, **§6–7**, defends a quotation/refutation explanation and discusses the Western placement after v.40. This is **one scholarly proposal**, not consensus. A materially opposed explanation, that the verses were a later addition, appears in Victoria Bird's [University of Nottingham research thesis](https://repository.nottingham.ac.uk/entities/publication/862c087e-56c4-468d-948a-bc300d94758f), *1 Corinthians 14:34–35: The Words of Paul or a Later Addition?*, **repository abstract consulted only**. It is an academic thesis, **not a peer-reviewed journal article or an independently verified manuscript apparatus**. The evidence must not be summarized as “all surviving manuscripts omit the verses”; surviving evidence prominently includes them in more than one position.
+
+**Outstanding before source-checked:** examine published critical Greek apparatus and manuscript sigla for 14:33–40; assess Wilson's rhetorical reading alongside substantive interpolation and traditional direct-command arguments; independently verify Greek roles in Romans 16, the history of Junia interpretation, and Pastorals authorship. Keep civil equality, congregational prophecy, and ordained offices analytically separate.
+

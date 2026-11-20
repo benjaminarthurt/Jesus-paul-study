@@ -92,6 +92,22 @@ Modern Christian traditions answer those questions differently. A future modern-
 
 **Editorial status:** Draft. This is a primary-text-informed and source-linked pilot, **not** a completed critical-edition review. Next: verify Greek and variant claims from a scholarly apparatus, expand bibliographic coverage beyond accessible overviews/abstracts, and solicit independent critical review before marking the study source-checked.
 
+
+## Targeted passage-and-scholar cross-check (November 2026)
+
+The following is a **limited, source-linked cross-check** of the strongest propositions; it does not promote this entire study to `source-checked`.
+
+| Passage | Textual observation to test | Interpretive constraint |
+| --- | --- | --- |
+| [Matthew 5:17–20](https://ebible.org/engwebp/MAT05.htm) | The speaker is depicted denying abolition and commending the doing and teaching of commandments, within the Sermon on the Mount. | The verse does **not** itself explain whether every Mosaic identity practice binds later Gentile congregations. |
+| [Galatians 3:23–25](https://ebible.org/engwebp/GAL03.htm) | Paul depicts the Law's custodial period as ending with the coming of faith. | Do not silently broaden Paul's polemical context about the Galatians to all possible Torah duties for every group. |
+| [Galatians 5:2–6, 13–14](https://ebible.org/engwebp/GAL05.htm) | The same chapter refuses circumcision as a justifying obligation and explicitly values neighbor-love as fulfilling the Law. | A binary description of Paul as rejecting all Jewish law is inconsistent with this juxtaposition. |
+| [Romans 3:28–31](https://ebible.org/engwebp/ROM03.htm) | Paul rejects justification by works of the Law while explicitly denying that faith nullifies the Law. | Whether `establish` refers to Torah practice, theological consistency or God's scriptural design needs argument. |
+
+Matthew V. Novenson, [*Law in the New Testament*](https://www.saet.ac.uk/Christianity/LawintheNewTestament), **§2.1 (Galatians and Romans)** and **§5 (Matthew)**, discusses both Paul's circumcision polemic and Matthew's vigorous affirmation of law. Novenson explicitly presents Matthew's possible engagement with Pauline influence as a **hypothesis**, not an established literary dependency; he also warns that Paul does not simply say the Law was abolished. These two sections provide a stronger source-controlled frame than a generic Jesus-versus-Paul slogan.
+
+**Outstanding before source-checked:** inspect critical Greek editions for `plērōsai`, `telos` and disputed Mark 7:19 grammar; assess Second Temple Jewish approaches to circumcision and ritual practice with competing specialists; audit Acts 15 against Paul's own Galatians narrative without assuming identical events. An accessible encyclopedia chapter alone is not independent critical-edition verification.
+
 ## Source access and revision policy
 
 The linked bibliography in this study distinguishes full-text academic articles and primary texts from publisher-abstract-only material. The evidence ledger identifies individual claims, source IDs, and plausible counterreadings. This research was initially assembled November 2026; revisions and their reasons will be retained in Git history.

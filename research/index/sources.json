@@ -358,5 +358,29 @@
     "url": "https://bible.usccb.org/bible/john/0",
     "accessScope": "full-text",
     "note": "The public editorial introduction was inspected for literary organization and differences from the Synoptics. Its historical interpretations are not imposed as settled findings."
+  },
+  {
+    "id": "otten-2023-widow",
+    "type": "peer-reviewed-article",
+    "author": "Jeremy D. Otten",
+    "title": "Copper Coins, Catchwords, and Contextual Cues: The Climactic Placement of the Widow’s Mites (Mark 12:41–44)",
+    "publisher": "Tyndale Bulletin 74, 29–48",
+    "year": 2023,
+    "location": "Article abstract and bibliographic metadata; full argument awaiting detailed review",
+    "url": "https://doi.org/10.53751/001c.72643",
+    "accessScope": "publisher-abstract-only",
+    "note": "Inspected article abstract/metadata, not complete arguments. Identifies competing readings of the widow and the placement after criticism of scribes; does not establish one final interpretation."
+  },
+  {
+    "id": "bird-cor14-nottingham",
+    "type": "scholarly-overview",
+    "author": "Victoria Bird",
+    "title": "1 Corinthians 14:34–35: The Words of Paul or a Later Addition?",
+    "publisher": "University of Nottingham MRes thesis",
+    "year": null,
+    "location": "Institutional repository abstract only; thesis text not inspected",
+    "url": "https://repository.nottingham.ac.uk/entities/publication/862c087e-56c4-468d-948a-bc300d94758f",
+    "accessScope": "publisher-abstract-only",
+    "note": "The repository abstract argues for later interpolation. This is a research thesis, not a peer-reviewed article or settled textual-critical consensus; full thesis and manuscript sigla not inspected."
   }
 ]

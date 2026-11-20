@@ -14,3 +14,9 @@ jobs:
       - run: npm run test:validator
       - run: npm run check
       - run: npm run build
+        env:
+          # Synthetic origin exercises canonical generation; not a deployment URL.
+          PUBLIC_SITE_URL: https://site.example.test
+      - run: npm run test:site
+        env:
+          PUBLIC_SITE_URL: https://site.example.test

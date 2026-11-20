@@ -52,6 +52,7 @@ const kindLabels:Record<string,string>={
           {entry.saying && <p><a href={`/teachings/${entry.saying.id}/`}>Selected speech: {entry.saying.reference}</a></p>}
           <p><a href={entry.passage.sourceUrl} target="_blank" rel="noopener noreferrer">Read {entry.bookName} {entry.passage.reference.match(/ (\d+):/)?.[1]} (WEBP)</a></p>
           {"textualNote" in entry.passage && entry.passage.textualNote && <p class="warning"><strong>Passage caution:</strong> {entry.passage.textualNote}</p>}
+          {entry.saying?.caution && <p class="warning"><strong>Selected saying caution:</strong> {entry.saying.caution}</p>}
         </> : <>
           <h3>Not selected for this study</h3>
           <p class="muted">This dossier does not include a {entry.bookName} witness. That does not establish that this theme is absent from the Gospel.</p>

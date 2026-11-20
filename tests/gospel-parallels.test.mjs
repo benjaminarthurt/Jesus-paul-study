@@ -158,3 +158,17 @@ test("theme search includes topic IDs and display titles, not just dossier prose
   // The helper must preserve ordinary content searching as well.
   assert.match(dossierSearchText(byId.get("temple-action-placement"),"Authority"),/temple/);
 });
+
+test("four-Gospel comparison cards show selected saying-specific textual cautions",()=>{
+  const detail=readFileSync("src/pages/gospel-parallels/[id].astro","utf8");
+  assert.match(detail,/entry\.saying\?\.caution/);
+  assert.match(detail,/Selected saying caution:/);
+  assert.match(detail,/\{entry\.saying\.caution\}/);
+  const prayer=byId.get("prayer-models");
+  for(const bookId of ["mt","lk"]){
+    const selected=prayer.witnesses.find(w=>w.bookId===bookId);
+    assert.ok(selected?.sayingId,bookId);
+    const saying=sayings.get(selected.sayingId);
+    assert.ok(saying?.caution?.length>40,bookId);
+  }
+});
