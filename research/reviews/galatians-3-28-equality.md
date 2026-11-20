@@ -10,7 +10,7 @@ Galatians 3:26–29 links belonging to Christ through faith and baptism with Abr
 
 | Reading | Supporting feature | Outstanding difficulty |
 | --- | --- | --- |
-| Equal standing before God, with differentiated roles | Baptism and inheritance are explicit immediate subjects. | Must explain why this unity would have no practical effects on social participation. |
+| Equal standing before God, with differentiated roles | Baptism and inheritance are explicit immediate subjects. | Must justify the proposed role distinctions and explain how they coexist with shared standing and practical participation. |
 | Transformative social equality | The triad crosses religious, status and sex distinctions, inviting consequences beyond an inward state. | Cannot infer the disappearance of slavery, patriarchy or all role distinctions from the formula alone. |
 | Eschatological / new-creation identity | “In Christ” reframes inherited distinctions in a theological identity. | Must show how this identity relates to concrete congregational instructions elsewhere. |
 
