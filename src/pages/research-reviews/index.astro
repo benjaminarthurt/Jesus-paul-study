@@ -9,7 +9,7 @@ const reviews = readdirSync(dir)
   .map((file) => {
     const body = readFileSync(resolve(dir, file), "utf8");
     const title = body.match(/^#\s+(.+)$/m)?.[1] ?? file.replace(/\.md$/, "");
-    const status = body.match(/\*\*Status:\*\*\s*([^\n]+)/i)?.[1]?.trim() ?? "Draft / unverified";
+    const status = body.match(/\*\*Status:\*\*\s*([^·\r\n]+)/i)?.[1]?.trim() ?? "Draft / unverified";
     const issue = body.match(/\*\*Issue:\*\*\s*(#[0-9]+)/i)?.[1] ?? null;
     return { file, title, status, issue };
   })
@@ -24,14 +24,14 @@ const reviews = readdirSync(dir)
   </section>
   <section class="group" aria-labelledby="review-list">
     <h2 id="review-list">{reviews.length} review notes</h2>
-    <p>Read the source file, including competing interpretations and the checks required before a status change. File links open the public repository.</p>
+    <p>Read the source file, including competing interpretations and the checks required before a status change. File links open the private project repository and require GitHub access permission.</p>
     <div class="card-grid">
       {reviews.map((review) => (
         <article class="card">
           <h3>{review.title}</h3>
           <p><strong>Research status:</strong> {review.status}</p>
           {review.issue && <p><strong>Tracking issue:</strong> {review.issue}</p>}
-          <a href={`https://github.com/benjaminarthurt/Jesus-paul-study/blob/main/research/reviews/${encodeURIComponent(review.file)}`} target="_blank" rel="noopener noreferrer">Read review and sources</a>
+          <a href={`https://github.com/benjaminarthurt/Jesus-paul-study/blob/main/research/reviews/${encodeURIComponent(review.file)}`} target="_blank" rel="noopener noreferrer">Read review and sources (repository access required)</a>
         </article>
       ))}
     </div>
