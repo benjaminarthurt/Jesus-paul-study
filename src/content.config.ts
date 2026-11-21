@@ -5,6 +5,7 @@ const status = z.enum(["draft", "source-checked", "reviewed"]);
 const passageIds = z.array(z.string().min(1));
 
 export const collections = {
+  reviews: defineCollection({ loader: glob({ pattern: "*.md", base: "./research/reviews" }) }),
   topics: defineCollection({
     loader: glob({ pattern: "*.md", base: "./research/topics" }),
     schema: z.object({
