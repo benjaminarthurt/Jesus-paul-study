@@ -1,0 +1,39 @@
+---
+import Base from "../../layouts/Base.astro";
+import { readdirSync, readFileSync } from "node:fs";
+import { resolve } from "node:path";
+
+const dir = resolve(process.cwd(), "research/reviews");
+const reviews = readdirSync(dir)
+  .filter((file) => file.endsWith(".md"))
+  .map((file) => {
+    const body = readFileSync(resolve(dir, file), "utf8");
+    const title = body.match(/^#\s+(.+)$/m)?.[1] ?? file.replace(/\.md$/, "");
+    const status = body.match(/\*\*Status:\*\*\s*([^\n]+)/i)?.[1]?.trim() ?? "Draft / unverified";
+    const issue = body.match(/\*\*Issue:\*\*\s*(#[0-9]+)/i)?.[1] ?? null;
+    return { file, title, status, issue };
+  })
+  .sort((a, b) => a.title.localeCompare(b.title));
+---
+<Base title="Research review ledger">
+  <section class="hero">
+    <p class="eyebrow">Evidence · Source limitations · Open questions</p>
+    <h1>Research review ledger</h1>
+    <p class="lead">Focused passage audits supporting the topic comparisons. These are working research notes, not independently verified conclusions.</p>
+    <p><a href="/comparisons/">Browse topic comparisons</a> · <a href="/methodology/">Read methodology</a></p>
+  </section>
+  <section class="group" aria-labelledby="review-list">
+    <h2 id="review-list">{reviews.length} review notes</h2>
+    <p>Read the source file, including competing interpretations and the checks required before a status change. File links open the public repository.</p>
+    <div class="card-grid">
+      {reviews.map((review) => (
+        <article class="card">
+          <h3>{review.title}</h3>
+          <p><strong>Research status:</strong> {review.status}</p>
+          {review.issue && <p><strong>Tracking issue:</strong> {review.issue}</p>}
+          <a href={`https://github.com/benjaminarthurt/Jesus-paul-study/blob/main/research/reviews/${encodeURIComponent(review.file)}`} target="_blank" rel="noopener noreferrer">Read review and sources</a>
+        </article>
+      ))}
+    </div>
+  </section>
+</Base>
