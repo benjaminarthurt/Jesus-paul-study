@@ -40,7 +40,7 @@ Is the widow's gift praised as exemplary devotion, exposed as evidence of exploi
 - [2 Corinthians 8 (WEBP)](https://ebible.org/engwebp/2CO08.htm)
 - [2 Corinthians 9 (WEBP)](https://ebible.org/engwebp/2CO09.htm)
 - Adam Kubiś, [widow's offering article (2015)](https://doi.org/10.31743/ba.535): the project's existing record relies on an accessible abstract, **not** independently checked full text.
-- The existing [wealth-and-generosity comparison](../comparisons/wealth-and-generosity.md) discusses an additional scholarly critique; source access must be checked at claim level before relying on details.
+- The existing [wealth-and-generosity comparison](/comparisons/wealth-and-generosity/) discusses an additional scholarly critique; source access must be checked at claim level before relying on details.
 
 ## Verification still required
 
