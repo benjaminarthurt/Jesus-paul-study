@@ -32,7 +32,21 @@
 
 Primary: [Romans 16 (WEBP)](https://ebible.org/engwebp/ROM16.htm); [Philippians 4](https://ebible.org/engwebp/PHP04.htm); [1 Corinthians 11](https://ebible.org/engwebp/1CO11.htm).
 
-Secondary: Marieke Sybrandi, [2024 study of Romans 16](https://doi.org/10.1177/00145246241287148), listed as open-access in the existing comparison; not independently reread here. Michael Burer and Daniel Wallace, [2001 Junia analysis](https://doi.org/10.1017/S0028688501000066), **publisher abstract only** in existing source inventory; do not claim detailed unseen arguments.
+## Source-level verification — 2026-11-21
+
+Marieke Sybrandi, “Women leaders lost in translation? A Study in Romans 16:1–16,” *The Expository Times* 136(3) (2024), 93–104. [Publisher article](https://journals.sagepub.com/doi/10.1177/00145246241287148); [Oxford repository version of record](https://ora.ox.ac.uk/objects/uuid%3A9e7a3c57-7bad-459c-95ec-f89152135e9d). Access: publisher article sections on Prisca, other coworkers, Junia and conclusion inspected; bibliographic details crosschecked with Oxford. Phoebe section not independently inspected in this pass.
+
+Michael H. Burer and Daniel B. Wallace, “Was Junia Really an Apostle? A Re-examination of Rom 16.7,” *New Testament Studies* 47(1) (2001), 76–91. [Publisher abstract](https://doi.org/10.1017/S0028688501000066). Access: abstract and bibliographic details only.
+
+| Claim | Evidence inspected | Assessment |
+| --- | --- | --- |
+| Prisca's work is associated with Paul's mission | Sybrandi, section “Prisca: συνεργός,” compares Romans 16:3 with other Pauline uses of the noun. | Supports mission partnership; an exact ecclesiastical office is not thereby demonstrated. |
+| Labor terminology can accompany congregational leadership | Sybrandi, section on Mary, Tryphena, Tryphosa and Persis, compares 1 Corinthians 16:15–16 and 1 Thessalonians 5:12–13. | Association is not lexical equivalence: the verb itself does not mean leadership. |
+| Junia's name is feminine | Sybrandi, section on Ἰουνίαν, surveys accenting, reception and name evidence. | Strong secondary support; inscriptions and critical apparatus not directly checked. |
+| Junia is included among apostles | Sybrandi, section on ἐπίσημοι ἐν τοῖς ἀποστόλοις, discusses inclusive parallels and reception. | Reasoned inclusive interpretation; not established solely by the name. |
+| Junia is known to apostles without necessarily belonging to them | Burer and Wallace abstract advances a distinction between genitive and personal dative constructions. | Verified as their published position, not an independently tested grammatical rule. |
+
+The sources disagree about the force of the phrase in Romans 16:7. Sybrandi's interpretation of translators' motivations is an argument made by that author, not an independently established fact about individual translators. No status promotion is warranted on this asymmetric source access.
 
 Before promotion: inspect Greek critical edition, analyze `en tois apostolois` with full-text opposing scholarship, verify the semantic range of `diakonos` and `prostatis`, compare translations, record manuscript/onomastic evidence and independent reviewer.
 
