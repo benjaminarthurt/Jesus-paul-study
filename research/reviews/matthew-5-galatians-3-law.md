@@ -2,7 +2,7 @@
 
 **Issue:** #3 · **Status:** preliminary research draft · **Classification:** apparent-tension (provisional)
 
-This record supplements [the existing law-and-faith study](../comparisons/law-and-faith.md), rather than replacing it or promoting its status.
+This record supplements [the existing law-and-faith study](/comparisons/law-and-faith/), rather than replacing it or promoting its status.
 
 ## Passage-level observations
 

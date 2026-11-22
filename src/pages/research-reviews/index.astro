@@ -1,0 +1,27 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const reviews = (await getCollection("reviews")).sort((a, b) => a.id.localeCompare(b.id));
+---
+<Base title="Research review ledger">
+  <section class="hero">
+    <p class="eyebrow">Evidence · Source limitations · Open questions</p>
+    <h1>Research review ledger</h1>
+    <p class="lead">Focused passage audits supporting the topic comparisons. These are working research notes, not independently verified conclusions.</p>
+    <p><a href="/comparisons/">Browse topic comparisons</a> · <a href="/methodology/">Read methodology</a></p>
+  </section>
+  <section class="group" aria-labelledby="review-list">
+    <h2 id="review-list">{reviews.length} review notes</h2>
+    <p>Read the source file, including competing interpretations and the checks required before a status change. Full review notes are available directly on this site.</p>
+    <div class="card-grid">
+      {reviews.map((review) => (
+        <article class="card">
+          <h3>{review.body?.match(/^#\s+(.+)$/m)?.[1] ?? review.id}</h3>
+          <p><strong>Research status:</strong> Draft / unverified</p>
+          <a href={`/research-reviews/${review.id}/`}>Read review and sources</a>
+        </article>
+      ))}
+    </div>
+  </section>
+</Base>

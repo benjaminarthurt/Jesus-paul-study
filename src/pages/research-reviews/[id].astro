@@ -1,0 +1,17 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection, render } from "astro:content";
+export async function getStaticPaths() {
+  return (await getCollection("reviews")).map((review) => ({
+    params: { id: review.id }, props: { review }
+  }));
+}
+const { review } = Astro.props;
+const { Content } = await render(review);
+const title = review.body?.match(/^#\s+(.+)$/m)?.[1] ?? review.id;
+---
+<Base title={title}>
+  <p><a href="/research-reviews/">Back to research review ledger</a></p>
+  <div class="warning"><strong>Draft research:</strong> This working note is not an independently verified conclusion. Consult its source limitations and verification requirements.</div>
+  <article class="group"><Content /></article>
+</Base>
