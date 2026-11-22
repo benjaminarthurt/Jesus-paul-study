@@ -31,6 +31,22 @@ These are not interchangeable questions. An argument for disputed authorship is 
 
 **Historical-development reading:** Differences from undisputed Paul may reflect later church ordering; this requires independent authorship arguments, not merely labeling an inconvenient verse inauthentic.
 
+## Claim-level verification plan — 2026-11-22
+
+The following matrix specifies the evidence required before the study can describe a conclusion as source-checked. It distinguishes observations in the canonical text from reconstructions of authorship, lexical meaning, or local circumstances.
+
+| Claim to evaluate | Available evidence | Counter-reading to test | Required next check |
+| --- | --- | --- | --- |
+| Verse 11 commands learning in a quiet manner, not necessarily absolute muteness | The verse contains a positive instruction to learn, paired with a manner of learning. | The same word family in this context may signal a stronger restraint on public speech. | Compare the Greek term `hēsychia` across the Pastorals and contemporary texts, with a lexicon and documented examples. |
+| Verse 12 prohibits teaching and `authentein` in relation to a man | The Greek verb `authentein` occurs here in a prohibition. | Renderings such as “exercise authority” and “domineer” imply different scopes; grammatical coordination does not by itself settle the question. | Review dated lexical attestations and grammatical studies; do not infer a pejorative meaning merely from the prohibition. |
+| The restriction responds specifically to female false teachers in Ephesus | 1 Timothy elsewhere warns about false teaching (for example 1:3–7). | A warning against false teaching does not identify the prohibited women in 2:12 as false teachers. | Trace the alleged connection verse by verse; distinguish explicit statements from reconstruction. |
+| Creation order supplies a translocal rationale | Verses 13–14 explicitly invoke Adam and Eve. | A scriptural illustration can serve a context-specific instruction without making every application universal. | Compare argument structure and ancient interpretive parallels; record both readings. |
+| Chapter 3 proves 2:12 concerns only the overseer office | Overseer qualifications follow the disputed restriction. | Literary proximity alone does not equate all teaching with holding an overseer office. | Establish discourse boundaries and test whether the claimed office restriction is actually stated. |
+| The historical Paul authored this letter | The letter presents itself as from Paul (1:1). | Critical scholarship frequently distinguishes the Pastorals from undisputed Pauline letters. | Compare authenticated scholarly arguments on vocabulary, chronology, theology and external reception, including defenses of authenticity. |
+| The canonical passage can be compared directly with Jesus' reported actions | Luke 8:1–3 and 10:38–42 depict women in Jesus' movement; 1 Timothy 2 regulates teaching/authority. | Narrative participation and church office restrictions are not logically identical propositions. | Specify the compared activities, communities and historical layers before assigning “contradiction.” |
+
+**Verification rule:** The letter's self-attribution, its canonical status, historical authorship, the semantics of `authentein`, and contemporary normative application are five distinct propositions. None is resolved by establishing another. Current evidence does not justify promotion beyond preliminary draft.
+
 ## Sources and access
 
 Primary: [1 Timothy 2](https://ebible.org/engwebp/1TI02.htm), [1 Timothy 3](https://ebible.org/engwebp/1TI03.htm), [Romans 16](https://ebible.org/engwebp/ROM16.htm), [1 Corinthians 11](https://ebible.org/engwebp/1CO11.htm).
