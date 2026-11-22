@@ -8,12 +8,12 @@ This synthesis links the topic's focused reviews. It is not a substitute for ful
 
 | Candidate claim | Evidence | Current disposition |
 | --- | --- | --- |
-| Women were present and active in Gospel narratives. | [Gospel witnesses](gospel-women-witnesses.md) | Supported at narrative-description level; exact historical reconstruction remains open. |
-| Paul's undisputed letters describe women participating in ministry. | [Romans 16](romans-16-women-coworkers.md), 1 Corinthians 11:5, Philippians 4:2–3 | Strong textual observation, not an automatic claim about later offices. |
-| Paul consistently forbade women to speak in assemblies. | 1 Corinthians 11:5 vs [14:34–35](1-corinthians-14-34-35-transposition.md) | Not supportable without explaining apparent internal tension and textual disputes. |
+| Women were present and active in Gospel narratives. | [Gospel witnesses](/research-reviews/gospel-women-witnesses/) | Supported at narrative-description level; exact historical reconstruction remains open. |
+| Paul's undisputed letters describe women participating in ministry. | [Romans 16](/research-reviews/romans-16-women-coworkers/), 1 Corinthians 11:5, Philippians 4:2–3 | Strong textual observation, not an automatic claim about later offices. |
+| Paul consistently forbade women to speak in assemblies. | 1 Corinthians 11:5 vs [14:34–35](/research-reviews/1-corinthians-14-34-35-transposition/) | Not supportable without explaining apparent internal tension and textual disputes. |
 | 1 Corinthians 14:34–35 is demonstrably a later insertion. | Western transposition and internal arguments | **Not established**; location variant does not prove omission or interpolation. |
-| Galatians 3:28 explicitly abolishes all gendered institutional roles. | [Galatians 3:28 review](galatians-3-28-equality.md) | **Not established** by immediate context alone. |
-| 1 Timothy 2 is certainly historical Paul's own instruction. | [1 Timothy 2 review](1-timothy-2-authorship-authority.md) | **Disputed authorship**; canonical text and historical authorship are separate. |
+| Galatians 3:28 explicitly abolishes all gendered institutional roles. | [Galatians 3:28 review](/research-reviews/galatians-3-28-equality/) | **Not established** by immediate context alone. |
+| 1 Timothy 2 is certainly historical Paul's own instruction. | [1 Timothy 2 review](/research-reviews/1-timothy-2-authorship-authority/) | **Disputed authorship**; canonical text and historical authorship are separate. |
 | Jesus' commissioning of women witnesses resolves modern ordination debates. | Gospel resurrection narratives | **Not established** without additional theological and institutional argument. |
 
 ## Editorial rules for eventual website
