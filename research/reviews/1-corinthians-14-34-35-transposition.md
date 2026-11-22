@@ -44,7 +44,7 @@ In the familiar order of 1 Corinthians 14, verses 34–35 instruct women to be s
 
 ## Published evidence audit — 2026-11-22
 
-The following audit compares accessible publisher texts and abstracts; it is **not** an independent inspection of manuscript images or a critical apparatus.
+The following audit compares accessible publisher texts and abstracts; it is **not** an independent inspection of manuscript images or a critical apparatus. The University of Nottingham repository abstract was directly rechecked on 2026-11-22, confirming that Bird argues for an early second-century marginal addition, but not independently establishing that reconstruction.
 
 | Source and access | Specific evidence or argument | Evidentiary limit |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ The following audit compares accessible publisher texts and abstracts; it is **n
 | Aļesja Lavrinoviča, [“1 Cor 14.34–5 without ‘in All the Churches of the Saints’: External Evidence”](https://doi.org/10.1017/S0028688516000424), *New Testament Studies* 63.3 (2017), 370–389; abstract inspected | Reports that several early witnesses treat verse 33b with 33a, with verses 34–35 as a separate paragraph. Notes damage and reconstruction in P46 and P123. | Paragraph division is a distinct question from whether verses 34–35 are original. Full argument not inspected. |
 | Philip B. Payne, [“Fuldensis, Sigla for Variants in Vaticanus, and 1 Cor 14.34–5”](https://doi.org/10.1017/S0028688500021263), *New Testament Studies* 41.2 (1995), 240–262; publisher extract inspected | Argues that Fuldensis and a Vaticanus mark supply evidence for an interpolation hypothesis. | His identification and significance of the marks remain contested; manuscript photographs not independently assessed. |
 | D. W. Odell-Scott, [“Editorial Dilemma: The Interpolation of 1 Cor 14:34–35 in the Western Manuscripts of D, G and 88”](https://doi.org/10.1177/014610790003000204), *Biblical Theology Bulletin* 30.2 (2000); abstract inspected | Rejects the inference that transposition strongly supports interpolation, proposing deliberate relocation of an authentic passage for interpretive reasons. | Published alternative mechanism; full article not inspected. |
-| Victoria Anne Bird, [2023 University of Nottingham MRes thesis](https://repository.nottingham.ac.uk/entities/publication/862c087e-56c4-468d-948a-bc300d94758f); repository abstract inspected | Argues for a non-Pauline marginal addition using external and internal evidence. | Thesis abstract alone does not establish its individual manuscript claims. |
+| Victoria Anne Bird, [2023 University of Nottingham MRes thesis](https://repository.nottingham.ac.uk/entities/publication/862c087e-56c4-468d-948a-bc300d94758f); repository abstract inspected | Argues for a non-Pauline marginal addition using external and internal evidence. | The repository abstract explicitly states the marginal-addition conclusion; this verifies Bird's stated position, not the underlying manuscript reconstruction. Full thesis and manuscript evidence remain unchecked. |
 
 ### Decisions supported by this audit
 
