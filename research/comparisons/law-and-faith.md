@@ -7,6 +7,9 @@ paul: [ga-02-11-21, ga-03-10-14, ga-03-23-25, ga-05-02-06, ga-05-13-14, ro-03-28
 context: [ga-02-01-10, ac-15-01-29]
 sourceIds: [web-protestant-66, novenson-2023-law, trout-2015-fulfilment, williams-2024-mark7, thiessen-2016-gentiles, abs-jerusalem-2010]
 classification: apparent-tension
+reviewIds:
+  - matthew-5-galatians-3-law
+  - mark-7-romans-14-food-law
 ---
 ## Research question and limits
 
