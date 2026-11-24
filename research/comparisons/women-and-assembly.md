@@ -7,6 +7,13 @@ paul: [ro-16-01-16, ro-16-01-02, ro-16-03-07, 1co-11-02-16, 1co-14-26-40, 1co-14
 context: [ac-18-24-26, 1ti-02-08-15, 1ti-03-01-13, tit-02-03-05]
 sourceIds: [web-protestant-66, sybrandi-2024-romans16, burer-wallace-2001-junia, niccum-1997-cor14, wilson-2022-cor14, tolmie-2014-gal328, collins-2010-pastorals, bfc-2023-1tim2, baum-2014-cor14, bird-cor14-nottingham]
 classification: apparent-tension
+reviewIds:
+  - women-authority-claim-synthesis
+  - gospel-women-witnesses
+  - romans-16-women-coworkers
+  - galatians-3-28-equality
+  - 1-corinthians-14-34-35-transposition
+  - 1-timothy-2-authorship-authority
 ---
 ## Question and framing
 
