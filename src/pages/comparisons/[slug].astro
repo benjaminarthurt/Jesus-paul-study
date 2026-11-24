@@ -20,6 +20,12 @@ const contextRefs = lookup(entry.data.context ?? []);
 const evidence = evidenceRows.filter(row => row.comparisonId === entry.id);
 const citedSourceIds = entry.data.sourceIds ?? [];
 const citedSources = citedSourceIds.map(id => sourceById.get(id)).filter(Boolean);
+const reviewById = new Map((await getCollection("reviews")).map(review => [review.id, review]));
+const relatedReviews = (entry.data.reviewIds ?? []).map((id: string) => {
+  const review = reviewById.get(id);
+  if (!review) throw new Error(`Comparison ${entry.id}: unknown research review ${id}`);
+  return { id, title: review.body?.match(/^#\s+(.+)$/m)?.[1] ?? id };
+});
 const evaluationLabels: Record<string,string> = {
   tension: "Supports a possible tension",
   agreement: "Highlights agreement",
@@ -79,6 +85,13 @@ const evaluationLabels: Record<string,string> = {
   </section>}
 
   <article class="prose study"><Content /></article>
+
+  {relatedReviews.length > 0 && <section class="panel evidence-section" aria-labelledby="related-reviews-heading">
+    <h2 id="related-reviews-heading">Supporting research reviews</h2>
+    <p class="muted">Working notes documenting alternative interpretations, source access and outstanding verification. These are not independently reviewed conclusions.</p>
+    <ul>{relatedReviews.map(review => <li><a href={`/research-reviews/${review.id}/`}>{review.title}</a></li>)}</ul>
+    <p><a href="/research-reviews/">All research reviews</a></p>
+  </section>}
 
   {citedSources.length > 0 && <section aria-labelledby="source-heading" class="panel evidence-section">
     <h2 id="source-heading">Sources and access scope</h2>
