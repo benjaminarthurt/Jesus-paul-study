@@ -25,6 +25,7 @@ export const collections = {
       paul: passageIds,
       context: passageIds.optional(),
       sourceIds: passageIds.optional(),
+      reviewIds: passageIds.optional(),
       classification: z.enum([
         "agreement",
         "different-emphasis",
