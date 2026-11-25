@@ -511,5 +511,269 @@
     "limitation": "A historical claim about Jesus' views cannot be inferred simply by equating a Gospel narrator's approval of women with a later church office; modern ecclesial regulations also require explicit theological decisions.",
     "comparisonId": "women-and-assembly",
     "status": "draft"
+  },
+  {
+    "id": "enemy-love-and-civil-authority-enemy-love",
+    "comparisonId": "enemy-love-and-civil-authority",
+    "title": "Both corpora reject personal retaliation",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mt-05-21-48",
+      "lk-06-27-36",
+      "ro-12-14-21",
+      "1th-05-12-22"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Jesus commands enemy love; Paul rejects repayment of evil and urges blessing persecutors.",
+    "alternateReading": "These instructions may differ in rhetorical scope and concrete application.",
+    "limitation": "Shared interpersonal ethics do not settle the legitimacy of public coercion."
+  },
+  {
+    "id": "enemy-love-and-civil-authority-public-coercion",
+    "comparisonId": "enemy-love-and-civil-authority",
+    "title": "Punitive authority and enemy love",
+    "kind": "textual-observation",
+    "assessment": "tension",
+    "status": "draft",
+    "passageIds": [
+      "mt-05-21-48",
+      "ro-13-01-07"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Romans describes rulers exercising punitive authority, while Matthew instructs disciples against retaliation.",
+    "alternateReading": "Paul may distinguish governmental functions from the conduct of individual disciples.",
+    "limitation": "Romans does not explicitly authorize disciples to occupy coercive offices."
+  },
+  {
+    "id": "marriage-and-divorce-lord-instruction",
+    "comparisonId": "marriage-and-divorce",
+    "title": "Paul explicitly invokes the Lord's instruction",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mk-10-02-12",
+      "1co-07-10-16"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Paul attributes a prohibition of marital separation to the Lord, consistent with the restrictive Markan tradition.",
+    "alternateReading": "The precise transmitted saying known to Paul need not match Mark verbatim.",
+    "limitation": "The written Gospel and Pauline letter are distinct historical witnesses."
+  },
+  {
+    "id": "marriage-and-divorce-abandonment",
+    "comparisonId": "marriage-and-divorce",
+    "title": "Abandonment and exceptions",
+    "kind": "textual-observation",
+    "assessment": "tension",
+    "status": "draft",
+    "passageIds": [
+      "lk-16-18-18",
+      "mt-19-01-12",
+      "1co-07-10-16"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Paul permits departure by an unbelieving spouse and describes the believer as not enslaved.",
+    "alternateReading": "Permission to accept separation may not entail permission to remarry.",
+    "limitation": "The meaning of bondage and Matthew's exception require linguistic review."
+  },
+  {
+    "id": "forgiveness-and-restoration-discipline",
+    "comparisonId": "forgiveness-and-restoration",
+    "title": "Both corpora recognize community discipline",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mt-18-15-20",
+      "1co-05-01-13"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew describes escalating responses to wrongdoing; Paul directs exclusion in a specific misconduct case.",
+    "alternateReading": "The procedures and grounds for exclusion differ across the two settings.",
+    "limitation": "Neither passage supplies a comprehensive modern safeguarding policy."
+  },
+  {
+    "id": "forgiveness-and-restoration-restoration",
+    "comparisonId": "forgiveness-and-restoration",
+    "title": "Repeated forgiveness and restoration",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mt-18-21-35",
+      "lk-17-01-10",
+      "2co-02-05-11"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Jesus urges repeated forgiveness; Paul urges comfort and renewed love after punishment.",
+    "alternateReading": "Luke explicitly mentions repentance while Paul's immediate concern is excessive sorrow.",
+    "limitation": "The identity of the offender in the two Corinthian letters is disputed."
+  },
+  {
+    "id": "salvation-and-judgment-works-faith",
+    "comparisonId": "salvation-and-judgment",
+    "title": "Judgment criteria and justification",
+    "kind": "textual-observation",
+    "assessment": "tension",
+    "status": "draft",
+    "passageIds": [
+      "mt-25-31-46",
+      "ro-03-28-31",
+      "ga-02-11-21"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew depicts judgment involving treatment of others; Paul contrasts justification with works of the Law.",
+    "alternateReading": "Final judgment and justification may describe distinct but related dimensions of salvation.",
+    "limitation": "The referent of the least ones and scope of works of the Law remain debated."
+  },
+  {
+    "id": "salvation-and-judgment-deeds",
+    "comparisonId": "salvation-and-judgment",
+    "title": "Paul also recognizes judgment involving deeds",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "jn-05-19-30",
+      "ro-02-06-16",
+      "2co-05-01-10",
+      "ga-05-02-06"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "John and Paul describe accountability involving conduct; Galatians connects faith and love.",
+    "alternateReading": "Romans 2 may function rhetorically as a standard exposing human failure.",
+    "limitation": "The passages do not establish a single causal model of salvation."
+  },
+  {
+    "id": "leadership-and-authority-service",
+    "comparisonId": "leadership-and-authority",
+    "title": "Service and humility",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mk-10-35-45",
+      "php-02-01-11",
+      "phm-01-08-21"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Mark rejects domination among disciples; Philippians commends humility and Philemon favors appeal.",
+    "alternateReading": "Paul's appeal can still carry substantial social pressure.",
+    "limitation": "Rhetorical claims of voluntary action do not prove absence of coercion."
+  },
+  {
+    "id": "leadership-and-authority-disciplinary-power",
+    "comparisonId": "leadership-and-authority",
+    "title": "Authority and institutional power",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mt-23-01-12",
+      "1co-05-01-13",
+      "1th-05-12-22"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew criticizes status seeking while Paul exercises disciplinary authority and recognizes leaders.",
+    "alternateReading": "Authority exercised as service need not conflict with the rejection of domination.",
+    "limitation": "Ancient assembly roles cannot be equated directly with modern clergy offices."
+  },
+  {
+    "id": "mission-and-gentile-inclusion-scope",
+    "comparisonId": "mission-and-gentile-inclusion",
+    "title": "Mission scope changes",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mt-10-05-15",
+      "mt-28-16-20",
+      "ga-02-01-10"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew narrates an Israel-focused initial mission and a later universal commission; Paul describes Gentile mission recognition.",
+    "alternateReading": "The universal commission may reflect later movement development rather than independently confirm historical sequence.",
+    "limitation": "Literary chronology is distinct from historical chronology."
+  },
+  {
+    "id": "prayer-and-religious-practice-motivation",
+    "comparisonId": "prayer-and-religious-practice",
+    "title": "Prayer motivation and communal practice",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mt-06-05-15",
+      "php-04-04-07",
+      "1co-11-02-16"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew criticizes prayer for recognition; Paul encourages prayer and regulates assembly conduct.",
+    "alternateReading": "Private prayer instructions may be read more strictly than a critique of motivation.",
+    "limitation": "Neither text directly addresses modern state-sponsored religious practice."
+  },
+  {
+    "id": "slavery-and-social-status-equality",
+    "comparisonId": "slavery-and-social-status",
+    "title": "Status reversal and legal freedom",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mk-10-35-45",
+      "ga-03-26-29",
+      "phm-01-08-21"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Mark reverses status rankings; Galatians asserts unity and Philemon urges brotherly reception.",
+    "alternateReading": "Theological equality may undermine hierarchy without explicitly requiring legal abolition.",
+    "limitation": "Philemon does not unambiguously demand manumission."
+  },
+  {
+    "id": "slavery-and-social-status-calling",
+    "comparisonId": "slavery-and-social-status",
+    "title": "Ancient slavery and accommodation",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "lk-12-35-48",
+      "1co-07-17-24"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Luke uses household servants as imagery; Paul addresses enslaved persons within existing social arrangements.",
+    "alternateReading": "Paul's counsel may favor obtaining freedom or making use of existing circumstances.",
+    "limitation": "The syntax of 1 Corinthians 7:21 and historical slavery contexts require specialist review."
   }
 ]
