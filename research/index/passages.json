@@ -12,6 +12,18 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO05.htm"
   },
   {
+    "id": "1co-06-12-20",
+    "bookId": "1co",
+    "reference": "1 Corinthians 6:12–20",
+    "summary": "Paul argues against sexual immorality using bodily union, belonging to Christ and the Spirit.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+  },
+  {
     "id": "1co-07-10-16",
     "bookId": "1co",
     "reference": "1 Corinthians 7:10–16",
@@ -37,6 +49,18 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
   },
   {
+    "id": "1co-08-04-06",
+    "bookId": "1co",
+    "reference": "1 Corinthians 8:4–6",
+    "summary": "Paul discusses idols and identifies one God the Father and one Lord Jesus Christ in relation to creation.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm"
+  },
+  {
     "id": "1co-11-02-16",
     "bookId": "1co",
     "reference": "1 Corinthians 11:2–16",
@@ -47,6 +71,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-12-04-31",
+    "bookId": "1co",
+    "reference": "1 Corinthians 12:4–31",
+    "summary": "Paul describes diverse spiritual gifts and the interdependence of members of one body.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm"
   },
   {
     "id": "1co-13-01-13",
@@ -88,6 +124,30 @@
     "textualNote": "In several Western witnesses vv.34–35 occur after v.40, rather than following v.33. All presently known continuous manuscript witnesses preserve the verses somewhere; non-Pauline interpolation and quotation/refutation remain disputed hypotheses. Requires critical-apparatus review."
   },
   {
+    "id": "1co-15-12-28",
+    "bookId": "1co",
+    "reference": "1 Corinthians 15:12–28",
+    "summary": "Paul argues that Christ's resurrection and the resurrection of the dead are inseparable, describing an ordered sequence of events.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+  },
+  {
+    "id": "1co-15-35-58",
+    "bookId": "1co",
+    "reference": "1 Corinthians 15:35–58",
+    "summary": "Paul discusses the transformed resurrection body and victory over death.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+  },
+  {
     "id": "1co-16-01-04",
     "bookId": "1co",
     "reference": "1 Corinthians 16:1–4",
@@ -123,6 +183,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+  },
+  {
+    "id": "1th-04-13-18",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 4:13–18",
+    "summary": "Paul comforts mourners with an account of the dead in Christ rising and believers meeting the Lord.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+  },
+  {
+    "id": "1th-05-01-11",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 5:1–11",
+    "summary": "Paul describes the day of the Lord as unexpected and urges vigilance.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
   },
   {
     "id": "1th-05-12-22",
@@ -6708,6 +6792,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
   },
   {
+    "id": "ro-03-21-26",
+    "bookId": "ro",
+    "reference": "Romans 3:21–26",
+    "summary": "Paul connects divine righteousness, faith, grace, redemption and Christ's blood.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+  },
+  {
     "id": "ro-03-28-31",
     "bookId": "ro",
     "reference": "Romans 3:28–31",
@@ -6751,6 +6847,18 @@
     "summary": "Paul presents what the Law could not accomplish through weakened human flesh and speaks of its righteous requirement being fulfilled.",
     "topics": [
       "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
+  },
+  {
+    "id": "ro-08-18-39",
+    "bookId": "ro",
+    "reference": "Romans 8:18–39",
+    "summary": "Paul connects suffering with future glory, hope and confidence in divine love.",
+    "sourceLayer": "paul-undisputed",
+    "topics": [
+      "suffering"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
