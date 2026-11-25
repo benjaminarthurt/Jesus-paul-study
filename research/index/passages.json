@@ -1,5 +1,17 @@
 [
   {
+    "id": "1co-05-01-13",
+    "bookId": "1co",
+    "reference": "1 Corinthians 5:1–13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul calls for community discipline in a case of sexual misconduct and distinguishes judgment of insiders from outsiders.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO05.htm"
+  },
+  {
     "id": "1co-07-10-16",
     "bookId": "1co",
     "reference": "1 Corinthians 7:10–16",
@@ -161,6 +173,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
+    "id": "2co-02-05-11",
+    "bookId": "2co",
+    "reference": "2 Corinthians 2:5–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul urges forgiveness, comfort and reaffirmation of love after a punishment imposed by the majority.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
   },
   {
     "id": "2co-08-01-15",
