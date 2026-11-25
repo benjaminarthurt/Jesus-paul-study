@@ -775,5 +775,300 @@
     "observation": "Luke uses household servants as imagery; Paul addresses enslaved persons within existing social arrangements.",
     "alternateReading": "Paul's counsel may favor obtaining freedom or making use of existing circumstances.",
     "limitation": "The syntax of 1 Corinthians 7:21 and historical slavery contexts require specialist review."
+  },
+  {
+    "id": "resurrection-and-afterlife-resurrection",
+    "comparisonId": "resurrection-and-afterlife",
+    "title": "Resurrection affirmed",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mk-12-18-27",
+      "1co-15-12-28"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Mark affirms resurrection against the Sadducees; Paul argues that resurrection is integral to Christian proclamation.",
+    "alternateReading": "The two arguments address different objections and do not establish identical resurrection models.",
+    "limitation": "Neither passage specifies every feature of resurrected existence."
+  },
+  {
+    "id": "resurrection-and-afterlife-transformation",
+    "comparisonId": "resurrection-and-afterlife",
+    "title": "Transformed life",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "lk-20-27-40",
+      "1co-15-35-58"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Luke describes changed marriage arrangements; Paul describes a transformed resurrection body.",
+    "alternateReading": "The spiritual body need not imply an immaterial or disembodied existence.",
+    "limitation": "Greek terminology and ancient resurrection traditions require specialist review."
+  },
+  {
+    "id": "end-times-expectations-watchfulness",
+    "comparisonId": "end-times-expectations",
+    "title": "Uncertain timing and vigilance",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mk-13-28-37",
+      "1th-05-01-11"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Mark warns that the hour is unknown; Paul depicts the day of the Lord arriving unexpectedly.",
+    "alternateReading": "The warnings may concern different audiences or stages of eschatological events.",
+    "limitation": "Shared vigilance does not resolve the chronology of the expected events."
+  },
+  {
+    "id": "end-times-expectations-imminence",
+    "comparisonId": "end-times-expectations",
+    "title": "Expectation within a generation",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mt-24-32-44",
+      "1th-04-13-18"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew includes a generation saying; Paul uses first-person plural language for living believers at the coming.",
+    "alternateReading": "The generation referent and Paul's rhetorical identification with living believers are disputed.",
+    "limitation": "Neither wording alone establishes an unconditional date prediction."
+  },
+  {
+    "id": "sexual-ethics-conduct",
+    "comparisonId": "sexual-ethics",
+    "title": "Sexual conduct and discipleship",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mt-05-21-48",
+      "1co-06-12-20"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew addresses adultery and desire; Paul grounds sexual conduct in bodily belonging to Christ.",
+    "alternateReading": "The passages address distinct acts and ethical rationales rather than identical rules.",
+    "limitation": "Ancient sexual terminology does not map automatically onto modern categories."
+  },
+  {
+    "id": "sexual-ethics-scope",
+    "comparisonId": "sexual-ethics",
+    "title": "Specific communal rules",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mk-10-02-12",
+      "1co-05-01-13",
+      "1co-07-10-16"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Mark addresses divorce and remarriage; Paul treats misconduct and mixed-belief marriages.",
+    "alternateReading": "Paul may extend rather than contradict earlier teaching when addressing new cases.",
+    "limitation": "Silence in a Gospel passage cannot establish opposition to a Pauline rule."
+  },
+  {
+    "id": "suffering-and-persecution-endurance",
+    "comparisonId": "suffering-and-persecution",
+    "title": "Endurance and hope",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mt-05-01-12",
+      "mk-13-09-13",
+      "ro-08-18-39"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Jesus blesses persecuted followers and urges perseverance; Paul contrasts suffering with future glory.",
+    "alternateReading": "Paul develops a wider account of suffering than persecution alone.",
+    "limitation": "The texts do not imply that all preventable suffering should be accepted."
+  },
+  {
+    "id": "suffering-and-persecution-retaliation",
+    "comparisonId": "suffering-and-persecution",
+    "title": "Responding to opposition",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mt-10-16-25",
+      "ro-12-14-21"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Matthew anticipates hostility toward disciples; Paul calls for blessing persecutors and rejecting revenge.",
+    "alternateReading": "Matthew's mission instructions and Paul's community ethics address different situations.",
+    "limitation": "The selected passages do not provide exhaustive guidance for self-protection."
+  },
+  {
+    "id": "identity-and-divinity-divine-role",
+    "comparisonId": "identity-and-divinity",
+    "title": "Jesus and divine agency",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "jn-05-19-30",
+      "1co-08-04-06",
+      "php-02-01-11"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "John describes the Son's life-giving role; Paul links Christ with creation and exaltation.",
+    "alternateReading": "Divine identity, delegated agency and exaltation are competing interpretive frameworks.",
+    "limitation": "Later creedal terminology cannot be assumed to exhaust the original meanings."
+  },
+  {
+    "id": "identity-and-divinity-subjection",
+    "comparisonId": "identity-and-divinity",
+    "title": "Relationship to the Father",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "jn-14-01-14",
+      "1co-15-12-28"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "John describes access to the Father through Jesus; Paul describes the Son's ultimate subjection to God.",
+    "alternateReading": "Functional subordination and claims about divine nature need not be identical questions.",
+    "limitation": "The passages do not independently settle later metaphysical disputes."
+  },
+  {
+    "id": "atonement-and-repentance-death",
+    "comparisonId": "atonement-and-repentance",
+    "title": "Redemptive significance of death",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "mk-10-35-45",
+      "ro-03-21-26",
+      "ga-03-10-14"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Mark uses ransom imagery; Paul connects Christ's death with redemption and release from the curse.",
+    "alternateReading": "Different metaphors may express overlapping claims without a single atonement mechanism.",
+    "limitation": "The Greek terms and their historical contexts require further study."
+  },
+  {
+    "id": "atonement-and-repentance-forgiveness",
+    "comparisonId": "atonement-and-repentance",
+    "title": "Forgiveness and redemption",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "mk-02-01-12",
+      "lk-19-01-10",
+      "ro-03-21-26"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Gospel narratives depict forgiveness and salvation before the crucifixion; Paul connects redemption with Christ's death.",
+    "alternateReading": "Narrative chronology does not exclude a theological account of the death's significance.",
+    "limitation": "The passages do not specify a uniform causal theory of forgiveness."
+  },
+  {
+    "id": "religious-exclusivity-inclusion",
+    "comparisonId": "religious-exclusivity",
+    "title": "Inclusion across boundaries",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "lk-09-49-50",
+      "mt-28-16-20",
+      "ga-03-26-29"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Luke discourages excluding an outsider acting in Jesus' name; Matthew and Paul extend participation across nations or ethnic groups.",
+    "alternateReading": "Ethnic inclusion and recognition of outsiders do not necessarily imply religious pluralism.",
+    "limitation": "The outsider's action in Jesus' name limits the scope of the example."
+  },
+  {
+    "id": "religious-exclusivity-christ-centered",
+    "comparisonId": "religious-exclusivity",
+    "title": "Christ-centered access",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "jn-14-01-14",
+      "ro-03-28-31"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "John presents Jesus as the way to the Father; Romans frames justification through faith in its Christ-centered argument.",
+    "alternateReading": "The texts address different questions about access and justification.",
+    "limitation": "Neither selected passage alone settles the fate of all non-Christians."
+  },
+  {
+    "id": "spiritual-gifts-and-miracles-distributed",
+    "comparisonId": "spiritual-gifts-and-miracles",
+    "title": "Distributed spiritual activity",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "status": "draft",
+    "passageIds": [
+      "lk-09-01-06",
+      "1co-12-04-31"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Luke depicts authority granted to disciples; Paul describes diverse gifts among community members.",
+    "alternateReading": "Mission authority and assembly gifts need not refer to identical phenomena.",
+    "limitation": "Narrative reports and community instructions have different evidential functions."
+  },
+  {
+    "id": "spiritual-gifts-and-miracles-limits",
+    "comparisonId": "spiritual-gifts-and-miracles",
+    "title": "Limits and priorities of gifts",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "status": "draft",
+    "passageIds": [
+      "lk-09-37-43",
+      "1co-13-01-13",
+      "1co-14-26-40"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ],
+    "observation": "Luke narrates disciples' inability to heal; Paul prioritizes love and regulates assembly contributions.",
+    "alternateReading": "The passages address different limitations rather than a unified theory of miracles.",
+    "limitation": "They do not establish guaranteed healing or settle the duration of spiritual gifts."
   }
 ]
