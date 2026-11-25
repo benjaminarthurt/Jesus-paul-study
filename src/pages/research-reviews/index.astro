@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import { getCollection } from "astro:content";
 
+const comparisons = await getCollection("comparisons");
 const reviews = (await getCollection("reviews")).sort((a, b) => a.id.localeCompare(b.id));
 ---
 <Base title="Research review ledger">
@@ -20,6 +21,8 @@ const reviews = (await getCollection("reviews")).sort((a, b) => a.id.localeCompa
           <h3>{review.body?.match(/^#\s+(.+)$/m)?.[1] ?? review.id}</h3>
           <p><strong>Research status:</strong> Draft / unverified</p>
           <a href={`/research-reviews/${review.id}/`}>Read review and sources</a>
+          <p class="muted">{comparisons.some(entry => entry.data.reviewIds?.includes(review.id)) ? "Linked comparisons:" : "No specific comparison assigned yet."}</p>
+          {comparisons.filter(entry => entry.data.reviewIds?.includes(review.id)).map(entry => <p><a href={`/comparisons/${entry.id}/`}>{entry.data.title}</a></p>)}
         </article>
       ))}
     </div>
