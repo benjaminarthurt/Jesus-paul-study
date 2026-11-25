@@ -7,6 +7,9 @@ paul: [2co-08-01-15, 2co-09-01-15, 1co-16-01-04, ro-15-25-28, ro-12-09-13, ga-02
 context: [ac-04-32-37, 1ti-06-06-19]
 sourceIds: [web-protestant-66, barclay-2023-rich-poverty, welborn-2013-equality, ndekha-2020-luke6, vanzyl-2013-matthew25, shively-2012-mark10, kubis-2015-widow, otten-2023-widow]
 classification: different-emphasis
+reviewIds:
+  - widow-offering-mark12-luke21
+  - 2-corinthians-8-9-voluntary-giving
 ---
 ## Research question and caution
 
