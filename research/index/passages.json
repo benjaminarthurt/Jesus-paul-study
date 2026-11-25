@@ -187,6 +187,18 @@
     "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
   },
   {
+    "id": "2co-05-01-10",
+    "bookId": "2co",
+    "reference": "2 Corinthians 5:1–10",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses mortal existence, hope and accountability before Christ's judgment seat for deeds done in the body.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm"
+  },
+  {
     "id": "2co-08-01-15",
     "bookId": "2co",
     "reference": "2 Corinthians 8:1–15",
@@ -6682,6 +6694,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "ro-02-06-16",
+    "bookId": "ro",
+    "reference": "Romans 2:6–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes impartial divine judgment according to deeds, including the role of the Law and conscience.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
   },
   {
     "id": "ro-03-28-31",
