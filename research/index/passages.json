@@ -307,6 +307,102 @@
     "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
   },
   {
+    "id": "2th-01-03-12",
+    "bookId": "2th",
+    "reference": "2 Thessalonians 1:3–12",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Thessalonians links endurance under persecution with divine judgment and relief.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH01.htm"
+  },
+  {
+    "id": "2th-02-01-12",
+    "bookId": "2th",
+    "reference": "2 Thessalonians 2:1–12",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Thessalonians cautions against claims that the day of the Lord has arrived and describes preceding events.",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm"
+  },
+  {
+    "id": "2th-03-06-15",
+    "bookId": "2th",
+    "reference": "2 Thessalonians 3:6–15",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Thessalonians addresses disorderly conduct and unwillingness to work, while retaining an admonition against treating offenders as enemies.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+  },
+  {
+    "id": "2ti-01-06-14",
+    "bookId": "2ti",
+    "reference": "2 Timothy 1:6–14",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Timothy urges courage, fidelity to received teaching and willingness to suffer.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm"
+  },
+  {
+    "id": "2ti-02-01-13",
+    "bookId": "2ti",
+    "reference": "2 Timothy 2:1–13",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Timothy describes transmitting teaching, enduring hardship and remembering Jesus' resurrection.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+  },
+  {
+    "id": "2ti-02-22-26",
+    "bookId": "2ti",
+    "reference": "2 Timothy 2:22–26",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Timothy urges avoidance of quarrels and gentle correction of opponents.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+  },
+  {
+    "id": "2ti-03-10-17",
+    "bookId": "2ti",
+    "reference": "2 Timothy 3:10–17",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Timothy discusses persecution and the usefulness of scripture for teaching and training.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm"
+  },
+  {
+    "id": "2ti-04-01-08",
+    "bookId": "2ti",
+    "reference": "2 Timothy 4:1–8",
+    "sourceLayer": "paul-disputed",
+    "summary": "Second Timothy urges proclamation and perseverance while anticipating judgment and describing the speaker's approaching death.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm"
+  },
+  {
     "id": "ac-04-32-37",
     "bookId": "ac",
     "reference": "Acts 4:32–37",
@@ -341,6 +437,138 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ACT18.htm"
+  },
+  {
+    "id": "col-01-15-20",
+    "bookId": "col",
+    "reference": "Colossians 1:15–20",
+    "sourceLayer": "paul-disputed",
+    "summary": "Colossians presents Christ as image of the invisible God and relates him to creation and reconciliation.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+  },
+  {
+    "id": "col-02-08-23",
+    "bookId": "col",
+    "reference": "Colossians 2:8–23",
+    "sourceLayer": "paul-disputed",
+    "summary": "Colossians warns against deceptive teaching and judgment over food, festivals and ascetic regulations.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL02.htm"
+  },
+  {
+    "id": "col-03-01-17",
+    "bookId": "col",
+    "reference": "Colossians 3:1–17",
+    "sourceLayer": "paul-disputed",
+    "summary": "Colossians connects renewed life with changed conduct, compassion, forgiveness and love.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+  },
+  {
+    "id": "col-03-18-25",
+    "bookId": "col",
+    "reference": "Colossians 3:18–25",
+    "sourceLayer": "paul-disputed",
+    "summary": "Colossians gives household instructions to wives, husbands, children, parents and enslaved persons.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+  },
+  {
+    "id": "col-04-01-06",
+    "bookId": "col",
+    "reference": "Colossians 4:1–6",
+    "sourceLayer": "paul-disputed",
+    "summary": "Colossians instructs masters to act justly and urges prayer and wise conduct toward outsiders.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL04.htm"
+  },
+  {
+    "id": "eph-02-01-10",
+    "bookId": "eph",
+    "reference": "Ephesians 2:1–10",
+    "sourceLayer": "paul-disputed",
+    "summary": "Ephesians describes salvation by grace through faith and good works as a purpose of renewed life.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm"
+  },
+  {
+    "id": "eph-02-11-22",
+    "bookId": "eph",
+    "reference": "Ephesians 2:11–22",
+    "sourceLayer": "paul-disputed",
+    "summary": "Ephesians depicts reconciliation of Gentiles and Jews through Christ and a shared household of God.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm"
+  },
+  {
+    "id": "eph-04-01-16",
+    "bookId": "eph",
+    "reference": "Ephesians 4:1–16",
+    "sourceLayer": "paul-disputed",
+    "summary": "Ephesians urges unity and describes diverse ministry roles contributing to communal maturity.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "id": "eph-04-25-32",
+    "bookId": "eph",
+    "reference": "Ephesians 4:25–32",
+    "sourceLayer": "paul-disputed",
+    "summary": "Ephesians urges truthful speech, restraint of anger, generosity and mutual forgiveness.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "id": "eph-05-21-33",
+    "bookId": "eph",
+    "reference": "Ephesians 5:21–33",
+    "sourceLayer": "paul-disputed",
+    "summary": "Ephesians frames marital obligations through submission and Christ's relationship to the assembly; interpretation of mutuality and hierarchy is disputed.",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+  },
+  {
+    "id": "eph-06-05-09",
+    "bookId": "eph",
+    "reference": "Ephesians 6:5–9",
+    "sourceLayer": "paul-disputed",
+    "summary": "Ephesians addresses enslaved persons and masters, instructing masters against threats without explicitly abolishing slavery.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
   },
   {
     "id": "ga-02-01-10",
