@@ -6,7 +6,11 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "II-II q78 a1, https://www.newadvent.org/summa/3078.htm, objections and answer, replies 1–4. Luke 19:23 spiritual interpretation, Luke 6:35 differentiated lending duty and profit prohibition; civil permission does not establish moral approval. Anti-Jewish stereotype in reply 2 is author's prejudice, not historical fact."
+    "recheckNote": "II-II q78 a1, https://www.newadvent.org/summa/3078.htm, objections and answer, replies 1–4. Luke 19:23 spiritual interpretation, Luke 6:35 differentiated lending duty and profit prohibition; civil permission does not establish moral approval. Anti-Jewish stereotype in reply 2 is author's prejudice, not historical fact.",
+    "period": "medieval",
+    "comparisonIds": [
+      "wealth-and-generosity"
+    ]
   },
   {
     "reviewId": "aquinas-property-reception",
@@ -15,7 +19,11 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "II-II q66 aa1–2, https://www.newadvent.org/summa/3066.htm. Article 1 reply 2 criticizes absolute ownership in Luke 12:18; article 2 answer explicitly cites 1 Timothy 6:17–18 for sharing. Distinguishes administration and use; ownership arises from human agreement in reply 1."
+    "recheckNote": "II-II q66 aa1–2, https://www.newadvent.org/summa/3066.htm. Article 1 reply 2 criticizes absolute ownership in Luke 12:18; article 2 answer explicitly cites 1 Timothy 6:17–18 for sharing. Distinguishes administration and use; ownership arises from human agreement in reply 1.",
+    "period": "medieval",
+    "comparisonIds": [
+      "wealth-and-generosity"
+    ]
   },
   {
     "reviewId": "aquinas-war-reception",
@@ -24,7 +32,11 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "II-II q40 a1, https://www.newadvent.org/summa/3040.htm, objections 1–2, answer and replies 1–3. Romans 13:4 explicitly extended from domestic punishment to external defense; Matthew 5:39 and Romans 12:19 treated together in reply 2. Augustine quotation in answer has editorial attribution correction; trace separately."
+    "recheckNote": "II-II q40 a1, https://www.newadvent.org/summa/3040.htm, objections 1–2, answer and replies 1–3. Romans 13:4 explicitly extended from domestic punishment to external defense; Matthew 5:39 and Romans 12:19 treated together in reply 2. Augustine quotation in answer has editorial attribution correction; trace separately.",
+    "period": "medieval",
+    "comparisonIds": [
+      "enemy-love-and-civil-authority"
+    ]
   },
   {
     "reviewId": "augsburg-civil-authority-reception",
@@ -35,7 +47,12 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Article XVI §§1–7. Permits civil offices, just war and required oaths; obedience bounded by Acts 5:29. Romans 13 is a comparison, not cited explicitly in this article.",
     "recheckUrl": "https://bookofconcord.org/augsburg-confession/of-civil-affairs/",
-    "recheckScope": "Article XVI §§1–7"
+    "recheckScope": "Article XVI §§1–7",
+    "period": "reformation",
+    "comparisonIds": [
+      "enemy-love-and-civil-authority",
+      "truthfulness-and-oaths"
+    ]
   },
   {
     "reviewId": "augsburg-justification-reception",
@@ -46,7 +63,12 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Article IV §§1–3. Justification through faith rather than human merit; Romans 3–4 explicitly referenced. Article VI on obedience remains complementary context.",
     "recheckUrl": "https://bookofconcord.org/augsburg-confession/of-justification/",
-    "recheckScope": "Article IV §§1–3"
+    "recheckScope": "Article IV §§1–3",
+    "period": "reformation",
+    "comparisonIds": [
+      "salvation-and-judgment",
+      "law-and-faith"
+    ]
   },
   {
     "reviewId": "augustine-coercion-reception",
@@ -57,7 +79,12 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Chapter 1 §§1–3; chapter 2 §§4–5. Uses Matthew 5:45, Luke 14:23 and Saul's conversion in Acts to defend corrective coercion. The latter is narrative reception, not a command from Paul's letters. His reported effectiveness is not independent evidence.",
     "recheckUrl": "https://www.newadvent.org/fathers/1102093.htm",
-    "recheckScope": "Chapter 1 §§1–3; chapter 2 §§4–5"
+    "recheckScope": "Chapter 1 §§1–3; chapter 2 §§4–5",
+    "period": "late-antique",
+    "comparisonIds": [
+      "enemy-love-and-civil-authority",
+      "outsiders-and-community-boundaries"
+    ]
   },
   {
     "reviewId": "augustine-grace-reception",
@@ -68,7 +95,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Retractions extract and chapters 1–2 opening. Presents grace and free choice as compatible, invokes Philippians 3:12–16 and argues that moral commands presuppose agency. Later chapters and companion works still require collation.",
     "recheckUrl": "https://www.newadvent.org/fathers/1510.htm",
-    "recheckScope": "Retractions extract and chapters 1–2 opening"
+    "recheckScope": "Retractions extract and chapters 1–2 opening",
+    "period": "late-antique",
+    "comparisonIds": [
+      "salvation-and-judgment"
+    ]
   },
   {
     "reviewId": "catechism-war",
@@ -79,7 +110,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "§§2302–2317. Affirms enemy love and nonviolent witness, conditional military self-defense, conscience accommodation and limits on wartime actions. Distinguish explicit Gospel citations from thematic comparison with Romans 13.",
     "recheckUrl": "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_5/iii_safeguarding_peace.html",
-    "recheckScope": "§§2302–2317"
+    "recheckScope": "§§2302–2317",
+    "period": "modern",
+    "comparisonIds": [
+      "enemy-love-and-civil-authority"
+    ]
   },
   {
     "reviewId": "chrysostom-baptism-ethics",
@@ -90,7 +125,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Opening exposition of Romans 6:5. Distinguishes baptismal forgiveness as gift from ongoing moral effort supported by God; identifies doctrinal and ethical exhortation as interwoven in Romans.",
     "recheckUrl": "https://www.newadvent.org/fathers/210211.htm",
-    "recheckScope": "Opening exposition of Romans 6:5"
+    "recheckScope": "Opening exposition of Romans 6:5",
+    "period": "late-antique",
+    "comparisonIds": [
+      "salvation-and-judgment"
+    ]
   },
   {
     "reviewId": "clement-corinth-reception",
@@ -101,7 +140,12 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Chs 1–2, 5, 7–8, 46–49. Chapter 47 expressly invokes Paul's Corinthian letter against faction, and chapter 46 places Jesus' warning about stumbling blocks alongside Pauline body language. Chapter 8 connects repentance with Isaiah's demands for justice. Distinguish the author's wording from editorial verse links.",
     "recheckUrl": "https://www.newadvent.org/fathers/1010.htm",
-    "recheckScope": "Chs 1–2, 5, 7–8, 46–49"
+    "recheckScope": "Chs 1–2, 5, 7–8, 46–49",
+    "period": "early",
+    "comparisonIds": [
+      "leadership-and-authority",
+      "speech-and-conflict"
+    ]
   },
   {
     "reviewId": "didache-ethical-reception",
@@ -110,7 +154,12 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "Chapters 1–6: generosity qualified by recipient need and discernment; household slave obedience alongside common divine authority; differentiated obligations and caution on idol food. Ephesians and Colossians links are editorial cross-references, not explicit citations."
+    "recheckNote": "Chapters 1–6: generosity qualified by recipient need and discernment; household slave obedience alongside common divine authority; differentiated obligations and caution on idol food. Ephesians and Colossians links are editorial cross-references, not explicit citations.",
+    "period": "early",
+    "comparisonIds": [
+      "wealth-and-generosity",
+      "slavery-and-social-status"
+    ]
   },
   {
     "reviewId": "ignatius-authority-reception",
@@ -119,7 +168,11 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "Chapters 2–10: bishop, presbyters and deacons; obedience connected with divine authority; chapter 9 English rendering explicitly mentions Lord's Day, Greek interpretation pending. Chapter 10 polemic should not be endorsed."
+    "recheckNote": "Chapters 2–10: bishop, presbyters and deacons; obedience connected with divine authority; chapter 9 English rendering explicitly mentions Lord's Day, Greek interpretation pending. Chapter 10 polemic should not be endorsed.",
+    "period": "early",
+    "comparisonIds": [
+      "leadership-and-authority"
+    ]
   },
   {
     "reviewId": "ignatius-unity-reception",
@@ -128,7 +181,12 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "Chapters 1–9: bishop's meekness; repentance and unity in chapters 3 and 8; single Eucharist in 4; divine witness in 7. Galatians 1:1 link is editorial; verbal resemblance is not proven dependence."
+    "recheckNote": "Chapters 1–9: bishop's meekness; repentance and unity in chapters 3 and 8; single Eucharist in 4; divine witness in 7. Galatians 1:1 link is editorial; verbal resemblance is not proven dependence.",
+    "period": "early",
+    "comparisonIds": [
+      "leadership-and-authority",
+      "forgiveness-and-restoration"
+    ]
   },
   {
     "reviewId": "irenaeus-succession-reception",
@@ -137,7 +195,11 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "Against Heresies III.3 §§1–4, Roberts and Rambaut, ANF 1 (1885), New Advent. Explicit attribution to Paul of Titus 3:10–11 in §4 and reference to Timothy regarding Linus in §3. These demonstrate reception of disputed Pauline letters, not historical verification of succession lists. https://www.newadvent.org/fathers/0103303.htm"
+    "recheckNote": "Against Heresies III.3 §§1–4, Roberts and Rambaut, ANF 1 (1885), New Advent. Explicit attribution to Paul of Titus 3:10–11 in §4 and reference to Timothy regarding Linus in §3. These demonstrate reception of disputed Pauline letters, not historical verification of succession lists. https://www.newadvent.org/fathers/0103303.htm",
+    "period": "early",
+    "comparisonIds": [
+      "leadership-and-authority"
+    ]
   },
   {
     "reviewId": "joint-declaration-law",
@@ -148,7 +210,12 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "§§26–31. Paragraph 31 joins Romans 3:28 with continuing validity of commandments and Jesus' example. Page metadata identifies 1997 document; final signing texts not yet checked.",
     "recheckUrl": "https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-occidentale/luterani/dialogo/documenti-di-dialogo/1999-dichiarazione-congiunta-sulla-dottrina-della-giustificazion/en.html",
-    "recheckScope": "§§26–31"
+    "recheckScope": "§§26–31",
+    "period": "modern",
+    "comparisonIds": [
+      "law-and-faith",
+      "salvation-and-judgment"
+    ]
   },
   {
     "reviewId": "justin-covenant-reception",
@@ -159,7 +226,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Chs 10–11. Trypho challenges failure to observe circumcision and Sabbath; Justin presents Christ as the universal successor covenant. This is a literary dialogue; similarity to Paul does not establish direct borrowing or represent all Judaism.",
     "recheckUrl": "https://www.newadvent.org/fathers/01282.htm",
-    "recheckScope": "Chs 10–11"
+    "recheckScope": "Chs 10–11",
+    "period": "early",
+    "comparisonIds": [
+      "law-and-faith"
+    ]
   },
   {
     "reviewId": "nicaea-doctrine-governance",
@@ -168,14 +239,23 @@
     "independentScholarship": "pending",
     "publicationStatus": "draft",
     "recheckDate": "2026-11-26",
-    "recheckNote": "New Advent English text, creed and canons 2–5, 8–11 rechecked. Canon 2 explicitly quotes the novice restriction of 1 Timothy 3:6; its wording also resembles 3:7. Canon 5 requires review of exclusions; canon 8 conditions reintegration on communion with twice-married and repentant persons. Canon 11 specifies staged penance. Additional candidates: canon 17 invokes Psalm 15 against clerical usury, canon 19 concerns specifically Paulianist deaconesses, not every female minister. Edition details and original texts pending. https://www.newadvent.org/fathers/3801.htm"
+    "recheckNote": "New Advent English text, creed and canons 2–5, 8–11 rechecked. Canon 2 explicitly quotes the novice restriction of 1 Timothy 3:6; its wording also resembles 3:7. Canon 5 requires review of exclusions; canon 8 conditions reintegration on communion with twice-married and repentant persons. Canon 11 specifies staged penance. Additional candidates: canon 17 invokes Psalm 15 against clerical usury, canon 19 concerns specifically Paulianist deaconesses, not every female minister. Edition details and original texts pending. https://www.newadvent.org/fathers/3801.htm",
+    "period": "late-antique",
+    "comparisonIds": [
+      "leadership-and-authority",
+      "forgiveness-and-restoration"
+    ]
   },
   {
     "reviewId": "papias-tradition-reception",
     "verification": "selected-english-text-rechecked",
     "criticalEdition": "pending",
     "independentScholarship": "pending",
-    "publicationStatus": "draft"
+    "publicationStatus": "draft",
+    "period": "early",
+    "comparisonIds": [
+      "leadership-and-authority"
+    ]
   },
   {
     "reviewId": "schleitheim-baptism",
@@ -186,7 +266,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Article I. Repentant voluntary recipients; burial and resurrection language resembles Romans 6, while explicit references list Matthew, Mark and Acts. Mark 16 textual status requires caution.",
     "recheckUrl": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/an-anabaptist-confession-of-faith-the-schleitheim-articles-1527",
-    "recheckScope": "Article I"
+    "recheckScope": "Article I",
+    "period": "reformation",
+    "comparisonIds": [
+      "salvation-and-judgment"
+    ]
   },
   {
     "reviewId": "schleitheim-discipline",
@@ -197,7 +281,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Articles II–III. Private admonitions before public discipline, citing Matthew 18; communion boundaries invoke Pauline table imagery. Separate textual status from practical implementation.",
     "recheckUrl": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/an-anabaptist-confession-of-faith-the-schleitheim-articles-1527",
-    "recheckScope": "Articles II–III"
+    "recheckScope": "Articles II–III",
+    "period": "reformation",
+    "comparisonIds": [
+      "forgiveness-and-restoration"
+    ]
   },
   {
     "reviewId": "schleitheim-oaths",
@@ -208,7 +296,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Article VII. Rejects oaths and expressly answers objections based on Peter and Paul by distinguishing testimony from promises; compare but do not assume this resolves Galatians 1:20 or 2 Corinthians 1:23.",
     "recheckUrl": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/an-anabaptist-confession-of-faith-the-schleitheim-articles-1527",
-    "recheckScope": "Article VII"
+    "recheckScope": "Article VII",
+    "period": "reformation",
+    "comparisonIds": [
+      "truthfulness-and-oaths"
+    ]
   },
   {
     "reviewId": "schleitheim-pastors",
@@ -219,7 +311,12 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Article V. Pastoral qualifications, congregational support and public accountability use Pauline material including traditional Pastorals. Authorship remains distinguished from confessional attribution.",
     "recheckUrl": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/an-anabaptist-confession-of-faith-the-schleitheim-articles-1527",
-    "recheckScope": "Article V"
+    "recheckScope": "Article V",
+    "period": "reformation",
+    "comparisonIds": [
+      "leadership-and-authority",
+      "work-and-material-support"
+    ]
   },
   {
     "reviewId": "schleitheim-sword",
@@ -230,7 +327,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Article VI. Rejects Christian participation in coercive magistracy while accepting secular government has a role; appeals to Jesus and Pauline conformity and spiritual warfare. Uses the disputed adulterous-woman passage.",
     "recheckUrl": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/an-anabaptist-confession-of-faith-the-schleitheim-articles-1527",
-    "recheckScope": "Article VI"
+    "recheckScope": "Article VI",
+    "period": "reformation",
+    "comparisonIds": [
+      "enemy-love-and-civil-authority"
+    ]
   },
   {
     "reviewId": "tertullian-doctrinal-boundaries",
@@ -241,7 +342,12 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Chs 1, 3–4. Combines Matthew 7:15 with 1 Corinthians 11:19 and disputes an interpretation of 1 Thessalonians 5:21. Explicit reception of both traditions; not proof that dissenters actually held the views attributed to them.",
     "recheckUrl": "https://www.newadvent.org/fathers/0311.htm",
-    "recheckScope": "Chs 1, 3–4"
+    "recheckScope": "Chs 1, 3–4",
+    "period": "early",
+    "comparisonIds": [
+      "outsiders-and-community-boundaries",
+      "leadership-and-authority"
+    ]
   },
   {
     "reviewId": "trent-justification-reception",
@@ -252,6 +358,11 @@
     "recheckDate": "2026-11-26",
     "recheckNote": "Session VI chapters VII–XI. Initial justification is unmerited, while renewal and growth involve grace-enabled conduct. Chapter VII combines James 2, Galatians 5:6 and Matthew 19:17; chapter XI invokes 1 Corinthians 9. Canons and edition identification remain pending.",
     "recheckUrl": "https://adfonteslibrary.org/work-council-trent-session-06",
-    "recheckScope": "Session VI chapters VII–XI"
+    "recheckScope": "Session VI chapters VII–XI",
+    "period": "reformation",
+    "comparisonIds": [
+      "salvation-and-judgment",
+      "law-and-faith"
+    ]
   }
 ]

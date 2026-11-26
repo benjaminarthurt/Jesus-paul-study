@@ -6,14 +6,17 @@ export async function getStaticPaths() {
     params: { id: review.id }, props: { review }
   }));
 }
+import historical from "../../../research/index/historical-verification.json";
 const { review } = Astro.props;
-const relatedComparisons = (await getCollection("comparisons")).filter(entry => entry.data.reviewIds?.includes(review.id));
+const historicalRecord = historical.find(row => row.reviewId === review.id);
+const relatedComparisons = (await getCollection("comparisons")).filter(entry => entry.data.reviewIds?.includes(review.id) || historicalRecord?.comparisonIds.includes(entry.id));
 const { Content } = await render(review);
 const title = review.body?.match(/^#\s+(.+)$/m)?.[1] ?? review.id;
 ---
 <Base title={title}>
   <p><a href="/research-reviews/">Back to research review ledger</a></p>
   <div class="warning"><strong>Draft research:</strong> This working note is not an independently verified conclusion. Consult its source limitations and verification requirements.</div>
+  {historicalRecord && <section class="panel"><h2>Historical reception</h2><p>Recorded excerpt audit: {historicalRecord.verification.replaceAll("-", " ")}. Full scholarly verification remains pending.</p><p><a href="/historical-reception/">Historical reception index</a></p></section>}
   <article class="group"><Content /></article>
   <section class="panel evidence-section" aria-labelledby="related-comparisons">
     <h2 id="related-comparisons">Related comparisons</h2>
