@@ -382,5 +382,53 @@
     "url": "https://repository.nottingham.ac.uk/entities/publication/862c087e-56c4-468d-948a-bc300d94758f",
     "accessScope": "publisher-abstract-only",
     "note": "The repository abstract argues for later interpolation. This is a research thesis, not a peer-reviewed article or settled textual-critical consensus; full thesis and manuscript sigla not inspected."
+  },
+  {
+    "id": "ellis-corinthian-traditions",
+    "type": "peer-reviewed-article",
+    "author": "E. Earle Ellis",
+    "title": "Traditions in I Corinthians",
+    "publisher": "New Testament Studies 32.4",
+    "year": 1986,
+    "location": "Publisher extract and metadata; article spans pp. 481–502.",
+    "url": "https://doi.org/10.1017/S002868850001417X",
+    "accessScope": "selected-excerpt",
+    "note": "Inspected the definition of tradition in the opening extract. The rest of the article was not accessed."
+  },
+  {
+    "id": "becker-traditions",
+    "type": "academic-book",
+    "author": "Eve-Marie Becker",
+    "title": "How and Why Paul Deals with Traditions",
+    "publisher": "Pauline Hermeneutics, LWF Studies 2016/3",
+    "year": 2016,
+    "location": "Chapter in the volume edited by Eve-Marie Becker and Kenneth Mtata, especially pp. 30–31.",
+    "url": "https://www.tarsus.ie/resources/Bible/dtpw-studies-201602-pauline_hermeneutics_low.pdf",
+    "accessScope": "selected-excerpt",
+    "note": "The volume was accessible in PDF. Selected passages comparing the supper and resurrection traditions and distinguishing kinds of appeals to Jesus were inspected."
+  },
+  {
+    "id": "hiestermann-jesus-tradition",
+    "type": "scholarly-overview",
+    "author": "Heinz Arnold Hiestermann",
+    "title": "Paul’s Use of the Synoptic Jesus Tradition",
+    "publisher": "University of Pretoria, doctoral thesis",
+    "year": 2016,
+    "location": "Title page and section 3.4, “The limitations”.",
+    "url": "https://repository.up.ac.za/bitstream/handle/2263/56971/Hiestermann_Paul_2016.pdf",
+    "accessScope": "selected-excerpt",
+    "note": "Selected thesis passages were inspected in the accessible PDF, including the definition of the corpus of explicit references."
+  },
+  {
+    "id": "sblgnt-1co7",
+    "type": "primary-edition",
+    "author": "Michael W. Holmes (editor)",
+    "title": "The Greek New Testament: SBL Edition, 1 Corinthians 7",
+    "publisher": "Society of Biblical Literature and Logos Bible Software",
+    "year": 2010,
+    "location": "Selected wording in 1 Corinthians 7, especially verses 5, 10, 25 and 40.",
+    "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%207&version=SBLGNT",
+    "accessScope": "selected-excerpt",
+    "note": "Consulted the Greek text as displayed on Bible Gateway. No independent collation of manuscript evidence was performed."
   }
 ]

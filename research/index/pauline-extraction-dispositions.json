@@ -109,9 +109,21 @@
     "passageId": "1co-07-01-09",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-07-03-05"
+      "1co-t-07-03-05",
+      "1co-t-07-01-02",
+      "1co-t-07-06-07",
+      "1co-t-07-08-09"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Verse 1 introduces the Corinthians’ letter. The abstinence maxim may voice their position. The referent of the concession in 6 is disputed. Verses 8–9 address unmarried people and widows.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO07.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-07-10-16",
@@ -120,15 +132,34 @@
       "1co-t-07-10-11",
       "1co-t-07-12-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Verse 10 names the Lord as authority. Verse 11 includes a parenthetical direction. Verse 12 introduces Paul’s ruling on a different case. Verse 15 permits departure. Whether it also permits remarriage remains disputed.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO07.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-07-17-24",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-07-20-24"
+      "1co-t-07-20-24",
+      "1co-t-07-17-19"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Circumcision illustrates calling in 17–19. Verses 20–24 turn to enslaved and free people. The object implied in the imperative in 21 remains interpretively disputed.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO07.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-07-25-40",
@@ -140,7 +171,16 @@
       "1co-t-07-36-38",
       "1co-t-07-39-40"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Verse 25 introduces personal judgment in the absence of a command from the Lord. Verses 29–35 give reasons. The relationship in 36–38 is disputed. Verse 40 again marks personal judgment.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO07.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-08-01-13",
@@ -164,17 +204,40 @@
     "disposition": "selected-candidates",
     "teachingIds": [
       "1co-t-09-14-14",
-      "1co-t-09-15-18"
+      "1co-t-09-15-18",
+      "1co-t-09-01-02",
+      "1co-t-09-03-07",
+      "1co-t-09-08-10",
+      "1co-t-09-11-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Rhetorical questions, an embedded Torah citation in 9, and the temple analogy precede the Lord-attributed ruling in 14. Paul explains in 15–18 why he waives the right.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO09.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-09-19-27",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-09-19-23"
+      "1co-t-09-19-23",
+      "1co-t-09-24-27"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul first describes adapting his practice. The athletic illustration in 24–27 addresses perseverance and includes Paul himself.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO09.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-10-01-13",
@@ -202,15 +265,38 @@
     "teachingIds": [
       "1co-t-11-01-01"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The speaker asks the recipients to imitate his example insofar as he imitates Christ. The imperative continues the preceding argument.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO11.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-11-02-16",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-11-05-05"
+      "1co-t-11-05-05",
+      "1co-t-11-02-03",
+      "1co-t-11-04-06",
+      "1co-t-11-07-10",
+      "1co-t-11-11-12",
+      "1co-t-11-13-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The record for verse 5 isolates evidence of women praying and prophesying within the larger covering instruction in 4–6. Verses 11–12 qualify the preceding appeal to origins. The meaning of head and the appeal to angels require further review.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO11.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-11-17-34",
@@ -219,9 +305,21 @@
       "1co-t-11-20-22",
       "1co-t-11-23-25",
       "1co-t-11-26-26",
-      "1co-t-11-33-34"
+      "1co-t-11-33-34",
+      "1co-t-11-17-19",
+      "1co-t-11-27-29",
+      "1co-t-11-30-32"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul addresses divisions and hunger before citing the supper. Verse 23 frames the tradition, 24–25 report words over bread and cup, and 26 supplies an explanation. Verse 34 closes with a local meal instruction and defers other matters to a visit.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO11.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-12-01-03",
@@ -252,18 +350,42 @@
     "passageId": "1co-14-01-25",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-14-01-05"
+      "1co-t-14-01-05",
+      "1co-t-14-06-12",
+      "1co-t-14-13-19",
+      "1co-t-14-20-22",
+      "1co-t-14-23-25"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Tongues and prophecy are evaluated in terms of intelligibility, edification and the visitor. Verse 21 introduces a scriptural citation voiced by the Lord. Verses 22–25 are Paul’s argument about its implications.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO14.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-14-26-40",
     "disposition": "selected-candidates",
     "teachingIds": [
       "1co-t-14-26-33",
-      "1co-t-14-39-40"
+      "1co-t-14-39-40",
+      "1co-t-14-36-36",
+      "1co-t-14-37-38"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Assembly directions are interrupted by the contested restriction separately indexed under 34–35. Verse 36 challenges the audience. Verse 37 claims divine authority for written directions. The referent of those directions requires interpretation.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO14.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-14-34-35",
@@ -271,7 +393,16 @@
     "teachingIds": [
       "1co-t-14-34-35"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The received text contains the restriction. Its manuscript position, possible interpolation and proposal that it voices a position answered in 36 are distinct questions. Speaker attribution remains disputed.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO14.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-15-01-11",
@@ -452,9 +583,19 @@
     "passageId": "1th-04-01-08",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1th-t-04-03-08"
+      "1th-t-04-03-08",
+      "1th-t-04-01-02"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The writers appeal to instructions given through the Lord Jesus in 1–2. The exhortation that follows is in their collective voice. The interpretation of the expression translated as control of the body in 4 requires Greek review.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH04.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-04-09-12",
@@ -462,7 +603,16 @@
     "teachingIds": [
       "1th-t-04-09-12"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The writers distinguish the recipients’ existing practice of love from their appeal for further growth, quiet conduct, and work.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH04.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-04-13-18",
@@ -473,7 +623,16 @@
       "1th-t-04-16-17",
       "1th-t-04-18-18"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Grief supplies the setting. Verse 15 invokes a word of the Lord about priority. Its possible scope extends into 16–17. Verse 18 turns to mutual consolation.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH04.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-05-01-11",
@@ -879,7 +1038,16 @@
       "2co-t-12-09-09",
       "2co-t-12-09-10"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The vision narrative withholds the words heard in 4. The answer in 9a is reported divine speech in response to prayer. Paul resumes in 9b and draws the inference in 10.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO12.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-12-11-21",
@@ -889,7 +1057,16 @@
       "2co-t-12-14-18",
       "2co-t-12-19-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul defends apostolic signs, recalls financial conduct and reports concern about his visit. Verse 16 entertains an accusation before the rebuttal in 17–18.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO12.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-13-01-14",

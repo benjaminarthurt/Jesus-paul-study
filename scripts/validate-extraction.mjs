@@ -1,7 +1,7 @@
 import { readFileSync, existsSync } from "node:fs";
 
 const load = name => JSON.parse(readFileSync(new URL("../research/index/" + name + ".json", import.meta.url)));
-const attributions = new Set(["letter-discourse", "lord-attributed-instruction", "received-jesus-tradition", "reported-lord-response", "scriptural-divine-speech", "scripture-citation"]);
+const attributions = new Set(["letter-discourse", "lord-attributed-instruction", "received-jesus-tradition", "reported-lord-response", "scriptural-divine-speech", "scripture-citation", "claimed-lord-authority", "contested-voice"]);
 const teachingTypes = new Set(["instruction", "exhortation", "rhetorical-question", "doctrinal-argument", "prayer", "narrative-example", "confession", "quotation"]);
 const dispositions = new Set(["direct-speech", "reported-speech", "disputed-speech", "ambiguous-speaker", "other-speakers", "narrative", "reported-action"]);
 const forms = new Set(["instruction", "question", "promise", "claim", "teaching", "warning", "reported-prediction", "reported-teaching", "symbolic-action", "blessing", "greeting"]);
