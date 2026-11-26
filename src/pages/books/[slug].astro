@@ -2,12 +2,14 @@
 import Base from "../../layouts/Base.astro";
 import books from "../../../research/index/books.json";
 import passages from "../../../research/index/passages.json";
+import paulineChapters from "../../../research/index/pauline-chapters.json";
 import sayings from "../../../research/index/sayings.json";
 import { literaryUnitLabel } from "../../lib/literary-unit-label.mjs";
 export function getStaticPaths() {
   return books.map(book => ({ params: { slug: book.id }, props: { book } }));
 }
 const { book } = Astro.props;
+const letterChapters = paulineChapters.filter(c => c.bookId === book.id);
 const refs = passages.filter(p => p.bookId === book.id);
 const chapterOf = (ref: { reference: string }) => Number(ref.reference.match(/(\d+):\d+/)?.[1] || 0);
 const verseOf = (ref: { reference: string }) => Number(ref.reference.match(/\d+:(\d+)/)?.[1] || 0);
@@ -56,6 +58,7 @@ const groups = pilot
     </section>)}
   </> : <>
     <p class="warning">Coverage is developing. The references below are only an initial catalog, not an exhaustive account of this book.</p>
+    {letterChapters.length > 0 && <section class="panel"><h2>Chapter inventory</h2><p class="muted">Draft chapter summaries, not exhaustive teaching extraction.</p>{letterChapters.map(c => <article class="reference"><h3>Chapter {c.chapter}</h3><p>{c.summary}</p><p><a href={c.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a> · <a href={`/topics/${c.topic}/`}>Primary theme</a> · {refs.filter(r => chapterOf(r) === c.chapter).length} selected passage records</p></article>)}</section>}
     <section class="study">
       <h2>Indexed passages ({visible.length})</h2>
       {visible.length ? visible.map(ref => <div class="reference" id={ref.id}>
