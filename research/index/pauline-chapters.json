@@ -1,0 +1,785 @@
+[
+  {
+    "bookId": "ro",
+    "chapter": 1,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mission",
+    "summary": "Greeting, apostolic commission and the gospel; human wrongdoing and accountability.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO01.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 2,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Judgment, impartiality, Torah and inward identity.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO02.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 3,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mosaic-law",
+    "summary": "Universal sin, justification and the relation of faith to law.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO03.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 4,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mosaic-law",
+    "summary": "Abraham, faith, promise and circumcision.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO04.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 5,
+    "sourceLayer": "paul-undisputed",
+    "topic": "identity-resurrection",
+    "summary": "Peace with God, suffering, Adam and Christ.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO05.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 6,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Baptism, death to sin and service to righteousness.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO06.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 7,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mosaic-law",
+    "summary": "Changed relation to law and the struggle with sin.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO07.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 8,
+    "sourceLayer": "paul-undisputed",
+    "topic": "identity-resurrection",
+    "summary": "Life in the Spirit, suffering and hope.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO08.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 9,
+    "sourceLayer": "paul-undisputed",
+    "topic": "inclusion",
+    "summary": "Israel, election, promise and mercy.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO09.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 10,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mission",
+    "summary": "Israel, righteousness, faith and proclamation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO10.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 11,
+    "sourceLayer": "paul-undisputed",
+    "topic": "inclusion",
+    "summary": "Israel and Gentiles, olive tree imagery and mercy.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO11.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 12,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Renewed life, diverse gifts, love and nonretaliation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO12.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 13,
+    "sourceLayer": "paul-undisputed",
+    "topic": "authority",
+    "summary": "Civil authority, love and moral vigilance.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO13.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 14,
+    "sourceLayer": "paul-undisputed",
+    "topic": "inclusion",
+    "summary": "Food, days, conscience and mutual acceptance.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO14.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 15,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mission",
+    "summary": "Mutual welcome, Gentile mission and collection for Jerusalem.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO15.htm"
+  },
+  {
+    "bookId": "ro",
+    "chapter": 16,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Greetings, coworkers, warnings and closing praise.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/RO16.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 1,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Divisions, baptism and the wisdom of the cross.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 2,
+    "sourceLayer": "paul-undisputed",
+    "topic": "identity-resurrection",
+    "summary": "Divine wisdom, Spirit and discernment.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 3,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Factionalism, ministry and building imagery.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO03.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 4,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Apostolic stewardship, judgment and example.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 5,
+    "sourceLayer": "paul-undisputed",
+    "topic": "forgiveness",
+    "summary": "Community discipline and sexual misconduct.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO05.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 6,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Disputes, bodily conduct and belonging to Christ.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 7,
+    "sourceLayer": "paul-undisputed",
+    "topic": "marriage-divorce",
+    "summary": "Marriage, separation, singleness and calling.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 8,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Idol food, knowledge, conscience and love.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 9,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mission",
+    "summary": "Apostolic rights, self-restraint and mission.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 10,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Israel's example, idolatry and communal responsibility.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 11,
+    "sourceLayer": "paul-undisputed",
+    "topic": "women-authority",
+    "summary": "Head coverings, communal worship and the Lord's supper.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 12,
+    "sourceLayer": "paul-undisputed",
+    "topic": "healing",
+    "summary": "Spiritual gifts and the body metaphor.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 13,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Love and the limits of spiritual gifts.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 14,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Prophecy, tongues and orderly assembly.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 15,
+    "sourceLayer": "paul-undisputed",
+    "topic": "identity-resurrection",
+    "summary": "Resurrection proclamation and transformed life.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+  },
+  {
+    "bookId": "1co",
+    "chapter": 16,
+    "sourceLayer": "paul-undisputed",
+    "topic": "wealth-poverty",
+    "summary": "Collection, travel plans and greetings.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 1,
+    "sourceLayer": "paul-undisputed",
+    "topic": "suffering",
+    "summary": "Comfort in affliction and explanation of travel plans.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 2,
+    "sourceLayer": "paul-undisputed",
+    "topic": "forgiveness",
+    "summary": "Painful correspondence, forgiveness and ministry.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 3,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mosaic-law",
+    "summary": "Letters of recommendation and old and new covenant imagery.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO03.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 4,
+    "sourceLayer": "paul-undisputed",
+    "topic": "suffering",
+    "summary": "Ministry, weakness and unseen hope.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO04.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 5,
+    "sourceLayer": "paul-undisputed",
+    "topic": "identity-resurrection",
+    "summary": "Mortality, judgment and reconciliation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 6,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Ministry hardships and communal separation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 7,
+    "sourceLayer": "paul-undisputed",
+    "topic": "forgiveness",
+    "summary": "Repentance, grief and restored confidence.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO07.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 8,
+    "sourceLayer": "paul-undisputed",
+    "topic": "wealth-poverty",
+    "summary": "Collection, generosity and equality.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 9,
+    "sourceLayer": "paul-undisputed",
+    "topic": "wealth-poverty",
+    "summary": "Voluntary giving and thanksgiving.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 10,
+    "sourceLayer": "paul-undisputed",
+    "topic": "authority",
+    "summary": "Defense of apostolic authority and boasting.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO10.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 11,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Rival apostles, suffering and self-defense.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 12,
+    "sourceLayer": "paul-undisputed",
+    "topic": "suffering",
+    "summary": "Visions, weakness and apostolic concerns.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm"
+  },
+  {
+    "bookId": "2co",
+    "chapter": 13,
+    "sourceLayer": "paul-undisputed",
+    "topic": "authority",
+    "summary": "Warnings, self-examination and closing exhortation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO13.htm"
+  },
+  {
+    "bookId": "ga",
+    "chapter": 1,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mission",
+    "summary": "Defense of gospel and account of Paul's calling.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GA01.htm"
+  },
+  {
+    "bookId": "ga",
+    "chapter": 2,
+    "sourceLayer": "paul-undisputed",
+    "topic": "inclusion",
+    "summary": "Jerusalem meetings, Antioch dispute and justification.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GA02.htm"
+  },
+  {
+    "bookId": "ga",
+    "chapter": 3,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mosaic-law",
+    "summary": "Faith, promise, law and belonging to Christ.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GA03.htm"
+  },
+  {
+    "bookId": "ga",
+    "chapter": 4,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mosaic-law",
+    "summary": "Heirs, slavery imagery and the Hagar allegory.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GA04.htm"
+  },
+  {
+    "bookId": "ga",
+    "chapter": 5,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Freedom, circumcision, love and fruit of the Spirit.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GA05.htm"
+  },
+  {
+    "bookId": "ga",
+    "chapter": 6,
+    "sourceLayer": "paul-undisputed",
+    "topic": "discipleship",
+    "summary": "Restoration, burdens, sowing and closing appeal.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GA06.htm"
+  },
+  {
+    "bookId": "php",
+    "chapter": 1,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mission",
+    "summary": "Thanksgiving, imprisonment and gospel proclamation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm"
+  },
+  {
+    "bookId": "php",
+    "chapter": 2,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Humility, Christ's example and coworkers.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
+    "bookId": "php",
+    "chapter": 3,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mosaic-law",
+    "summary": "Confidence, righteousness and pursuit of the goal.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm"
+  },
+  {
+    "bookId": "php",
+    "chapter": 4,
+    "sourceLayer": "paul-undisputed",
+    "topic": "prayer",
+    "summary": "Reconciliation, prayer, contentment and support.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "bookId": "1th",
+    "chapter": 1,
+    "sourceLayer": "paul-undisputed",
+    "topic": "mission",
+    "summary": "Thanksgiving, conversion and expectation of Jesus.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH01.htm"
+  },
+  {
+    "bookId": "1th",
+    "chapter": 2,
+    "sourceLayer": "paul-undisputed",
+    "topic": "leadership",
+    "summary": "Missionary conduct, reception and opposition.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm"
+  },
+  {
+    "bookId": "1th",
+    "chapter": 3,
+    "sourceLayer": "paul-undisputed",
+    "topic": "suffering",
+    "summary": "Concern for the community and Timothy's report.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH03.htm"
+  },
+  {
+    "bookId": "1th",
+    "chapter": 4,
+    "sourceLayer": "paul-undisputed",
+    "topic": "end-times",
+    "summary": "Holy conduct, mutual love and hope for the dead.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+  },
+  {
+    "bookId": "1th",
+    "chapter": 5,
+    "sourceLayer": "paul-undisputed",
+    "topic": "end-times",
+    "summary": "Day of the Lord, vigilance and communal exhortations.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+  },
+  {
+    "bookId": "phm",
+    "chapter": 1,
+    "sourceLayer": "paul-undisputed",
+    "topic": "forgiveness",
+    "summary": "Appeal concerning Onesimus, partnership and reception.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+  },
+  {
+    "bookId": "eph",
+    "chapter": 1,
+    "sourceLayer": "paul-disputed",
+    "topic": "identity-resurrection",
+    "summary": "Blessing, election, redemption and Christ's exaltation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm"
+  },
+  {
+    "bookId": "eph",
+    "chapter": 2,
+    "sourceLayer": "paul-disputed",
+    "topic": "inclusion",
+    "summary": "Grace, good works and Jewish-Gentile reconciliation.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm"
+  },
+  {
+    "bookId": "eph",
+    "chapter": 3,
+    "sourceLayer": "paul-disputed",
+    "topic": "mission",
+    "summary": "Gentile mission, mystery and prayer.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm"
+  },
+  {
+    "bookId": "eph",
+    "chapter": 4,
+    "sourceLayer": "paul-disputed",
+    "topic": "leadership",
+    "summary": "Unity, ministry roles and renewed conduct.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "bookId": "eph",
+    "chapter": 5,
+    "sourceLayer": "paul-disputed",
+    "topic": "marriage-divorce",
+    "summary": "Ethical exhortation, worship and marital obligations.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+  },
+  {
+    "bookId": "eph",
+    "chapter": 6,
+    "sourceLayer": "paul-disputed",
+    "topic": "authority",
+    "summary": "Household obligations, spiritual armor and prayer.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+  },
+  {
+    "bookId": "col",
+    "chapter": 1,
+    "sourceLayer": "paul-disputed",
+    "topic": "identity-resurrection",
+    "summary": "Thanksgiving, Christ's cosmic role and ministry.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+  },
+  {
+    "bookId": "col",
+    "chapter": 2,
+    "sourceLayer": "paul-disputed",
+    "topic": "mosaic-law",
+    "summary": "Christ, ritual judgments and ascetic practices.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL02.htm"
+  },
+  {
+    "bookId": "col",
+    "chapter": 3,
+    "sourceLayer": "paul-disputed",
+    "topic": "discipleship",
+    "summary": "Renewed life and household instructions.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+  },
+  {
+    "bookId": "col",
+    "chapter": 4,
+    "sourceLayer": "paul-disputed",
+    "topic": "prayer",
+    "summary": "Masters, prayer, outsiders and greetings.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL04.htm"
+  },
+  {
+    "bookId": "2th",
+    "chapter": 1,
+    "sourceLayer": "paul-disputed",
+    "topic": "suffering",
+    "summary": "Endurance, divine judgment and prayer.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH01.htm"
+  },
+  {
+    "bookId": "2th",
+    "chapter": 2,
+    "sourceLayer": "paul-disputed",
+    "topic": "end-times",
+    "summary": "Day of the Lord, preceding events and steadfastness.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm"
+  },
+  {
+    "bookId": "2th",
+    "chapter": 3,
+    "sourceLayer": "paul-disputed",
+    "topic": "discipleship",
+    "summary": "Prayer, work and community discipline.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+  },
+  {
+    "bookId": "1ti",
+    "chapter": 1,
+    "sourceLayer": "paul-disputed",
+    "topic": "authority",
+    "summary": "Teaching disputes, law and commission.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm"
+  },
+  {
+    "bookId": "1ti",
+    "chapter": 2,
+    "sourceLayer": "paul-disputed",
+    "topic": "women-authority",
+    "summary": "Prayer, worship and restrictions on teaching.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm"
+  },
+  {
+    "bookId": "1ti",
+    "chapter": 3,
+    "sourceLayer": "paul-disputed",
+    "topic": "leadership",
+    "summary": "Qualifications for overseers and deacons.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
+  },
+  {
+    "bookId": "1ti",
+    "chapter": 4,
+    "sourceLayer": "paul-disputed",
+    "topic": "leadership",
+    "summary": "Teaching, ascetic restrictions and example.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm"
+  },
+  {
+    "bookId": "1ti",
+    "chapter": 5,
+    "sourceLayer": "paul-disputed",
+    "topic": "leadership",
+    "summary": "Widows, elders and community responsibilities.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm"
+  },
+  {
+    "bookId": "1ti",
+    "chapter": 6,
+    "sourceLayer": "paul-disputed",
+    "topic": "wealth-poverty",
+    "summary": "Slavery, teaching, wealth and generosity.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
+    "bookId": "2ti",
+    "chapter": 1,
+    "sourceLayer": "paul-disputed",
+    "topic": "suffering",
+    "summary": "Courage, fidelity and suffering.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm"
+  },
+  {
+    "bookId": "2ti",
+    "chapter": 2,
+    "sourceLayer": "paul-disputed",
+    "topic": "leadership",
+    "summary": "Teaching transmission, endurance and correction.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+  },
+  {
+    "bookId": "2ti",
+    "chapter": 3,
+    "sourceLayer": "paul-disputed",
+    "topic": "authority",
+    "summary": "Difficult times, persecution and scripture.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm"
+  },
+  {
+    "bookId": "2ti",
+    "chapter": 4,
+    "sourceLayer": "paul-disputed",
+    "topic": "mission",
+    "summary": "Proclamation, approaching death and personal requests.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm"
+  },
+  {
+    "bookId": "tit",
+    "chapter": 1,
+    "sourceLayer": "paul-disputed",
+    "topic": "leadership",
+    "summary": "Appointment of elders and teaching disputes.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm"
+  },
+  {
+    "bookId": "tit",
+    "chapter": 2,
+    "sourceLayer": "paul-disputed",
+    "topic": "discipleship",
+    "summary": "Household conduct and grace.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+  },
+  {
+    "bookId": "tit",
+    "chapter": 3,
+    "sourceLayer": "paul-disputed",
+    "topic": "authority",
+    "summary": "Civil submission, good works and disputes.",
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm"
+  }
+]
