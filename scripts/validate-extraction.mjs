@@ -1,8 +1,8 @@
 import { readFileSync, existsSync } from "node:fs";
 
 const load = name => JSON.parse(readFileSync(new URL("../research/index/" + name + ".json", import.meta.url)));
-const attributions = new Set(["letter-discourse", "lord-attributed-instruction", "received-jesus-tradition", "reported-lord-response", "scriptural-divine-speech", "scripture-citation", "claimed-lord-authority", "contested-voice"]);
-const teachingTypes = new Set(["instruction", "exhortation", "rhetorical-question", "doctrinal-argument", "prayer", "narrative-example", "confession", "quotation"]);
+const attributions = new Set(["letter-discourse", "lord-attributed-instruction", "received-jesus-tradition", "reported-lord-response", "scriptural-divine-speech", "scripture-citation", "claimed-lord-authority", "contested-voice", "reported-spirit-speech", "quoted-human-speech", "received-saying"]);
+const teachingTypes = new Set(["greeting", "instruction", "exhortation", "rhetorical-question", "doctrinal-argument", "prayer", "narrative-example", "confession", "quotation"]);
 const dispositions = new Set(["direct-speech", "reported-speech", "disputed-speech", "ambiguous-speaker", "other-speakers", "narrative", "reported-action", "composite"]);
 const forms = new Set(["instruction", "question", "promise", "claim", "teaching", "warning", "reported-prediction", "reported-teaching", "symbolic-action", "blessing", "greeting", "response", "parable", "prayer"]);
 const relationships = new Set(["direct-synoptic-parallel", "partial-parallel", "related-in-different-context", "repeated-saying", "thematic-resemblance"]);
@@ -30,7 +30,7 @@ export function validateExtraction() {
         t.endVerse > chapterLength || t.endVerse < t.startVerse) errors.push("Invalid teaching span: " + t.id);
     const chapterUrl = p.sourceUrl.replace(/\d\d\.htm$/, String(t.chapter).padStart(2, "0") + ".htm");
     if (t.sourceUrl !== chapterUrl || p.bookId !== t.bookId || p.sourceLayer !== t.sourceLayer ||
-        !attributions.has(t.attribution) || (t.teachingType && !teachingTypes.has(t.teachingType))) errors.push("Invalid attribution or source: " + t.id);
+        !attributions.has(t.attribution) || !teachingTypes.has(t.teachingType)) errors.push("Invalid attribution or source: " + t.id);
     if (!t.topics.length || t.topics.some(id => !/^[a-z-]+$/.test(id) ||
         !existsSync(new URL("../research/topics/" + id + ".md", import.meta.url)))) errors.push("Invalid teaching topic: " + t.id);
   }
