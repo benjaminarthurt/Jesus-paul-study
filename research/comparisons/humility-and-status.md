@@ -6,6 +6,7 @@ jesus: [lk-14-07-11, lk-09-46-48]
 paul: [php-02-01-11, ro-12-01-08, 1co-01-18-31]
 sourceIds: [web-protestant-66]
 classification: agreement
+reviewIds: [philippians-2-status-reversal]
 ---
 ## Research question
 
