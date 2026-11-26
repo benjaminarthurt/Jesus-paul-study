@@ -4,7 +4,7 @@ summary: Is the continuing force of the Mosaic Law in Matthew compatible with Pa
 status: draft
 jesus: [mt-05-17-20, mt-05-21-48, mk-07-01-13, mk-07-14-23, mt-15-01-20, lk-16-16-17]
 paul: [ga-02-11-21, ga-03-10-14, ga-03-23-25, ga-05-02-06, ga-05-13-14, ro-03-28-31, ro-07-01-06, ro-07-07-12, ro-08-01-04, ro-10-04-04, ro-13-08-10]
-context: [ga-02-01-10, ac-15-01-29]
+context: [ga-02-01-10, ac-15-01-29, col-02-08-23]
 sourceIds: [web-protestant-66, novenson-2023-law, trout-2015-fulfilment, williams-2024-mark7, thiessen-2016-gentiles, abs-jerusalem-2010]
 classification: apparent-tension
 reviewIds:
@@ -114,3 +114,8 @@ Matthew V. Novenson, [*Law in the New Testament*](https://www.saet.ac.uk/Christi
 ## Source access and revision policy
 
 The linked bibliography in this study distinguishes full-text academic articles and primary texts from publisher-abstract-only material. The evidence ledger identifies individual claims, source IDs, and plausible counterreadings. This research was initially assembled November 2026; revisions and their reasons will be retained in Git history.
+
+
+## Disputed-authorship contextual witnesses
+
+Colossians 2 warns against judgment over food and festivals. This extends the comparison into disputed Pauline tradition; its audience and polemical target cannot simply be equated with Galatians. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.

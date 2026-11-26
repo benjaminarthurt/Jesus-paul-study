@@ -6,6 +6,7 @@ jesus: [mt-19-01-12, mk-10-02-12, lk-16-18-18, mt-05-21-48]
 paul: [1co-07-10-16]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
+context: [eph-05-21-33, col-03-18-25]
 ---
 ## Research question
 
@@ -45,3 +46,8 @@ Divorce, remarriage, religious differences, abandonment and domestic abuse are d
 6. Obtain independent review.
 
 **Disposition:** substantial continuity in the restriction on divorce, with apparent tension concerning abandonment and the scope of exceptions. Direct contradiction is not established.
+
+
+## Disputed-authorship contextual witnesses
+
+The household instructions address marital roles rather than directly resolving divorce exceptions. Interpretations of mutual submission and hierarchy remain disputed. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.

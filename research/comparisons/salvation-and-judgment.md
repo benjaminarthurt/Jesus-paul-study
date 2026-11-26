@@ -4,7 +4,7 @@ summary: Are the criteria for salvation and judgment in Jesus' teaching compatib
 status: draft
 jesus: [mt-25-31-46, mt-19-16-30, mk-10-17-31, lk-13-22-30, lk-19-01-10, jn-05-19-30]
 paul: [ga-02-11-21, ro-03-28-31, ro-02-06-16, 2co-05-01-10, ga-05-02-06]
-context: [jn-03-16-21]
+context: [jn-03-16-21, eph-02-01-10]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
 ---
@@ -44,3 +44,8 @@ Debates over religious affiliation, charitable conduct, conversion, and the salv
 Review Greek justification and faith terminology, Matthew 25's referent debate, Romans 2 in its larger argument, and competing scholarly models of Pauline judgment. Add a source-level evidence matrix and obtain independent review.
 
 **Disposition:** apparent tension concerning the relationship of faith, conduct and salvation; substantial counterevidence prevents a simple works-versus-faith dichotomy. Primary-text draft only.
+
+
+## Disputed-authorship contextual witnesses
+
+Ephesians 2 juxtaposes grace through faith with good works as the purpose of renewed life. It is relevant to the reception of Pauline salvation language, not independent proof of historical Paul's position. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.

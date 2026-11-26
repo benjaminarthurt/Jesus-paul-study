@@ -6,6 +6,7 @@ jesus: [mk-10-35-45, lk-12-35-48, mt-23-01-12]
 paul: [1co-07-17-24, phm-01-08-21, ga-03-26-29]
 sourceIds: [web-protestant-66]
 classification: different-emphasis
+context: [eph-06-05-09, col-03-18-25, col-04-01-06]
 ---
 ## Textual comparison
 Jesus' sayings in Mark 10 and Matthew 23 reverse conventional status rankings among disciples. Luke 12 uses household servants and punishment as imagery for accountability. Metaphorical use of slavery is neither an explicit abolition program nor sufficient evidence of endorsement of every historical practice.
@@ -22,3 +23,8 @@ Slavery and human trafficking are violations of human rights. Ancient textual in
 Investigate ancient slavery, the syntax of 1 Corinthians 7:21, Onesimus's status and the reception of these passages. Include competing scholarship and independent review.
 
 **Status:** preliminary primary-text comparison; secondary scholarship and independent verification outstanding.
+
+
+## Disputed-authorship contextual witnesses
+
+These household codes regulate existing slavery and impose obligations on masters without explicitly abolishing the institution. They must be distinguished from Philemon and from modern employment. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.
