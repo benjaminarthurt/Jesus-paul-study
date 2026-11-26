@@ -6,6 +6,7 @@ jesus: [lk-09-49-50, lk-10-25-37]
 paul: [1co-05-01-13, 1th-04-09-12]
 sourceIds: [web-protestant-66]
 classification: different-emphasis
+reviewIds: [corinthian-community-boundaries]
 ---
 ## Research question
 
