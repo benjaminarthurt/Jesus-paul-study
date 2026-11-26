@@ -1,0 +1,1735 @@
+[
+  {
+    "passageId": "1co-01-01-09",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1co-01-10-17",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-01-10-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-01-18-31",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-01-18-31"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-02-01-05",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1co-02-06-16",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-02-06-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-03-01-23",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-03-05-09"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-04-01-21",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-04-01-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-05-01-13",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-05-09-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-06-01-11",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-06-01-08"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-06-12-20",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-06-18-20"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-07-01-09",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-07-03-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-07-10-16",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-07-10-11",
+      "1co-t-07-12-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-07-17-24",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-07-20-24"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-07-25-40",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-07-25-40"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-08-01-13",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-08-09-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-08-04-06",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-08-04-06"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-09-01-18",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-09-14-18"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-09-19-27",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-09-19-23"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-10-01-13",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-10-01-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-10-14-33",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-10-23-24",
+      "1co-t-10-25-30",
+      "1co-t-10-31-33"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-11-01-01",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-11-01-01"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-11-02-16",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-11-05-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-11-17-34",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-11-20-22",
+      "1co-t-11-23-26",
+      "1co-t-11-33-34"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-12-01-03",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-12-01-03"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-12-04-31",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-12-12-27"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-13-01-13",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-13-04-07",
+      "1co-t-13-08-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-14-01-25",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-14-01-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-14-26-40",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-14-26-33",
+      "1co-t-14-39-40"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-14-34-35",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-14-34-35"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-15-01-11",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-15-01-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-15-12-28",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-15-12-28"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-15-29-34",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-15-29-34"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-15-35-58",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-15-35-58"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-16-01-04",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-16-01-04"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-16-05-18",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-16-05-18"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1co-16-19-19",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1co-16-20-24",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1co-t-16-20-24"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1th-01-01-01",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1th-01-02-10",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1th-02-01-12",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1th-02-13-16",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1th-02-17-03-13",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1th-04-01-08",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-04-03-08"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1th-04-09-12",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-04-09-12"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1th-04-13-18",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-04-13-18"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1th-05-01-11",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1th-t-05-01-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1th-05-12-22",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-05-12-13",
+      "1th-t-05-14-15",
+      "1th-t-05-16-18",
+      "1th-t-05-19-22"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1th-05-23-28",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1th-t-05-23-28"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-01-01-02",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1ti-01-03-11",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1ti-t-01-03-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-01-12-20",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "1ti-02-01-07",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-02-01-02"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-02-08-15",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-02-11-15"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-03-01-13",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-03-01-07",
+      "1ti-t-03-08-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-03-14-16",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1ti-t-03-14-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-04-01-05",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1ti-t-04-01-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-04-06-16",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1ti-t-04-06-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-05-01-16",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-05-03-08"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-05-17-25",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-05-17-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-06-01-02",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-06-01-02"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-06-03-05",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1ti-t-06-03-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-06-06-19",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-06-06-10",
+      "1ti-t-06-17-19"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "1ti-06-20-21",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "1ti-t-06-20-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-01-01-02",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2co-01-03-11",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-01-03-07"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-01-12-24",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-01-24-24"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-02-01-04",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2co-02-05-11",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-02-05-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-02-12-17",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2co-03-01-18",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-03-01-18"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-04-01-18",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-04-01-18"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-05-01-10",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-05-01-10"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-05-11-21",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-05-18-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-06-01-13",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-06-01-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-06-14-07-01",
+    "disposition": "cross-chapter-review",
+    "teachingIds": [],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-07-02-16",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-07-02-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-08-01-15",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-08-08-09",
+      "2co-t-08-12-15"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-08-16-24",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-08-20-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-09-01-15",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-09-06-07",
+      "2co-t-09-08-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-10-01-18",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-10-01-18"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-11-01-15",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-11-01-15"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-11-16-33",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2co-12-01-10",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-12-01-10"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-12-11-21",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2co-t-12-11-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2co-13-01-14",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-13-05-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2th-01-01-02",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2th-01-03-12",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2th-t-01-03-12"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2th-02-01-12",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2th-t-02-01-12"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2th-02-13-17",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2th-t-02-13-17"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2th-03-01-05",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2th-t-03-01-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2th-03-06-15",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2th-t-03-06-12",
+      "2th-t-03-13-15"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2th-03-16-18",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2ti-01-01-05",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2ti-01-06-14",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2ti-t-01-06-14"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2ti-01-15-18",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "2ti-02-01-13",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2ti-t-02-02-02"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2ti-02-14-21",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2ti-t-02-14-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2ti-02-22-26",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2ti-t-02-22-26"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2ti-03-01-09",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2ti-t-03-01-09"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2ti-03-10-17",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2ti-t-03-14-17"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2ti-04-01-08",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "2ti-t-04-01-08"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "2ti-04-09-22",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "col-01-01-02",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "col-01-03-14",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "col-01-15-20",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "col-t-01-15-20"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "col-01-21-29",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "col-t-01-21-29"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "col-02-01-07",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "col-t-02-01-07"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "col-02-08-23",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "col-t-02-16-23"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "col-03-01-17",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "col-t-03-12-15"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "col-03-18-25",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "col-t-03-18-19",
+      "col-t-03-20-21",
+      "col-t-03-22-25"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "col-04-01-06",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "col-t-04-01-01"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "col-04-07-18",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "eph-01-01-02",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "eph-01-03-14",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "eph-t-01-03-14"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-01-15-23",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "eph-02-01-10",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-02-08-10"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-02-11-22",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "eph-t-02-11-22"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-03-01-13",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "eph-t-03-01-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-03-14-21",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "eph-04-01-16",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-04-01-06",
+      "eph-t-04-11-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-04-17-24",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "eph-t-04-17-24"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-04-25-32",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-04-25-28",
+      "eph-t-04-29-32"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-05-01-20",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "eph-t-05-01-20"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-05-21-33",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-05-21-24",
+      "eph-t-05-25-33"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-06-01-04",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-06-01-04"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-06-05-09",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-06-05-09"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-06-10-20",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "eph-t-06-10-20"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "eph-06-21-24",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ga-01-01-05",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ga-01-06-24",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ga-02-01-10",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-02-10-10"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-02-11-21",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-02-11-14"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-03-01-09",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-03-01-09"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-03-10-14",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-03-10-14"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-03-15-22",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-03-15-22"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-03-23-25",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-03-23-25"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-03-26-29",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-03-26-29"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-04-01-11",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-04-01-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-04-12-20",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ga-04-21-31",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-04-21-31"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-05-01-01",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-05-01-01"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-05-02-06",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-05-06-06"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-05-07-12",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-05-07-12"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-05-13-14",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-05-13-14"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-05-15-15",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-05-15-15"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-05-16-26",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-05-16-21",
+      "ga-t-05-22-26"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-06-01-10",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-06-01-02",
+      "ga-t-06-07-10"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ga-06-11-18",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ga-t-06-11-18"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "phm-01-01-07",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "phm-01-08-21",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "phm-t-01-08-14",
+      "phm-t-01-15-17",
+      "phm-t-01-18-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "phm-01-22-25",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "php-01-01-02",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "php-01-03-26",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "php-01-27-30",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "php-t-01-27-30"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-02-01-11",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "php-t-02-01-04",
+      "php-t-02-05-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-02-12-18",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "php-t-02-14-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-02-19-30",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "php-03-01-11",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "php-t-03-01-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-03-12-21",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "php-t-03-12-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-04-01-01",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "php-t-04-01-01"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-04-02-03",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "php-t-04-02-03"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-04-04-07",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "php-t-04-04-07"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-04-08-09",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "php-t-04-08-09"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-04-10-20",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "php-t-04-10-20"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "php-04-21-23",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-01-01-15",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-01-16-17",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-01-16-17"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-01-18-32",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-01-18-32"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-02-01-05",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-02-01-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-02-06-16",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-02-06-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-02-17-29",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-02-17-29"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-03-01-20",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-03-01-20"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-03-21-26",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-03-21-26"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-03-27-27",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-03-27-27"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-03-28-31",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-03-28-31"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-04-01-12",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-04-01-12"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-04-13-25",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-04-13-25"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-05-01-11",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-05-01-11"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-05-12-21",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-05-12-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-06-01-14",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-06-01-14"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-06-15-23",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-06-15-23"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-07-01-06",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-07-01-06"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-07-07-12",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-07-07-12"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-07-13-25",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-07-13-25"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-08-01-04",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-08-01-04"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-08-05-17",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-08-05-17"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-08-18-39",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-08-18-39"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-09-01-29",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-09-01-29"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-09-30-10-03",
+    "disposition": "cross-chapter-review",
+    "teachingIds": [],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-10-04-04",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-10-04-04"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-10-05-21",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-10-05-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-11-01-24",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-11-01-24"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-11-25-36",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-11-25-36"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-12-01-08",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-12-01-08"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-12-09-13",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-12-09-09",
+      "ro-t-12-10-10",
+      "ro-t-12-11-12",
+      "ro-t-12-13-13"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-12-14-21",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-12-14-14",
+      "ro-t-12-15-16",
+      "ro-t-12-17-18",
+      "ro-t-12-19-21"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-13-01-07",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-13-01-05",
+      "ro-t-13-06-07"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-13-08-10",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-13-08-10"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-13-11-14",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-13-11-14"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-14-01-12",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-14-01-04",
+      "ro-t-14-05-09",
+      "ro-t-14-10-12"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-14-13-23",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-14-13-18",
+      "ro-t-14-19-23"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-15-01-13",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-15-01-03",
+      "ro-t-15-07-07"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "ro-15-14-24",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-15-25-28",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-15-29-33",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-16-01-02",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-16-01-16",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-16-03-07",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "ro-16-17-27",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "ro-t-16-17-27"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-01-01-04",
+    "disposition": "context-priority",
+    "teachingIds": [],
+    "reviewStatus": "pending",
+    "note": "Contextual material retained for review; not a final exclusion."
+  },
+  {
+    "passageId": "tit-01-05-09",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "tit-t-01-05-09"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-01-10-16",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "tit-t-01-10-16"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-02-01-02",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "tit-t-02-01-02"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-02-03-05",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "tit-t-02-03-05"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-02-06-10",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "tit-t-02-09-10"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-02-11-15",
+    "disposition": "broad-candidate",
+    "teachingIds": [
+      "tit-t-02-11-15"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-03-01-08",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "tit-t-03-01-02"
+    ],
+    "reviewStatus": "pending"
+  },
+  {
+    "passageId": "tit-03-09-15",
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "tit-t-03-09-11"
+    ],
+    "reviewStatus": "pending"
+  }
+]
