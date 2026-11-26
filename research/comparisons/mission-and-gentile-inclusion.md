@@ -6,6 +6,7 @@ jesus: [mt-10-05-15, lk-09-01-06, lk-10-01-12, mt-28-16-20]
 paul: [ga-02-01-10, ga-02-11-21, ga-03-26-29]
 sourceIds: [web-protestant-66]
 classification: extension
+context: [eph-02-11-22, 2ti-04-01-08]
 ---
 ## Textual comparison
 Matthew 10 restricts the initial mission to Israel rather than Gentile or Samaritan destinations. Luke 9 and 10 narrate commissions involving travel, hospitality, proclamation and healing. Matthew 28 presents a post-resurrection commission to all nations. These narrative stages must not be collapsed into one timeless instruction.
@@ -22,3 +23,8 @@ Mission, cultural assimilation, religious pluralism and ethnic inclusion should 
 Compare mission vocabulary, Gospel composition and the historical chronology of Galatians. Examine Acts as a separate narrative witness and consult competing historical scholarship.
 
 **Status:** preliminary primary-text comparison; secondary scholarship and independent verification outstanding.
+
+
+## Disputed-authorship contextual witnesses
+
+Ephesians portrays Jewish-Gentile reconciliation; Second Timothy urges proclamation. These are distinct literary contexts and do not independently reconstruct the chronology of Paul's mission. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.

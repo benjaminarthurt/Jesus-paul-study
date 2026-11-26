@@ -6,6 +6,7 @@ jesus: [mt-06-05-15, mt-18-15-20, mt-18-21-35, lk-17-01-10, lk-06-37-42]
 paul: [1co-05-01-13, 2co-02-05-11, ro-12-14-21]
 sourceIds: [web-protestant-66]
 classification: different-emphasis
+context: [eph-04-25-32, 2ti-02-22-26]
 ---
 ## Gospel evidence
 
@@ -36,3 +37,8 @@ Forgiveness does not necessarily entail immediate restoration of trust, removal 
 Compare Greek terminology for forgiveness, repentance and restoration; investigate Matthew 18's community context and the Corinthian offender identification debate; consult competing scholarly treatments and obtain independent review.
 
 **Disposition:** different emphasis with substantial agreement; possible tensions in disciplinary practice remain open. Primary-text draft only.
+
+
+## Disputed-authorship contextual witnesses
+
+These passages emphasize mutual forgiveness and gentle correction. They do not settle every question about exclusion, restoration or safeguarding. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.

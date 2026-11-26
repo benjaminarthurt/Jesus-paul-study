@@ -6,6 +6,7 @@ jesus: [lk-09-18-22, jn-05-19-30, jn-14-01-14, jn-20-24-29]
 paul: [php-02-01-11, 1co-08-04-06, 1co-15-12-28]
 sourceIds: [web-protestant-66]
 classification: different-emphasis
+context: [col-01-15-20]
 ---
 ## Textual comparison
 
@@ -24,3 +25,8 @@ Distinguish historical Christology from later doctrinal judgments and modern den
 Review Jewish monotheism, Philippians 2's disputed form and interpretation, and Johannine literary theology. Consult competing specialist scholarship and obtain independent review.
 
 **Status:** preliminary primary-text synthesis; not independently verified.
+
+
+## Disputed-authorship contextual witnesses
+
+Colossians associates Christ with creation and reconciliation. Its authorship and the interpretation of firstborn language must be assessed separately from undisputed Pauline evidence. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.

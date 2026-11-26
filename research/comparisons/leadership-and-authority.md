@@ -6,6 +6,7 @@ jesus: [mk-09-33-37, mk-10-35-45, mt-23-01-12, lk-12-35-48]
 paul: [php-02-01-11, phm-01-08-21, 1co-05-01-13, 1th-05-12-22]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
+context: [eph-04-01-16, 2ti-02-01-13, 2ti-03-10-17]
 ---
 ## Textual comparison
 Mark 9 and 10 associate greatness with service and reject the domination practiced by rulers. Matthew 23 criticizes status-seeking teachers and relativizes titles among disciples. Luke 12 warns servants entrusted with responsibility against abusing others.
@@ -22,3 +23,8 @@ Clergy accountability, institutional hierarchy, spiritual abuse and leadership t
 Examine Greek leadership and service terms, ancient patronage and the rhetorical force of Philemon. Add scholarship and independent review before promoting the classification.
 
 **Status:** preliminary primary-text comparison; secondary scholarship and independent verification outstanding.
+
+
+## Disputed-authorship contextual witnesses
+
+These passages emphasize ministry roles, transmission of teaching and scriptural formation. They provide evidence of Pauline tradition without establishing that historical Paul prescribed a later institutional hierarchy. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.

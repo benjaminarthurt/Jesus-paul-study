@@ -6,6 +6,7 @@ jesus: [mk-13-24-27, mk-13-28-37, mt-24-32-44]
 paul: [1th-04-13-18, 1th-05-01-11, 1co-15-12-28]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
+context: [2th-02-01-12]
 ---
 ## Textual comparison
 
@@ -24,3 +25,8 @@ Avoid date-setting and treating modern events as proven fulfillments of ancient 
 Study apocalyptic genre, generation terminology, the temple context and the chronology of Pauline expectations. Consult competing specialist scholarship and obtain independent review.
 
 **Status:** preliminary primary-text synthesis; not independently verified.
+
+
+## Disputed-authorship contextual witnesses
+
+Second Thessalonians introduces preceding events and warns against claims that the day has arrived. Whether this qualifies, develops or reflects a different author from First Thessalonians requires separate historical analysis. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.
