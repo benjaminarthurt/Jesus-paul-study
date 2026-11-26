@@ -2789,13 +2789,13 @@
     "granularity": "broad-summary"
   },
   {
-    "id": "ro-t-01-16-17",
+    "id": "ro-t-01-16-16",
     "passageId": "ro-01-16-17",
     "bookId": "ro",
     "chapter": 1,
     "startVerse": 16,
-    "endVerse": 17,
-    "title": "The gospel is presented as God's saving power for Jew and Greek, with righteousness associated with faith.",
+    "endVerse": 16,
+    "title": "Gospel as saving power for Jew and Greek",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2803,16 +2803,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-01-18-32",
+    "id": "ro-t-01-17-17",
+    "passageId": "ro-01-16-17",
+    "bookId": "ro",
+    "chapter": 1,
+    "startVerse": 17,
+    "endVerse": 17,
+    "title": "Righteousness and faith",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-01-18-23",
     "passageId": "ro-01-18-32",
     "bookId": "ro",
     "chapter": 1,
     "startVerse": 18,
-    "endVerse": 32,
-    "title": "Paul describes human wrongdoing, idolatry and divine judgment.",
+    "endVerse": 23,
+    "title": "Human suppression of truth and idolatry",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2820,16 +2837,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-02-01-05",
+    "id": "ro-t-01-24-27",
+    "passageId": "ro-01-18-32",
+    "bookId": "ro",
+    "chapter": 1,
+    "startVerse": 24,
+    "endVerse": 27,
+    "title": "Disordered desires in the argument about idolatry",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-01-28-32",
+    "passageId": "ro-01-18-32",
+    "bookId": "ro",
+    "chapter": 1,
+    "startVerse": 28,
+    "endVerse": 32,
+    "title": "Catalogue of wrongdoing and approval of wrongdoing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-02-01-03",
     "passageId": "ro-02-01-05",
     "bookId": "ro",
     "chapter": 2,
     "startVerse": 1,
-    "endVerse": 5,
-    "title": "Judging others while practicing similar wrongdoing is criticized; divine kindness is connected to repentance.",
+    "endVerse": 3,
+    "title": "Judging others while doing the same things",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2837,16 +2888,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-02-06-16",
+    "id": "ro-t-02-04-05",
+    "passageId": "ro-02-01-05",
+    "bookId": "ro",
+    "chapter": 2,
+    "startVerse": 4,
+    "endVerse": 5,
+    "title": "Divine kindness calls for repentance",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-02-06-11",
     "passageId": "ro-02-06-16",
     "bookId": "ro",
     "chapter": 2,
     "startVerse": 6,
-    "endVerse": 16,
-    "title": "Paul describes impartial divine judgment according to deeds, including the role of the Law and conscience.",
+    "endVerse": 11,
+    "title": "Impartial judgment according to deeds",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2854,16 +2922,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-02-17-29",
+    "id": "ro-t-02-12-16",
+    "passageId": "ro-02-06-16",
+    "bookId": "ro",
+    "chapter": 2,
+    "startVerse": 12,
+    "endVerse": 16,
+    "title": "Law, conscience and judgment",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-02-17-24",
     "passageId": "ro-02-17-29",
     "bookId": "ro",
     "chapter": 2,
     "startVerse": 17,
-    "endVerse": 29,
-    "title": "Possession of Torah and outward circumcision are contrasted with obedience and inward identity.",
+    "endVerse": 24,
+    "title": "Possession of law does not excuse disobedience",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2871,16 +2956,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-03-01-20",
+    "id": "ro-t-02-25-29",
+    "passageId": "ro-02-17-29",
+    "bookId": "ro",
+    "chapter": 2,
+    "startVerse": 25,
+    "endVerse": 29,
+    "title": "Circumcision and inward identity",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-03-01-08",
     "passageId": "ro-03-01-20",
     "bookId": "ro",
     "chapter": 3,
     "startVerse": 1,
-    "endVerse": 20,
-    "title": "Jewish privilege, divine faithfulness and universal accountability under sin are discussed.",
+    "endVerse": 8,
+    "title": "Divine faithfulness despite human unfaithfulness",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2888,16 +2990,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-03-21-26",
+    "id": "ro-t-03-09-18",
+    "passageId": "ro-03-01-20",
+    "bookId": "ro",
+    "chapter": 3,
+    "startVerse": 9,
+    "endVerse": 18,
+    "title": "Scriptural argument for universal sin",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-03-19-20",
+    "passageId": "ro-03-01-20",
+    "bookId": "ro",
+    "chapter": 3,
+    "startVerse": 19,
+    "endVerse": 20,
+    "title": "Law and knowledge of sin",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-03-21-23",
     "passageId": "ro-03-21-26",
     "bookId": "ro",
     "chapter": 3,
     "startVerse": 21,
-    "endVerse": 26,
-    "title": "Paul connects divine righteousness, faith, grace, redemption and Christ's blood.",
+    "endVerse": 23,
+    "title": "Righteousness apart from law, witnessed by scripture",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2905,7 +3041,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-03-24-26",
+    "passageId": "ro-03-21-26",
+    "bookId": "ro",
+    "chapter": 3,
+    "startVerse": 24,
+    "endVerse": 26,
+    "title": "Grace, redemption and divine righteousness",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-03-27-27",
@@ -2914,7 +3067,7 @@
     "chapter": 3,
     "startVerse": 27,
     "endVerse": 27,
-    "title": "Boasting is excluded through the principle of faith.",
+    "title": "Boasting excluded by faith",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2922,16 +3075,16 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-03-28-31",
+    "id": "ro-t-03-28-30",
     "passageId": "ro-03-28-31",
     "bookId": "ro",
     "chapter": 3,
     "startVerse": 28,
-    "endVerse": 31,
-    "title": "Paul contrasts justification by faith with works of the Law while insisting that faith does not nullify the Law.",
+    "endVerse": 30,
+    "title": "Justification by faith and one God of Jew and Gentile",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2939,16 +3092,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-04-01-12",
+    "id": "ro-t-03-31-31",
+    "passageId": "ro-03-28-31",
+    "bookId": "ro",
+    "chapter": 3,
+    "startVerse": 31,
+    "endVerse": 31,
+    "title": "Faith does not nullify law",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-04-01-08",
     "passageId": "ro-04-01-12",
     "bookId": "ro",
     "chapter": 4,
     "startVerse": 1,
-    "endVerse": 12,
-    "title": "Abraham's righteousness is discussed in relation to faith and circumcision.",
+    "endVerse": 8,
+    "title": "Abraham, faith and reckoned righteousness",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2956,16 +3126,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-04-13-25",
+    "id": "ro-t-04-09-12",
+    "passageId": "ro-04-01-12",
+    "bookId": "ro",
+    "chapter": 4,
+    "startVerse": 9,
+    "endVerse": 12,
+    "title": "Righteousness before circumcision",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-04-13-17",
     "passageId": "ro-04-13-25",
     "bookId": "ro",
     "chapter": 4,
     "startVerse": 13,
-    "endVerse": 25,
-    "title": "The promise to Abraham is associated with faith rather than law.",
+    "endVerse": 17,
+    "title": "Promise through faith rather than law",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2973,16 +3160,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-05-01-11",
+    "id": "ro-t-04-18-22",
+    "passageId": "ro-04-13-25",
+    "bookId": "ro",
+    "chapter": 4,
+    "startVerse": 18,
+    "endVerse": 22,
+    "title": "Abraham's trust in the promise",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-04-23-25",
+    "passageId": "ro-04-13-25",
+    "bookId": "ro",
+    "chapter": 4,
+    "startVerse": 23,
+    "endVerse": 25,
+    "title": "Application to faith in the risen Jesus",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-05-01-05",
     "passageId": "ro-05-01-11",
     "bookId": "ro",
     "chapter": 5,
     "startVerse": 1,
-    "endVerse": 11,
-    "title": "Justification, reconciliation, hope and endurance in suffering are connected.",
+    "endVerse": 5,
+    "title": "Peace, hope and endurance through suffering",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2990,16 +3211,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-05-12-21",
+    "id": "ro-t-05-06-08",
+    "passageId": "ro-05-01-11",
+    "bookId": "ro",
+    "chapter": 5,
+    "startVerse": 6,
+    "endVerse": 8,
+    "title": "Christ's death as demonstration of divine love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-05-09-11",
+    "passageId": "ro-05-01-11",
+    "bookId": "ro",
+    "chapter": 5,
+    "startVerse": 9,
+    "endVerse": 11,
+    "title": "Reconciliation and hope of salvation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-05-12-14",
     "passageId": "ro-05-12-21",
     "bookId": "ro",
     "chapter": 5,
     "startVerse": 12,
-    "endVerse": 21,
-    "title": "Adam and Christ are contrasted in relation to sin, death and grace.",
+    "endVerse": 14,
+    "title": "Adam, sin and death",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3007,16 +3262,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-06-01-14",
+    "id": "ro-t-05-15-17",
+    "passageId": "ro-05-12-21",
+    "bookId": "ro",
+    "chapter": 5,
+    "startVerse": 15,
+    "endVerse": 17,
+    "title": "Contrast between trespass and gift",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-05-18-21",
+    "passageId": "ro-05-12-21",
+    "bookId": "ro",
+    "chapter": 5,
+    "startVerse": 18,
+    "endVerse": 21,
+    "title": "Obedience, righteousness and reigning grace",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-06-01-04",
     "passageId": "ro-06-01-14",
     "bookId": "ro",
     "chapter": 6,
     "startVerse": 1,
-    "endVerse": 14,
-    "title": "Baptism into Christ's death is connected to a renewed way of life.",
+    "endVerse": 4,
+    "title": "Baptism into Christ's death and new life",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3024,16 +3313,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM06.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-06-15-23",
+    "id": "ro-t-06-05-11",
+    "passageId": "ro-06-01-14",
+    "bookId": "ro",
+    "chapter": 6,
+    "startVerse": 5,
+    "endVerse": 11,
+    "title": "Union with Christ and death to sin",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-06-12-14",
+    "passageId": "ro-06-01-14",
+    "bookId": "ro",
+    "chapter": 6,
+    "startVerse": 12,
+    "endVerse": 14,
+    "title": "Do not let sin reign",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-06-15-19",
     "passageId": "ro-06-15-23",
     "bookId": "ro",
     "chapter": 6,
     "startVerse": 15,
-    "endVerse": 23,
-    "title": "Freedom from sin is expressed through slavery imagery and obedience to righteousness.",
+    "endVerse": 19,
+    "title": "Obedience and slavery imagery",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3041,16 +3364,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM06.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-07-01-06",
+    "id": "ro-t-06-20-23",
+    "passageId": "ro-06-15-23",
+    "bookId": "ro",
+    "chapter": 6,
+    "startVerse": 20,
+    "endVerse": 23,
+    "title": "Contrast between sin's outcome and God's gift",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-07-01-03",
     "passageId": "ro-07-01-06",
     "bookId": "ro",
     "chapter": 7,
     "startVerse": 1,
-    "endVerse": 6,
-    "title": "Paul uses an analogy about law to discuss a new relationship to service in the Spirit.",
+    "endVerse": 3,
+    "title": "Marriage analogy for law's jurisdiction",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3058,16 +3398,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-07-07-12",
+    "id": "ro-t-07-04-06",
+    "passageId": "ro-07-01-06",
+    "bookId": "ro",
+    "chapter": 7,
+    "startVerse": 4,
+    "endVerse": 6,
+    "title": "New service in the Spirit",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-07-07-08",
     "passageId": "ro-07-07-12",
     "bookId": "ro",
     "chapter": 7,
     "startVerse": 7,
-    "endVerse": 12,
-    "title": "Paul rejects the equation of Law with sin and describes the commandment as holy, just and good.",
+    "endVerse": 8,
+    "title": "Law reveals sin",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3075,16 +3432,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-07-13-25",
+    "id": "ro-t-07-09-12",
+    "passageId": "ro-07-07-12",
+    "bookId": "ro",
+    "chapter": 7,
+    "startVerse": 9,
+    "endVerse": 12,
+    "title": "Commandment is holy despite sin's activity",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-07-13-20",
     "passageId": "ro-07-13-25",
     "bookId": "ro",
     "chapter": 7,
     "startVerse": 13,
-    "endVerse": 25,
-    "title": "The speaker describes conflict between desire to obey and the power of sin; the identity of the speaker is debated.",
+    "endVerse": 20,
+    "title": "Conflict between willing good and doing wrong",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3092,16 +3466,35 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit",
+    "attributionNote": "Identity of the first-person speaker is debated."
   },
   {
-    "id": "ro-t-08-01-04",
+    "id": "ro-t-07-21-25",
+    "passageId": "ro-07-13-25",
+    "bookId": "ro",
+    "chapter": 7,
+    "startVerse": 21,
+    "endVerse": 25,
+    "title": "Conflict of laws and deliverance through Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Identity of the first-person speaker is debated."
+  },
+  {
+    "id": "ro-t-08-01-02",
     "passageId": "ro-08-01-04",
     "bookId": "ro",
     "chapter": 8,
     "startVerse": 1,
-    "endVerse": 4,
-    "title": "Paul presents what the Law could not accomplish through weakened human flesh and speaks of its righteous requirement being fulfilled.",
+    "endVerse": 2,
+    "title": "No condemnation and freedom in Christ",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3109,16 +3502,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-08-05-17",
+    "id": "ro-t-08-03-04",
+    "passageId": "ro-08-01-04",
+    "bookId": "ro",
+    "chapter": 8,
+    "startVerse": 3,
+    "endVerse": 4,
+    "title": "God's action and fulfillment of law's requirement",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-08-05-08",
     "passageId": "ro-08-05-17",
     "bookId": "ro",
     "chapter": 8,
     "startVerse": 5,
-    "endVerse": 17,
-    "title": "Life in the Spirit is contrasted with life according to the flesh.",
+    "endVerse": 8,
+    "title": "Mindset of flesh versus Spirit",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3126,16 +3536,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-08-18-39",
+    "id": "ro-t-08-09-11",
+    "passageId": "ro-08-05-17",
+    "bookId": "ro",
+    "chapter": 8,
+    "startVerse": 9,
+    "endVerse": 11,
+    "title": "Indwelling Spirit and life",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-08-12-17",
+    "passageId": "ro-08-05-17",
+    "bookId": "ro",
+    "chapter": 8,
+    "startVerse": 12,
+    "endVerse": 17,
+    "title": "Adoption and inheritance with Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-08-18-25",
     "passageId": "ro-08-18-39",
     "bookId": "ro",
     "chapter": 8,
     "startVerse": 18,
-    "endVerse": 39,
-    "title": "Paul connects suffering with future glory, hope and confidence in divine love.",
+    "endVerse": 25,
+    "title": "Creation's suffering and future hope",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3143,16 +3587,67 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-09-01-29",
+    "id": "ro-t-08-26-27",
+    "passageId": "ro-08-18-39",
+    "bookId": "ro",
+    "chapter": 8,
+    "startVerse": 26,
+    "endVerse": 27,
+    "title": "Spirit's help in prayer",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-08-28-30",
+    "passageId": "ro-08-18-39",
+    "bookId": "ro",
+    "chapter": 8,
+    "startVerse": 28,
+    "endVerse": 30,
+    "title": "Divine purpose and calling",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-08-31-39",
+    "passageId": "ro-08-18-39",
+    "bookId": "ro",
+    "chapter": 8,
+    "startVerse": 31,
+    "endVerse": 39,
+    "title": "Confidence in divine love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-09-01-05",
     "passageId": "ro-09-01-29",
     "bookId": "ro",
     "chapter": 9,
     "startVerse": 1,
-    "endVerse": 29,
-    "title": "Paul discusses Israel, divine election and mercy.",
+    "endVerse": 5,
+    "title": "Grief for Israel and recognition of its privileges",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3160,7 +3655,58 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM09.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-09-06-13",
+    "passageId": "ro-09-01-29",
+    "bookId": "ro",
+    "chapter": 9,
+    "startVerse": 6,
+    "endVerse": 13,
+    "title": "Promise and election",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-09-14-18",
+    "passageId": "ro-09-01-29",
+    "bookId": "ro",
+    "chapter": 9,
+    "startVerse": 14,
+    "endVerse": 18,
+    "title": "Mercy and hardening",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-09-19-29",
+    "passageId": "ro-09-01-29",
+    "bookId": "ro",
+    "chapter": 9,
+    "startVerse": 19,
+    "endVerse": 29,
+    "title": "Potter imagery and scriptural remnant argument",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-10-04-04",
@@ -3169,7 +3715,7 @@
     "chapter": 10,
     "startVerse": 4,
     "endVerse": 4,
-    "title": "Paul describes Christ as the telos of the Law; whether this means endpoint, goal, culmination or a combination is debated.",
+    "title": "Christ as telos of law; meaning debated",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3177,16 +3723,16 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-10-05-21",
+    "id": "ro-t-10-05-13",
     "passageId": "ro-10-05-21",
     "bookId": "ro",
     "chapter": 10,
     "startVerse": 5,
-    "endVerse": 21,
-    "title": "Paul connects faith, confession, proclamation and hearing.",
+    "endVerse": 13,
+    "title": "Faith, confession and calling on the Lord",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3194,16 +3740,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-11-01-24",
+    "id": "ro-t-10-14-17",
+    "passageId": "ro-10-05-21",
+    "bookId": "ro",
+    "chapter": 10,
+    "startVerse": 14,
+    "endVerse": 17,
+    "title": "Proclamation and hearing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-10-18-21",
+    "passageId": "ro-10-05-21",
+    "bookId": "ro",
+    "chapter": 10,
+    "startVerse": 18,
+    "endVerse": 21,
+    "title": "Scriptural argument concerning Israel's response",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-11-01-10",
     "passageId": "ro-11-01-24",
     "bookId": "ro",
     "chapter": 11,
     "startVerse": 1,
-    "endVerse": 24,
-    "title": "Israel's remnant and Gentile inclusion are discussed using olive tree imagery.",
+    "endVerse": 10,
+    "title": "Israel's remnant",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3211,16 +3791,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-11-25-36",
+    "id": "ro-t-11-11-16",
+    "passageId": "ro-11-01-24",
+    "bookId": "ro",
+    "chapter": 11,
+    "startVerse": 11,
+    "endVerse": 16,
+    "title": "Gentile inclusion and Israel",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-11-17-24",
+    "passageId": "ro-11-01-24",
+    "bookId": "ro",
+    "chapter": 11,
+    "startVerse": 17,
+    "endVerse": 24,
+    "title": "Olive tree warning against Gentile arrogance",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-11-25-27",
     "passageId": "ro-11-25-36",
     "bookId": "ro",
     "chapter": 11,
     "startVerse": 25,
-    "endVerse": 36,
-    "title": "Paul discusses Israel's future, mercy and divine wisdom.",
+    "endVerse": 27,
+    "title": "Mystery of Israel's future",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3228,16 +3842,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-12-01-08",
+    "id": "ro-t-11-28-32",
+    "passageId": "ro-11-25-36",
+    "bookId": "ro",
+    "chapter": 11,
+    "startVerse": 28,
+    "endVerse": 32,
+    "title": "Mercy and divine calling",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-11-33-36",
+    "passageId": "ro-11-25-36",
+    "bookId": "ro",
+    "chapter": 11,
+    "startVerse": 33,
+    "endVerse": 36,
+    "title": "Praise of divine wisdom",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-12-01-02",
     "passageId": "ro-12-01-08",
     "bookId": "ro",
     "chapter": 12,
     "startVerse": 1,
-    "endVerse": 8,
-    "title": "Renewed discernment, humility and diverse community gifts are urged.",
+    "endVerse": 2,
+    "title": "Living sacrifice and renewed discernment",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3245,7 +3893,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-12-03-05",
+    "passageId": "ro-12-01-08",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 3,
+    "endVerse": 5,
+    "title": "Humility and membership in one body",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-12-06-08",
+    "passageId": "ro-12-01-08",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 6,
+    "endVerse": 8,
+    "title": "Different gifts and their exercise",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-09-09",
@@ -3441,13 +4123,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-13-11-14",
+    "id": "ro-t-13-11-12",
     "passageId": "ro-13-11-14",
     "bookId": "ro",
     "chapter": 13,
     "startVerse": 11,
-    "endVerse": 14,
-    "title": "Awareness of approaching salvation motivates vigilance and ethical conduct.",
+    "endVerse": 12,
+    "title": "Wakefulness in view of approaching salvation",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3455,7 +4137,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM13.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-13-13-14",
+    "passageId": "ro-13-11-14",
+    "bookId": "ro",
+    "chapter": 13,
+    "startVerse": 13,
+    "endVerse": 14,
+    "title": "Conduct fitting the day",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-14-01-04",
@@ -3577,13 +4276,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "ro-t-16-17-27",
+    "id": "ro-t-16-17-20",
     "passageId": "ro-16-17-27",
     "bookId": "ro",
     "chapter": 16,
     "startVerse": 17,
-    "endVerse": 27,
-    "title": "Warnings against divisions accompany greetings and closing praise; the placement of the doxology varies in manuscripts.",
+    "endVerse": 20,
+    "title": "Warning against divisions",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3591,7 +4290,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM16.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-16-21-23",
+    "passageId": "ro-16-17-27",
+    "bookId": "ro",
+    "chapter": 16,
+    "startVerse": 21,
+    "endVerse": 23,
+    "title": "Greetings from coworkers",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-16-25-27",
+    "passageId": "ro-16-17-27",
+    "bookId": "ro",
+    "chapter": 16,
+    "startVerse": 25,
+    "endVerse": 27,
+    "title": "Doxology; manuscript placement varies",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-01-05-09",
