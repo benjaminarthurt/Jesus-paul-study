@@ -88,5 +88,194 @@
     "relationship": "repeated-saying",
     "note": "Jesus greets the group with peace on two occasions in the same Gospel. Thomas is present only on the second occasion.",
     "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-06-07-13",
+      "lk-09-01-06"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both commission the Twelve and regulate travel and lodging. Mark permits a staff, whereas Luke's packing instruction prohibits one.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-06-14-29",
+      "lk-09-07-09"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Herod hears competing identities. Mark narrates John's execution at length; Luke gives Herod a question about the man he now hears of.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-06-30-44",
+      "lk-09-10-17"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Returning apostles, a command to feed the crowd, five loaves and two fish. Luke specifies groups of about fifty, while Mark reports groups of hundreds and fifties.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-08-27-33",
+      "lk-09-18-22"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Questions about identity precede Peter's confession and a prediction of suffering. Luke frames the exchange with prayer and omits the rebuke of Peter here.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-08-27-33",
+      "mt-16-13-20"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Peter identifies Jesus in both. Matthew adds the blessing and keys. The suffering prediction belongs to Matthew's next unit.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-16-13-20",
+      "lk-09-18-22"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both ask about public opinion before Peter's confession. Matthew addresses Peter with promises, Luke moves to silence and suffering.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-08-27-33",
+      "mt-16-21-28"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both narrate the prediction and Peter's objection. Matthew's parent also contains the ensuing address on discipleship.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-08-34-38",
+      "mt-16-21-28"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both link losing life with taking up the cross. Mark explicitly gathers the crowd with disciples; Matthew introduces this teaching as an address to disciples.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-08-34-38",
+      "lk-09-23-27"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both move from renunciation to losing life and the Son of Man's response. Luke includes the kingdom promise within this indexed unit.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-09-01-13",
+      "lk-09-28-36"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both recount the mountain appearance, Peter and the heavenly voice. Luke identifies the subject of the conversation with Moses and Elijah, while Mark includes a descent discussion.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-09-14-29",
+      "lk-09-37-43"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "A father asks for help after the disciples' failure. Mark develops the father's exchange about belief and a private question afterward.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-09-30-32",
+      "lk-09-44-45"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both place a betrayal prediction beside the disciples' incomprehension. Mark explicitly adds killing and rising in this saying.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-09-33-37",
+      "lk-09-46-48"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "A dispute about greatness leads to receiving a child. Mark places the child among the Twelve and Luke beside Jesus.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-09-38-41",
+      "lk-09-49-50"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "John reports stopping an outsider and Jesus objects. Mark extends the response to a cup of water.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-08-11-13",
+      "mt-16-01-12"
+    ],
+    "relationship": "partial-parallel",
+    "note": "A sign is requested and refused. Matthew's response makes an exception for Jonah and then shifts to the disciples.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-08-14-21",
+      "mt-16-01-12"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Leaven is misunderstood as bread. Mark names Herod, Matthew the Sadducees. Matthew explicitly narrates the disciples' eventual understanding.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-10-02-12",
+      "mt-19-01-12"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both debate divorce through Moses and creation. Matthew includes an exception and eunuch sayings. Mark gives a two-sided remarriage ruling in private.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-10-02-12",
+      "lk-16-18-18"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Luke's compact remarriage saying lacks the dispute and private explanation that frame Mark's ruling.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-19-01-12",
+      "lk-16-18-18"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "The remarriage prohibition overlaps. Luke supplies neither Matthew's explicit exception nor its debate about celibacy here.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-10-13-16",
+      "mt-19-13-15"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Children are brought, disciples object and Jesus welcomes them. Mark adds a saying about receiving the kingdom like a child.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-10-17-31",
+      "mt-19-16-30"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "A wealthy inquirer and instruction about wealth lead to discussion with disciples. Matthew includes thrones and judging Israel in the reply to Peter.",
+    "status": "candidate"
   }
 ]

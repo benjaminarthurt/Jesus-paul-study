@@ -2477,14 +2477,38 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-03-05"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "1–2 report authority and the aims of the mission. The packing and lodging instructions are directly narrated as Jesus' words.",
+      "units": [
+        {
+          "startVerse": 3,
+          "endVerse": 5,
+          "form": "instruction",
+          "audience": "the Twelve",
+          "summary": "Travel without a staff or provisions, stay in one house and mark rejection"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-07-09",
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "Reports about Jesus and Herod's question supply the words. Herod seeks to see Jesus.",
+      "units": []
+    }
   },
   {
     "passageId": "lk-09-10-17",
@@ -2493,7 +2517,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-13-14"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "11 summarizes teaching on the kingdom. In 13 the Twelve answer the command. Verse 16 narrates blessing and breaking the loaves.",
+      "units": [
+        {
+          "startVerse": 13,
+          "endVerse": 13,
+          "form": "instruction",
+          "audience": "the Twelve",
+          "summary": "Give the crowd food"
+        },
+        {
+          "startVerse": 14,
+          "endVerse": 14,
+          "form": "instruction",
+          "audience": "disciples",
+          "summary": "Seat the people in groups of about fifty"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-18-22",
@@ -2503,7 +2550,30 @@
     "existingSpeechIds": [
       "lk-s-09-18-19",
       "lk-s-09-20-22"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "19 and the close of 20 give the disciples' and Peter's replies. 21 reports the command that precedes the prediction.",
+      "units": [
+        {
+          "startVerse": 18,
+          "endVerse": 20,
+          "form": "question",
+          "audience": "disciples",
+          "summary": "Ask whom the crowds and the disciples think him to be"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 22,
+          "form": "reported-prediction",
+          "audience": "disciples",
+          "summary": "Charge them to keep silent and foretell suffering, death and rising"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-23-27",
@@ -2512,14 +2582,45 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-23-27"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "The audience broadens to all in 23. WEBP flags the word often translated daily in a note. Compare editions before making a claim about that difference.",
+      "units": [
+        {
+          "startVerse": 23,
+          "endVerse": 26,
+          "form": "teaching",
+          "audience": "all those addressed",
+          "summary": "Take up the cross, weigh the loss of life, and consider the Son of Man's response"
+        },
+        {
+          "startVerse": 27,
+          "endVerse": 27,
+          "form": "promise",
+          "audience": "those standing there",
+          "summary": "Some will see God's kingdom"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-28-36",
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "29 reports prayer. 30–31 report conversation with Moses and Elijah concerning departure, without transcribing Jesus' words. Peter proposes shelters and the voice from the cloud addresses the group.",
+      "units": []
+    }
   },
   {
     "passageId": "lk-09-37-43",
@@ -2528,7 +2629,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-41-41"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "The father describes the child's condition and the disciples' failure. Verse 42 reports the rebuke and healing with no quotation.",
+      "units": [
+        {
+          "startVerse": 41,
+          "endVerse": 41,
+          "form": "instruction",
+          "audience": "those gathered and the father",
+          "summary": "Rebuke unbelief and ask that the child be brought"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-44-45",
@@ -2537,7 +2654,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-44-44"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "44 contains the instruction and betrayal prediction. The narrator records its concealment and the disciples' fear in 45.",
+      "units": [
+        {
+          "startVerse": 44,
+          "endVerse": 44,
+          "form": "claim",
+          "audience": "disciples",
+          "summary": "Attend to the prediction of the Son of Man's betrayal"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-46-48",
@@ -2546,7 +2679,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-48-48"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "The narrator describes the dispute over rank and Jesus placing a child beside him. The interpretation follows in 48.",
+      "units": [
+        {
+          "startVerse": 48,
+          "endVerse": 48,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Receiving the child receives the sender, and the least is great"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-49-50",
@@ -2555,14 +2704,46 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-50-50"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "John reports forbidding the outsider in 49. Jesus replies to John in 50.",
+      "units": [
+        {
+          "startVerse": 50,
+          "endVerse": 50,
+          "form": "instruction",
+          "audience": "John",
+          "summary": "Allow the outsider to continue"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-51-56",
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "disputed-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "James and John propose calling down fire in 54. The rebuke is narrated in 55; WEBP supplies words in 55–56 whose textual presence varies. The move to another village is narrative.",
+      "units": [
+        {
+          "startVerse": 55,
+          "endVerse": 56,
+          "form": "warning",
+          "audience": "James and John",
+          "summary": "In WEBP Jesus rebukes destructive zeal and identifies a saving purpose"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-09-57-62",
@@ -2571,7 +2752,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-09-58-62"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK09.htm",
+      "note": "Three encounters occur on the road. The would-be followers themselves voice offers, burial and farewell requests. Verse 59 contains both a call and an answer.",
+      "units": [
+        {
+          "startVerse": 58,
+          "endVerse": 58,
+          "form": "teaching",
+          "audience": "first would-be follower",
+          "summary": "The Son of Man lacks a place to rest"
+        },
+        {
+          "startVerse": 59,
+          "endVerse": 60,
+          "form": "instruction",
+          "audience": "second would-be follower",
+          "summary": "Follow and proclaim the kingdom"
+        },
+        {
+          "startVerse": 62,
+          "endVerse": 62,
+          "form": "teaching",
+          "audience": "third would-be follower",
+          "summary": "The plow image warns against looking back"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-10-01-12",
@@ -2894,7 +3105,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-16-18-18"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK16.htm",
+      "note": "Jesus' compact saying follows the comments on the Law in 16–17. This unit supplies no divorce dispute, exception clause or private follow-up.",
+      "units": [
+        {
+          "startVerse": 18,
+          "endVerse": 18,
+          "form": "teaching",
+          "audience": "hearers in the exchange with the Pharisees",
+          "summary": "Address remarriage after divorce and marriage to a divorced woman"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-16-19-31",
@@ -3447,7 +3674,15 @@
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK01.htm",
+      "note": "Scriptural citation, John's preaching and a heavenly voice at the baptism supply the words. Jesus is baptized and tested without quoted speech.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-01-14-15",
@@ -3456,7 +3691,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-01-15-15"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK01.htm",
+      "note": "Verse 14 introduces Jesus as speaker. In 15 the announcement supplies the grounds for two imperatives.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "claim",
+          "audience": "Galilean hearers",
+          "summary": "The time has arrived and God's kingdom has drawn near"
+        },
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "instruction",
+          "audience": "Galilean hearers",
+          "summary": "Repent and trust the good news"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-01-16-20",
@@ -3465,7 +3723,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-01-17-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK01.htm",
+      "note": "17 addresses Simon and Andrew. In 20 the call of James and John is narrated without its wording.",
+      "units": [
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "instruction",
+          "audience": "Simon and Andrew",
+          "summary": "Follow Jesus and take up a new vocation"
+        },
+        {
+          "startVerse": 20,
+          "endVerse": 20,
+          "form": "reported-teaching",
+          "audience": "James and John",
+          "summary": "A second pair is called"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-01-21-28",
@@ -3474,14 +3755,53 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-01-25-25"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK01.htm",
+      "note": "21–22 report teaching without its content. In 24 the unclean spirit names Jesus. In 27 witnesses respond to the exorcism.",
+      "units": [
+        {
+          "startVerse": 25,
+          "endVerse": 25,
+          "form": "instruction",
+          "audience": "unclean spirit",
+          "summary": "Be silent and come out"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-01-29-34",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-action",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK01.htm",
+      "note": "31 narrates a healing by taking the woman's hand. In 34 Jesus prevents demons from speaking, without quoted words.",
+      "units": [
+        {
+          "startVerse": 31,
+          "endVerse": 31,
+          "form": "symbolic-action",
+          "audience": "Simon's mother-in-law",
+          "summary": "Jesus raises her by the hand"
+        },
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "reported-teaching",
+          "audience": "demons",
+          "summary": "Jesus prohibits disclosure"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-01-35-39",
@@ -3490,7 +3810,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-01-38-38"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK01.htm",
+      "note": "35 reports solitary prayer without its words. Simon and his companions report the crowd's search in 37.",
+      "units": [
+        {
+          "startVerse": 38,
+          "endVerse": 38,
+          "form": "instruction",
+          "audience": "Simon and his companions",
+          "summary": "Go elsewhere so the proclamation reaches neighboring towns"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-01-40-45",
@@ -3500,7 +3836,30 @@
     "existingSpeechIds": [
       "mk-s-01-41-41",
       "mk-s-01-44-44"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK01.htm",
+      "note": "The man requests cleansing in 40. Jesus touches and answers him. The subsequent publicity in 45 is the man's action.",
+      "units": [
+        {
+          "startVerse": 41,
+          "endVerse": 41,
+          "form": "claim",
+          "audience": "the man seeking cleansing",
+          "summary": "Jesus expresses willingness and orders cleansing"
+        },
+        {
+          "startVerse": 44,
+          "endVerse": 44,
+          "form": "instruction",
+          "audience": "the man just cleansed",
+          "summary": "Keep silence, show the priest and offer what Moses commanded"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-02-01-12",
@@ -3510,7 +3869,37 @@
     "existingSpeechIds": [
       "mk-s-02-05-05",
       "mk-s-02-08-11"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK02.htm",
+      "note": "2 reports preaching. The question about blasphemy in 7 is the scribes' reasoning. In 10 the narrator marks a change of addressee.",
+      "units": [
+        {
+          "startVerse": 5,
+          "endVerse": 5,
+          "form": "claim",
+          "audience": "the paralyzed man",
+          "summary": "Pronouncement of forgiveness"
+        },
+        {
+          "startVerse": 8,
+          "endVerse": 10,
+          "form": "question",
+          "audience": "scribes",
+          "summary": "Compare pronouncing forgiveness with commanding a man to walk"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 11,
+          "form": "instruction",
+          "audience": "the paralyzed man",
+          "summary": "Rise, carry the mat and return home"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-02-13-17",
@@ -3520,7 +3909,30 @@
     "existingSpeechIds": [
       "mk-s-02-14-14",
       "mk-s-02-17-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK02.htm",
+      "note": "13 reports teaching by the sea. The opponents address their question in 16 to the disciples before Jesus answers.",
+      "units": [
+        {
+          "startVerse": 14,
+          "endVerse": 14,
+          "form": "instruction",
+          "audience": "Levi",
+          "summary": "Follow Jesus"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "teaching",
+          "audience": "critics of table fellowship",
+          "summary": "The physician comparison explains calling sinners"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-02-18-22",
@@ -3529,7 +3941,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-02-19-22"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK02.htm",
+      "note": "Questioners ask about fasting in 18. The reply moves from a wedding comparison to two images about mixing old and new.",
+      "units": [
+        {
+          "startVerse": 19,
+          "endVerse": 20,
+          "form": "teaching",
+          "audience": "questioners about fasting",
+          "summary": "The bridegroom's presence and future absence distinguish occasions for fasting"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 22,
+          "form": "parable",
+          "audience": "questioners about fasting",
+          "summary": "A patch and wineskins illustrate the mismatch of old and new"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-02-23-28",
@@ -3539,7 +3974,30 @@
     "existingSpeechIds": [
       "mk-s-02-25-26",
       "mk-s-02-27-28"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK02.htm",
+      "note": "The Pharisees challenge the disciples' conduct in 24. Jesus answers by recalling David before interpreting Sabbath and authority.",
+      "units": [
+        {
+          "startVerse": 25,
+          "endVerse": 26,
+          "form": "question",
+          "audience": "Pharisees",
+          "summary": "David's hunger and the consecrated bread"
+        },
+        {
+          "startVerse": 27,
+          "endVerse": 28,
+          "form": "claim",
+          "audience": "Pharisees",
+          "summary": "Sabbath serves humankind and the Son of Man is its lord"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-03-01-06",
@@ -3550,14 +4008,67 @@
       "mk-s-03-03-03",
       "mk-s-03-04-04",
       "mk-s-03-05-05"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK03.htm",
+      "note": "The narrator identifies the observers' silence and Jesus' anger. The two commands address the man, while the intervening question addresses those watching.",
+      "units": [
+        {
+          "startVerse": 3,
+          "endVerse": 3,
+          "form": "instruction",
+          "audience": "man with a withered hand",
+          "summary": "Stand in the midst"
+        },
+        {
+          "startVerse": 4,
+          "endVerse": 4,
+          "form": "question",
+          "audience": "observers in the synagogue",
+          "summary": "Ask whether Sabbath permits saving life or doing harm"
+        },
+        {
+          "startVerse": 5,
+          "endVerse": 5,
+          "form": "instruction",
+          "audience": "man with a withered hand",
+          "summary": "Stretch out the hand"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-03-07-19",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK03.htm",
+      "note": "11 puts the confession in unclean spirits' mouths. 9 and 12 report instructions. The appointment and purpose of the Twelve in 13–19 are narrated.",
+      "units": [
+        {
+          "startVerse": 9,
+          "endVerse": 9,
+          "form": "reported-teaching",
+          "audience": "disciples",
+          "summary": "Keep a boat ready because of the crowd"
+        },
+        {
+          "startVerse": 12,
+          "endVerse": 12,
+          "form": "reported-teaching",
+          "audience": "unclean spirits",
+          "summary": "Keep Jesus' identity from public disclosure"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-03-20-30",
@@ -3566,7 +4077,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-03-23-30"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK03.htm",
+      "note": "Family concerns and scribal accusations precede the reply. Verse 30 explains the warning by repeating the accusation. Jesus' quoted argument ends at 29.",
+      "units": [
+        {
+          "startVerse": 23,
+          "endVerse": 27,
+          "form": "parable",
+          "audience": "scribes accusing Jesus",
+          "summary": "A divided kingdom, a divided house and binding the strong man"
+        },
+        {
+          "startVerse": 28,
+          "endVerse": 29,
+          "form": "warning",
+          "audience": "scribes accusing Jesus",
+          "summary": "Forgiveness and the exception for blasphemy against the Spirit"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-03-31-35",
@@ -3576,7 +4110,23 @@
     "existingSpeechIds": [
       "mk-s-03-33-34",
       "mk-s-03-35-35"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK03.htm",
+      "note": "The seated crowd announces the family outside. Jesus responds with a question and gestures toward those around him.",
+      "units": [
+        {
+          "startVerse": 33,
+          "endVerse": 35,
+          "form": "teaching",
+          "audience": "people seated around Jesus",
+          "summary": "Doing God's will defines kinship"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-04-01-20",
@@ -3587,7 +4137,37 @@
       "mk-s-04-03-09",
       "mk-s-04-11-13",
       "mk-s-04-14-20"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK04.htm",
+      "note": "The public parable ends in 9. From 10 onward, the Twelve and others around Jesus ask privately. Verse 12 incorporates scriptural language.",
+      "units": [
+        {
+          "startVerse": 3,
+          "endVerse": 9,
+          "form": "parable",
+          "audience": "crowd by the sea",
+          "summary": "The sower and the different outcomes of sowing"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 13,
+          "form": "teaching",
+          "audience": "the Twelve and other followers",
+          "summary": "The gift of the kingdom's mystery and the difficulty of hearing"
+        },
+        {
+          "startVerse": 14,
+          "endVerse": 20,
+          "form": "teaching",
+          "audience": "the Twelve and other followers",
+          "summary": "Seed and soils interpreted as differing receptions of the word"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-04-21-25",
@@ -3596,7 +4176,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-04-21-25"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK04.htm",
+      "note": "Questions about the lamp lead into disclosure and hearing, then a distinct warning about measure.",
+      "units": [
+        {
+          "startVerse": 21,
+          "endVerse": 23,
+          "form": "parable",
+          "audience": "hearers of the discourse",
+          "summary": "A lamp belongs on a stand and hidden things come to light"
+        },
+        {
+          "startVerse": 24,
+          "endVerse": 25,
+          "form": "warning",
+          "audience": "hearers of the discourse",
+          "summary": "Attend to hearing and the measure used"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-04-26-29",
@@ -3605,7 +4208,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-04-26-29"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK04.htm",
+      "note": "The narrator introduces a kingdom comparison. The farmer's actions belong inside Jesus' parable.",
+      "units": [
+        {
+          "startVerse": 26,
+          "endVerse": 29,
+          "form": "parable",
+          "audience": "hearers of the discourse",
+          "summary": "Growth happens beyond the sower's understanding until harvest"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-04-30-34",
@@ -3614,7 +4233,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-04-30-32"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK04.htm",
+      "note": "Jesus' comparison ends in 32. In 33–34 the narrator describes public parables and private explanations without quoting another one.",
+      "units": [
+        {
+          "startVerse": 30,
+          "endVerse": 32,
+          "form": "parable",
+          "audience": "hearers of the discourse",
+          "summary": "The small mustard seed grows into shelter"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-04-35-41",
@@ -3623,8 +4258,39 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-04-39-39",
-      "mk-s-04-40-40"
-    ]
+      "mk-s-04-40-40",
+      "mk-s-04-35-35"
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK04.htm",
+      "note": "The disciples protest in 38 and ask one another about Jesus in 41. Jesus addresses both the sea and the disciples.",
+      "units": [
+        {
+          "startVerse": 35,
+          "endVerse": 35,
+          "form": "instruction",
+          "audience": "disciples",
+          "summary": "Cross to the other side"
+        },
+        {
+          "startVerse": 39,
+          "endVerse": 39,
+          "form": "instruction",
+          "audience": "the sea",
+          "summary": "Command the storm to be still"
+        },
+        {
+          "startVerse": 40,
+          "endVerse": 40,
+          "form": "question",
+          "audience": "disciples",
+          "summary": "Ask about fear and faith"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-05-01-20",
@@ -3634,7 +4300,37 @@
     "existingSpeechIds": [
       "mk-s-05-08-09",
       "mk-s-05-19-19"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK05.htm",
+      "note": "7 is the possessed man's cry. In 9 Jesus asks the name and the answer comes from Legion. Permission concerning the pigs in 13 is narrated.",
+      "units": [
+        {
+          "startVerse": 8,
+          "endVerse": 8,
+          "form": "instruction",
+          "audience": "unclean spirit",
+          "summary": "Leave the man"
+        },
+        {
+          "startVerse": 9,
+          "endVerse": 9,
+          "form": "question",
+          "audience": "unclean spirit",
+          "summary": "Ask the name"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "instruction",
+          "audience": "the restored man",
+          "summary": "Tell those at home what the Lord has done"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-05-21-43",
@@ -3647,7 +4343,58 @@
       "mk-s-05-36-36",
       "mk-s-05-39-39",
       "mk-s-05-41-41"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK05.htm",
+      "note": "Jairus, the woman, disciples and messengers all speak. Verse 41 glosses the Aramaic command. Verse 43 reports two further directions.",
+      "units": [
+        {
+          "startVerse": 30,
+          "endVerse": 30,
+          "form": "question",
+          "audience": "the crowd",
+          "summary": "Ask who touched his clothes"
+        },
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "blessing",
+          "audience": "the healed woman",
+          "summary": "Recognize her faith and send her in peace"
+        },
+        {
+          "startVerse": 36,
+          "endVerse": 36,
+          "form": "instruction",
+          "audience": "Jairus",
+          "summary": "Replace fear with trust"
+        },
+        {
+          "startVerse": 39,
+          "endVerse": 39,
+          "form": "question",
+          "audience": "mourners",
+          "summary": "Challenge their mourning and describe the girl as sleeping"
+        },
+        {
+          "startVerse": 41,
+          "endVerse": 41,
+          "form": "instruction",
+          "audience": "the girl",
+          "summary": "Tell the child to rise"
+        },
+        {
+          "startVerse": 43,
+          "endVerse": 43,
+          "form": "reported-teaching",
+          "audience": "those present",
+          "summary": "Keep the event private and give the girl food"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-06-01-06",
@@ -3656,7 +4403,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-06-04-04"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK06.htm",
+      "note": "Townspeople question Jesus' origins in 2–3. Verse 6 reports further teaching without wording.",
+      "units": [
+        {
+          "startVerse": 4,
+          "endVerse": 4,
+          "form": "teaching",
+          "audience": "people in his hometown",
+          "summary": "A prophet lacks honor among those closest to him"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-06-07-13",
@@ -3665,14 +4428,45 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-06-10-11"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK06.htm",
+      "note": "7 narrates commissioning the Twelve. 8–9 report travel instructions. In 12–13 the Twelve preach and heal.",
+      "units": [
+        {
+          "startVerse": 8,
+          "endVerse": 9,
+          "form": "reported-teaching",
+          "audience": "the Twelve",
+          "summary": "Restrictions on provisions and clothes for the journey"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 11,
+          "form": "instruction",
+          "audience": "the Twelve",
+          "summary": "Stay in the receiving house and mark a town's refusal"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-06-14-29",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK06.htm",
+      "note": "Herod, others speculating about Jesus, John the Baptist, Herodias and her daughter account for the dialogue. The prohibition in 18 belongs to John.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-06-30-44",
@@ -3682,7 +4476,37 @@
     "existingSpeechIds": [
       "mk-s-06-31-31",
       "mk-s-06-37-38"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK06.htm",
+      "note": "34 summarizes teaching. The disciples speak in 35–36 and answer in both 37 and 38. Verse 41 narrates blessing and distribution.",
+      "units": [
+        {
+          "startVerse": 31,
+          "endVerse": 31,
+          "form": "instruction",
+          "audience": "returning apostles",
+          "summary": "Withdraw to rest"
+        },
+        {
+          "startVerse": 37,
+          "endVerse": 38,
+          "form": "instruction",
+          "audience": "disciples",
+          "summary": "Feed the people and find how many loaves are available"
+        },
+        {
+          "startVerse": 39,
+          "endVerse": 39,
+          "form": "reported-teaching",
+          "audience": "disciples arranging the meal",
+          "summary": "Seat the crowd in groups"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-06-45-52",
@@ -3691,14 +4515,38 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-06-50-50"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK06.htm",
+      "note": "45 reports the direction to take the boat, 46 reports prayer, and 52 gives the narrator's comment about the loaves.",
+      "units": [
+        {
+          "startVerse": 50,
+          "endVerse": 50,
+          "form": "instruction",
+          "audience": "disciples in the boat",
+          "summary": "Identify himself and reassure them"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-06-53-56",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK06.htm",
+      "note": "People carry the sick and ask to touch Jesus' garment. The narrator reports healing without words from Jesus.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-07-01-13",
@@ -3707,14 +4555,45 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-07-06-13"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK07.htm",
+      "note": "3–4 explain customs. 5 is the opponents' question. Jesus embeds Isaiah, Mosaic commands and a hypothetical vow in his answer.",
+      "units": [
+        {
+          "startVerse": 6,
+          "endVerse": 8,
+          "form": "teaching",
+          "audience": "Pharisees and scribes",
+          "summary": "Isaiah's critique applied to human tradition"
+        },
+        {
+          "startVerse": 9,
+          "endVerse": 13,
+          "form": "teaching",
+          "audience": "Pharisees and scribes",
+          "summary": "The Corban example exposes an obligation to parents set aside"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-07-01-23",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "composite",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK07.htm",
+      "note": "This overlapping research anchor joins the public dispute, address to the crowd and private explanation. The two narrower parents 7:1–13 and 7:14–23 hold the speech records.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-07-14-23",
@@ -3724,7 +4603,37 @@
     "existingSpeechIds": [
       "mk-s-07-14-15",
       "mk-s-07-18-23"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK07.htm",
+      "note": "14–16 address the crowd in WEBP; the textual status of 16 matters. Verse 17 introduces a private question. The voice and syntax of the food clause in 19 require separate review.",
+      "units": [
+        {
+          "startVerse": 14,
+          "endVerse": 16,
+          "form": "teaching",
+          "audience": "crowd",
+          "summary": "Attend to what goes out of a person as the source of defilement"
+        },
+        {
+          "startVerse": 18,
+          "endVerse": 19,
+          "form": "question",
+          "audience": "disciples in the house",
+          "summary": "What enters the body and where it goes"
+        },
+        {
+          "startVerse": 20,
+          "endVerse": 23,
+          "form": "teaching",
+          "audience": "disciples in the house",
+          "summary": "Harmful actions and intentions proceed from within"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-07-24-30",
@@ -3734,7 +4643,30 @@
     "existingSpeechIds": [
       "mk-s-07-27-27",
       "mk-s-07-29-29"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK07.htm",
+      "note": "The woman herself makes the counterargument about crumbs in 28. Jesus answers in 29.",
+      "units": [
+        {
+          "startVerse": 27,
+          "endVerse": 27,
+          "form": "teaching",
+          "audience": "Syrophoenician mother",
+          "summary": "The children and their bread take priority in the comparison"
+        },
+        {
+          "startVerse": 29,
+          "endVerse": 29,
+          "form": "response",
+          "audience": "Syrophoenician mother",
+          "summary": "Respond to her argument and announce her daughter's deliverance"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-07-31-37",
@@ -3743,7 +4675,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-07-34-34"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK07.htm",
+      "note": "The narrator translates the Aramaic in 34. The spectators' praise in 37 is their speech.",
+      "units": [
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "instruction",
+          "audience": "man with impaired hearing and speech",
+          "summary": "Command opening in the healing scene"
+        },
+        {
+          "startVerse": 36,
+          "endVerse": 36,
+          "form": "reported-teaching",
+          "audience": "those present",
+          "summary": "Charge the witnesses to keep silent"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-08-01-10",
@@ -3753,7 +4708,37 @@
     "existingSpeechIds": [
       "mk-s-08-02-03",
       "mk-s-08-05-05"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK08.htm",
+      "note": "4 is the disciples' question and the final clause of 5 is their answer. The narrative reports directions and blessings during the meal.",
+      "units": [
+        {
+          "startVerse": 2,
+          "endVerse": 3,
+          "form": "claim",
+          "audience": "disciples",
+          "summary": "Compassion for the hungry crowd and concern about their journey"
+        },
+        {
+          "startVerse": 5,
+          "endVerse": 5,
+          "form": "question",
+          "audience": "disciples",
+          "summary": "Ask how many loaves are available"
+        },
+        {
+          "startVerse": 6,
+          "endVerse": 7,
+          "form": "reported-teaching",
+          "audience": "crowd and disciples",
+          "summary": "Seat the people and serve the food"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-08-11-13",
@@ -3762,7 +4747,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-08-12-12"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK08.htm",
+      "note": "The Pharisees seek a heavenly sign. The reply in 12 includes a question and a refusal.",
+      "units": [
+        {
+          "startVerse": 12,
+          "endVerse": 12,
+          "form": "response",
+          "audience": "Pharisees",
+          "summary": "Refuse the requested sign"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-08-14-21",
@@ -3771,7 +4772,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-08-15-21"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK08.htm",
+      "note": "16 gives the disciples' misunderstanding. In 19 and 20, the basket totals are their answers between Jesus' questions.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "warning",
+          "audience": "disciples in the boat",
+          "summary": "Beware of the leaven of the Pharisees and Herod"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 21,
+          "form": "question",
+          "audience": "disciples in the boat",
+          "summary": "Recall both feedings and press the disciples about their understanding"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-08-22-26",
@@ -3781,7 +4805,30 @@
     "existingSpeechIds": [
       "mk-s-08-23-23",
       "mk-s-08-26-26"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK08.htm",
+      "note": "24 is the man's report during a two-stage healing. The narrator reports the healing gestures in 23 and 25.",
+      "units": [
+        {
+          "startVerse": 23,
+          "endVerse": 23,
+          "form": "question",
+          "audience": "blind man at Bethsaida",
+          "summary": "Ask whether he can see"
+        },
+        {
+          "startVerse": 26,
+          "endVerse": 26,
+          "form": "instruction",
+          "audience": "the healed man",
+          "summary": "Directions concerning return to the village"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-08-27-33",
@@ -3792,7 +4839,44 @@
       "mk-s-08-27-29",
       "mk-s-08-31-31",
       "mk-s-08-33-33"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK08.htm",
+      "note": "The disciples answer in 28, Peter confesses at the end of 29, and 30–31 narrate instructions. In 33 Jesus turns toward the disciples and rebukes Peter.",
+      "units": [
+        {
+          "startVerse": 27,
+          "endVerse": 29,
+          "form": "question",
+          "audience": "disciples",
+          "summary": "Ask how others identify him and how the disciples do"
+        },
+        {
+          "startVerse": 30,
+          "endVerse": 30,
+          "form": "reported-teaching",
+          "audience": "disciples",
+          "summary": "Prohibit telling others about him"
+        },
+        {
+          "startVerse": 31,
+          "endVerse": 31,
+          "form": "reported-prediction",
+          "audience": "disciples",
+          "summary": "Foretell rejection, death and rising"
+        },
+        {
+          "startVerse": 33,
+          "endVerse": 33,
+          "form": "warning",
+          "audience": "Peter",
+          "summary": "Rebuke Peter's understanding of the path ahead"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-08-34-38",
@@ -3801,7 +4885,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-08-34-38"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK08.htm",
+      "note": "34 explicitly calls the crowd together with the disciples. The rhetorical questions broaden into a warning about the Son of Man.",
+      "units": [
+        {
+          "startVerse": 34,
+          "endVerse": 35,
+          "form": "instruction",
+          "audience": "crowd and disciples",
+          "summary": "Take up the cross and risk one's life for the gospel"
+        },
+        {
+          "startVerse": 36,
+          "endVerse": 38,
+          "form": "warning",
+          "audience": "crowd and disciples",
+          "summary": "The value of life and the consequence of being ashamed"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-09-01-13",
@@ -3811,7 +4918,37 @@
     "existingSpeechIds": [
       "mk-s-09-01-01",
       "mk-s-09-12-13"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK09.htm",
+      "note": "1 continues the preceding address. Peter proposes shelters in 5. The voice from the cloud speaks in 7. The descent instruction in 9 is reported indirectly.",
+      "units": [
+        {
+          "startVerse": 1,
+          "endVerse": 1,
+          "form": "promise",
+          "audience": "those standing with Jesus",
+          "summary": "Some will witness the kingdom coming in power"
+        },
+        {
+          "startVerse": 9,
+          "endVerse": 9,
+          "form": "reported-teaching",
+          "audience": "Peter, James and John",
+          "summary": "Delay telling the vision until the rising of the Son of Man"
+        },
+        {
+          "startVerse": 12,
+          "endVerse": 13,
+          "form": "teaching",
+          "audience": "Peter, James and John",
+          "summary": "Elijah's coming and the suffering of the Son of Man"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-09-14-29",
@@ -3824,7 +4961,58 @@
       "mk-s-09-21-23",
       "mk-s-09-25-25",
       "mk-s-09-29-29"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK09.htm",
+      "note": "The father gives the history and asks for help in 21–22 and 24. In 29 WEBP includes fasting alongside prayer; the wording varies across editions.",
+      "units": [
+        {
+          "startVerse": 16,
+          "endVerse": 16,
+          "form": "question",
+          "audience": "scribes",
+          "summary": "Ask what they are disputing"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "instruction",
+          "audience": "those present",
+          "summary": "Rebuke unbelief and ask that the child be brought"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 21,
+          "form": "question",
+          "audience": "the father",
+          "summary": "Ask how long the child has suffered"
+        },
+        {
+          "startVerse": 23,
+          "endVerse": 23,
+          "form": "teaching",
+          "audience": "the father",
+          "summary": "Respond about the possibility of belief"
+        },
+        {
+          "startVerse": 25,
+          "endVerse": 25,
+          "form": "instruction",
+          "audience": "unclean spirit",
+          "summary": "Command departure and forbid return"
+        },
+        {
+          "startVerse": 29,
+          "endVerse": 29,
+          "form": "teaching",
+          "audience": "disciples in private",
+          "summary": "Explain the role of prayer in this case"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-09-30-32",
@@ -3833,7 +5021,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-09-31-31"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK09.htm",
+      "note": "The narrator introduces instruction in 31. The disciples' incomprehension and fear of asking in 32 close the unit.",
+      "units": [
+        {
+          "startVerse": 31,
+          "endVerse": 31,
+          "form": "claim",
+          "audience": "disciples",
+          "summary": "Predict betrayal, death and rising"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-09-33-37",
@@ -3841,8 +5045,39 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "mk-s-09-35-37"
-    ]
+      "mk-s-09-35-37",
+      "mk-s-09-33-33"
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK09.htm",
+      "note": "33 asks about the argument on the road. The narrator discloses its subject in 34. Jesus places a child among the Twelve in 36.",
+      "units": [
+        {
+          "startVerse": 33,
+          "endVerse": 33,
+          "form": "question",
+          "audience": "disciples in the house",
+          "summary": "Ask about their dispute"
+        },
+        {
+          "startVerse": 35,
+          "endVerse": 35,
+          "form": "instruction",
+          "audience": "the Twelve",
+          "summary": "The first should take last place and serve all"
+        },
+        {
+          "startVerse": 36,
+          "endVerse": 37,
+          "form": "teaching",
+          "audience": "the Twelve",
+          "summary": "Welcoming a child in his name receives the one who sent him"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-09-38-41",
@@ -3851,7 +5086,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-09-39-41"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK09.htm",
+      "note": "John reports an outsider's activity in 38. Jesus answers his attempt to stop the outsider.",
+      "units": [
+        {
+          "startVerse": 39,
+          "endVerse": 40,
+          "form": "instruction",
+          "audience": "John and the disciples",
+          "summary": "Allow the outsider to act in Jesus' name"
+        },
+        {
+          "startVerse": 41,
+          "endVerse": 41,
+          "form": "promise",
+          "audience": "disciples",
+          "summary": "A gift of water on account of Christ receives a reward"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-09-42-50",
@@ -3861,14 +5119,52 @@
     "existingSpeechIds": [
       "mk-s-09-42-48",
       "mk-s-09-49-50"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK09.htm",
+      "note": "Speech continues without a new speaker. Repetition and numbering around 44 and 46 depend on the edition.",
+      "units": [
+        {
+          "startVerse": 42,
+          "endVerse": 42,
+          "form": "warning",
+          "audience": "disciples",
+          "summary": "Warning against causing a little one to stumble"
+        },
+        {
+          "startVerse": 43,
+          "endVerse": 48,
+          "form": "warning",
+          "audience": "disciples",
+          "summary": "Hand, foot and eye illustrate the stakes of stumbling"
+        },
+        {
+          "startVerse": 49,
+          "endVerse": 50,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Salt imagery leads into the command to be at peace"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-10-01-01",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK10.htm",
+      "note": "Crowds gather and Jesus teaches as was his custom. The narrator gives no content for a separate saying.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-10-02-12",
@@ -3879,7 +5175,37 @@
       "mk-s-10-03-03",
       "mk-s-10-05-09",
       "mk-s-10-11-12"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK10.htm",
+      "note": "The Pharisees pose the test and cite the certificate in 4. Jesus answers with creation language. In 10 the scene moves to disciples in a house.",
+      "units": [
+        {
+          "startVerse": 3,
+          "endVerse": 3,
+          "form": "question",
+          "audience": "Pharisees",
+          "summary": "Ask what Moses commanded"
+        },
+        {
+          "startVerse": 5,
+          "endVerse": 9,
+          "form": "teaching",
+          "audience": "Pharisees",
+          "summary": "Hardness of heart, creation and the union of spouses"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 12,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Apply the remarriage ruling to both spouses"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-10-13-16",
@@ -3888,7 +5214,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-10-14-15"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK10.htm",
+      "note": "The disciples object to people bringing children. Verse 16 describes laying on hands and blessing without quoted words.",
+      "units": [
+        {
+          "startVerse": 14,
+          "endVerse": 15,
+          "form": "instruction",
+          "audience": "disciples",
+          "summary": "Admit the children and receive the kingdom like a child"
+        },
+        {
+          "startVerse": 16,
+          "endVerse": 16,
+          "form": "symbolic-action",
+          "audience": "children",
+          "summary": "Embrace and bless the children"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-10-17-31",
@@ -3899,7 +5248,51 @@
       "mk-s-10-18-21",
       "mk-s-10-23-27",
       "mk-s-10-29-31"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK10.htm",
+      "note": "The man answers in 20. The disciples speak in 26 and Peter in 28. Verse 21 addresses the individual, 23–31 address the disciples.",
+      "units": [
+        {
+          "startVerse": 18,
+          "endVerse": 19,
+          "form": "question",
+          "audience": "the man who asks about eternal life",
+          "summary": "Question the title good and recall commandments"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 21,
+          "form": "instruction",
+          "audience": "the wealthy man",
+          "summary": "Sell possessions, give to the poor and follow"
+        },
+        {
+          "startVerse": 23,
+          "endVerse": 25,
+          "form": "warning",
+          "audience": "disciples",
+          "summary": "Wealth and entry into the kingdom"
+        },
+        {
+          "startVerse": 27,
+          "endVerse": 27,
+          "form": "claim",
+          "audience": "disciples",
+          "summary": "What is impossible for people is possible for God"
+        },
+        {
+          "startVerse": 29,
+          "endVerse": 31,
+          "form": "promise",
+          "audience": "disciples",
+          "summary": "Loss for the gospel, present community with persecution, and future life"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-10-32-34",
@@ -3908,7 +5301,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-10-33-34"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK10.htm",
+      "note": "32 sets the journey toward Jerusalem and specifies that Jesus takes the Twelve aside.",
+      "units": [
+        {
+          "startVerse": 33,
+          "endVerse": 34,
+          "form": "claim",
+          "audience": "the Twelve",
+          "summary": "Predict condemnation, mockery, death and rising"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-10-35-45",
@@ -3918,7 +5327,37 @@
     "existingSpeechIds": [
       "mk-s-10-36-40",
       "mk-s-10-42-45"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK10.htm",
+      "note": "James and John make their request in 35 and 37 and reply in the first part of 39. Jesus subsequently addresses the wider group.",
+      "units": [
+        {
+          "startVerse": 36,
+          "endVerse": 36,
+          "form": "question",
+          "audience": "James and John",
+          "summary": "Ask what they want"
+        },
+        {
+          "startVerse": 38,
+          "endVerse": 40,
+          "form": "response",
+          "audience": "James and John",
+          "summary": "The cup, baptism and the limits on granting places"
+        },
+        {
+          "startVerse": 42,
+          "endVerse": 45,
+          "form": "teaching",
+          "audience": "the Twelve",
+          "summary": "Rule through service, illustrated by the Son of Man's giving of his life"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-10-46-52",
@@ -3926,8 +5365,39 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "mk-s-10-51-52"
-    ]
+      "mk-s-10-51-52",
+      "mk-s-10-49-49"
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK10.htm",
+      "note": "Bartimaeus calls out in 47–48. Bystanders relay the summons in 49. The request for sight is his answer in 51.",
+      "units": [
+        {
+          "startVerse": 49,
+          "endVerse": 49,
+          "form": "instruction",
+          "audience": "those nearby",
+          "summary": "Call Bartimaeus"
+        },
+        {
+          "startVerse": 51,
+          "endVerse": 51,
+          "form": "question",
+          "audience": "Bartimaeus",
+          "summary": "Ask what he wants"
+        },
+        {
+          "startVerse": 52,
+          "endVerse": 52,
+          "form": "response",
+          "audience": "Bartimaeus",
+          "summary": "Send him on his way and connect restoration with faith"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-11-01-11",
@@ -3936,7 +5406,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-11-02-03"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK11.htm",
+      "note": "Jesus instructs two disciples. The question and answer inside 3 anticipate another conversation. The acclamations in 9–10 belong to the crowd.",
+      "units": [
+        {
+          "startVerse": 2,
+          "endVerse": 3,
+          "form": "instruction",
+          "audience": "two disciples",
+          "summary": "Fetch the colt and explain why it is needed"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-11-12-19",
@@ -3946,7 +5432,37 @@
     "existingSpeechIds": [
       "mk-s-11-14-14",
       "mk-s-11-17-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK11.htm",
+      "note": "The fig tree is addressed in 14. Jesus' temple action in 15–16 precedes his scriptural interpretation in 17.",
+      "units": [
+        {
+          "startVerse": 14,
+          "endVerse": 14,
+          "form": "warning",
+          "audience": "fig tree within hearing of the disciples",
+          "summary": "Declare that no one will eat its fruit again"
+        },
+        {
+          "startVerse": 15,
+          "endVerse": 16,
+          "form": "symbolic-action",
+          "audience": "those using the temple",
+          "summary": "Expel traders and interrupt traffic through the temple"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "teaching",
+          "audience": "those in the temple",
+          "summary": "Contrast a house of prayer for all nations with a den of robbers"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-11-20-26",
@@ -3955,7 +5471,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-11-22-25"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK11.htm",
+      "note": "21 is Peter's observation. WEBP includes 26, a textually disputed negative counterpart to 25. Preserve its edition-specific scope.",
+      "units": [
+        {
+          "startVerse": 22,
+          "endVerse": 24,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Faith and prayer illustrated by moving a mountain"
+        },
+        {
+          "startVerse": 25,
+          "endVerse": 26,
+          "form": "instruction",
+          "audience": "disciples",
+          "summary": "Forgive when praying, with a further warning in WEBP verse 26"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-11-27-33",
@@ -3964,7 +5503,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-11-29-33"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK11.htm",
+      "note": "Leaders challenge Jesus in 28. Their deliberation in 31–32 includes an imagined response by Jesus. The first reply in 33 is theirs.",
+      "units": [
+        {
+          "startVerse": 29,
+          "endVerse": 30,
+          "form": "question",
+          "audience": "chief priests, scribes and elders",
+          "summary": "Ask about the authority behind John's baptism"
+        },
+        {
+          "startVerse": 33,
+          "endVerse": 33,
+          "form": "response",
+          "audience": "chief priests, scribes and elders",
+          "summary": "Decline to disclose authority after their answer"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-12-01-12",
@@ -3973,7 +5535,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-12-01-11"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+      "note": "The owner and tenants speak as characters in the story. The explanation of the leaders' reaction in 12 is the narrator's.",
+      "units": [
+        {
+          "startVerse": 1,
+          "endVerse": 9,
+          "form": "parable",
+          "audience": "leaders addressed in the temple",
+          "summary": "Vineyard tenants reject the owner's messengers and kill his son"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 11,
+          "form": "question",
+          "audience": "leaders addressed in the temple",
+          "summary": "Apply the rejected-stone citation"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-12-13-17",
@@ -3982,7 +5567,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-12-15-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+      "note": "The question continues into the opening of 15. In 16 the answer about the image is given by Jesus' interlocutors.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 16,
+          "form": "question",
+          "audience": "Pharisees and Herodians",
+          "summary": "Request a coin and identify its image and inscription"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "instruction",
+          "audience": "Pharisees and Herodians",
+          "summary": "Distinguish what is owed to Caesar and to God"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-12-18-27",
@@ -3991,7 +5599,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-12-24-27"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+      "note": "The hypothetical marriages in 19–23 are proposed by the Sadducees. Jesus quotes God's address to Moses within his reply in 26.",
+      "units": [
+        {
+          "startVerse": 24,
+          "endVerse": 25,
+          "form": "teaching",
+          "audience": "Sadducees",
+          "summary": "Reject the assumption that marriage continues in the resurrection"
+        },
+        {
+          "startVerse": 26,
+          "endVerse": 27,
+          "form": "teaching",
+          "audience": "Sadducees",
+          "summary": "Argue for the living from the divine self-identification at the bush"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-12-28-34",
@@ -4001,7 +5632,30 @@
     "existingSpeechIds": [
       "mk-s-12-29-31",
       "mk-s-12-34-34"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+      "note": "The scribe replies in 32–33, including the comparison with sacrifice. Jesus evaluates his answer in 34.",
+      "units": [
+        {
+          "startVerse": 29,
+          "endVerse": 31,
+          "form": "teaching",
+          "audience": "the questioning scribe",
+          "summary": "Love God and love the neighbor"
+        },
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "response",
+          "audience": "the questioning scribe",
+          "summary": "Locate the scribe near the kingdom"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-12-35-37",
@@ -4010,7 +5664,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-12-35-37"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+      "note": "Jesus raises the issue in the temple and embeds the words of David and the Lord in 36. The final comment on the crowd in 37 is narrative.",
+      "units": [
+        {
+          "startVerse": 35,
+          "endVerse": 37,
+          "form": "question",
+          "audience": "temple hearers",
+          "summary": "How can David call the Messiah Lord if he is David's son?"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-12-38-40",
@@ -4019,7 +5689,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-12-38-40"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+      "note": "The warning about public honor, exploitation and conspicuous prayer precedes the widow episode.",
+      "units": [
+        {
+          "startVerse": 38,
+          "endVerse": 40,
+          "form": "warning",
+          "audience": "temple hearers",
+          "summary": "Beware of scribes seeking prestige while consuming widows' households"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-12-41-44",
@@ -4028,7 +5714,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-12-43-44"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK12.htm",
+      "note": "41–42 narrate offerings. Jesus summons the disciples before assessing the widow's contribution. He does not explicitly command imitation.",
+      "units": [
+        {
+          "startVerse": 43,
+          "endVerse": 44,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Compare the widow's gift out of need with gifts out of surplus"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-13-01-08",
@@ -4038,7 +5740,30 @@
     "existingSpeechIds": [
       "mk-s-13-02-02",
       "mk-s-13-05-08"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK13.htm",
+      "note": "A disciple comments on the buildings in 1. Four named disciples privately ask a question in 3–4. The impostors' claim in 6 is nested speech.",
+      "units": [
+        {
+          "startVerse": 2,
+          "endVerse": 2,
+          "form": "claim",
+          "audience": "the disciple admiring the temple",
+          "summary": "Predict the loss of the buildings"
+        },
+        {
+          "startVerse": 5,
+          "endVerse": 8,
+          "form": "warning",
+          "audience": "Peter, James, John and Andrew",
+          "summary": "Avoid deception and premature identification of wars with the end"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-13-09-13",
@@ -4047,7 +5772,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-13-09-13"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK13.htm",
+      "note": "Jesus continues answering the four. In 11 the Spirit is identified as the source of their future defense.",
+      "units": [
+        {
+          "startVerse": 9,
+          "endVerse": 11,
+          "form": "instruction",
+          "audience": "four disciples on the Mount of Olives",
+          "summary": "Bear witness under trial and depend on the Spirit"
+        },
+        {
+          "startVerse": 12,
+          "endVerse": 13,
+          "form": "warning",
+          "audience": "four disciples on the Mount of Olives",
+          "summary": "Family betrayal and endurance to the end"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-13-14-23",
@@ -4056,7 +5804,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-13-14-23"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK13.htm",
+      "note": "The aside to the reader in 14 interrupts Jesus' instructions. The claims attributed to possible deceivers in 21 are embedded speech.",
+      "units": [
+        {
+          "startVerse": 14,
+          "endVerse": 18,
+          "form": "instruction",
+          "audience": "four disciples on the Mount of Olives",
+          "summary": "Flee in the crisis and pray about its timing"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 23,
+          "form": "warning",
+          "audience": "four disciples on the Mount of Olives",
+          "summary": "Distress and claims by false messiahs and prophets"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-13-24-27",
@@ -4065,7 +5836,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-13-24-27"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK13.htm",
+      "note": "The cosmic imagery and the gathering continue the discourse that began with the four disciples' question.",
+      "units": [
+        {
+          "startVerse": 24,
+          "endVerse": 27,
+          "form": "claim",
+          "audience": "four disciples on the Mount of Olives",
+          "summary": "After distress the Son of Man comes and gathers the elect"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-13-28-37",
@@ -4075,7 +5862,37 @@
     "existingSpeechIds": [
       "mk-s-13-28-31",
       "mk-s-13-32-37"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK13.htm",
+      "note": "The fig tree, certainty about the words and uncertainty about the hour lead to a second comparison with a traveling master. The final command expressly widens its audience.",
+      "units": [
+        {
+          "startVerse": 28,
+          "endVerse": 31,
+          "form": "parable",
+          "audience": "four disciples on the Mount of Olives",
+          "summary": "Learn from the fig tree and attend to the claim about this generation"
+        },
+        {
+          "startVerse": 32,
+          "endVerse": 36,
+          "form": "warning",
+          "audience": "four disciples on the Mount of Olives",
+          "summary": "Only the Father knows the hour, so keep watch like servants"
+        },
+        {
+          "startVerse": 37,
+          "endVerse": 37,
+          "form": "instruction",
+          "audience": "disciples and all hearers",
+          "summary": "Extend the command to watch to everyone"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-14-01-11",
@@ -4084,7 +5901,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-14-06-09"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+      "note": "1–5 report plotting, anointing and criticism of the woman. Judas' approach to the authorities is narrated in 10–11.",
+      "units": [
+        {
+          "startVerse": 6,
+          "endVerse": 9,
+          "form": "teaching",
+          "audience": "critics of the anointing",
+          "summary": "Defend the woman, interpret preparation for burial and anticipate remembrance"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-14-12-21",
@@ -4094,7 +5927,37 @@
     "existingSpeechIds": [
       "mk-s-14-13-15",
       "mk-s-14-18-21"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+      "note": "The disciples ask about preparation in 12 and question the betrayal announcement in 19. In 14 Jesus supplies the words they are to relay.",
+      "units": [
+        {
+          "startVerse": 13,
+          "endVerse": 15,
+          "form": "instruction",
+          "audience": "two disciples",
+          "summary": "Follow the water carrier and prepare the room"
+        },
+        {
+          "startVerse": 18,
+          "endVerse": 18,
+          "form": "claim",
+          "audience": "the Twelve at the meal",
+          "summary": "Announce betrayal by one eating with him"
+        },
+        {
+          "startVerse": 20,
+          "endVerse": 21,
+          "form": "warning",
+          "audience": "the Twelve at the meal",
+          "summary": "Identify the betrayer by shared eating and pronounce woe"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-14-22-25",
@@ -4103,7 +5966,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-14-22-25"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+      "note": "Blessing, breaking, giving and drinking are narrated around the words. Verse 23 reports giving thanks with no words supplied.",
+      "units": [
+        {
+          "startVerse": 22,
+          "endVerse": 22,
+          "form": "instruction",
+          "audience": "disciples at the meal",
+          "summary": "Give the bread and identify it with his body"
+        },
+        {
+          "startVerse": 24,
+          "endVerse": 24,
+          "form": "claim",
+          "audience": "disciples at the meal",
+          "summary": "Identify the cup with covenant blood poured out for many"
+        },
+        {
+          "startVerse": 25,
+          "endVerse": 25,
+          "form": "promise",
+          "audience": "disciples at the meal",
+          "summary": "Anticipate drinking anew in the kingdom"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-14-26-31",
@@ -4113,7 +6006,30 @@
     "existingSpeechIds": [
       "mk-s-14-27-28",
       "mk-s-14-30-30"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+      "note": "A scriptural citation is embedded in 27. Peter objects in 29 and 31. The group's protest closes the scene.",
+      "units": [
+        {
+          "startVerse": 27,
+          "endVerse": 28,
+          "form": "claim",
+          "audience": "disciples",
+          "summary": "Predict scattering and promise to precede them to Galilee"
+        },
+        {
+          "startVerse": 30,
+          "endVerse": 30,
+          "form": "claim",
+          "audience": "Peter",
+          "summary": "Predict Peter's three denials"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-14-32-42",
@@ -4124,8 +6040,53 @@
       "mk-s-14-34-34",
       "mk-s-14-36-36",
       "mk-s-14-37-38",
-      "mk-s-14-41-42"
-    ]
+      "mk-s-14-41-42",
+      "mk-s-14-32-32"
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+      "note": "32 addresses the disciples, 34 the three. Verse 35 reports prayer, 36 quotes it, and 39 reports repetition. Peter is singled out in 37.",
+      "units": [
+        {
+          "startVerse": 32,
+          "endVerse": 32,
+          "form": "instruction",
+          "audience": "disciples",
+          "summary": "Remain seated while Jesus prays"
+        },
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "instruction",
+          "audience": "Peter, James and John",
+          "summary": "Stay and watch in his distress"
+        },
+        {
+          "startVerse": 35,
+          "endVerse": 36,
+          "form": "prayer",
+          "audience": "the Father",
+          "summary": "Ask for the cup's removal and submit to the Father's will"
+        },
+        {
+          "startVerse": 37,
+          "endVerse": 38,
+          "form": "warning",
+          "audience": "Peter and the companions",
+          "summary": "Watch and pray in view of temptation and weakness"
+        },
+        {
+          "startVerse": 41,
+          "endVerse": 42,
+          "form": "instruction",
+          "audience": "sleeping disciples",
+          "summary": "Recognize the hour and rise as the betrayer approaches"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-14-43-65",
@@ -4135,14 +6096,53 @@
     "existingSpeechIds": [
       "mk-s-14-48-49",
       "mk-s-14-61-62"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+      "note": "Judas speaks in 44–45. The temple prediction in 58 is attributed to Jesus by witnesses whose testimony the narrator contests. The high priest asks the question in 61.",
+      "units": [
+        {
+          "startVerse": 48,
+          "endVerse": 49,
+          "form": "question",
+          "audience": "arresting party",
+          "summary": "Challenge the manner of arrest and refer to fulfillment of Scripture"
+        },
+        {
+          "startVerse": 62,
+          "endVerse": 62,
+          "form": "claim",
+          "audience": "high priest and council",
+          "summary": "Answer the identity question and invoke the Son of Man at God's right hand"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-14-66-72",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
+      "note": "The servant, bystanders and Peter speak in the courtyard. Verse 72 cites Jesus' earlier words as Peter's recollection, distinct from new speech at the trial.",
+      "units": [
+        {
+          "startVerse": 72,
+          "endVerse": 72,
+          "form": "reported-prediction",
+          "audience": "Peter recalling an earlier address",
+          "summary": "Remember the prediction of denial"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-15-01-05",
@@ -4151,14 +6151,38 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-15-02-02"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK15.htm",
+      "note": "Verse 2 contains both Pilate's question and Jesus' short reply. Jesus gives no further reply to the accusations in 3–5.",
+      "units": [
+        {
+          "startVerse": 2,
+          "endVerse": 2,
+          "form": "response",
+          "audience": "Pilate",
+          "summary": "Return Pilate's question about kingship to his own formulation"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-15-06-32",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK15.htm",
+      "note": "Pilate, the crowd, soldiers and mockers supply the speech. The temple reference in 29 is a taunt about Jesus. Verse 28 in WEBP is a scriptural fulfillment notice.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-15-33-39",
@@ -4167,14 +6191,38 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mk-s-15-34-34"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK15.htm",
+      "note": "34 supplies a Semitic cry and a translation. The onlookers mention Elijah, and the confession in 39 belongs to the centurion.",
+      "units": [
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "prayer",
+          "audience": "God",
+          "summary": "Lament abandonment on the cross"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-15-40-47",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK15.htm",
+      "note": "Women observe and Joseph seeks the body. Pilate's inquiry and the burial take place after Jesus' death.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-16-01-08",
@@ -4831,7 +6879,37 @@
       "mt-s-16-02-04",
       "mt-s-16-06-06",
       "mt-s-16-08-11"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT16.htm",
+      "note": "Jesus answers the sign request in 2–4. Verse 7 is the disciples' misunderstanding. Verse 12 gives their eventual interpretation of the leaven. The weather illustration in 2–3 has a disputed textual history.",
+      "units": [
+        {
+          "startVerse": 2,
+          "endVerse": 4,
+          "form": "response",
+          "audience": "Pharisees and Sadducees",
+          "summary": "Refuse the requested sign while naming Jonah"
+        },
+        {
+          "startVerse": 6,
+          "endVerse": 6,
+          "form": "warning",
+          "audience": "disciples",
+          "summary": "Beware the leaven of the Pharisees and Sadducees"
+        },
+        {
+          "startVerse": 8,
+          "endVerse": 11,
+          "form": "question",
+          "audience": "disciples",
+          "summary": "Recall both feedings and correct a literal reading of leaven"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-16-13-20",
@@ -4842,7 +6920,37 @@
       "mt-s-16-13-13",
       "mt-s-16-15-19",
       "mt-s-16-20-20"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT16.htm",
+      "note": "Jesus asks the questions, the disciples report public opinion, and Peter answers in 16. Verse 20 reports a restriction on disclosure.",
+      "units": [
+        {
+          "startVerse": 13,
+          "endVerse": 15,
+          "form": "question",
+          "audience": "disciples",
+          "summary": "Ask about public and personal accounts of his identity"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 19,
+          "form": "promise",
+          "audience": "Peter",
+          "summary": "Bless Peter and speak of the assembly, keys, binding and release"
+        },
+        {
+          "startVerse": 20,
+          "endVerse": 20,
+          "form": "reported-teaching",
+          "audience": "disciples",
+          "summary": "Withhold disclosure of his messianic identity"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-16-21-28",
@@ -4853,7 +6961,44 @@
       "mt-s-16-23-23",
       "mt-s-16-24-26",
       "mt-s-16-27-28"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT16.htm",
+      "note": "21 narrates instruction about Jerusalem. Peter protests in 22. Jesus' reply to him in 23 precedes the wider address beginning in 24.",
+      "units": [
+        {
+          "startVerse": 21,
+          "endVerse": 21,
+          "form": "reported-prediction",
+          "audience": "disciples",
+          "summary": "Foretell suffering, death and rising"
+        },
+        {
+          "startVerse": 23,
+          "endVerse": 23,
+          "form": "warning",
+          "audience": "Peter",
+          "summary": "Reject Peter's objection to the path of suffering"
+        },
+        {
+          "startVerse": 24,
+          "endVerse": 27,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Self-denial, losing life and judgment according to deeds"
+        },
+        {
+          "startVerse": 28,
+          "endVerse": 28,
+          "form": "promise",
+          "audience": "those standing there",
+          "summary": "Some will see the Son of Man coming in his kingdom"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-17-01-13",
@@ -4939,7 +7084,37 @@
     "existingSpeechIds": [
       "mt-s-19-04-09",
       "mt-s-19-11-12"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT19.htm",
+      "note": "Pharisees pose the test in 3 and raise Moses in 7. The disciples speak in 10. The saying about eunuchs follows their reaction and has a different audience.",
+      "units": [
+        {
+          "startVerse": 4,
+          "endVerse": 6,
+          "form": "teaching",
+          "audience": "Pharisees",
+          "summary": "Creation and the marital union"
+        },
+        {
+          "startVerse": 8,
+          "endVerse": 9,
+          "form": "teaching",
+          "audience": "Pharisees",
+          "summary": "Moses' concession and Matthew's exception clause"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 12,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Different circumstances in which people live as eunuchs"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-19-13-15",
@@ -4948,7 +7123,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-19-14-14"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT19.htm",
+      "note": "13 states why people bring children. The narrator records the disciples' rebuke, and then the laying on of hands in 15.",
+      "units": [
+        {
+          "startVerse": 14,
+          "endVerse": 14,
+          "form": "instruction",
+          "audience": "disciples",
+          "summary": "Let the children approach because the kingdom belongs to such as these"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-19-16-30",
@@ -4959,7 +7150,44 @@
       "mt-s-19-17-19",
       "mt-s-19-21-26",
       "mt-s-19-28-30"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT19.htm",
+      "note": "The young man asks the questions in 16, 18 and 20. Jesus answers within 18. In 25 the disciples ask about salvation. Peter asks about their future in 27.",
+      "units": [
+        {
+          "startVerse": 17,
+          "endVerse": 19,
+          "form": "teaching",
+          "audience": "the inquirer",
+          "summary": "Point to goodness and name commandments"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 21,
+          "form": "instruction",
+          "audience": "the young man",
+          "summary": "Sell possessions, give to the poor and follow"
+        },
+        {
+          "startVerse": 23,
+          "endVerse": 26,
+          "form": "teaching",
+          "audience": "disciples",
+          "summary": "Difficulty for the wealthy and possibility with God"
+        },
+        {
+          "startVerse": 28,
+          "endVerse": 30,
+          "form": "promise",
+          "audience": "disciples",
+          "summary": "Renewal, thrones, recompense and reversal of rank"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-20-01-16",

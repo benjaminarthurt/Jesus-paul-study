@@ -430,5 +430,17 @@
     "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%207&version=SBLGNT",
     "accessScope": "selected-excerpt",
     "note": "Consulted the Greek text as displayed on Bible Gateway. No independent collation of manuscript evidence was performed."
+  },
+  {
+    "id": "houghton-mark-ending",
+    "type": "peer-reviewed-article",
+    "author": "H. A. G. Houghton",
+    "title": "Unfinished Business: The Ending of Mark in Two Catena Manuscripts",
+    "publisher": "New Testament Studies, Cambridge University Press",
+    "year": 2022,
+    "location": "Online publication date; abstract and introduction, including discussion of GA 239 and GA 304.",
+    "url": "https://doi.org/10.1017/S0028688522000224",
+    "accessScope": "selected-excerpt",
+    "note": "Inspected the publisher abstract and opening discussion in the accessible PDF. The manuscript images and ECM apparatus cited by the author were not independently inspected."
   }
 ]
