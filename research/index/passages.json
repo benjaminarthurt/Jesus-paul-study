@@ -1,5 +1,65 @@
 [
   {
+    "id": "1co-01-10-17",
+    "bookId": "1co",
+    "reference": "1 Corinthians 1:10–17",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul opposes community factions organized around named leaders.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+  },
+  {
+    "id": "1co-01-18-31",
+    "bookId": "1co",
+    "reference": "1 Corinthians 1:18–31",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The cross is contrasted with worldly wisdom and status.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+  },
+  {
+    "id": "1co-02-06-16",
+    "bookId": "1co",
+    "reference": "1 Corinthians 2:6–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses divine wisdom and discernment through the Spirit.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm"
+  },
+  {
+    "id": "1co-03-01-23",
+    "bookId": "1co",
+    "reference": "1 Corinthians 3:1–23",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Ministers are described as servants and the community as God's building.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO03.htm"
+  },
+  {
+    "id": "1co-04-01-21",
+    "bookId": "1co",
+    "reference": "1 Corinthians 4:1–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses stewardship, judgment, apostolic example and correction.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm"
+  },
+  {
     "id": "1co-05-01-13",
     "bookId": "1co",
     "reference": "1 Corinthians 5:1–13",
@@ -12,6 +72,18 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO05.htm"
   },
   {
+    "id": "1co-06-01-11",
+    "bookId": "1co",
+    "reference": "1 Corinthians 6:1–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul criticizes litigation between community members and lists conduct incompatible with God's kingdom.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+  },
+  {
     "id": "1co-06-12-20",
     "bookId": "1co",
     "reference": "1 Corinthians 6:12–20",
@@ -22,6 +94,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+  },
+  {
+    "id": "1co-07-01-09",
+    "bookId": "1co",
+    "reference": "1 Corinthians 7:1–9",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Marriage, mutual obligations and abstinence by agreement are discussed.",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
   },
   {
     "id": "1co-07-10-16",
@@ -49,6 +133,30 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
   },
   {
+    "id": "1co-07-25-40",
+    "bookId": "1co",
+    "reference": "1 Corinthians 7:25–40",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul offers counsel on marriage and singleness in view of present circumstances.",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+  },
+  {
+    "id": "1co-08-01-13",
+    "bookId": "1co",
+    "reference": "1 Corinthians 8:1–13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Knowledge about idol food is constrained by love and concern for conscience.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm"
+  },
+  {
     "id": "1co-08-04-06",
     "bookId": "1co",
     "reference": "1 Corinthians 8:4–6",
@@ -61,6 +169,54 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO08.htm"
   },
   {
+    "id": "1co-09-01-18",
+    "bookId": "1co",
+    "reference": "1 Corinthians 9:1–18",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses apostolic rights and his decision not to exercise certain rights.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm"
+  },
+  {
+    "id": "1co-09-19-27",
+    "bookId": "1co",
+    "reference": "1 Corinthians 9:19–27",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes adapting to different audiences and exercising self-discipline.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm"
+  },
+  {
+    "id": "1co-10-01-13",
+    "bookId": "1co",
+    "reference": "1 Corinthians 10:1–13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Israel's wilderness experiences are used as warnings against wrongdoing.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+  },
+  {
+    "id": "1co-10-14-33",
+    "bookId": "1co",
+    "reference": "1 Corinthians 10:14–33",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Idolatry, communal meals and concern for others shape food practices.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+  },
+  {
     "id": "1co-11-02-16",
     "bookId": "1co",
     "reference": "1 Corinthians 11:2–16",
@@ -71,6 +227,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-11-17-34",
+    "bookId": "1co",
+    "reference": "1 Corinthians 11:17–34",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul rebukes divisions and unequal eating at the communal supper.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-12-01-03",
+    "bookId": "1co",
+    "reference": "1 Corinthians 12:1–3",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Speech about Jesus is discussed in relation to the Spirit.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm"
   },
   {
     "id": "1co-12-04-31",
@@ -96,6 +276,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO13.htm"
+  },
+  {
+    "id": "1co-14-01-25",
+    "bookId": "1co",
+    "reference": "1 Corinthians 14:1–25",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Prophecy and tongues are evaluated by their benefit to the assembled community.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
   },
   {
     "id": "1co-14-26-40",
@@ -124,11 +316,35 @@
     "textualNote": "In several Western witnesses vv.34–35 occur after v.40, rather than following v.33. All presently known continuous manuscript witnesses preserve the verses somewhere; non-Pauline interpolation and quotation/refutation remain disputed hypotheses. Requires critical-apparatus review."
   },
   {
+    "id": "1co-15-01-11",
+    "bookId": "1co",
+    "reference": "1 Corinthians 15:1–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul recounts received resurrection proclamation and his apostolic calling.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+  },
+  {
     "id": "1co-15-12-28",
     "bookId": "1co",
     "reference": "1 Corinthians 15:12–28",
     "summary": "Paul argues that Christ's resurrection and the resurrection of the dead are inseparable, describing an ordered sequence of events.",
     "sourceLayer": "paul-undisputed",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+  },
+  {
+    "id": "1co-15-29-34",
+    "bookId": "1co",
+    "reference": "1 Corinthians 15:29–34",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul argues for resurrection using community practices and moral exhortation.",
     "topics": [
       "identity-resurrection"
     ],
@@ -170,6 +386,66 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
+    "id": "1th-01-02-10",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 1:2–10",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul recalls conversion from idols and expectation of Jesus.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH01.htm"
+  },
+  {
+    "id": "1th-02-01-12",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 2:1–12",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes missionary conduct, work and care for the community.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm"
+  },
+  {
+    "id": "1th-02-13-16",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 2:13–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses reception of the message and opposition in polemical language.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm"
+  },
+  {
+    "id": "1th-02-17-03-13",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 2:17–3:13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul recounts separation, Timothy's mission and prayer for the community.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm"
+  },
+  {
+    "id": "1th-04-01-08",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 4:1–8",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul urges sexual holiness and avoidance of wrongdoing against others.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
   },
   {
     "id": "1th-04-09-12",
@@ -259,6 +535,18 @@
     "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
   },
   {
+    "id": "2co-01-03-11",
+    "bookId": "2co",
+    "reference": "2 Corinthians 1:3–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Divine comfort amid suffering is connected to mutual support.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+  },
+  {
     "id": "2co-02-05-11",
     "bookId": "2co",
     "reference": "2 Corinthians 2:5–11",
@@ -271,6 +559,30 @@
     "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
   },
   {
+    "id": "2co-03-01-18",
+    "bookId": "2co",
+    "reference": "2 Corinthians 3:1–18",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul contrasts covenant ministries using letter, Spirit and veil imagery.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO03.htm"
+  },
+  {
+    "id": "2co-04-01-18",
+    "bookId": "2co",
+    "reference": "2 Corinthians 4:1–18",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Ministry, bodily vulnerability and unseen hope are contrasted.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO04.htm"
+  },
+  {
     "id": "2co-05-01-10",
     "bookId": "2co",
     "reference": "2 Corinthians 5:1–10",
@@ -281,6 +593,54 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO05.htm"
+  },
+  {
+    "id": "2co-05-11-21",
+    "bookId": "2co",
+    "reference": "2 Corinthians 5:11–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes reconciliation through Christ and the ministry of reconciliation.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm"
+  },
+  {
+    "id": "2co-06-01-13",
+    "bookId": "2co",
+    "reference": "2 Corinthians 6:1–13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes ministry hardships and appeals for mutual openness.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm"
+  },
+  {
+    "id": "2co-06-14-07-01",
+    "bookId": "2co",
+    "reference": "2 Corinthians 6:14–7:1",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul urges separation from incompatible religious practices using temple imagery.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm"
+  },
+  {
+    "id": "2co-07-02-16",
+    "bookId": "2co",
+    "reference": "2 Corinthians 7:2–16",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses grief, repentance and renewed confidence in the community.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO07.htm"
   },
   {
     "id": "2co-08-01-15",
@@ -305,6 +665,78 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
+  },
+  {
+    "id": "2co-10-01-18",
+    "bookId": "2co",
+    "reference": "2 Corinthians 10:1–18",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul defends his authority and distinguishes his ministry from self-commendation.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO10.htm"
+  },
+  {
+    "id": "2co-11-01-15",
+    "bookId": "2co",
+    "reference": "2 Corinthians 11:1–15",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul warns against rival apostles and competing proclamations.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm"
+  },
+  {
+    "id": "2co-11-16-33",
+    "bookId": "2co",
+    "reference": "2 Corinthians 11:16–33",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul recounts hardships in a defense of his ministry.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm"
+  },
+  {
+    "id": "2co-12-01-10",
+    "bookId": "2co",
+    "reference": "2 Corinthians 12:1–10",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Visions and weakness are discussed in relation to Christ's power.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm"
+  },
+  {
+    "id": "2co-12-11-21",
+    "bookId": "2co",
+    "reference": "2 Corinthians 12:11–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul defends his conduct and expresses concern about community wrongdoing.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm"
+  },
+  {
+    "id": "2co-13-01-14",
+    "bookId": "2co",
+    "reference": "2 Corinthians 13:1–14",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul warns of correction and urges self-examination and restoration.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO13.htm"
   },
   {
     "id": "2th-01-03-12",
@@ -571,6 +1003,18 @@
     "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
   },
   {
+    "id": "ga-01-06-24",
+    "bookId": "ga",
+    "reference": "Galatians 1:6–24",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul defends his gospel and recounts his calling and early contacts.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm"
+  },
+  {
     "id": "ga-02-01-10",
     "bookId": "ga",
     "reference": "Galatians 2:1–10",
@@ -596,11 +1040,35 @@
     "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
   },
   {
+    "id": "ga-03-01-09",
+    "bookId": "ga",
+    "reference": "Galatians 3:1–9",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul contrasts reception of the Spirit by faith with works of law.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+  },
+  {
     "id": "ga-03-10-14",
     "bookId": "ga",
     "reference": "Galatians 3:10–14",
     "sourceLayer": "paul-undisputed",
     "summary": "Paul links reliance on works of the Law to a curse and relates the Abrahamic promise to faith and the Spirit.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+  },
+  {
+    "id": "ga-03-15-22",
+    "bookId": "ga",
+    "reference": "Galatians 3:15–22",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses the relationship between promise and law.",
     "topics": [
       "mosaic-law"
     ],
@@ -632,6 +1100,42 @@
     "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
   },
   {
+    "id": "ga-04-01-11",
+    "bookId": "ga",
+    "reference": "Galatians 4:1–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Inheritance, adoption and former religious observances are contrasted.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm"
+  },
+  {
+    "id": "ga-04-12-20",
+    "bookId": "ga",
+    "reference": "Galatians 4:12–20",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul appeals to the Galatians through their earlier relationship.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm"
+  },
+  {
+    "id": "ga-04-21-31",
+    "bookId": "ga",
+    "reference": "Galatians 4:21–31",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul uses Hagar and Sarah allegorically to contrast slavery and freedom.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm"
+  },
+  {
     "id": "ga-05-02-06",
     "bookId": "ga",
     "reference": "Galatians 5:2–6",
@@ -654,6 +1158,42 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-05-16-26",
+    "bookId": "ga",
+    "reference": "Galatians 5:16–26",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Works of the flesh and fruit of the Spirit are contrasted.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-06-01-10",
+    "bookId": "ga",
+    "reference": "Galatians 6:1–10",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Gentle restoration, burden bearing and doing good are urged.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm"
+  },
+  {
+    "id": "ga-06-11-18",
+    "bookId": "ga",
+    "reference": "Galatians 6:11–18",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul contrasts circumcision-based boasting with the cross and new creation.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm"
   },
   {
     "id": "jn-01-01-18",
@@ -6956,6 +7496,18 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT28.htm"
   },
   {
+    "id": "phm-01-01-07",
+    "bookId": "phm",
+    "reference": "Philemon 1:1–7",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul greets Philemon and others and gives thanks for faith and love.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+  },
+  {
     "id": "phm-01-08-21",
     "bookId": "phm",
     "reference": "Philemon 1:8–21",
@@ -6970,6 +7522,42 @@
     "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
   },
   {
+    "id": "phm-01-22-25",
+    "bookId": "phm",
+    "reference": "Philemon 1:22–25",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul requests lodging and sends greetings and a closing blessing.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+  },
+  {
+    "id": "php-01-03-26",
+    "bookId": "php",
+    "reference": "Philippians 1:3–26",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses partnership, imprisonment and the advance of the gospel.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm"
+  },
+  {
+    "id": "php-01-27-30",
+    "bookId": "php",
+    "reference": "Philippians 1:27–30",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The community is urged to stand together amid opposition.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm"
+  },
+  {
     "id": "php-02-01-11",
     "bookId": "php",
     "reference": "Philippians 2:1–11",
@@ -6981,6 +7569,54 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
+    "id": "php-02-12-18",
+    "bookId": "php",
+    "reference": "Philippians 2:12–18",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Obedience, divine activity and conduct without grumbling are urged.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
+    "id": "php-02-19-30",
+    "bookId": "php",
+    "reference": "Philippians 2:19–30",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Timothy and Epaphroditus are commended for their service.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
+    "id": "php-03-01-11",
+    "bookId": "php",
+    "reference": "Philippians 3:1–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul contrasts inherited credentials with righteousness associated with Christ.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm"
+  },
+  {
+    "id": "php-03-12-21",
+    "bookId": "php",
+    "reference": "Philippians 3:12–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes pursuit of the goal and heavenly citizenship.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm"
   },
   {
     "id": "php-04-02-03",
@@ -7006,6 +7642,42 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "php-04-10-20",
+    "bookId": "php",
+    "reference": "Philippians 4:10–20",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses contentment and the community's material support.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "ro-01-16-17",
+    "bookId": "ro",
+    "reference": "Romans 1:16–17",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The gospel is presented as God's saving power for Jew and Greek, with righteousness associated with faith.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm"
+  },
+  {
+    "id": "ro-01-18-32",
+    "bookId": "ro",
+    "reference": "Romans 1:18–32",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes human wrongdoing, idolatry and divine judgment.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm"
   },
   {
     "id": "ro-02-06-16",
@@ -7044,6 +7716,78 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
   },
   {
+    "id": "ro-04-01-12",
+    "bookId": "ro",
+    "reference": "Romans 4:1–12",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Abraham's righteousness is discussed in relation to faith and circumcision.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm"
+  },
+  {
+    "id": "ro-04-13-25",
+    "bookId": "ro",
+    "reference": "Romans 4:13–25",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The promise to Abraham is associated with faith rather than law.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm"
+  },
+  {
+    "id": "ro-05-01-11",
+    "bookId": "ro",
+    "reference": "Romans 5:1–11",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Justification, reconciliation, hope and endurance in suffering are connected.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm"
+  },
+  {
+    "id": "ro-05-12-21",
+    "bookId": "ro",
+    "reference": "Romans 5:12–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Adam and Christ are contrasted in relation to sin, death and grace.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm"
+  },
+  {
+    "id": "ro-06-01-14",
+    "bookId": "ro",
+    "reference": "Romans 6:1–14",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Baptism into Christ's death is connected to a renewed way of life.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm"
+  },
+  {
+    "id": "ro-06-15-23",
+    "bookId": "ro",
+    "reference": "Romans 6:15–23",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Freedom from sin is expressed through slavery imagery and obedience to righteousness.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm"
+  },
+  {
     "id": "ro-07-01-06",
     "bookId": "ro",
     "reference": "Romans 7:1–6",
@@ -7080,6 +7824,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
   },
   {
+    "id": "ro-08-05-17",
+    "bookId": "ro",
+    "reference": "Romans 8:5–17",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Life in the Spirit is contrasted with life according to the flesh.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
+  },
+  {
     "id": "ro-08-18-39",
     "bookId": "ro",
     "reference": "Romans 8:18–39",
@@ -7092,6 +7848,30 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
   },
   {
+    "id": "ro-09-01-29",
+    "bookId": "ro",
+    "reference": "Romans 9:1–29",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses Israel, divine election and mercy.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm"
+  },
+  {
+    "id": "ro-09-30-10-03",
+    "bookId": "ro",
+    "reference": "Romans 9:30–10:3",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Israel and Gentiles are discussed in relation to righteousness and faith.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm"
+  },
+  {
     "id": "ro-10-04-04",
     "bookId": "ro",
     "reference": "Romans 10:4",
@@ -7102,6 +7882,54 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM10.htm"
+  },
+  {
+    "id": "ro-10-05-21",
+    "bookId": "ro",
+    "reference": "Romans 10:5–21",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul connects faith, confession, proclamation and hearing.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm"
+  },
+  {
+    "id": "ro-11-01-24",
+    "bookId": "ro",
+    "reference": "Romans 11:1–24",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Israel's remnant and Gentile inclusion are discussed using olive tree imagery.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm"
+  },
+  {
+    "id": "ro-11-25-36",
+    "bookId": "ro",
+    "reference": "Romans 11:25–36",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul discusses Israel's future, mercy and divine wisdom.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm"
+  },
+  {
+    "id": "ro-12-01-08",
+    "bookId": "ro",
+    "reference": "Romans 12:1–8",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Renewed discernment, humility and diverse community gifts are urged.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
   },
   {
     "id": "ro-12-09-13",
@@ -7152,6 +7980,42 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+  },
+  {
+    "id": "ro-14-01-12",
+    "bookId": "ro",
+    "reference": "Romans 14:1–12",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Disagreements over food and days are addressed through mutual acceptance.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+  },
+  {
+    "id": "ro-14-13-23",
+    "bookId": "ro",
+    "reference": "Romans 14:13–23",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Conscience and avoiding harm to others constrain personal freedom.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+  },
+  {
+    "id": "ro-15-01-13",
+    "bookId": "ro",
+    "reference": "Romans 15:1–13",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The strong are urged to support the weak and welcome one another.",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
   },
   {
     "id": "ro-15-25-28",
