@@ -2,7 +2,7 @@
 title: Marriage and Divorce
 summary: Jesus' treatment of divorce and Paul's instructions to mixed-belief households.
 status: draft
-passages: [eph-05-21-33, 1co-07-10-16, lk-16-18-18, lk-20-27-40, mk-10-02-12, mt-05-21-48, mt-19-01-12, mt-22-23-33]
+passages: [1co-07-01-09, 1co-07-25-40, eph-05-21-33, 1co-07-10-16, lk-16-18-18, lk-20-27-40, mk-10-02-12, mt-05-21-48, mt-19-01-12, mt-22-23-33]
 ---
 ## Research question
 
