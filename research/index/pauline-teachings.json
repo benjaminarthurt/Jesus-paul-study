@@ -1,0 +1,1870 @@
+[
+  {
+    "id": "ro-t-12-09-09",
+    "passageId": "ro-12-09-13",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 9,
+    "endVerse": 9,
+    "title": "Sincere love and rejection of evil",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-12-10-10",
+    "passageId": "ro-12-09-13",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 10,
+    "endVerse": 10,
+    "title": "Mutual affection and honor",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-12-11-12",
+    "passageId": "ro-12-09-13",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 11,
+    "endVerse": 12,
+    "title": "Zeal, hope, endurance and prayer",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-12-13-13",
+    "passageId": "ro-12-09-13",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 13,
+    "endVerse": 13,
+    "title": "Sharing needs and hospitality",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-12-14-14",
+    "passageId": "ro-12-14-21",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 14,
+    "endVerse": 14,
+    "title": "Bless persecutors",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-12-15-16",
+    "passageId": "ro-12-14-21",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 15,
+    "endVerse": 16,
+    "title": "Shared joy and grief, humility",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-12-17-18",
+    "passageId": "ro-12-14-21",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 17,
+    "endVerse": 18,
+    "title": "Reject retaliation and pursue peace",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-12-19-21",
+    "passageId": "ro-12-14-21",
+    "bookId": "ro",
+    "chapter": 12,
+    "startVerse": 19,
+    "endVerse": 21,
+    "title": "Leave vengeance to God and overcome evil with good",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship",
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+  },
+  {
+    "id": "ro-t-13-01-05",
+    "passageId": "ro-13-01-07",
+    "bookId": "ro",
+    "chapter": 13,
+    "startVerse": 1,
+    "endVerse": 5,
+    "title": "Subordination to governing authorities",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+  },
+  {
+    "id": "ro-t-13-06-07",
+    "passageId": "ro-13-01-07",
+    "bookId": "ro",
+    "chapter": 13,
+    "startVerse": 6,
+    "endVerse": 7,
+    "title": "Taxes and obligations",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+  },
+  {
+    "id": "ro-t-13-08-10",
+    "passageId": "ro-13-08-10",
+    "bookId": "ro",
+    "chapter": 13,
+    "startVerse": 8,
+    "endVerse": 10,
+    "title": "Neighbor-love fulfills law",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+  },
+  {
+    "id": "ro-t-14-01-04",
+    "passageId": "ro-14-01-12",
+    "bookId": "ro",
+    "chapter": 14,
+    "startVerse": 1,
+    "endVerse": 4,
+    "title": "Welcome those with differing food practices",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+  },
+  {
+    "id": "ro-t-14-05-09",
+    "passageId": "ro-14-01-12",
+    "bookId": "ro",
+    "chapter": 14,
+    "startVerse": 5,
+    "endVerse": 9,
+    "title": "Differing observances and accountability to the Lord",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+  },
+  {
+    "id": "ro-t-14-10-12",
+    "passageId": "ro-14-01-12",
+    "bookId": "ro",
+    "chapter": 14,
+    "startVerse": 10,
+    "endVerse": 12,
+    "title": "Do not judge fellow believers",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+  },
+  {
+    "id": "ro-t-14-13-18",
+    "passageId": "ro-14-13-23",
+    "bookId": "ro",
+    "chapter": 14,
+    "startVerse": 13,
+    "endVerse": 18,
+    "title": "Avoid causing another to stumble",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+  },
+  {
+    "id": "ro-t-14-19-23",
+    "passageId": "ro-14-13-23",
+    "bookId": "ro",
+    "chapter": 14,
+    "startVerse": 19,
+    "endVerse": 23,
+    "title": "Pursue peace and respect conscience",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+  },
+  {
+    "id": "ro-t-15-01-03",
+    "passageId": "ro-15-01-13",
+    "bookId": "ro",
+    "chapter": 15,
+    "startVerse": 1,
+    "endVerse": 3,
+    "title": "Support the weak rather than please oneself",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
+  },
+  {
+    "id": "ro-t-15-07-07",
+    "passageId": "ro-15-01-13",
+    "bookId": "ro",
+    "chapter": 15,
+    "startVerse": 7,
+    "endVerse": 7,
+    "title": "Welcome one another",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
+  },
+  {
+    "id": "1co-t-01-10-13",
+    "passageId": "1co-01-10-17",
+    "bookId": "1co",
+    "chapter": 1,
+    "startVerse": 10,
+    "endVerse": 13,
+    "title": "Reject factions around leaders",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+  },
+  {
+    "id": "1co-t-03-05-09",
+    "passageId": "1co-03-01-23",
+    "bookId": "1co",
+    "chapter": 3,
+    "startVerse": 5,
+    "endVerse": 9,
+    "title": "Ministers are servants with differing tasks",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO03.htm"
+  },
+  {
+    "id": "1co-t-05-09-13",
+    "passageId": "1co-05-01-13",
+    "bookId": "1co",
+    "chapter": 5,
+    "startVerse": 9,
+    "endVerse": 13,
+    "title": "Distinguish discipline of insiders from judgment of outsiders",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO05.htm"
+  },
+  {
+    "id": "1co-t-06-01-08",
+    "passageId": "1co-06-01-11",
+    "bookId": "1co",
+    "chapter": 6,
+    "startVerse": 1,
+    "endVerse": 8,
+    "title": "Challenge litigation among believers",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+  },
+  {
+    "id": "1co-t-06-18-20",
+    "passageId": "1co-06-12-20",
+    "bookId": "1co",
+    "chapter": 6,
+    "startVerse": 18,
+    "endVerse": 20,
+    "title": "Avoid sexual immorality and honor God bodily",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+  },
+  {
+    "id": "1co-t-07-03-05",
+    "passageId": "1co-07-01-09",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 3,
+    "endVerse": 5,
+    "title": "Reciprocal marital obligations and agreed abstinence",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+  },
+  {
+    "id": "1co-t-07-10-11",
+    "passageId": "1co-07-10-16",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 10,
+    "endVerse": 11,
+    "title": "Marital separation instruction attributed to the Lord",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "lord-attributed-instruction",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+  },
+  {
+    "id": "1co-t-07-12-16",
+    "passageId": "1co-07-10-16",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 12,
+    "endVerse": 16,
+    "title": "Paul's further counsel on mixed-belief marriages",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+  },
+  {
+    "id": "1co-t-07-20-24",
+    "passageId": "1co-07-17-24",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 20,
+    "endVerse": 24,
+    "title": "Calling, enslavement and freedom",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion",
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+  },
+  {
+    "id": "1co-t-08-09-13",
+    "passageId": "1co-08-01-13",
+    "bookId": "1co",
+    "chapter": 8,
+    "startVerse": 9,
+    "endVerse": 13,
+    "title": "Limit liberty to protect another's conscience",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm"
+  },
+  {
+    "id": "1co-t-09-14-18",
+    "passageId": "1co-09-01-18",
+    "bookId": "1co",
+    "chapter": 9,
+    "startVerse": 14,
+    "endVerse": 18,
+    "title": "Support for proclaimers and voluntary renunciation of rights",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm"
+  },
+  {
+    "id": "1co-t-09-19-23",
+    "passageId": "1co-09-19-27",
+    "bookId": "1co",
+    "chapter": 9,
+    "startVerse": 19,
+    "endVerse": 23,
+    "title": "Adaptation to different audiences",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm"
+  },
+  {
+    "id": "1co-t-10-23-24",
+    "passageId": "1co-10-14-33",
+    "bookId": "1co",
+    "chapter": 10,
+    "startVerse": 23,
+    "endVerse": 24,
+    "title": "Seek another's good rather than mere permissibility",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+  },
+  {
+    "id": "1co-t-10-25-30",
+    "passageId": "1co-10-14-33",
+    "bookId": "1co",
+    "chapter": 10,
+    "startVerse": 25,
+    "endVerse": 30,
+    "title": "Food practices and conscience",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+  },
+  {
+    "id": "1co-t-10-31-33",
+    "passageId": "1co-10-14-33",
+    "bookId": "1co",
+    "chapter": 10,
+    "startVerse": 31,
+    "endVerse": 33,
+    "title": "Conduct for God's glory and others' benefit",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+  },
+  {
+    "id": "1co-t-11-05-05",
+    "passageId": "1co-11-02-16",
+    "bookId": "1co",
+    "chapter": 11,
+    "startVerse": 5,
+    "endVerse": 5,
+    "title": "Women praying and prophesying assumed in the argument",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-t-11-20-22",
+    "passageId": "1co-11-17-34",
+    "bookId": "1co",
+    "chapter": 11,
+    "startVerse": 20,
+    "endVerse": 22,
+    "title": "Rebuke unequal communal meals",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-t-11-23-26",
+    "passageId": "1co-11-17-34",
+    "bookId": "1co",
+    "chapter": 11,
+    "startVerse": 23,
+    "endVerse": 26,
+    "title": "Received supper tradition attributed to Jesus",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "received-jesus-tradition",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-t-11-33-34",
+    "passageId": "1co-11-17-34",
+    "bookId": "1co",
+    "chapter": 11,
+    "startVerse": 33,
+    "endVerse": 34,
+    "title": "Wait for one another at communal meals",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
+    "id": "1co-t-12-12-27",
+    "passageId": "1co-12-04-31",
+    "bookId": "1co",
+    "chapter": 12,
+    "startVerse": 12,
+    "endVerse": 27,
+    "title": "Interdependence and honor of weaker members",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm"
+  },
+  {
+    "id": "1co-t-13-04-07",
+    "passageId": "1co-13-01-13",
+    "bookId": "1co",
+    "chapter": 13,
+    "startVerse": 4,
+    "endVerse": 7,
+    "title": "Characteristics of love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm"
+  },
+  {
+    "id": "1co-t-13-08-13",
+    "passageId": "1co-13-01-13",
+    "bookId": "1co",
+    "chapter": 13,
+    "startVerse": 8,
+    "endVerse": 13,
+    "title": "Enduring significance of love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm"
+  },
+  {
+    "id": "1co-t-14-01-05",
+    "passageId": "1co-14-01-25",
+    "bookId": "1co",
+    "chapter": 14,
+    "startVerse": 1,
+    "endVerse": 5,
+    "title": "Prioritize gifts that build up the assembly",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+  },
+  {
+    "id": "1co-t-14-26-33",
+    "passageId": "1co-14-26-40",
+    "bookId": "1co",
+    "chapter": 14,
+    "startVerse": 26,
+    "endVerse": 33,
+    "title": "Orderly contributions and discernment",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+  },
+  {
+    "id": "1co-t-14-34-35",
+    "passageId": "1co-14-34-35",
+    "bookId": "1co",
+    "chapter": 14,
+    "startVerse": 34,
+    "endVerse": 35,
+    "title": "Contested restriction on women's speech",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+  },
+  {
+    "id": "1co-t-14-39-40",
+    "passageId": "1co-14-26-40",
+    "bookId": "1co",
+    "chapter": 14,
+    "startVerse": 39,
+    "endVerse": 40,
+    "title": "Prophecy, tongues and order",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+  },
+  {
+    "id": "1co-t-16-01-04",
+    "passageId": "1co-16-01-04",
+    "bookId": "1co",
+    "chapter": 16,
+    "startVerse": 1,
+    "endVerse": 4,
+    "title": "Regular contributions according to means",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
+    "id": "2co-t-01-03-07",
+    "passageId": "2co-01-03-11",
+    "bookId": "2co",
+    "chapter": 1,
+    "startVerse": 3,
+    "endVerse": 7,
+    "title": "Comfort others amid suffering",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+  },
+  {
+    "id": "2co-t-01-24-24",
+    "passageId": "2co-01-12-24",
+    "bookId": "2co",
+    "chapter": 1,
+    "startVerse": 24,
+    "endVerse": 24,
+    "title": "Reject domination of others' faith",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+  },
+  {
+    "id": "2co-t-02-05-11",
+    "passageId": "2co-02-05-11",
+    "bookId": "2co",
+    "chapter": 2,
+    "startVerse": 5,
+    "endVerse": 11,
+    "title": "Forgive and reaffirm love after discipline",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
+  },
+  {
+    "id": "2co-t-05-18-21",
+    "passageId": "2co-05-11-21",
+    "bookId": "2co",
+    "chapter": 5,
+    "startVerse": 18,
+    "endVerse": 21,
+    "title": "Ministry and appeal of reconciliation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm"
+  },
+  {
+    "id": "2co-t-08-08-09",
+    "passageId": "2co-08-01-15",
+    "bookId": "2co",
+    "chapter": 8,
+    "startVerse": 8,
+    "endVerse": 9,
+    "title": "Generosity framed through Christ's example",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+  },
+  {
+    "id": "2co-t-08-12-15",
+    "passageId": "2co-08-01-15",
+    "bookId": "2co",
+    "chapter": 8,
+    "startVerse": 12,
+    "endVerse": 15,
+    "title": "Giving according to means and equity",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+  },
+  {
+    "id": "2co-t-08-20-21",
+    "passageId": "2co-08-16-24",
+    "bookId": "2co",
+    "chapter": 8,
+    "startVerse": 20,
+    "endVerse": 21,
+    "title": "Accountability in handling contributions",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+  },
+  {
+    "id": "2co-t-09-06-07",
+    "passageId": "2co-09-01-15",
+    "bookId": "2co",
+    "chapter": 9,
+    "startVerse": 6,
+    "endVerse": 7,
+    "title": "Willing rather than compelled giving",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
+  },
+  {
+    "id": "2co-t-09-08-11",
+    "passageId": "2co-09-01-15",
+    "bookId": "2co",
+    "chapter": 9,
+    "startVerse": 8,
+    "endVerse": 11,
+    "title": "Resources for generosity and good works",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
+  },
+  {
+    "id": "2co-t-13-05-05",
+    "passageId": "2co-13-01-14",
+    "bookId": "2co",
+    "chapter": 13,
+    "startVerse": 5,
+    "endVerse": 5,
+    "title": "Self-examination",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO13.htm"
+  },
+  {
+    "id": "ga-t-02-10-10",
+    "passageId": "ga-02-01-10",
+    "bookId": "ga",
+    "chapter": 2,
+    "startVerse": 10,
+    "endVerse": 10,
+    "title": "Remember the poor",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law",
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
+  },
+  {
+    "id": "ga-t-02-11-14",
+    "passageId": "ga-02-11-21",
+    "bookId": "ga",
+    "chapter": 2,
+    "startVerse": 11,
+    "endVerse": 14,
+    "title": "Challenge withdrawal from shared meals",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
+  },
+  {
+    "id": "ga-t-03-26-29",
+    "passageId": "ga-03-26-29",
+    "bookId": "ga",
+    "chapter": 3,
+    "startVerse": 26,
+    "endVerse": 29,
+    "title": "Unity in Christ across social distinctions",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+  },
+  {
+    "id": "ga-t-05-01-01",
+    "passageId": "ga-05-01-01",
+    "bookId": "ga",
+    "chapter": 5,
+    "startVerse": 1,
+    "endVerse": 1,
+    "title": "Stand firm in freedom",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-t-05-06-06",
+    "passageId": "ga-05-02-06",
+    "bookId": "ga",
+    "chapter": 5,
+    "startVerse": 6,
+    "endVerse": 6,
+    "title": "Faith working through love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-t-05-13-14",
+    "passageId": "ga-05-13-14",
+    "bookId": "ga",
+    "chapter": 5,
+    "startVerse": 13,
+    "endVerse": 14,
+    "title": "Freedom expressed through service and neighbor-love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-t-05-16-21",
+    "passageId": "ga-05-16-26",
+    "bookId": "ga",
+    "chapter": 5,
+    "startVerse": 16,
+    "endVerse": 21,
+    "title": "Reject works of the flesh",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-t-05-22-26",
+    "passageId": "ga-05-16-26",
+    "bookId": "ga",
+    "chapter": 5,
+    "startVerse": 22,
+    "endVerse": 26,
+    "title": "Fruit of the Spirit and rejection of conceit",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-t-06-01-02",
+    "passageId": "ga-06-01-10",
+    "bookId": "ga",
+    "chapter": 6,
+    "startVerse": 1,
+    "endVerse": 2,
+    "title": "Gentle restoration and burden bearing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm"
+  },
+  {
+    "id": "ga-t-06-07-10",
+    "passageId": "ga-06-01-10",
+    "bookId": "ga",
+    "chapter": 6,
+    "startVerse": 7,
+    "endVerse": 10,
+    "title": "Persevere in doing good",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm"
+  },
+  {
+    "id": "php-t-02-01-04",
+    "passageId": "php-02-01-11",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 1,
+    "endVerse": 4,
+    "title": "Humility and concern for others",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
+    "id": "php-t-02-05-11",
+    "passageId": "php-02-01-11",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 5,
+    "endVerse": 11,
+    "title": "Christ's self-emptying and exaltation as model",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
+    "id": "php-t-02-14-16",
+    "passageId": "php-02-12-18",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "Conduct without grumbling",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+  },
+  {
+    "id": "php-t-04-02-03",
+    "passageId": "php-04-02-03",
+    "bookId": "php",
+    "chapter": 4,
+    "startVerse": 2,
+    "endVerse": 3,
+    "title": "Reconciliation of coworkers",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "php-t-04-04-07",
+    "passageId": "php-04-04-07",
+    "bookId": "php",
+    "chapter": 4,
+    "startVerse": 4,
+    "endVerse": 7,
+    "title": "Joy, gentleness, prayer and peace",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "php-t-04-08-09",
+    "passageId": "php-04-08-09",
+    "bookId": "php",
+    "chapter": 4,
+    "startVerse": 8,
+    "endVerse": 9,
+    "title": "Attend to worthy qualities and practice received teaching",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "1th-t-04-03-08",
+    "passageId": "1th-04-01-08",
+    "bookId": "1th",
+    "chapter": 4,
+    "startVerse": 3,
+    "endVerse": 8,
+    "title": "Sexual holiness and avoidance of wrongdoing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+  },
+  {
+    "id": "1th-t-04-09-12",
+    "passageId": "1th-04-09-12",
+    "bookId": "1th",
+    "chapter": 4,
+    "startVerse": 9,
+    "endVerse": 12,
+    "title": "Mutual love, quiet living and work",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship",
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+  },
+  {
+    "id": "1th-t-04-13-18",
+    "passageId": "1th-04-13-18",
+    "bookId": "1th",
+    "chapter": 4,
+    "startVerse": 13,
+    "endVerse": 18,
+    "title": "Comfort mourners through resurrection hope",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+  },
+  {
+    "id": "1th-t-05-12-13",
+    "passageId": "1th-05-12-22",
+    "bookId": "1th",
+    "chapter": 5,
+    "startVerse": 12,
+    "endVerse": 13,
+    "title": "Respect community workers",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership",
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+  },
+  {
+    "id": "1th-t-05-14-15",
+    "passageId": "1th-05-12-22",
+    "bookId": "1th",
+    "chapter": 5,
+    "startVerse": 14,
+    "endVerse": 15,
+    "title": "Support the weak, patience and nonretaliation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership",
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+  },
+  {
+    "id": "1th-t-05-16-18",
+    "passageId": "1th-05-12-22",
+    "bookId": "1th",
+    "chapter": 5,
+    "startVerse": 16,
+    "endVerse": 18,
+    "title": "Joy, prayer and thanksgiving",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership",
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+  },
+  {
+    "id": "1th-t-05-19-22",
+    "passageId": "1th-05-12-22",
+    "bookId": "1th",
+    "chapter": 5,
+    "startVerse": 19,
+    "endVerse": 22,
+    "title": "Evaluate prophetic claims and retain good",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership",
+      "prayer",
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+  },
+  {
+    "id": "phm-t-01-08-14",
+    "passageId": "phm-01-08-21",
+    "bookId": "phm",
+    "chapter": 1,
+    "startVerse": 8,
+    "endVerse": 14,
+    "title": "Appeal rather than compel",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion",
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+  },
+  {
+    "id": "phm-t-01-15-17",
+    "passageId": "phm-01-08-21",
+    "bookId": "phm",
+    "chapter": 1,
+    "startVerse": 15,
+    "endVerse": 17,
+    "title": "Receive Onesimus as a beloved brother",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion",
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+  },
+  {
+    "id": "phm-t-01-18-21",
+    "passageId": "phm-01-08-21",
+    "bookId": "phm",
+    "chapter": 1,
+    "startVerse": 18,
+    "endVerse": 21,
+    "title": "Offer to cover debt and appeal for cooperation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion",
+      "authority",
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+  },
+  {
+    "id": "eph-t-02-08-10",
+    "passageId": "eph-02-01-10",
+    "bookId": "eph",
+    "chapter": 2,
+    "startVerse": 8,
+    "endVerse": 10,
+    "title": "Grace through faith and good works as purpose",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm"
+  },
+  {
+    "id": "eph-t-04-01-06",
+    "passageId": "eph-04-01-16",
+    "bookId": "eph",
+    "chapter": 4,
+    "startVerse": 1,
+    "endVerse": 6,
+    "title": "Humility, patience and unity",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "id": "eph-t-04-11-16",
+    "passageId": "eph-04-01-16",
+    "bookId": "eph",
+    "chapter": 4,
+    "startVerse": 11,
+    "endVerse": 16,
+    "title": "Diverse ministries and communal maturity",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "id": "eph-t-04-25-28",
+    "passageId": "eph-04-25-32",
+    "bookId": "eph",
+    "chapter": 4,
+    "startVerse": 25,
+    "endVerse": 28,
+    "title": "Truth, restraint of anger and sharing",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "id": "eph-t-04-29-32",
+    "passageId": "eph-04-25-32",
+    "bookId": "eph",
+    "chapter": 4,
+    "startVerse": 29,
+    "endVerse": 32,
+    "title": "Constructive speech, kindness and forgiveness",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "id": "eph-t-05-21-24",
+    "passageId": "eph-05-21-33",
+    "bookId": "eph",
+    "chapter": 5,
+    "startVerse": 21,
+    "endVerse": 24,
+    "title": "Submission language in household instructions",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+  },
+  {
+    "id": "eph-t-05-25-33",
+    "passageId": "eph-05-21-33",
+    "bookId": "eph",
+    "chapter": 5,
+    "startVerse": 25,
+    "endVerse": 33,
+    "title": "Husbands instructed to love wives",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+  },
+  {
+    "id": "eph-t-06-01-04",
+    "passageId": "eph-06-01-04",
+    "bookId": "eph",
+    "chapter": 6,
+    "startVerse": 1,
+    "endVerse": 4,
+    "title": "Children and parental obligations",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+  },
+  {
+    "id": "eph-t-06-05-09",
+    "passageId": "eph-06-05-09",
+    "bookId": "eph",
+    "chapter": 6,
+    "startVerse": 5,
+    "endVerse": 9,
+    "title": "Enslaved persons and masters addressed",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+  },
+  {
+    "id": "col-t-02-16-23",
+    "passageId": "col-02-08-23",
+    "bookId": "col",
+    "chapter": 2,
+    "startVerse": 16,
+    "endVerse": 23,
+    "title": "Resist judgment over food and ascetic regulations",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL02.htm"
+  },
+  {
+    "id": "col-t-03-12-15",
+    "passageId": "col-03-01-17",
+    "bookId": "col",
+    "chapter": 3,
+    "startVerse": 12,
+    "endVerse": 15,
+    "title": "Compassion, forgiveness and love",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+  },
+  {
+    "id": "col-t-03-18-19",
+    "passageId": "col-03-18-25",
+    "bookId": "col",
+    "chapter": 3,
+    "startVerse": 18,
+    "endVerse": 19,
+    "title": "Wives and husbands addressed",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+  },
+  {
+    "id": "col-t-03-20-21",
+    "passageId": "col-03-18-25",
+    "bookId": "col",
+    "chapter": 3,
+    "startVerse": 20,
+    "endVerse": 21,
+    "title": "Children and parents addressed",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+  },
+  {
+    "id": "col-t-03-22-25",
+    "passageId": "col-03-18-25",
+    "bookId": "col",
+    "chapter": 3,
+    "startVerse": 22,
+    "endVerse": 25,
+    "title": "Enslaved persons addressed",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+  },
+  {
+    "id": "col-t-04-01-01",
+    "passageId": "col-04-01-06",
+    "bookId": "col",
+    "chapter": 4,
+    "startVerse": 1,
+    "endVerse": 1,
+    "title": "Masters instructed to act justly",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL04.htm"
+  },
+  {
+    "id": "2th-t-03-06-12",
+    "passageId": "2th-03-06-15",
+    "bookId": "2th",
+    "chapter": 3,
+    "startVerse": 6,
+    "endVerse": 12,
+    "title": "Disorderly conduct and unwillingness to work",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+  },
+  {
+    "id": "2th-t-03-13-15",
+    "passageId": "2th-03-06-15",
+    "bookId": "2th",
+    "chapter": 3,
+    "startVerse": 13,
+    "endVerse": 15,
+    "title": "Do good and admonish without treating as enemy",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+  },
+  {
+    "id": "1ti-t-02-01-02",
+    "passageId": "1ti-02-01-07",
+    "bookId": "1ti",
+    "chapter": 2,
+    "startVerse": 1,
+    "endVerse": 2,
+    "title": "Prayer for all people and rulers",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm"
+  },
+  {
+    "id": "1ti-t-02-11-15",
+    "passageId": "1ti-02-08-15",
+    "bookId": "1ti",
+    "chapter": 2,
+    "startVerse": 11,
+    "endVerse": 15,
+    "title": "Contested restriction on women's teaching and authority",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm"
+  },
+  {
+    "id": "1ti-t-03-01-07",
+    "passageId": "1ti-03-01-13",
+    "bookId": "1ti",
+    "chapter": 3,
+    "startVerse": 1,
+    "endVerse": 7,
+    "title": "Overseer qualifications",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
+  },
+  {
+    "id": "1ti-t-03-08-13",
+    "passageId": "1ti-03-01-13",
+    "bookId": "1ti",
+    "chapter": 3,
+    "startVerse": 8,
+    "endVerse": 13,
+    "title": "Deacon qualifications and debated reference to women",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
+  },
+  {
+    "id": "1ti-t-05-03-08",
+    "passageId": "1ti-05-01-16",
+    "bookId": "1ti",
+    "chapter": 5,
+    "startVerse": 3,
+    "endVerse": 8,
+    "title": "Widow support and family obligations",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm"
+  },
+  {
+    "id": "1ti-t-05-17-21",
+    "passageId": "1ti-05-17-25",
+    "bookId": "1ti",
+    "chapter": 5,
+    "startVerse": 17,
+    "endVerse": 21,
+    "title": "Elder compensation and impartial discipline",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm"
+  },
+  {
+    "id": "1ti-t-06-01-02",
+    "passageId": "1ti-06-01-02",
+    "bookId": "1ti",
+    "chapter": 6,
+    "startVerse": 1,
+    "endVerse": 2,
+    "title": "Instructions to enslaved people",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
+    "id": "1ti-t-06-06-10",
+    "passageId": "1ti-06-06-19",
+    "bookId": "1ti",
+    "chapter": 6,
+    "startVerse": 6,
+    "endVerse": 10,
+    "title": "Contentment and warning about love of money",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
+    "id": "1ti-t-06-17-19",
+    "passageId": "1ti-06-06-19",
+    "bookId": "1ti",
+    "chapter": 6,
+    "startVerse": 17,
+    "endVerse": 19,
+    "title": "Generosity required of wealthy believers",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
+    "id": "2ti-t-02-02-02",
+    "passageId": "2ti-02-01-13",
+    "bookId": "2ti",
+    "chapter": 2,
+    "startVerse": 2,
+    "endVerse": 2,
+    "title": "Transmit teaching to reliable people",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+  },
+  {
+    "id": "2ti-t-02-22-26",
+    "passageId": "2ti-02-22-26",
+    "bookId": "2ti",
+    "chapter": 2,
+    "startVerse": 22,
+    "endVerse": 26,
+    "title": "Avoid quarrels and correct opponents gently",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+  },
+  {
+    "id": "2ti-t-03-14-17",
+    "passageId": "2ti-03-10-17",
+    "bookId": "2ti",
+    "chapter": 3,
+    "startVerse": 14,
+    "endVerse": 17,
+    "title": "Scripture for teaching and training",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm"
+  },
+  {
+    "id": "tit-t-01-05-09",
+    "passageId": "tit-01-05-09",
+    "bookId": "tit",
+    "chapter": 1,
+    "startVerse": 5,
+    "endVerse": 9,
+    "title": "Elder and overseer qualifications",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm"
+  },
+  {
+    "id": "tit-t-02-03-05",
+    "passageId": "tit-02-03-05",
+    "bookId": "tit",
+    "chapter": 2,
+    "startVerse": 3,
+    "endVerse": 5,
+    "title": "Older women teaching younger women",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+  },
+  {
+    "id": "tit-t-02-09-10",
+    "passageId": "tit-02-06-10",
+    "bookId": "tit",
+    "chapter": 2,
+    "startVerse": 9,
+    "endVerse": 10,
+    "title": "Instructions to enslaved people",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+  },
+  {
+    "id": "tit-t-03-01-02",
+    "passageId": "tit-03-01-08",
+    "bookId": "tit",
+    "chapter": 3,
+    "startVerse": 1,
+    "endVerse": 2,
+    "title": "Civil submission and gentleness",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm"
+  },
+  {
+    "id": "tit-t-03-09-11",
+    "passageId": "tit-03-09-15",
+    "bookId": "tit",
+    "chapter": 3,
+    "startVerse": 9,
+    "endVerse": 11,
+    "title": "Avoid destructive disputes and address divisiveness",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm"
+  }
+]

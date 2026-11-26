@@ -1,0 +1,5 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+const load = name => JSON.parse(readFileSync(new URL('../research/index/'+name+'.json',import.meta.url),'utf8'));
+test('Pauline teaching candidates retain valid parent and authorship boundaries',()=>{const rows=load('pauline-teachings'), parents=new Map(load('passages').map(p=>[p.id,p]));assert.equal(new Set(rows.map(r=>r.id)).size,rows.length);assert.equal(new Set(rows.map(r=>r.bookId)).size,13);for(const r of rows){const p=parents.get(r.passageId);assert.ok(p,r.id);assert.equal(r.bookId,p.bookId);assert.equal(r.sourceLayer,p.sourceLayer);assert.ok(r.sourceLayer.startsWith('paul-'));const [,c,a,b]=p.id.split('-').map(Number);assert.equal(r.chapter,c);assert.ok(r.startVerse>=a&&r.endVerse<=b&&r.startVerse<=r.endVerse);assert.equal(r.sourceUrl,p.sourceUrl);assert.equal(r.status,'draft');assert.ok(r.topics.every(t=>p.topics.includes(t)));assert.ok(['letter-discourse','lord-attributed-instruction','received-jesus-tradition'].includes(r.attribution));}});
