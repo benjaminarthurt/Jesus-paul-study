@@ -5882,7 +5882,7 @@
   {
     "id": "mk-10-01-01",
     "bookId": "mk",
-    "reference": "Mark 10:1",
+    "reference": "Mark 10:1–1",
     "sourceLayer": "jesus-synoptic",
     "title": "Teaching beyond the Jordan",
     "summary": "The narrator describes Jesus traveling to the region of Judea and beyond the Jordan and teaching gathered crowds; no words are supplied.",
@@ -5890,7 +5890,7 @@
       "mission"
     ],
     "status": "draft",
-    "unitType": "narrative",
+    "unitType": "context",
     "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
   },
   {
