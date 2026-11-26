@@ -6,6 +6,7 @@ jesus: [lk-06-01-05, lk-13-10-17]
 paul: [ro-14-01-12, ro-14-13-23, 1co-08-01-13]
 sourceIds: [web-protestant-66]
 classification: extension
+reviewIds: [romans-14-disputed-observance]
 ---
 ## Research question
 
