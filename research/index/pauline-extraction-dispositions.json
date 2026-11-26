@@ -21,9 +21,19 @@
     "passageId": "1co-01-10-17",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-01-10-13"
+      "1co-t-01-10-13",
+      "1co-t-01-17-17"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul recalls the few people he baptized in verses 14–16 and qualifies his recollection. Verse 17 states how he understands his commission.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO01.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-01-18-31",
@@ -32,7 +42,16 @@
       "1co-t-01-18-25",
       "1co-t-01-26-31"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The cross reverses ordinary evaluations of power. The appeal to the Corinthians' own calling supplies a second argument against boasting.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO01.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-02-01-05",
@@ -59,15 +78,37 @@
       "1co-t-02-10-13",
       "1co-t-02-14-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The hidden wisdom claim leads to an account of disclosure and then to a distinction between ways of hearing it.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO02.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-03-01-23",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-03-05-09"
+      "1co-t-03-05-09",
+      "1co-t-03-01-04",
+      "1co-t-03-10-15",
+      "1co-t-03-16-17",
+      "1co-t-03-18-23"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The milk metaphor interprets rivalry between factions. Agricultural, building and temple images successively describe the community.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO03.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-04-01-21",
@@ -79,31 +120,72 @@
       "1co-t-04-14-17",
       "1co-t-04-18-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The hardships illustrate the appeal to imitation. Timothy's coming and the prospect of a disciplinary visit give the closing challenge its setting.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO04.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-05-01-13",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-05-09-13"
+      "1co-t-05-09-13",
+      "1co-t-05-01-05",
+      "1co-t-05-06-08"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A reported relationship prompts the assembly's disciplinary action. The yeast and Passover images then extend the appeal to collective conduct.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO05.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-06-01-11",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-06-01-08"
+      "1co-t-06-01-08",
+      "1co-t-06-09-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The litigation questions culminate in a challenge to accept loss. The inheritance warning and reminder of washing address the same audience.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO06.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-06-12-20",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-06-18-20"
+      "1co-t-06-18-20",
+      "1co-t-06-12-14",
+      "1co-t-06-15-17"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Permission sayings and replies precede the argument about bodily union. Quotation marks in an English edition leave the original speaker open.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO06.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-07-01-09",
@@ -186,9 +268,20 @@
     "passageId": "1co-08-01-13",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-08-09-13"
+      "1co-t-08-09-13",
+      "1co-t-08-01-03",
+      "1co-t-08-07-08"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Love and knowledge frame the argument. Verses 4–6 have a separate overlapping indexed parent. Verses 7–8 qualify the implied consensus about idols.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO08.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-08-04-06",
@@ -197,7 +290,16 @@
       "1co-t-08-04-05",
       "1co-t-08-06-06"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The concession about so-called gods introduces the first-person plural confession of one God and one Lord.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO08.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-09-01-18",
@@ -247,7 +349,16 @@
       "1co-t-10-06-10",
       "1co-t-10-11-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Israel's wilderness experiences become examples for the readers. The final assurance about temptation qualifies the preceding warning.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO10.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-10-14-33",
@@ -255,9 +366,19 @@
     "teachingIds": [
       "1co-t-10-23-24",
       "1co-t-10-25-30",
-      "1co-t-10-31-33"
+      "1co-t-10-31-33",
+      "1co-t-10-14-22"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The incompatibility of ritual tables precedes case-specific advice about buying food or accepting hospitality.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO10.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-11-01-01",
@@ -327,24 +448,54 @@
     "teachingIds": [
       "1co-t-12-01-03"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The opening recalls the readers' former practices. Verse 3 gives contrasting speech tests concerning Jesus.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO12.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-12-04-31",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-12-12-27"
+      "1co-t-12-12-27",
+      "1co-t-12-04-11",
+      "1co-t-12-28-31"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The distribution of gifts brackets the body analogy. The questions in verses 29–30 expect different functions among the members.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO12.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-13-01-13",
     "disposition": "selected-candidates",
     "teachingIds": [
       "1co-t-13-04-07",
-      "1co-t-13-08-13"
+      "1co-t-13-08-13",
+      "1co-t-13-01-03"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Hypothetical speech, knowledge and sacrifice introduce the description of love and the discussion of what endures.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO13.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-14-01-25",
@@ -412,7 +563,16 @@
       "1co-t-15-03-08",
       "1co-t-15-09-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul marks the proclamation as received and delivered. The appearance to himself leads to an account of his own calling.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO15.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-15-12-28",
@@ -422,7 +582,16 @@
       "1co-t-15-20-23",
       "1co-t-15-24-28"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The consequences of denying resurrection precede the firstfruits image, the order of resurrection and the handing over of the kingdom.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO15.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-15-29-34",
@@ -431,7 +600,16 @@
       "1co-t-15-29-32",
       "1co-t-15-33-34"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Baptism for the dead appears as a premise in a question. Paul gives no instructions for performing it.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO15.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-15-35-58",
@@ -442,7 +620,16 @@
       "1co-t-15-50-57",
       "1co-t-15-58-58"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A posed objection introduces analogies for bodily change. The closing imperative connects resurrection hope with present labor.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO15.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-16-01-04",
@@ -450,7 +637,16 @@
     "teachingIds": [
       "1co-t-16-01-04"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The collection instructions specify regular saving and representatives approved by the recipients.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO16.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-16-05-18",
@@ -460,7 +656,16 @@
       "1co-t-16-13-14",
       "1co-t-16-15-18"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Travel intentions are conditional. Directions about Timothy and recognizing service accompany a distinct series of short exhortations.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO16.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-16-19-19",
@@ -485,7 +690,16 @@
       "1co-t-16-22-22",
       "1co-t-16-23-24"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Mutual greeting, the writer's signature, a warning and invocation, and the final blessing and expression of love have distinct functions.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO16.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-01-01-01",
@@ -713,7 +927,16 @@
       "1ti-t-01-03-07",
       "1ti-t-01-08-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "3–7 connects opposition to speculative teaching with the positive goal of love. The list in 9–10 illustrates the use of law and includes slave traders.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI01.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-01-12-20",
@@ -739,17 +962,39 @@
     "passageId": "1ti-02-01-07",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1ti-t-02-01-02"
+      "1ti-t-02-01-02",
+      "1ti-t-02-03-06",
+      "1ti-t-02-07-07"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Prayers for rulers serve the stated aim of a quiet life. Verses 3–6 ground the appeal in a universal saving desire and one mediator. Verse 7 adds the speaker's claim to teach Gentiles.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI02.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-02-08-15",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1ti-t-02-11-15"
+      "1ti-t-02-11-15",
+      "1ti-t-02-08-08",
+      "1ti-t-02-09-10"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "8 addresses men praying. 9–10 contrast expensive display and good works. 11–12 regulate women's learning and teaching. The creation appeal and difficult childbearing statement follow in 13–15.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI02.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-03-01-13",
@@ -758,7 +1003,16 @@
       "1ti-t-03-01-07",
       "1ti-t-03-08-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The household analogy in 4–5 is part of the case for overseer qualifications. The women in 11 may be wives or women serving. WEBP's choice of wives does not settle the office question.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI03.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-03-14-16",
@@ -767,7 +1021,16 @@
       "1ti-t-03-14-15",
       "1ti-t-03-16-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "14–15 explain why instructions are being written ahead of a possible visit. Verse 16 shifts to a confessional sequence. Its opening wording requires comparison across editions.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI03.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-04-01-05",
@@ -776,7 +1039,16 @@
       "1ti-t-04-01-03",
       "1ti-t-04-04-05"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "1 introduces a prediction as speech of the Spirit. The letter describes rival restrictions in 2–3 and gives its own theological answer about creation and thanksgiving in 4–5.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI04.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-04-06-16",
@@ -786,23 +1058,56 @@
       "1ti-t-04-11-13",
       "1ti-t-04-14-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The exercise comparison in 7–8 supports training in godliness. Public reading, exhortation and teaching in 13 are distinct from the personal gift and persistence in 14–16.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI04.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-05-01-16",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1ti-t-05-03-08"
+      "1ti-t-05-03-08",
+      "1ti-t-05-01-02",
+      "1ti-t-05-09-10",
+      "1ti-t-05-11-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "1–2 directs Timothy to address different ages as kin. The subsequent rules distinguish household care, enrollment with age and conduct criteria, and aid for widows without support.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI05.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-05-17-25",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1ti-t-05-17-21"
+      "1ti-t-05-17-21",
+      "1ti-t-05-22-22",
+      "1ti-t-05-23-23",
+      "1ti-t-05-24-25"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Verse 18 introduces two citations as Scripture, including a laborer's entitlement to pay. It does not name Jesus as speaker. The writer shifts from impartial discipline to caution about laying on hands, an individual health suggestion and the visibility of deeds.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI05.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-06-01-02",
@@ -810,7 +1115,16 @@
     "teachingIds": [
       "1ti-t-06-01-02"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Enslaved people are addressed in both verses. The second case concerns believing masters. The letter preserves this social relation while invoking shared faith.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI06.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-06-03-05",
@@ -818,16 +1132,36 @@
     "teachingIds": [
       "1ti-t-06-03-05"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The author invokes teaching associated with the Lord Jesus in 3, then criticizes disputes and the treatment of religion as a source of profit. No saying from Jesus is quoted.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI06.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-06-06-19",
     "disposition": "selected-candidates",
     "teachingIds": [
       "1ti-t-06-06-10",
-      "1ti-t-06-17-19"
+      "1ti-t-06-17-19",
+      "1ti-t-06-11-12",
+      "1ti-t-06-13-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The warning in 6–10 concerns contentment and the desire for wealth. Timothy is addressed personally in 11–16. Instructions to those already rich begin in 17 and direct them to share.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI06.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-06-20-21",
@@ -835,7 +1169,16 @@
     "teachingIds": [
       "1ti-t-06-20-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Timothy is charged to guard a deposit and avoid contrary claims to knowledge. A grace wish closes the letter.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI06.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-01-01-02",
@@ -856,17 +1199,39 @@
     "passageId": "2co-01-03-11",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "2co-t-01-03-07"
+      "2co-t-01-03-07",
+      "2co-t-01-08-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The opening blessing connects received and shared comfort. The affliction in Asia illustrates reliance on God and the recipients' participation in prayer.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO01.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-01-12-24",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "2co-t-01-24-24"
+      "2co-t-01-24-24",
+      "2co-t-01-12-17",
+      "2co-t-01-18-22",
+      "2co-t-01-23-23"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Verses 12–17 defend the writers' conduct and changed itinerary. Verse 23 invokes God as witness to the explanation for the delayed visit.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO01.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-02-01-04",
@@ -891,7 +1256,16 @@
     "teachingIds": [
       "2co-t-02-05-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The punishment by the majority is treated as sufficient. Paul requests comfort, forgiveness and reaffirmation of love.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO02.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-02-12-17",
@@ -920,7 +1294,16 @@
       "2co-t-03-12-16",
       "2co-t-03-17-18"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The letter metaphor addresses ministerial credentials. The veil imagery interprets Moses and leads into the claim about transformation.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO03.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-04-01-18",
@@ -931,7 +1314,16 @@
       "2co-t-04-13-15",
       "2co-t-04-16-18"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The argument moves from open proclamation through bodily vulnerability to the grounds for hope amid suffering.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO04.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-05-01-10",
@@ -941,15 +1333,36 @@
       "2co-t-05-06-08",
       "2co-t-05-09-10"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Dwelling and clothing images frame the hope of life. Confidence before death leads into accountability before Christ.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO05.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-05-11-21",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "2co-t-05-18-21"
+      "2co-t-05-18-21",
+      "2co-t-05-11-13",
+      "2co-t-05-14-15",
+      "2co-t-05-16-17"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The account of persuasion and motives leads into the implications of one person's death for all, new creation and the appeal for reconciliation.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO05.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-06-01-13",
@@ -959,7 +1372,16 @@
       "2co-t-06-03-10",
       "2co-t-06-11-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A scriptural citation introduces the appeal concerning grace. The ministry catalogue supports the request for mutual openness.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO06.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-06-14-07-01",
@@ -989,33 +1411,76 @@
       "2co-t-07-08-11",
       "2co-t-07-12-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Titus's arrival and report frame the distinction between kinds of grief and the expression of renewed confidence.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO07.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-08-01-15",
     "disposition": "selected-candidates",
     "teachingIds": [
       "2co-t-08-08-09",
-      "2co-t-08-12-15"
+      "2co-t-08-12-15",
+      "2co-t-08-01-05",
+      "2co-t-08-06-07",
+      "2co-t-08-10-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Macedonia supplies an example. Paul distinguishes advice from command and relates completion of the collection to the donors' means.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO08.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-08-16-24",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "2co-t-08-20-21"
+      "2co-t-08-20-21",
+      "2co-t-08-16-19",
+      "2co-t-08-22-24"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The delegates are commended through their service and selection by assemblies. Their names are supplied only for Titus.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO08.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-09-01-15",
     "disposition": "selected-candidates",
     "teachingIds": [
       "2co-t-09-06-07",
-      "2co-t-09-08-11"
+      "2co-t-09-08-11",
+      "2co-t-09-01-05",
+      "2co-t-09-12-15"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Advance preparation protects the voluntary character of the gift. Material relief and thanksgiving to God are both named as outcomes.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO09.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-10-01-18",
@@ -1026,7 +1491,16 @@
       "2co-t-10-12-16",
       "2co-t-10-17-18"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The challenge about letters and personal presence belongs to a defense of authority. The limits of boasting concern the writers' own field of labor.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO10.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-11-01-15",
@@ -1036,7 +1510,16 @@
       "2co-t-11-05-12",
       "2co-t-11-13-15"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The account of financial support is part of Paul's defense against rival apostles and his warning about a different proclamation.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO11.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-11-16-33",
@@ -1099,9 +1582,23 @@
     "passageId": "2co-13-01-14",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "2co-t-13-05-05"
+      "2co-t-13-05-05",
+      "2co-t-13-01-04",
+      "2co-t-13-06-10",
+      "2co-t-13-11-12",
+      "2co-t-13-13-13",
+      "2co-t-13-14-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The witness citation and threat of discipline frame the demand for proof. Prayer for restoration and a closing greeting precede the blessing.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO13.htm"
+      ]
+    }
   },
   {
     "passageId": "2th-01-01-02",
@@ -1126,7 +1623,16 @@
       "2th-t-01-06-10",
       "2th-t-01-11-12"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Thanksgiving for endurance in 3–5 leads to the expectation of relief and divine recompense in 6–10. In 11–12 the writers pray for the recipients' calling and actions.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TH01.htm"
+      ]
+    }
   },
   {
     "passageId": "2th-02-01-12",
@@ -1136,7 +1642,16 @@
       "2th-t-02-04-08",
       "2th-t-02-09-12"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The addressees have heard claims that the day has arrived, possibly in a letter ascribed to the writers. The restraining power in 6–7 is left unnamed. The sequence ends with deception and judgment.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TH02.htm"
+      ]
+    }
   },
   {
     "passageId": "2th-02-13-17",
@@ -1146,7 +1661,16 @@
       "2th-t-02-15-15",
       "2th-t-02-16-17"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Thanksgiving for the recipients gives way to the instruction in 15 to hold teachings received by speech or letter. 16–17 invoke encouragement from Jesus and the Father.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TH02.htm"
+      ]
+    }
   },
   {
     "passageId": "2th-03-01-05",
@@ -1155,7 +1679,16 @@
       "2th-t-03-01-02",
       "2th-t-03-03-05"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The request for prayer concerns the spread of the message and rescue from opponents. The writers express confidence in 3–4 and pray for the direction of their readers' hearts in 5.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TH03.htm"
+      ]
+    }
   },
   {
     "passageId": "2th-03-06-15",
@@ -1164,7 +1697,16 @@
       "2th-t-03-06-12",
       "2th-t-03-13-15"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The economic maxim in 10 is recalled as the writers' own earlier directive. It concerns unwillingness to work. The instruction to limit association in 14 is qualified by treating the person as a brother in 15.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TH03.htm"
+      ]
+    }
   },
   {
     "passageId": "2th-03-16-18",
@@ -1208,7 +1750,16 @@
       "2ti-t-01-09-12",
       "2ti-t-01-13-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A gift recalled through laying on hands leads to the summons to share suffering. In 9–12 the writer connects calling and grace with his own imprisonment. The Spirit appears again in the instruction to guard the deposit.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI01.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-01-15-18",
@@ -1231,9 +1782,22 @@
     "passageId": "2ti-02-01-13",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "2ti-t-02-02-02"
+      "2ti-t-02-02-02",
+      "2ti-t-02-01-01",
+      "2ti-t-02-03-07",
+      "2ti-t-02-08-10",
+      "2ti-t-02-11-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The charge to transmit teaching stands between a call to draw strength from grace and three vocational comparisons. The confession in 11–13 is introduced as a trustworthy saying without naming its author.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI02.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-02-14-21",
@@ -1243,7 +1807,16 @@
       "2ti-t-02-17-19",
       "2ti-t-02-20-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The teaching that resurrection has already happened in 18 is attributed to named opponents. Verse 19 responds with a foundation bearing two sayings. Household vessels form a new comparison in 20–21.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI02.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-02-22-26",
@@ -1251,7 +1824,16 @@
     "teachingIds": [
       "2ti-t-02-22-26"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Pursuit of virtues and refusal of quarrels frame gentleness toward opponents. The desired repentance in 25 depends on divine action.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI02.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-03-01-09",
@@ -1260,15 +1842,34 @@
       "2ti-t-03-01-05",
       "2ti-t-03-06-09"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A list of vices warns about the last days. The comparison with Jannes and Jambres in 8–9 interprets the conduct of the particular teachers being attacked.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI03.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-03-10-17",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "2ti-t-03-14-17"
+      "2ti-t-03-14-17",
+      "2ti-t-03-10-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Timothy's knowledge of the speaker's conduct and suffering precedes the appeal to childhood knowledge of Scripture. Its functions in 16–17 culminate in readiness for good work.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI03.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-04-01-08",
@@ -1278,7 +1879,16 @@
       "2ti-t-04-03-05",
       "2ti-t-04-06-08"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "1–2 give a charge before God and Christ; the predicted resistance in 3–5 is its setting. In 6–8 the voice looks back on a completed race and ahead to a crown also for others.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI04.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-04-09-22",
@@ -1340,7 +1950,16 @@
       "col-t-01-15-17",
       "col-t-01-18-20"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The Son is the subject throughout. Creation and powers in 15–17 lead to headship, resurrection, and reconciliation in 18–20. The chapter does not identify a prior hymn or its composer.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL01.htm"
+      ]
+    }
   },
   {
     "passageId": "col-01-21-29",
@@ -1349,7 +1968,16 @@
       "col-t-01-21-23",
       "col-t-01-24-29"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "21–23 apply reconciliation to the recipients and call for persistence. In 24–29 the writer interprets his suffering, commission and labor to present others mature.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL01.htm"
+      ]
+    }
   },
   {
     "passageId": "col-02-01-07",
@@ -1358,23 +1986,57 @@
       "col-t-02-01-05",
       "col-t-02-06-07"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The speaker describes concern for people he has not met and explains the danger of plausible arguments. The instruction to continue as they received Christ begins at 6.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL02.htm"
+      ]
+    }
   },
   {
     "passageId": "col-02-08-23",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "col-t-02-16-23"
+      "col-t-02-16-23",
+      "col-t-02-08-10",
+      "col-t-02-11-12",
+      "col-t-02-13-15"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "8 warns about deceptive arguments. 9–15 connect Christ, baptism and the defeat of powers. The prohibitions in 21 illustrate regulations the writer challenges; they are not his instructions.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL02.htm"
+      ]
+    }
   },
   {
     "passageId": "col-03-01-17",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "col-t-03-12-15"
+      "col-t-03-12-15",
+      "col-t-03-01-04",
+      "col-t-03-05-08",
+      "col-t-03-09-11",
+      "col-t-03-16-17"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "1–4 connect conduct with rising with Christ. 5–11 oppose former practices and describe a renewed humanity. The appeal to forgive in 12–15 is followed by instruction through song and gratitude.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL03.htm"
+      ]
+    }
   },
   {
     "passageId": "col-03-18-25",
@@ -1384,15 +2046,35 @@
       "col-t-03-20-21",
       "col-t-03-22-25"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The writer addresses wives and husbands, children and fathers, then enslaved workers. The corresponding address to masters occurs beyond the chapter boundary at 4:1.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL03.htm"
+      ]
+    }
   },
   {
     "passageId": "col-04-01-06",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "col-t-04-01-01"
+      "col-t-04-01-01",
+      "col-t-04-02-04",
+      "col-t-04-05-06"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Verse 1 concludes the household directions begun in chapter 3. The instructions then turn to prayer for proclamation and to speech with outsiders.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL04.htm"
+      ]
+    }
   },
   {
     "passageId": "col-04-07-18",
@@ -1435,7 +2117,16 @@
       "eph-t-01-07-10",
       "eph-t-01-11-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The blessing links adoption with praise, redemption with the divine purpose, and inheritance with the seal of the Spirit. The movement between we and you is relevant to the audience.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH01.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-01-15-23",
@@ -1459,9 +2150,20 @@
     "passageId": "eph-02-01-10",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "eph-t-02-08-10"
+      "eph-t-02-08-10",
+      "eph-t-02-01-03",
+      "eph-t-02-04-07"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The former condition and divine mercy in 1–7 set up the relation between grace, faith and good works in 8–10. The writer distinguishes the basis of salvation from its intended result.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH02.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-02-11-22",
@@ -1471,7 +2173,16 @@
       "eph-t-02-14-18",
       "eph-t-02-19-22"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Gentile exclusion in 11–12 precedes nearness through Christ. The dividing barrier and cross in 14–18 explain the shared citizenship, household and temple images in 19–22.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH02.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-03-01-13",
@@ -1480,7 +2191,16 @@
       "eph-t-03-01-06",
       "eph-t-03-07-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The revealed mystery is given concrete content in 6 as Gentile co-inheritance. The first-person ministry account ends with an appeal concerning the writer's suffering in 13.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH03.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-03-14-21",
@@ -1505,9 +2225,19 @@
     "disposition": "selected-candidates",
     "teachingIds": [
       "eph-t-04-01-06",
-      "eph-t-04-11-16"
+      "eph-t-04-11-16",
+      "eph-t-04-07-10"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The appeal to unity includes a sequence of shared commitments in 4–6. A citation and its interpretation in 7–10 lead into distinct ministries and their common purpose in 11–16.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH04.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-04-17-24",
@@ -1516,7 +2246,16 @@
       "eph-t-04-17-19",
       "eph-t-04-20-24"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The writer contrasts a stereotyped account of Gentile conduct with learning Christ and putting on a new self. This is a polemical appeal to the readers about their conduct.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH04.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-04-25-32",
@@ -1525,7 +2264,16 @@
       "eph-t-04-25-28",
       "eph-t-04-29-32"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Truthfulness, anger, labor and sharing lead into speech that builds others up. The final appeal grounds forgiveness in God's forgiveness in Christ.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH04.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-05-01-20",
@@ -1537,7 +2285,16 @@
       "eph-t-05-15-17",
       "eph-t-05-18-20"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Christ's self-giving grounds imitation in 1–2. The quoted summons to wake in 14 sits inside the light imagery; its precise source is unstated. Wisdom, singing and thanksgiving follow.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH05.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-05-21-33",
@@ -1546,7 +2303,16 @@
       "eph-t-05-21-24",
       "eph-t-05-25-33"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The move from mutual submission in 21 to the directions to wives and husbands matters to interpretation. The quotation in 31 and its Christ-and-assembly application in 32 are part of the writer's analogy.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH05.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-06-01-04",
@@ -1554,7 +2320,16 @@
     "teachingIds": [
       "eph-t-06-01-04"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The instruction to children invokes the commandment to honor parents and its promise. Verse 4 directly addresses fathers about provoking and bringing up children.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH06.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-06-05-09",
@@ -1562,7 +2337,16 @@
     "teachingIds": [
       "eph-t-06-05-09"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The first address is to enslaved people. Verse 9 addresses masters, prohibits threats and appeals to their common heavenly master. The passage does not prescribe emancipation.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH06.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-06-10-20",
@@ -1572,7 +2356,16 @@
       "eph-t-06-14-17",
       "eph-t-06-18-20"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The armor simile specifies the opponents as spiritual powers. Prayer extends the appeal beyond the addressees to all the saints and to the writer's speech in chains.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH06.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-06-21-24",
@@ -1633,17 +2426,40 @@
     "passageId": "ga-02-01-10",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "ga-t-02-10-10"
+      "ga-t-02-10-10",
+      "ga-t-02-03-05",
+      "ga-t-02-06-09"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "1–2 set the Jerusalem meeting. Titus supplies a concrete test in 3–5. Recognition of distinct missions in 6–9 precedes the request about the poor. Paul recounts what others asked him in 10.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL02.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-02-11-21",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "ga-t-02-11-14"
+      "ga-t-02-11-14",
+      "ga-t-02-15-16",
+      "ga-t-02-17-18",
+      "ga-t-02-19-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul narrates the withdrawal at Antioch and supplies his challenge to Peter in 14. How far the reported speech continues after 14 is uncertain. The argument about justification remains Paul's voice under either reading.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL02.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-03-01-09",
@@ -1652,7 +2468,16 @@
       "ga-t-03-01-05",
       "ga-t-03-06-09"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul questions the readers about how they received the Spirit, then cites Abraham and the promise to the nations. Scripture personified as speaking in 8 introduces a scriptural promise.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL03.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-03-10-14",
@@ -1661,7 +2486,16 @@
       "ga-t-03-10-12",
       "ga-t-03-13-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The argument links several scriptural citations about doing, living and curse. In 13–14 Christ bearing the curse leads to the Gentile blessing and reception of the Spirit.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL03.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-03-15-22",
@@ -1670,7 +2504,16 @@
       "ga-t-03-15-18",
       "ga-t-03-19-22"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A ratified covenant and the singular offspring ground Paul's chronological argument. In 19 and 21 he poses distinct questions about why the law was given and whether it opposes the promises.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL03.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-03-23-25",
@@ -1678,7 +2521,16 @@
     "teachingIds": [
       "ga-t-03-23-25"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Custody and the guardian comparison are temporal in Paul's argument. The next parent begins his explanation about children of God.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL03.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-03-26-29",
@@ -1686,7 +2538,16 @@
     "teachingIds": [
       "ga-t-03-26-29"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Baptism leads into the named pairs and Abrahamic inheritance. The explicit claim is shared belonging in Christ; the passage does not specify changes in civil status.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL03.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-04-01-11",
@@ -1695,7 +2556,16 @@
       "ga-t-04-01-07",
       "ga-t-04-08-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Minor heirs under guardians introduce adoption and the Spirit's cry in 6. Paul then challenges observance of calendrical cycles and fears his work may be wasted.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL04.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-04-12-20",
@@ -1722,7 +2592,16 @@
       "ga-t-04-21-27",
       "ga-t-04-28-31"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul calls his treatment of the two women allegorical. The citation in 30 is part of his application to the addressees; it is not presented as an instruction from Jesus.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL04.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-05-01-01",
@@ -1730,15 +2609,34 @@
     "teachingIds": [
       "ga-t-05-01-01"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A command to stand firm applies the preceding contrast between freedom and slavery and anticipates the warning about circumcision.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL05.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-05-02-06",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "ga-t-05-06-06"
+      "ga-t-05-06-06",
+      "ga-t-05-02-05"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul warns a person accepting circumcision about the obligation involved. The hope of righteousness through the Spirit precedes his conclusion about faith acting in love in 6.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL05.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-05-07-12",
@@ -1747,7 +2645,16 @@
       "ga-t-05-07-10",
       "ga-t-05-11-12"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The race and yeast images address interference with the readers. Paul links persecution to the cross and ends with a bitter wish directed at the agitators.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL05.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-05-13-14",
@@ -1755,7 +2662,16 @@
     "teachingIds": [
       "ga-t-05-13-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Freedom is the occasion for service in love. Verse 14 cites the neighbor command from Scripture without attributing these words to Jesus.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL05.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-05-15-15",
@@ -1763,7 +2679,16 @@
     "teachingIds": [
       "ga-t-05-15-15"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The warning about mutual destruction applies the preceding appeal for love to conduct inside the community.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL05.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-05-16-26",
@@ -1772,16 +2697,36 @@
       "ga-t-05-16-21",
       "ga-t-05-22-26"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Spirit-led conduct is contrasted with desire and a vice list. The fruit list in 22–23 leads to an exhortation against rivalry and envy in 25–26.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL05.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-06-01-10",
     "disposition": "selected-candidates",
     "teachingIds": [
       "ga-t-06-01-02",
-      "ga-t-06-07-10"
+      "ga-t-06-07-10",
+      "ga-t-06-03-05",
+      "ga-t-06-06-06"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Restoring another person and bearing burdens precede a distinct call for self-examination and responsibility in 3–5. Verse 6 concerns material sharing with a teacher. The sowing image introduces perseverance in 7–10.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL06.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-06-11-18",
@@ -1791,7 +2736,16 @@
       "ga-t-06-14-16",
       "ga-t-06-17-18"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The handwriting notice in 11 introduces the circumcision polemic. The writer shifts to boasting in the cross, new creation, a peace wish, marks borne on his body and a closing blessing.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL06.htm"
+      ]
+    }
   },
   {
     "passageId": "phm-01-01-07",
@@ -2120,7 +3074,16 @@
       "ro-t-01-16-16",
       "ro-t-01-17-17"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The claim about the gospel's power for Jew and Greek precedes Paul's appeal to the written saying about faith and life.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM01.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-01-18-32",
@@ -2130,7 +3093,16 @@
       "ro-t-01-24-27",
       "ro-t-01-28-32"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The repeated language of giving people over connects idolatry, passions and the concluding list. The address turns to the person judging in 2:1.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM01.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-02-01-05",
@@ -2139,7 +3111,16 @@
       "ro-t-02-01-03",
       "ro-t-02-04-05"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The second-person challenge addresses someone who condemns conduct they also practice. Divine kindness introduces the appeal to repentance.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM02.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-02-06-16",
@@ -2148,7 +3129,16 @@
       "ro-t-02-06-11",
       "ro-t-02-12-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul joins impartiality to judgment according to deeds, then considers people with and without the law.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM02.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-02-17-29",
@@ -2157,7 +3147,16 @@
       "ro-t-02-17-24",
       "ro-t-02-25-29"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A series of questions tests the claim to teach the law. The argument then turns from circumcision to obedience and the heart.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM02.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-03-01-20",
@@ -2167,7 +3166,16 @@
       "ro-t-03-09-18",
       "ro-t-03-19-20"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Objections and replies introduce a chain of scriptural citations. Verses 19–20 draw the conclusion about law and accountability.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM03.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-03-21-26",
@@ -2176,7 +3184,16 @@
       "ro-t-03-21-23",
       "ro-t-03-24-26"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The claim about the law and prophets' witness frames the subsequent claims about grace, redemption and divine justice.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM03.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-03-27-27",
@@ -2184,7 +3201,16 @@
     "teachingIds": [
       "ro-t-03-27-27"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A brief question and reply on boasting links the preceding argument to the claim about justification in verse 28.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM03.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-03-28-31",
@@ -2193,7 +3219,16 @@
       "ro-t-03-28-30",
       "ro-t-03-31-31"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The one-God argument concerns circumcised and uncircumcised alike. Verse 31 answers an objection about nullifying the law.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM03.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-04-01-12",
@@ -2202,7 +3237,16 @@
       "ro-t-04-01-08",
       "ro-t-04-09-12"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Abraham and David supply scriptural examples. The timing of circumcision grounds the argument about Abraham's wider family.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM04.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-04-13-25",
@@ -2212,7 +3256,16 @@
       "ro-t-04-18-22",
       "ro-t-04-23-25"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The promise to Abraham, his trust despite bodily circumstances, and the application to people who believe in the God who raised Jesus form successive units.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM04.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-05-01-11",
@@ -2222,7 +3275,16 @@
       "ro-t-05-06-08",
       "ro-t-05-09-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The first-person plural argument moves from hope in distress to Christ's death for sinners and reconciliation of enemies.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM05.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-05-12-21",
@@ -2232,7 +3294,16 @@
       "ro-t-05-15-17",
       "ro-t-05-18-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The comparison with Adam includes a qualification about law and death, then several contrasts between trespass and gift.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM05.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-06-01-14",
@@ -2242,7 +3313,16 @@
       "ro-t-06-05-11",
       "ro-t-06-12-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A question about continuing in sin introduces baptismal participation in death and resurrection. Direct imperatives conclude the passage.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM06.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-06-15-23",
@@ -2251,7 +3331,16 @@
       "ro-t-06-15-19",
       "ro-t-06-20-23"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The writer explicitly calls the slavery imagery a human analogy. The passage contrasts outcomes of obedience and sin.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM06.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-07-01-06",
@@ -2260,7 +3349,16 @@
       "ro-t-07-01-03",
       "ro-t-07-04-06"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The illustration of a married woman's relation to law sets up Paul's application about belonging to the risen Christ.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM07.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-07-07-12",
@@ -2269,7 +3367,16 @@
       "ro-t-07-07-08",
       "ro-t-07-09-12"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The prohibition of coveting is quoted within a first-person account of the relation between sin and commandment.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM07.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-07-13-25",
@@ -2278,7 +3385,16 @@
       "ro-t-07-13-20",
       "ro-t-07-21-25"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The first-person speaker dramatizes conflict. Identifying the speaker historically or theologically requires further interpretation.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM07.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-08-01-04",
@@ -2287,7 +3403,16 @@
       "ro-t-08-01-02",
       "ro-t-08-03-04"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Freedom from condemnation introduces the argument about God's action through the Son and the law's requirement.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM08.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-08-05-17",
@@ -2297,7 +3422,16 @@
       "ro-t-08-09-11",
       "ro-t-08-12-17"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The contrast between flesh and Spirit leads to claims about bodily life, adoption and shared suffering with Christ.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM08.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-08-18-39",
@@ -2308,7 +3442,16 @@
       "ro-t-08-28-30",
       "ro-t-08-31-39"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Creation's groaning and the Spirit's intercession are distinct. The final questions and scriptural citation express confidence amid threats.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM08.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-09-01-29",
@@ -2319,7 +3462,16 @@
       "ro-t-09-14-18",
       "ro-t-09-19-29"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Personal grief introduces the discussion of Israel. Scriptural speakers are embedded in Paul's replies about election, mercy and the remnant.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM09.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-09-30-10-03",
@@ -2348,7 +3500,16 @@
     "teachingIds": [
       "ro-t-10-04-04"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The one-verse claim about Christ and the law follows 9:30–10:3. An English rendering alone leaves the interpretation of telos open.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM10.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-10-05-21",
@@ -2358,7 +3519,16 @@
       "ro-t-10-14-17",
       "ro-t-10-18-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Scripture is reapplied to confession and calling, the sequence of sending and hearing, and the response of Israel.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM10.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-11-01-24",
@@ -2368,7 +3538,16 @@
       "ro-t-11-11-16",
       "ro-t-11-17-24"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul invokes his own ancestry and the Elijah narrative before addressing Gentile readers through the grafting image.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM11.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-11-25-36",
@@ -2378,7 +3557,16 @@
       "ro-t-11-28-32",
       "ro-t-11-33-36"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The warning against conceit leads into Israel's future and mercy. A doxology closes the argument.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM11.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-12-01-08",
@@ -2388,7 +3576,16 @@
       "ro-t-12-03-05",
       "ro-t-12-06-08"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The appeal about bodies and minds introduces humble self-assessment and the differentiated use of gifts within one body.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM12.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-12-09-13",
@@ -2399,7 +3596,16 @@
       "ro-t-12-11-12",
       "ro-t-12-13-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Short coordinated imperatives include mutual honor, prayer and sharing with those in need. Hospitality concludes the sequence.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM12.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-12-14-21",
@@ -2410,7 +3616,16 @@
       "ro-t-12-17-18",
       "ro-t-12-19-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The initial command about persecutors leads into nonretaliation. The final appeal incorporates scriptural speech about vengeance and care for enemies.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM12.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-13-01-07",
@@ -2419,7 +3634,16 @@
       "ro-t-13-01-05",
       "ro-t-13-06-07"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The authority argument supplies reasons for subjection, then specifies taxes, revenue, respect and honor.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM13.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-13-08-10",
@@ -2427,7 +3651,16 @@
     "teachingIds": [
       "ro-t-13-08-10"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The debt metaphor introduces the command to love, reinforced by citations of commandments and the claim that love fulfills law.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM13.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-13-11-14",
@@ -2436,7 +3669,16 @@
       "ro-t-13-11-12",
       "ro-t-13-13-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The image of night giving way to day grounds behavioral exhortations and the call to put on Christ.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM13.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-14-01-12",
@@ -2446,7 +3688,16 @@
       "ro-t-14-05-09",
       "ro-t-14-10-12"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Food and days are named as matters of differing practice. Accountability to God grounds the appeal against contempt and judgment.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM14.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-14-13-23",
@@ -2455,16 +3706,37 @@
       "ro-t-14-13-18",
       "ro-t-14-19-23"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul distinguishes personal conviction about food from its effects on another. Peace, edification and conscience shape the closing appeal.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM14.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-15-01-13",
     "disposition": "selected-candidates",
     "teachingIds": [
       "ro-t-15-01-03",
-      "ro-t-15-07-07"
+      "ro-t-15-07-07",
+      "ro-t-15-04-06",
+      "ro-t-15-08-12",
+      "ro-t-15-13-13"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The stronger readers' obligations lead to a prayer for unity. The argument joins promises to Israel with a series of citations about the nations.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM15.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-15-14-24",
@@ -2574,9 +3846,19 @@
     "teachingIds": [
       "ro-t-16-17-20",
       "ro-t-16-21-23",
-      "ro-t-16-25-27"
+      "ro-t-16-25-27",
+      "ro-t-16-24-24"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Tertius identifies himself in verse 22. WEBP prints the grace blessing at 16:24 and the doxology at 14:24–26, with a placement note at 16:25. The doxology record retains conventional numbering.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM16.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-01-01-04",
@@ -2601,7 +3883,16 @@
     "teachingIds": [
       "tit-t-01-05-09"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The purpose of leaving Titus in Crete is appointment of elders. The qualifications move from household conduct to teaching and responding to opponents in 9.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT01.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-01-10-16",
@@ -2611,7 +3902,16 @@
       "tit-t-01-12-14",
       "tit-t-01-15-16"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The ethnic slur in 12 is introduced as a local prophet's statement. The writer endorses it in 13 and directs correction. This is evidence of the letter's polemic, not evidence about the character of Cretans.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT01.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-02-01-02",
@@ -2619,7 +3919,16 @@
     "teachingIds": [
       "tit-t-02-01-02"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The address to Titus about sound teaching introduces directions specifically concerning older men in 2.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT02.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-02-03-05",
@@ -2627,15 +3936,34 @@
     "teachingIds": [
       "tit-t-02-03-05"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Older women are to teach younger women. The ensuing expectations concern marriage and household conduct; the passage gives no general definition of a teaching office.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT02.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-02-06-10",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "tit-t-02-09-10"
+      "tit-t-02-09-10",
+      "tit-t-02-06-08"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The address to younger men and to Titus as a model precedes separate directions to enslaved people. Their conduct is connected with the public reputation of the teaching.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT02.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-02-11-15",
@@ -2645,22 +3973,52 @@
       "tit-t-02-13-14",
       "tit-t-02-15-15"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The writer presents grace as educating people for present conduct, links hope to Christ's self-giving, and closes by addressing Titus about the authority to teach and correct.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT02.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-03-01-08",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "tit-t-03-01-02"
+      "tit-t-03-01-02",
+      "tit-t-03-03-07",
+      "tit-t-03-08-08"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Civic conduct is followed by a first-person plural account of former wrongdoing and salvation through mercy. Verse 8 returns to insistence on good works.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT03.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-03-09-15",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "tit-t-03-09-11"
+      "tit-t-03-09-11",
+      "tit-t-03-13-14"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Avoidance of disputes and the sequence of warnings precede the personal arrangements in 12–13. Verse 14 extends the concern about meeting needs to the community. Verse 15 closes the letter.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT03.htm"
+      ]
+    }
   }
 ]
