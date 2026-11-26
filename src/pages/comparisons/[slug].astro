@@ -26,6 +26,8 @@ const relatedReviews = (entry.data.reviewIds ?? []).map((id: string) => {
   if (!review) throw new Error(`Comparison ${entry.id}: unknown research review ${id}`);
   return { id, title: review.body?.match(/^#\s+(.+)$/m)?.[1] ?? id };
 });
+import historical from "../../../research/index/historical-verification.json";
+const reception = historical.filter(row => row.comparisonIds.includes(entry.id));
 const relatedIssues = (await getCollection("issues")).filter(issue => issue.body?.includes(`/comparisons/${entry.id}/`)).sort((a,b) => a.data.title.localeCompare(b.data.title));
 const evaluationLabels: Record<string,string> = {
   tension: "Supports a possible tension",
@@ -96,6 +98,7 @@ const evaluationLabels: Record<string,string> = {
     <p><a href="/research-reviews/">All research reviews</a></p>
   </section>}
 
+  {reception.length > 0 && <section class="panel evidence-section"><h2>Historical reception</h2><p>Later interpretations, not evidence of original authorial intent.</p><ul>{reception.map(row => <li><a href={`/research-reviews/${row.reviewId}/`}>{reviewById.get(row.reviewId)?.body?.match(/^#\s+(.+)$/m)?.[1] ?? row.reviewId}</a></li>)}</ul><p><a href="/historical-reception/">All historical studies</a></p></section>}
   {citedSources.length > 0 && <section aria-labelledby="source-heading" class="panel evidence-section">
     <h2 id="source-heading">Sources and access scope</h2>
     <p class="muted">The access description tells you whether the project inspected an open article or only a publisher's abstract. It does not imply peer review of this site's own conclusions.</p>

@@ -1,0 +1,16 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection } from "astro:content";
+import historical from "../../../research/index/historical-verification.json";
+const reviews = new Map((await getCollection("reviews")).map(r=>[r.id,r]));
+const comparisons = new Map((await getCollection("comparisons")).map(r=>[r.id,r]));
+const periods = [["early","Early Christianity"],["late-antique","Late antiquity"],["medieval","Medieval Christianity"],["reformation","Reformation"],["modern","Modern Christianity"]];
+---
+<Base title="Historical reception">
+<h1>Historical reception</h1>
+<p class="lead">How later Christian writers and institutions interpreted Gospel and Pauline traditions. These draft studies do not establish direct causal influence or original authorial intent.</p>
+<p>{historical.length} studies. Recorded excerpt checks are provisional; original-language and independent scholarly verification remain pending.</p>
+<nav aria-label="Historical periods">{periods.map(([id,label])=><p><a href={`#${id}`}>{label}</a></p>)}</nav>
+{periods.map(([id,label])=><section class="group" id={id}><h2>{label}</h2><div class="card-grid">{historical.filter(r=>r.period===id).map(r=><article class="card"><h3><a href={`/research-reviews/${r.reviewId}/`}>{reviews.get(r.reviewId)?.body?.match(/^#\s+(.+)$/m)?.[1] ?? r.reviewId}</a></h3><p>Draft · {r.verification.replaceAll("-"," ")}</p><ul>{r.comparisonIds.map(c=><li><a href={`/comparisons/${c}/`}>{comparisons.get(c)?.data.title ?? c}</a></li>)}</ul></article>)}</div></section>)}
+<p><a href="/research-reviews/">Biblical research reviews</a></p>
+</Base>
