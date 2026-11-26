@@ -1,0 +1,177 @@
+[
+  {
+    "reviewId": "aquinas-lending-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "aquinas-property-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "aquinas-war-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "augsburg-civil-authority-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "augsburg-justification-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "augustine-coercion-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "augustine-grace-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "catechism-war",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "chrysostom-baptism-ethics",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "clement-corinth-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "didache-ethical-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "ignatius-authority-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "ignatius-unity-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "irenaeus-succession-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "joint-declaration-law",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "justin-covenant-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "nicaea-doctrine-governance",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "papias-tradition-reception",
+    "verification": "selected-english-text-rechecked",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "schleitheim-baptism",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "schleitheim-discipline",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "schleitheim-oaths",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "schleitheim-pastors",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "schleitheim-sword",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "tertullian-doctrinal-boundaries",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  },
+  {
+    "reviewId": "trent-justification-reception",
+    "verification": "pending-recheck",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft"
+  }
+]
