@@ -4,11 +4,13 @@ import { getCollection } from "astro:content";
 import books from "../../../research/index/books.json";
 import passages from "../../../research/index/passages.json";
 import paulineChapters from "../../../research/index/pauline-chapters.json";
+import gospelVerseCounts from "../../../research/index/gospel-verse-counts.json";
 import verseCounts from "../../../research/index/pauline-verse-counts.json";
 import { paulineCoverage } from "../../lib/pauline-coverage.mjs";
 import evidence from "../../../research/index/evidence.json";
 const [comparisons, issues, reviews, topics] = await Promise.all([getCollection("comparisons"),getCollection("issues"),getCollection("reviews"),getCollection("topics")]);
 const counts = (rows: {status:string}[]) => ["draft","source-checked","reviewed"].map(status => ({status,count:rows.filter(row=>row.status===status).length}));
+const gospelVerseRows = paulineCoverage(gospelVerseCounts, passages);
 const verseRows = paulineCoverage(verseCounts, passages);
 const bookRows = books.map(book => ({...book,count:passages.filter(p=>p.bookId===book.id).length}));
 const comparisonRows = comparisons.map(c=>({id:c.id,title:c.data.title,status:c.data.status,evidence:evidence.filter(e=>e.comparisonId===c.id).length,reviews:c.data.reviewIds?.length??0,issues:issues.filter(i=>i.body?.includes(`/comparisons/${c.id}/`)).length})).sort((a,b)=>a.title.localeCompare(b.title));
@@ -21,6 +23,7 @@ const comparisonRows = comparisons.map(c=>({id:c.id,title:c.data.title,status:c.
 <h3>Comparison verification status</h3><ul>{counts(comparisons.map(c=>c.data)).map(row=><li>{row.status}: {row.count}</li>)}</ul></section>
 <section class="panel"><h2>Pauline chapter inventory</h2><p>{paulineChapters.length} chapter summaries across thirteen letters. This is not exhaustive teaching coverage.</p><ul>{books.filter(b=>b.group.startsWith("paul-")).map(b=><li><a href={`/books/${b.id}/`}>{b.title}</a>: {paulineChapters.filter(c=>c.bookId===b.id).length} chapters; {paulineChapters.filter(c=>c.bookId===b.id && !passages.some(p=>p.bookId===b.id && Number(p.reference.match(/(\d+):\d+/)?.[1])===c.chapter)).length} chapters without selected passage records</li>)}</ul></section>
 <section class="panel"><h2>Pauline verse-reference coverage</h2><p>Provisional conventional verse numbering; not independently reconciled against WEBP. Coverage measures indexed reference spans, not verified teachings.</p><p>{verseRows.reduce((s,r)=>s+r.covered,0)} of {verseRows.reduce((s,r)=>s+r.total,0)} numbered slots indexed.</p>{verseRows.map(r=><details><summary>{books.find(b=>b.id===r.bookId)?.title}: {r.covered}/{r.total} slots</summary><ul>{r.chapters.filter(c=>c.gaps.length).map(c=><li>Chapter {c.chapter}: {c.gaps.map(g=>g.start===g.end?String(g.start):g.start+"–"+g.end).join(", ")}</li>)}</ul></details>)}</section>
+<section class="panel"><h2>Gospel verse-reference coverage</h2><p>Provisional conventional numbering, not verified speech coverage.</p><p>{gospelVerseRows.reduce((s,r)=>s+r.covered,0)} of {gospelVerseRows.reduce((s,r)=>s+r.total,0)} numbered slots indexed.</p>{gospelVerseRows.map(r=><details><summary>{books.find(b=>b.id===r.bookId)?.title}: {r.covered}/{r.total} slots</summary><ul>{r.chapters.filter(c=>c.gaps.length).map(c=><li>Chapter {c.chapter}: {c.gaps.map(g=>g.start===g.end?String(g.start):g.start+"–"+g.end).join(", ")}</li>)}</ul></details>)}</section>
 <section class="panel"><h2>Book coverage</h2><ul>{bookRows.map(book=><li>{book.title} — {book.group}: {book.count} indexed passages</li>)}</ul></section>
 <section><h2>Comparison coverage and gaps</h2><div class="card-grid">{comparisonRows.map(row=><article class="card"><h3><a href={`/comparisons/${row.id}/`}>{row.title}</a></h3><p>{row.status} · {row.evidence} evidence records · {row.reviews} linked reviews · {row.issues} linked modern issues</p>{row.evidence===0&&<p>Evidence gap</p>}{row.reviews===0&&<p>No linked focused review</p>}</article>)}</div></section>
 <p class="warning">Counts do not establish historical accuracy, exhaustive coverage, or independent scholarly review.</p>
