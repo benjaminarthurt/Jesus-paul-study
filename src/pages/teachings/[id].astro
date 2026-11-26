@@ -4,11 +4,14 @@ import sayings from "../../../research/index/sayings.json";
 import passages from "../../../research/index/passages.json";
 import books from "../../../research/index/books.json";
 import jesusPaulDossiers from "../../../research/index/jesus-paul-dossiers.json";
+import queue from "../../../research/index/teaching-extraction-queue.json";
 import gospelDossiers from "../../../research/index/gospel-parallels.json";
 export function getStaticPaths() {
   return sayings.map(s => ({ params: { id: s.id }, props: { saying: s } }));
 }
 const { saying } = Astro.props;
+const audit = queue.find(row => row.passageId === saying.passageId)?.gospelAudit;
+const units = audit?.units.filter(u => u.startVerse <= saying.endVerse && u.endVerse >= saying.startVerse) ?? [];
 const parent = passages.find(p=>p.id === saying.passageId);
 const jesusPaulStudies=jesusPaulDossiers.filter(d=>d.jesus.some(w=>w.passageId===saying.passageId&&(!("sayingId" in w)||w.sayingId===saying.id)));
 const bookName = new Map(books.map(b=>[b.id,b.title]));
@@ -46,6 +49,12 @@ const candidateChapterUrl = (p: {bookId:string,reference:string}) => {
       <p><a href={`/books/${saying.bookId}/#${saying.passageId}`}>Browse the literary unit in {bookName.get(saying.bookId)}</a></p>
       <p><a href={`/passages/${saying.passageId}/`}>Source citation and related research</a></p>
     </section>
+    {audit && <section class="panel">
+      <h2>Speaker boundaries in WEBP</h2>
+      <p>{audit.note}</p>
+      {units.length > 0 && <ul>{units.map(u => <li><strong>{saying.chapter}:{u.startVerse}{u.endVerse !== u.startVerse && "–" + u.endVerse}</strong> · {u.summary} · {u.form} · {u.audience}</li>)}</ul>}
+      <p><a href={"/passages/" + saying.passageId + "/"}>Passage audit and comparisons</a> · English text inspected {audit.date}</p>
+    </section>}
     {saying.caution && <p class="warning"><strong>Interpretive caution:</strong> {saying.caution}</p>}
     <section class="panel">
       <h2>Related research topics</h2>

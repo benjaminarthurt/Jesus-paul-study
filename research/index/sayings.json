@@ -6648,7 +6648,7 @@
     "reference": "Mark 3:23–30",
     "title": "Divided kingdom and blasphemy",
     "summary": "Jesus disputes the accusation of demonic agency and warns about blasphemy against the Spirit; verse 30 is narrative explanation.",
-    "audience": "individuals",
+    "audience": "opponents",
     "speechType": "argument",
     "topics": [
       "authority",
@@ -6932,8 +6932,8 @@
     "reference": "Mark 5:8–9",
     "title": "Command and name",
     "summary": "Jesus commands the unclean spirit to leave and asks its name.",
-    "audience": "individuals",
-    "speechType": "question",
+    "audience": "individual",
+    "speechType": "dialogue",
     "topics": [
       "healing",
       "inclusion",
@@ -13088,5 +13088,85 @@
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT28.htm",
     "caution": "The narrated post-resurrection commission is distinct from Matthew's pre-resurrection mission instructions in chapter 10, and Gospel commission accounts should not be merged into a single verbatim speech."
+  },
+  {
+    "id": "mk-s-04-35-35",
+    "passageId": "mk-04-35-41",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 35,
+    "endVerse": 35,
+    "reference": "Mark 4:35",
+    "title": "Cross to the other side",
+    "summary": "Jesus tells the disciples to cross the water before the account of the storm.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-09-33-33",
+    "passageId": "mk-09-33-37",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 33,
+    "endVerse": 33,
+    "reference": "Mark 9:33",
+    "title": "The question about the journey",
+    "summary": "In the house Jesus asks what the disciples had disputed along the road. The narrator identifies their concern about rank in the next verse.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "leadership"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-10-49-49",
+    "passageId": "mk-10-46-52",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 49,
+    "endVerse": 49,
+    "reference": "Mark 10:49",
+    "title": "Summon Bartimaeus",
+    "summary": "Jesus tells people nearby to call the man. The bystanders then speak to Bartimaeus in the same verse.",
+    "audience": "onlookers",
+    "speechType": "instruction",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-14-32-32",
+    "passageId": "mk-14-32-42",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 32,
+    "endVerse": 32,
+    "reference": "Mark 14:32",
+    "title": "Wait while Jesus prays",
+    "summary": "On arriving at Gethsemane Jesus asks the disciples to sit while he prays. The three companions receive a further instruction later.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
   }
 ]

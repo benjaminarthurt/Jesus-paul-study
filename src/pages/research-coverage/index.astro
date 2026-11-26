@@ -21,6 +21,12 @@ const comparisonRows = comparisons.map(c=>({id:c.id,title:c.data.title,status:c.
 <p class="eyebrow">Research inventory</p><h1>Research coverage</h1>
 <p class="lead">Live counts generated from the repository at build time. Indexed passages are selected units, not a measure of complete verse coverage.</p>
 <section class="panel"><h2>Teaching extraction review queue</h2><p>{extractionQueue.length} passage units queued for individual teaching and attribution review; {extractionQueue.filter(r=>r.existingSpeechIds.length>0).length} already have selected Jesus speech records. English-text inspection is documented for {decisions.filter(d=>d.primaryTextCheck).length} Pauline passages and {extractionQueue.filter(r=>r.gospelAudit).length} Gospel passages. Scholarly review is tracked separately.</p><ul>{books.filter(b=>extractionQueue.some(r=>r.bookId===b.id)).map(b=><li>{b.title}: {extractionQueue.filter(r=>r.bookId===b.id && r.reviewStatus==="pending").length} pending passage reviews</li>)}</ul></section>
+<section class="panel"><h2>English-text inspection by book</h2>
+<table><thead><tr><th scope="col">Book</th><th scope="col">Inspected passages</th><th scope="col">Indexed passages</th></tr></thead><tbody>
+{books.filter(b => extractionQueue.some(r => r.bookId === b.id)).map(b => <tr><th scope="row"><a href={"/books/" + b.id + "/"}>{b.title}</a></th>
+<td>{extractionQueue.filter(r => r.bookId === b.id && r.gospelAudit).length + decisions.filter(d => d.passageId.startsWith(b.id + "-") && d.primaryTextCheck).length}</td>
+<td>{extractionQueue.filter(r => r.bookId === b.id).length}</td></tr>)}</tbody></table>
+</section>
 <section class="panel"><h2>Inventory</h2><p>{passages.length} passages · {comparisons.length} comparisons · {evidence.length} evidence records · {topics.length} topics · {issues.length} modern issues · {reviews.length} research reviews</p>
 <h3>Evidence verification status</h3><ul>{counts(evidence).map(row=><li>{row.status}: {row.count}</li>)}</ul>
 <h3>Comparison verification status</h3><ul>{counts(comparisons.map(c=>c.data)).map(row=><li>{row.status}: {row.count}</li>)}</ul></section>
