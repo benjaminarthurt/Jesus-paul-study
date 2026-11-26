@@ -5,7 +5,8 @@ status: draft
 jesus: [mt-05-21-48]
 paul: [2co-01-12-24, ga-01-06-24]
 sourceIds: [web-protestant-66]
-classification: different-emphasis
+classification: apparent-tension
+reviewIds: [matthew-5-pauline-oaths]
 ---
 ## Research question
 
