@@ -15,5 +15,8 @@
   "dependencies": {
     "astro": "^7.4.12",
     "yaml": "^2.8.1"
+  },
+  "devDependencies": {
+    "parse5-sax-parser": "^8.0.1"
   }
 }
