@@ -76,6 +76,7 @@ const related = (id: string) => evidence.filter(e=>e.passageIds.includes(id));
     </div>
   </section>
   <script>
+    import { sitePath } from "../../lib/site-path.mjs";
     import passages from "../../../research/index/passages.json";
     import evidence from "../../../research/index/evidence.json";
     import { choosePair, compareHref, corpusLabels, defaultPair, primaryUrlIsTrusted } from "../../lib/passage-search.mjs";
@@ -100,7 +101,7 @@ const related = (id: string) => evidence.filter(e=>e.passageIds.includes(id));
     };
     const appendLink = (parent: HTMLElement,url: string,label: string,external=false) => {
       const a=element("a",label) as HTMLAnchorElement;
-      a.href=url;
+      a.href=sitePath(url, import.meta.env.BASE_URL);
       if(external){a.target="_blank";a.rel="noopener noreferrer";}
       parent.append(a);
     };
@@ -142,7 +143,7 @@ const related = (id: string) => evidence.filter(e=>e.passageIds.includes(id));
       first.value=pair.left;second.value=pair.right;
       renderPassage("left",pair.left);
       renderPassage("right",pair.right);
-      const url=compareHref(pair.left,pair.right);
+      const url=sitePath(compareHref(pair.left,pair.right), import.meta.env.BASE_URL);
       permalink.href=url;
       if(writeHistory) history.pushState(null,"",url);
     }

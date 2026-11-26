@@ -5,6 +5,7 @@
  * Usage: npm run build && npm run test:site
  * With PUBLIC_SITE_URL set, checks Astro's generated canonical URLs.
  */
+import { sitePath } from "../src/lib/site-path.mjs";
 import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
 import { resolve, join, dirname, relative, sep } from "node:path";
 
@@ -22,6 +23,7 @@ const syntheticOrigin="https://site.example.test";
 const configuredSite=process.env.PUBLIC_SITE_URL?new URL(process.env.PUBLIC_SITE_URL):null;
 if(configuredSite&&(configuredSite.protocol!=="https:"||configuredSite.pathname!=="/"))
   failures.push("PUBLIC_SITE_URL must be an HTTPS site origin at the root for current root-relative routes");
+const base = (process.env.PUBLIC_BASE_PATH || "/").replace(/\/+$/, "");
 const origin=configuredSite?.origin??syntheticOrigin;
 const idsCache=new Map();
 const matchAttr=(source,attribute)=>[...source.matchAll(new RegExp(`\\b${attribute}\\s*=\\s*(["'])(.*?)\\1`,"gi"))].map(m=>m[2]);
@@ -29,11 +31,12 @@ const unescapeHtml=text=>text.replaceAll("&amp;","&").replaceAll("&quot;",'"').r
 const isWithinDist=target=>target===dist||target.startsWith(dist+sep);
 const displayedUrl=file=>{
   let rel=relative(dist,file).split(sep).join("/");
-  return rel==="index.html"?"/":"/"+rel.replace(/index\.html$/,"");
+  return sitePath(rel==="index.html"?"/":"/"+rel.replace(/index\.html$/,""), base);
 };
 function destination(url){
   const path=decodeURIComponent(url.pathname);
-  const file=resolve(dist,"."+path);
+  if (base && !path.startsWith(base + "/")) return null;
+  const file=resolve(dist,"." + path.slice(base.length));
   if(!isWithinDist(file))return null;
   if(existsSync(file)&&statSync(file).isFile())return file;
   const indexed=join(file,"index.html");
@@ -68,6 +71,13 @@ for(const file of files){
       if(!targetIds.has(fragment))failures.push(`${here}: missing fragment ${url.pathname}#${fragment}`);
     }
   }
+  for (const tag of html.match(/<(?:link|script|form)\b[^>]*>/gi) ?? []) {
+    const attr = tag.startsWith("<script") ? "src" : tag.startsWith("<form") ? "action" : "href";
+    for (const raw of matchAttr(tag, attr)) {
+      const url = new URL(unescapeHtml(raw), new URL(here, origin));
+      if (url.origin === origin && !destination(url)) failures.push(here + ": missing asset or form destination " + url.pathname);
+    }
+  }
   if(configuredSite){
     const matches=[...html.matchAll(/<link\b[^>]*\brel=["']canonical["'][^>]*\bhref=(["'])(.*?)\1/gi)];
     if(matches.length!==1){failures.push(`${here}: expected one canonical tag, got ${matches.length}`);continue;}
@@ -81,7 +91,7 @@ for(const file of files){
 const indexData = name => JSON.parse(readFileSync(new URL("../research/index/" + name + ".json", import.meta.url), "utf8"));
 function requirePageLink(from, to) {
   const page = join(dist, from, "index.html");
-  if (!existsSync(page) || !matchAttr(readFileSync(page, "utf8"), "href").map(unescapeHtml).includes(to)) {
+  if (!existsSync(page) || !matchAttr(readFileSync(page, "utf8"), "href").map(unescapeHtml).includes(sitePath(to, base))) {
     failures.push(from + ": missing required evidence link " + to);
   }
 }

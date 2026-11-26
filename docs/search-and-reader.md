@@ -56,3 +56,9 @@ This is a **first working reference reader**, not a complete scholarly text appa
 Run `npm run build && npm run test:site` to check all internal anchor destinations and fragments in the generated HTML. CI builds with `PUBLIC_SITE_URL=https://site.example.test` only to exercise canonical generation without inventing a production domain. This synthetic origin is **not** the production URL. When a real domain has been selected, rebuild with its true HTTPS origin and repeat tests against deployment.
 
 This audit does not inspect remote links, render CSS, run client-side scripts, verify color contrast, or simulate assistive technology. Those require a real host and manual browser/screen-reader accessibility work. Never report a passed internal-link audit as an end-to-end WCAG audit.
+
+## GitHub Pages publication
+
+The Publish research site workflow runs on pushes to main and can be run manually. Select GitHub Actions as the Pages build source. The workflow reads the actual origin and base path from Pages, installs locked dependencies, validates research, and audits the built artifact before deployment. Authored links in Markdown, the comparison form and client-side comparison links share the project mount.
+
+After deployment, the workflow fetches the home page, comparison reader, a disputed Gospel passage and a Pauline teaching directly from the Pages URL. It checks the deployed commit marker, canonical URLs and the home stylesheet. A successful build alone leaves production verification outstanding.
