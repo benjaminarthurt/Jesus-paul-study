@@ -77,6 +77,22 @@ for(const file of files){
     if(actual!==expected)failures.push(`${here}: canonical ${actual} != ${expected}`);
   }
 }
+// A missing reciprocal link can leave both endpoints valid but disconnect the evidence.
+const indexData = name => JSON.parse(readFileSync(new URL("../research/index/" + name + ".json", import.meta.url), "utf8"));
+function requirePageLink(from, to) {
+  const page = join(dist, from, "index.html");
+  if (!existsSync(page) || !matchAttr(readFileSync(page, "utf8"), "href").map(unescapeHtml).includes(to)) {
+    failures.push(from + ": missing required evidence link " + to);
+  }
+}
+for (const {passages: [left, right]} of indexData("gospel-audit-links")) {
+  requirePageLink("passages/" + left, "/passages/" + right + "/");
+  requirePageLink("passages/" + right, "/passages/" + left + "/");
+}
+for (const teaching of indexData("pauline-teachings")) {
+  requirePageLink("passages/" + teaching.passageId, "/pauline-teachings/" + teaching.id + "/");
+  requirePageLink("pauline-teachings/" + teaching.id, "/passages/" + teaching.passageId + "/");
+}
 if(!count)failures.push("No generated HTML files found");
 const summary=`Audited ${count} HTML pages, ${checkedLinks} internal links, ${checkedFragments} fragments, ${checkedCanonicals} canonicals.`;
 if(failures.length){console.error(summary+"\n"+failures.slice(0,80).join("\n"));if(failures.length>80)console.error(`... ${failures.length-80} more`);process.exitCode=1;}

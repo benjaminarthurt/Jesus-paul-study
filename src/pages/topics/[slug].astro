@@ -1,12 +1,16 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { getCollection, render } from "astro:content";
+import teachings from "../../../research/index/pauline-teachings.json";
+import books from "../../../research/index/books.json";
 import passages from "../../../research/index/passages.json";
 export async function getStaticPaths() {
   const entries = await getCollection("topics");
   return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
 }
 const { entry } = Astro.props;
+const selectedTeachings = teachings.filter(t => t.topics.includes(entry.id));
+const bookNames = new Map(books.map(b => [b.id, b.title]));
 const { Content } = await render(entry);
 const refs = entry.data.passages.map(id => passages.find(p => p.id === id)).filter(Boolean);
 ---
@@ -19,6 +23,10 @@ const refs = entry.data.passages.map(id => passages.find(p => p.id === id)).filt
       <h2>Starter passage index</h2>
       {refs.map(ref => <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span><p class="meta"><span>{ref.sourceLayer.replaceAll("-"," ")}</span><span class="status" data-state={ref.status}>{ref.status}</span>{ref.sourceUrl && <a href={ref.sourceUrl} rel="noopener noreferrer" target="_blank">WEBP chapter</a>}</p>{"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}</div>)}
     </section>
+    {selectedTeachings.length > 0 && <details class="panel">
+      <summary>Pauline teaching candidates ({selectedTeachings.length})</summary>
+      <ul>{selectedTeachings.map(t => <li><a href={"/pauline-teachings/" + t.id + "/"}>{bookNames.get(t.bookId)} {t.chapter}:{t.startVerse}{t.endVerse !== t.startVerse && "–" + t.endVerse} · {t.title}</a></li>)}</ul>
+    </details>}
     <article class="prose"><Content /></article>
     <p class="warning">This is an evolving research note. Source review and a full counterargument audit remain pending.</p>
     <p><a href="/topics/">All topics</a></p>

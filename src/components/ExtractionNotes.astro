@@ -16,9 +16,9 @@ const related = links.filter(link => link.passages.includes(passageId)).map(link
   <h2>Teaching extraction</h2>
   <p>{decision.note}</p>
   {decision.primaryTextCheck && <p>English passage inspected · WEBP · {decision.primaryTextCheck.date}.
-    {" "}{decision.primaryTextCheck.chapterUrls.map((url, i) => <><a href={url}>Read chapter {Number(url.match(/(\d+)\.htm$/)?.[1])}</a>{" "}</>)}
+    {" "}{decision.primaryTextCheck.chapterUrls.map((url) => <><a href={url}>Read chapter {Number(url.match(/(\d+)\.htm$/)?.[1])}</a>{" "}</>)}
   </p>}
-  {units.length > 0 && <ul>{units.map(t => <li><a href={"/pauline-teachings/#" + t.id}>{t.chapter}:{t.startVerse}{t.endVerse !== t.startVerse && "–" + t.endVerse} · {t.title}</a></li>)}</ul>}
+  {units.length > 0 && <ul>{units.map(t => <li><a href={"/pauline-teachings/" + t.id + "/"}>{t.chapter}:{t.startVerse}{t.endVerse !== t.startVerse && "–" + t.endVerse} · {t.title}</a></li>)}</ul>}
 </section>}
 {audit && <section class="panel">
   <h2>Who speaks in this passage?</h2>

@@ -642,7 +642,16 @@
       "1th-t-05-04-08",
       "1th-t-05-09-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The thief and labor-pain comparisons in 2–3 concern timing. In 4–8 the writers address vigilance. In 9–11 Christ’s death grounds hope and mutual encouragement.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH05.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-05-12-22",
@@ -653,7 +662,16 @@
       "1th-t-05-16-18",
       "1th-t-05-19-22"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "12–13 concerns those who work among the assembly and peace within it. Verse 14 differentiates the needs of recipients. In 15 the prohibition of retaliation extends beyond the community. In 19–22 openness to prophecy is paired with testing.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH05.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-05-23-28",
@@ -662,7 +680,16 @@
       "1th-t-05-23-24",
       "1th-t-05-25-28"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "23 is a prayer and 24 expresses confidence in the one who calls. 25–27 request prayer, a greeting and public reading. Verse 28 gives the final grace wish. The solemn instruction to read in 27 is the writer’s own.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH05.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-01-01-02",
@@ -1791,7 +1818,16 @@
       "phm-t-01-15-17",
       "phm-t-01-18-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The writer explicitly appeals to Philemon’s voluntary action in 8–14, asks him to welcome Onesimus in 15–17, and personally offers to cover a possible debt in 18–21. The conditional debt is no proof that Onesimus stole. The letter leaves the legal outcome unstated.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHM01.htm"
+      ]
+    }
   },
   {
     "passageId": "phm-01-22-25",
@@ -1851,7 +1887,16 @@
       "php-t-01-27-28",
       "php-t-01-29-30"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The appeal for common conduct in 27 develops into a contrast of outcomes in 28. The reference to suffering in 29–30 concerns the Philippians’ shared struggle.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP01.htm"
+      ]
+    }
   },
   {
     "passageId": "php-02-01-11",
@@ -1860,15 +1905,35 @@
       "php-t-02-01-04",
       "php-t-02-05-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "A communal appeal against rivalry leads to Christ as example in 5. Humiliation and obedience in 6–8 are answered by exaltation and universal homage in 9–11. The passage does not identify the prior origin of its wording.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP02.htm"
+      ]
+    }
   },
   {
     "passageId": "php-02-12-18",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "php-t-02-14-16"
+      "php-t-02-14-16",
+      "php-t-02-12-13",
+      "php-t-02-17-18"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The addressees are plural in 12. Divine action in 13 grounds the appeal. Verses 14–16 concern conduct and the word of life. In 17–18 the offering image leads to an appeal for shared joy.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP02.htm"
+      ]
+    }
   },
   {
     "passageId": "php-02-19-30",
@@ -1896,7 +1961,16 @@
       "php-t-03-04-06",
       "php-t-03-07-11"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The call to rejoice introduces a polemical warning in 2–3. Paul recounts credentials in 4–6 before reassessing their worth in 7–11. The exact force of the faith expression in 9 requires a Greek review.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP03.htm"
+      ]
+    }
   },
   {
     "passageId": "php-03-12-21",
@@ -1906,7 +1980,16 @@
       "php-t-03-17-19",
       "php-t-03-20-21"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul describes pressing forward in 12–14 and asks the mature to share his outlook in 15–16. The competing examples in 17–19 precede the collective hope of transformation in 20–21.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP03.htm"
+      ]
+    }
   },
   {
     "passageId": "php-04-01-01",
@@ -1914,7 +1997,16 @@
     "teachingIds": [
       "php-t-04-01-01"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The appeal to stand firm follows the expectation of transformation in 3:20–21.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP04.htm"
+      ]
+    }
   },
   {
     "passageId": "php-04-02-03",
@@ -1922,7 +2014,16 @@
     "teachingIds": [
       "php-t-04-02-03"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul addresses Euodia and Syntyche by name and asks a third party to help. Their past mission work is explicit. The object of their disagreement is unstated.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP04.htm"
+      ]
+    }
   },
   {
     "passageId": "php-04-04-07",
@@ -1930,7 +2031,16 @@
     "teachingIds": [
       "php-t-04-04-07"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Joy and gentleness in 4–5 precede prayer with thanksgiving in 6. Verse 7 describes the promised protection of God’s peace.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP04.htm"
+      ]
+    }
   },
   {
     "passageId": "php-04-08-09",
@@ -1938,7 +2048,16 @@
     "teachingIds": [
       "php-t-04-08-09"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "The list of qualities for reflection in 8 is followed by an instruction to practice what the recipients learned and observed in 9.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP04.htm"
+      ]
+    }
   },
   {
     "passageId": "php-04-10-20",
@@ -1948,7 +2067,16 @@
       "php-t-04-14-18",
       "php-t-04-19-20"
     ],
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "note": "Paul describes hunger as well as abundance before the strength claim in 13. Verses 14–18 acknowledge particular gifts. The assurance of provision in 19 and praise in 20 close the acknowledgment.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP04.htm"
+      ]
+    }
   },
   {
     "passageId": "php-04-21-23",
