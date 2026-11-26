@@ -5284,6 +5284,69 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
   },
   {
+    "id": "mk-s-01-25-25",
+    "passageId": "mk-01-21-28",
+    "bookId": "mk",
+    "chapter": 1,
+    "startVerse": 25,
+    "endVerse": 25,
+    "reference": "Mark 1:25",
+    "title": "Command to an unclean spirit",
+    "summary": "Jesus commands silence and departure.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "authority",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-s-01-38-38",
+    "passageId": "mk-01-35-39",
+    "bookId": "mk",
+    "chapter": 1,
+    "startVerse": 38,
+    "endVerse": 38,
+    "reference": "Mark 1:38",
+    "title": "Mission in other towns",
+    "summary": "Jesus explains the need to preach elsewhere.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "prayer",
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-s-01-41-41",
+    "passageId": "mk-01-40-45",
+    "bookId": "mk",
+    "chapter": 1,
+    "startVerse": 41,
+    "endVerse": 41,
+    "reference": "Mark 1:41",
+    "title": "Willingness to cleanse",
+    "summary": "Jesus expresses willingness to cleanse the man.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
     "id": "mk-s-01-44-44",
     "passageId": "mk-01-40-45",
     "bookId": "mk",
@@ -5316,6 +5379,71 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK01.htm"
+  },
+  {
+    "id": "mk-s-02-05-05",
+    "passageId": "mk-02-01-12",
+    "bookId": "mk",
+    "chapter": 2,
+    "startVerse": 5,
+    "endVerse": 5,
+    "reference": "Mark 2:5",
+    "title": "Forgiveness pronounced",
+    "summary": "Jesus pronounces forgiveness to the paralyzed man.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "forgiveness",
+      "authority",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-s-02-08-11",
+    "passageId": "mk-02-01-12",
+    "bookId": "mk",
+    "chapter": 2,
+    "startVerse": 8,
+    "endVerse": 11,
+    "reference": "Mark 2:8–11",
+    "title": "Authority to forgive",
+    "summary": "Jesus challenges the reasoning of his critics and commands the man to rise.",
+    "audience": "individuals",
+    "speechType": "argument",
+    "topics": [
+      "forgiveness",
+      "authority",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
+    "id": "mk-s-02-14-14",
+    "passageId": "mk-02-13-17",
+    "bookId": "mk",
+    "chapter": 2,
+    "startVerse": 14,
+    "endVerse": 14,
+    "reference": "Mark 2:14",
+    "title": "Levi called",
+    "summary": "Jesus calls Levi to follow him.",
+    "audience": "individuals",
+    "speechType": "call",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
   },
   {
     "id": "mk-s-02-17-17",
@@ -5386,6 +5514,27 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
   },
   {
+    "id": "mk-s-02-25-26",
+    "passageId": "mk-02-23-28",
+    "bookId": "mk",
+    "chapter": 2,
+    "startVerse": 25,
+    "endVerse": 26,
+    "reference": "Mark 2:25–26",
+    "title": "David and sacred bread",
+    "summary": "Jesus invokes David's conduct in response to the Sabbath objection.",
+    "audience": "individuals",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
+  },
+  {
     "id": "mk-s-02-27-28",
     "passageId": "mk-02-23-28",
     "bookId": "mk",
@@ -5420,6 +5569,27 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK02.htm"
   },
   {
+    "id": "mk-s-03-03-03",
+    "passageId": "mk-03-01-06",
+    "bookId": "mk",
+    "chapter": 3,
+    "startVerse": 3,
+    "endVerse": 3,
+    "reference": "Mark 3:3",
+    "title": "Stand in the middle",
+    "summary": "Jesus directs the man with the injured hand to stand forward.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
     "id": "mk-s-03-04-04",
     "passageId": "mk-03-01-06",
     "bookId": "mk",
@@ -5449,6 +5619,69 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-s-03-05-05",
+    "passageId": "mk-03-01-06",
+    "bookId": "mk",
+    "chapter": 3,
+    "startVerse": 5,
+    "endVerse": 5,
+    "reference": "Mark 3:5",
+    "title": "Stretch out your hand",
+    "summary": "Jesus directs the man to extend his hand.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-s-03-23-30",
+    "passageId": "mk-03-20-30",
+    "bookId": "mk",
+    "chapter": 3,
+    "startVerse": 23,
+    "endVerse": 30,
+    "reference": "Mark 3:23–30",
+    "title": "Divided kingdom and blasphemy",
+    "summary": "Jesus disputes the accusation of demonic agency and warns about blasphemy against the Spirit; verse 30 is narrative explanation.",
+    "audience": "individuals",
+    "speechType": "argument",
+    "topics": [
+      "authority",
+      "forgiveness"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
+  },
+  {
+    "id": "mk-s-03-33-34",
+    "passageId": "mk-03-31-35",
+    "bookId": "mk",
+    "chapter": 3,
+    "startVerse": 33,
+    "endVerse": 34,
+    "reference": "Mark 3:33–34",
+    "title": "Who is my family?",
+    "summary": "Jesus asks who his mother and brothers are and identifies those around him.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK03.htm"
@@ -5522,6 +5755,28 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
   },
   {
+    "id": "mk-s-04-11-13",
+    "passageId": "mk-04-01-20",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 11,
+    "endVerse": 13,
+    "reference": "Mark 4:11–13",
+    "title": "Mystery and parables",
+    "summary": "Jesus distinguishes audiences and asks about understanding the parable.",
+    "audience": "individuals",
+    "speechType": "explanation",
+    "topics": [
+      "parables",
+      "kingdom",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
     "id": "mk-s-04-14-20",
     "passageId": "mk-04-01-20",
     "bookId": "mk",
@@ -5552,6 +5807,26 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-04-21-25",
+    "passageId": "mk-04-21-25",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 21,
+    "endVerse": 25,
+    "reference": "Mark 4:21–25",
+    "title": "Lamp and measure",
+    "summary": "Jesus uses imagery of a lamp, disclosure, listening and measure.",
+    "audience": "individuals",
+    "speechType": "teaching",
+    "topics": [
+      "parables"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
@@ -5612,6 +5887,70 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
   },
   {
+    "id": "mk-s-04-39-39",
+    "passageId": "mk-04-35-41",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 39,
+    "endVerse": 39,
+    "reference": "Mark 4:39",
+    "title": "Calming the storm",
+    "summary": "Jesus commands the wind and sea to be still.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-04-40-40",
+    "passageId": "mk-04-35-41",
+    "bookId": "mk",
+    "chapter": 4,
+    "startVerse": 40,
+    "endVerse": 40,
+    "reference": "Mark 4:40",
+    "title": "Fear and faith",
+    "summary": "Jesus questions the disciples about fear and faith.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK04.htm"
+  },
+  {
+    "id": "mk-s-05-08-09",
+    "passageId": "mk-05-01-20",
+    "bookId": "mk",
+    "chapter": 5,
+    "startVerse": 8,
+    "endVerse": 9,
+    "reference": "Mark 5:8–9",
+    "title": "Command and name",
+    "summary": "Jesus commands the unclean spirit to leave and asks its name.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "inclusion",
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
     "id": "mk-s-05-19-19",
     "passageId": "mk-05-01-20",
     "bookId": "mk",
@@ -5639,6 +5978,131 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-s-05-30-30",
+    "passageId": "mk-05-21-43",
+    "bookId": "mk",
+    "chapter": 5,
+    "startVerse": 30,
+    "endVerse": 30,
+    "reference": "Mark 5:30",
+    "title": "Who touched me?",
+    "summary": "Jesus asks who touched his clothing.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-s-05-34-34",
+    "passageId": "mk-05-21-43",
+    "bookId": "mk",
+    "chapter": 5,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Mark 5:34",
+    "title": "Faith and healing",
+    "summary": "Jesus addresses the healed woman and sends her in peace.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-s-05-36-36",
+    "passageId": "mk-05-21-43",
+    "bookId": "mk",
+    "chapter": 5,
+    "startVerse": 36,
+    "endVerse": 36,
+    "reference": "Mark 5:36",
+    "title": "Do not fear",
+    "summary": "Jesus encourages the synagogue leader to believe rather than fear.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-s-05-39-39",
+    "passageId": "mk-05-21-43",
+    "bookId": "mk",
+    "chapter": 5,
+    "startVerse": 39,
+    "endVerse": 39,
+    "reference": "Mark 5:39",
+    "title": "The child sleeps",
+    "summary": "Jesus questions the mourning and describes the child as sleeping.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-s-05-41-41",
+    "passageId": "mk-05-21-43",
+    "bookId": "mk",
+    "chapter": 5,
+    "startVerse": 41,
+    "endVerse": 41,
+    "reference": "Mark 5:41",
+    "title": "Child told to rise",
+    "summary": "Jesus commands the girl to arise.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK05.htm"
+  },
+  {
+    "id": "mk-s-06-04-04",
+    "passageId": "mk-06-01-06",
+    "bookId": "mk",
+    "chapter": 6,
+    "startVerse": 4,
+    "endVerse": 4,
+    "reference": "Mark 6:4",
+    "title": "Prophet without honor",
+    "summary": "Jesus observes that a prophet lacks honor among familiar people.",
+    "audience": "individuals",
+    "speechType": "observation",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
   },
   {
     "id": "mk-s-06-10-11",
@@ -5670,6 +6134,69 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-s-06-31-31",
+    "passageId": "mk-06-30-44",
+    "bookId": "mk",
+    "chapter": 6,
+    "startVerse": 31,
+    "endVerse": 31,
+    "reference": "Mark 6:31",
+    "title": "Rest apart",
+    "summary": "Jesus invites the disciples to withdraw and rest.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-s-06-37-38",
+    "passageId": "mk-06-30-44",
+    "bookId": "mk",
+    "chapter": 6,
+    "startVerse": 37,
+    "endVerse": 38,
+    "reference": "Mark 6:37–38",
+    "title": "Feeding the crowd",
+    "summary": "Jesus directs the disciples to feed the crowd and asks about available bread.",
+    "audience": "individuals",
+    "speechType": "dialogue",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
+  },
+  {
+    "id": "mk-s-06-50-50",
+    "passageId": "mk-06-45-52",
+    "bookId": "mk",
+    "chapter": 6,
+    "startVerse": 50,
+    "endVerse": 50,
+    "reference": "Mark 6:50",
+    "title": "Reassurance on the sea",
+    "summary": "Jesus tells frightened disciples to take courage and not fear.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "prayer",
+      "identity-resurrection"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK06.htm"
@@ -5816,6 +6343,212 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
   },
   {
+    "id": "mk-s-07-34-34",
+    "passageId": "mk-07-31-37",
+    "bookId": "mk",
+    "chapter": 7,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Mark 7:34",
+    "title": "Be opened",
+    "summary": "Jesus commands opening in the healing narrative.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK07.htm"
+  },
+  {
+    "id": "mk-s-08-02-03",
+    "passageId": "mk-08-01-10",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 2,
+    "endVerse": 3,
+    "reference": "Mark 8:2–3",
+    "title": "Compassion for the hungry",
+    "summary": "Jesus expresses concern about the crowd's lack of food.",
+    "audience": "individuals",
+    "speechType": "observation",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-05-05",
+    "passageId": "mk-08-01-10",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 5,
+    "endVerse": 5,
+    "reference": "Mark 8:5",
+    "title": "Available bread",
+    "summary": "Jesus asks how many loaves are available.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-12-12",
+    "passageId": "mk-08-11-13",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 12,
+    "endVerse": 12,
+    "reference": "Mark 8:12",
+    "title": "Refusal of a sign",
+    "summary": "Jesus questions the demand for a sign and refuses it.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-15-21",
+    "passageId": "mk-08-14-21",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 15,
+    "endVerse": 21,
+    "reference": "Mark 8:15–21",
+    "title": "Leaven and understanding",
+    "summary": "Jesus warns against the leaven of Pharisees and Herod and questions the disciples; dialogue includes other speakers.",
+    "audience": "individuals",
+    "speechType": "warning",
+    "topics": [
+      "authority",
+      "parables"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-23-23",
+    "passageId": "mk-08-22-26",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 23,
+    "endVerse": 23,
+    "reference": "Mark 8:23",
+    "title": "Sight restored in stages",
+    "summary": "Jesus asks whether the man sees anything.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-26-26",
+    "passageId": "mk-08-22-26",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 26,
+    "endVerse": 26,
+    "reference": "Mark 8:26",
+    "title": "Return home",
+    "summary": "Jesus sends the healed man home with a restriction on entering the village.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-27-29",
+    "passageId": "mk-08-27-33",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 27,
+    "endVerse": 29,
+    "reference": "Mark 8:27–29",
+    "title": "Identity questions",
+    "summary": "Jesus asks what others and the disciples say about his identity; Peter supplies the confession.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "identity-resurrection",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-31-31",
+    "passageId": "mk-08-27-33",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 31,
+    "endVerse": 31,
+    "reference": "Mark 8:31",
+    "title": "Suffering prediction",
+    "summary": "Jesus teaches that the Son of Man must suffer, be rejected, die and rise.",
+    "audience": "individuals",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-08-33-33",
+    "passageId": "mk-08-27-33",
+    "bookId": "mk",
+    "chapter": 8,
+    "startVerse": 33,
+    "endVerse": 33,
+    "reference": "Mark 8:33",
+    "title": "Rebuke of Peter",
+    "summary": "Jesus rebukes Peter for setting his mind on human rather than divine concerns.",
+    "audience": "individuals",
+    "speechType": "critique",
+    "topics": [
+      "identity-resurrection",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
     "id": "mk-s-08-34-38",
     "passageId": "mk-08-34-38",
     "bookId": "mk",
@@ -5848,6 +6581,174 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK08.htm"
+  },
+  {
+    "id": "mk-s-09-01-01",
+    "passageId": "mk-09-01-13",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 1,
+    "endVerse": 1,
+    "reference": "Mark 9:1",
+    "title": "Kingdom coming in power",
+    "summary": "Jesus says some present will see the kingdom come with power.",
+    "audience": "individuals",
+    "speechType": "proclamation",
+    "topics": [
+      "kingdom",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-12-13",
+    "passageId": "mk-09-01-13",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 12,
+    "endVerse": 13,
+    "reference": "Mark 9:12–13",
+    "title": "Elijah and suffering",
+    "summary": "Jesus discusses Elijah's coming and the suffering of the Son of Man.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "kingdom",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-16-16",
+    "passageId": "mk-09-14-29",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 16,
+    "endVerse": 16,
+    "reference": "Mark 9:16",
+    "title": "Dispute with scribes",
+    "summary": "Jesus asks about the dispute.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-19-19",
+    "passageId": "mk-09-14-29",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 19,
+    "endVerse": 19,
+    "reference": "Mark 9:19",
+    "title": "Faithless generation",
+    "summary": "Jesus expresses frustration and directs that the boy be brought to him.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-21-23",
+    "passageId": "mk-09-14-29",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 21,
+    "endVerse": 23,
+    "reference": "Mark 9:21–23",
+    "title": "Belief and possibility",
+    "summary": "Jesus asks about the boy's condition and responds to the father's plea; the father also speaks.",
+    "audience": "individuals",
+    "speechType": "dialogue",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-25-25",
+    "passageId": "mk-09-14-29",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 25,
+    "endVerse": 25,
+    "reference": "Mark 9:25",
+    "title": "Command to the spirit",
+    "summary": "Jesus commands the spirit to leave and not return.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-29-29",
+    "passageId": "mk-09-14-29",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 29,
+    "endVerse": 29,
+    "reference": "Mark 9:29",
+    "title": "Prayer and healing",
+    "summary": "Jesus explains the role of prayer; some textual traditions add fasting.",
+    "audience": "individuals",
+    "speechType": "explanation",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-31-31",
+    "passageId": "mk-09-30-32",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 31,
+    "endVerse": 31,
+    "reference": "Mark 9:31",
+    "title": "Death and resurrection prediction",
+    "summary": "Jesus predicts betrayal, death and resurrection.",
+    "audience": "individuals",
+    "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
   },
   {
     "id": "mk-s-09-35-37",
@@ -5910,6 +6811,68 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-42-48",
+    "passageId": "mk-09-42-50",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 42,
+    "endVerse": 48,
+    "reference": "Mark 9:42–48",
+    "title": "Stumbling and severe imagery",
+    "summary": "Jesus warns against causing others to stumble and uses severe imagery about one's own stumbling; verse inclusion varies.",
+    "audience": "individuals",
+    "speechType": "warning",
+    "topics": [
+      "discipleship",
+      "end-times"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-09-49-50",
+    "passageId": "mk-09-42-50",
+    "bookId": "mk",
+    "chapter": 9,
+    "startVerse": 49,
+    "endVerse": 50,
+    "reference": "Mark 9:49–50",
+    "title": "Salt and peace",
+    "summary": "Jesus uses salt imagery and urges peace among disciples.",
+    "audience": "individuals",
+    "speechType": "teaching",
+    "topics": [
+      "discipleship",
+      "end-times"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK09.htm"
+  },
+  {
+    "id": "mk-s-10-03-03",
+    "passageId": "mk-10-02-12",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 3,
+    "endVerse": 3,
+    "reference": "Mark 10:3",
+    "title": "Moses and divorce",
+    "summary": "Jesus asks what Moses commanded.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
   },
   {
     "id": "mk-s-10-05-09",
@@ -6072,6 +7035,68 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
   },
   {
+    "id": "mk-s-10-29-31",
+    "passageId": "mk-10-17-31",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 29,
+    "endVerse": 31,
+    "reference": "Mark 10:29–31",
+    "title": "Cost and reward of following",
+    "summary": "Jesus discusses losses and rewards for following him, including persecution and reversal of status.",
+    "audience": "individuals",
+    "speechType": "teaching",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-33-34",
+    "passageId": "mk-10-32-34",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 33,
+    "endVerse": 34,
+    "reference": "Mark 10:33–34",
+    "title": "Jerusalem prediction",
+    "summary": "Jesus predicts rejection, abuse, death and resurrection.",
+    "audience": "individuals",
+    "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-36-40",
+    "passageId": "mk-10-35-45",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 36,
+    "endVerse": 40,
+    "reference": "Mark 10:36–40",
+    "title": "Request for places of honor",
+    "summary": "Jesus questions the request and discusses suffering and places of honor; the disciples also speak.",
+    "audience": "individuals",
+    "speechType": "dialogue",
+    "topics": [
+      "leadership",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
     "id": "mk-s-10-42-45",
     "passageId": "mk-10-35-45",
     "bookId": "mk",
@@ -6104,6 +7129,69 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-10-51-52",
+    "passageId": "mk-10-46-52",
+    "bookId": "mk",
+    "chapter": 10,
+    "startVerse": 51,
+    "endVerse": 52,
+    "reference": "Mark 10:51–52",
+    "title": "Bartimaeus and faith",
+    "summary": "Jesus asks what the man wants and attributes healing to faith; the man also speaks.",
+    "audience": "individuals",
+    "speechType": "dialogue",
+    "topics": [
+      "healing",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK10.htm"
+  },
+  {
+    "id": "mk-s-11-02-03",
+    "passageId": "mk-11-01-11",
+    "bookId": "mk",
+    "chapter": 11,
+    "startVerse": 2,
+    "endVerse": 3,
+    "reference": "Mark 11:2–3",
+    "title": "Preparing the entry",
+    "summary": "Jesus directs disciples to obtain a colt and supplies a response to questions.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-s-11-14-14",
+    "passageId": "mk-11-12-19",
+    "bookId": "mk",
+    "chapter": 11,
+    "startVerse": 14,
+    "endVerse": 14,
+    "reference": "Mark 11:14",
+    "title": "Fig tree pronouncement",
+    "summary": "Jesus pronounces that no one will eat fruit from the tree again.",
+    "audience": "individuals",
+    "speechType": "symbolic-action",
+    "topics": [
+      "authority",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
   },
   {
     "id": "mk-s-11-17-17",
@@ -6174,6 +7262,47 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
   },
   {
+    "id": "mk-s-11-29-33",
+    "passageId": "mk-11-27-33",
+    "bookId": "mk",
+    "chapter": 11,
+    "startVerse": 29,
+    "endVerse": 33,
+    "reference": "Mark 11:29–33",
+    "title": "Authority and John's baptism",
+    "summary": "Jesus counters the authority question with a question about John's baptism; opponents also speak.",
+    "audience": "individuals",
+    "speechType": "argument",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK11.htm"
+  },
+  {
+    "id": "mk-s-12-01-11",
+    "passageId": "mk-12-01-12",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 1,
+    "endVerse": 11,
+    "reference": "Mark 12:1–11",
+    "title": "Tenants and the rejected stone",
+    "summary": "Jesus describes violent tenants and cites the rejected stone image.",
+    "audience": "individuals",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
     "id": "mk-s-12-15-17",
     "passageId": "mk-12-13-17",
     "bookId": "mk",
@@ -6208,6 +7337,26 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
   },
   {
+    "id": "mk-s-12-24-27",
+    "passageId": "mk-12-18-27",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 24,
+    "endVerse": 27,
+    "reference": "Mark 12:24–27",
+    "title": "Resurrection and scripture",
+    "summary": "Jesus disputes the Sadducees' reasoning and appeals to God's relationship with the patriarchs.",
+    "audience": "individuals",
+    "speechType": "argument",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
     "id": "mk-s-12-29-31",
     "passageId": "mk-12-28-34",
     "bookId": "mk",
@@ -6237,6 +7386,47 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-s-12-34-34",
+    "passageId": "mk-12-28-34",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Mark 12:34",
+    "title": "Near the kingdom",
+    "summary": "Jesus tells the scribe he is not far from God's kingdom.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
+  },
+  {
+    "id": "mk-s-12-35-37",
+    "passageId": "mk-12-35-37",
+    "bookId": "mk",
+    "chapter": 12,
+    "startVerse": 35,
+    "endVerse": 37,
+    "reference": "Mark 12:35–37",
+    "title": "David's son and Lord",
+    "summary": "Jesus questions how the Messiah is described as David's son.",
+    "audience": "individuals",
+    "speechType": "argument",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK12.htm"
@@ -6304,6 +7494,27 @@
     "caution": "Interpretation of the widow scene is disputed: commendation of generosity and criticism of an exploitative context are both argued."
   },
   {
+    "id": "mk-s-13-02-02",
+    "passageId": "mk-13-01-08",
+    "bookId": "mk",
+    "chapter": 13,
+    "startVerse": 2,
+    "endVerse": 2,
+    "reference": "Mark 13:2",
+    "title": "Temple destruction",
+    "summary": "Jesus predicts the destruction of the temple buildings.",
+    "audience": "individuals",
+    "speechType": "proclamation",
+    "topics": [
+      "end-times",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
     "id": "mk-s-13-05-08",
     "passageId": "mk-13-01-08",
     "bookId": "mk",
@@ -6333,6 +7544,89 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-s-13-09-13",
+    "passageId": "mk-13-09-13",
+    "bookId": "mk",
+    "chapter": 13,
+    "startVerse": 9,
+    "endVerse": 13,
+    "reference": "Mark 13:9–13",
+    "title": "Persecution and testimony",
+    "summary": "Jesus warns of persecution and urges endurance and reliance on the Spirit in testimony.",
+    "audience": "individuals",
+    "speechType": "warning",
+    "topics": [
+      "end-times",
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-s-13-14-23",
+    "passageId": "mk-13-14-23",
+    "bookId": "mk",
+    "chapter": 13,
+    "startVerse": 14,
+    "endVerse": 23,
+    "reference": "Mark 13:14–23",
+    "title": "Flight and deception",
+    "summary": "Jesus warns about danger, flight and deceptive claims.",
+    "audience": "individuals",
+    "speechType": "warning",
+    "topics": [
+      "end-times"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-s-13-24-27",
+    "passageId": "mk-13-24-27",
+    "bookId": "mk",
+    "chapter": 13,
+    "startVerse": 24,
+    "endVerse": 27,
+    "reference": "Mark 13:24–27",
+    "title": "Coming of the Son of Man",
+    "summary": "Jesus describes cosmic upheaval and gathering of the chosen.",
+    "audience": "individuals",
+    "speechType": "proclamation",
+    "topics": [
+      "end-times",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
+  },
+  {
+    "id": "mk-s-13-28-31",
+    "passageId": "mk-13-28-37",
+    "bookId": "mk",
+    "chapter": 13,
+    "startVerse": 28,
+    "endVerse": 31,
+    "reference": "Mark 13:28–31",
+    "title": "Fig tree and nearness",
+    "summary": "Jesus uses the fig tree to illustrate recognition of approaching events.",
+    "audience": "individuals",
+    "speechType": "illustration",
+    "topics": [
+      "end-times",
+      "parables"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK13.htm"
@@ -6406,6 +7700,48 @@
     "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
   },
   {
+    "id": "mk-s-14-13-15",
+    "passageId": "mk-14-12-21",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 13,
+    "endVerse": 15,
+    "reference": "Mark 14:13–15",
+    "title": "Meal preparations",
+    "summary": "Jesus gives instructions for finding and preparing a room.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-18-21",
+    "passageId": "mk-14-12-21",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 18,
+    "endVerse": 21,
+    "reference": "Mark 14:18–21",
+    "title": "Betrayal at the meal",
+    "summary": "Jesus predicts betrayal by a companion and speaks of the betrayer; other speakers appear.",
+    "audience": "individuals",
+    "speechType": "warning",
+    "topics": [
+      "discipleship",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
     "id": "mk-s-14-22-25",
     "passageId": "mk-14-22-25",
     "bookId": "mk",
@@ -6439,6 +7775,67 @@
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK14.htm",
     "caution": "Comparison with Luke's supper tradition must account for textual and liturgical history; this entry does not settle those debates."
+  },
+  {
+    "id": "mk-s-14-27-28",
+    "passageId": "mk-14-26-31",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 27,
+    "endVerse": 28,
+    "reference": "Mark 14:27–28",
+    "title": "Desertion and reunion",
+    "summary": "Jesus predicts desertion and a meeting in Galilee after resurrection.",
+    "audience": "individuals",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-30-30",
+    "passageId": "mk-14-26-31",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 30,
+    "endVerse": 30,
+    "reference": "Mark 14:30",
+    "title": "Peter's denial",
+    "summary": "Jesus predicts Peter's repeated denial.",
+    "audience": "individuals",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-34-34",
+    "passageId": "mk-14-32-42",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Mark 14:34",
+    "title": "Sorrow and watchfulness",
+    "summary": "Jesus expresses distress and asks disciples to remain and watch.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
   },
   {
     "id": "mk-s-14-36-36",
@@ -6504,6 +7901,48 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-41-42",
+    "passageId": "mk-14-32-42",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 41,
+    "endVerse": 42,
+    "reference": "Mark 14:41–42",
+    "title": "Hour of betrayal",
+    "summary": "Jesus announces the approaching betrayal and directs the disciples to rise.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
+  },
+  {
+    "id": "mk-s-14-48-49",
+    "passageId": "mk-14-43-65",
+    "bookId": "mk",
+    "chapter": 14,
+    "startVerse": 48,
+    "endVerse": 49,
+    "reference": "Mark 14:48–49",
+    "title": "Arrest and public teaching",
+    "summary": "Jesus questions the manner of his arrest and refers to his public teaching.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MRK14.htm"
