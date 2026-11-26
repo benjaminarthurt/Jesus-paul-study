@@ -1,4 +1,5 @@
 ---
+import ExtractionNotes from "../../components/ExtractionNotes.astro";
 import Base from "../../layouts/Base.astro";
 import passages from "../../../research/index/passages.json";
 import books from "../../../research/index/books.json";
@@ -54,6 +55,7 @@ const selectedRight = passage.sourceLayer.startsWith("jesus-") ? "ga-03-23-25" :
     {!composite && <p><a href={"/books/" + book.id + "/#" + passage.id}>View this entry in its book index</a></p>}
     <p class="muted">The edition citation identifies the source to consult; the summary above is original research prose, not a quotation from that translation.</p>
   </section>
+  <ExtractionNotes passageId={passage.id} />
   <section class="panel passage-topic">
     <h2>Topics and comparison</h2>
     <div class="tag-list">{passage.topics.map(t=><a href={"/topics/" + t + "/"}>{topicNames.get(t) ?? t}</a>)}</div>

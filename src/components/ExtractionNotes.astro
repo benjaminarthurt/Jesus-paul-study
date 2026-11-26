@@ -1,0 +1,29 @@
+---
+import decisions from "../../research/index/pauline-extraction-dispositions.json";
+import teachings from "../../research/index/pauline-teachings.json";
+import queue from "../../research/index/teaching-extraction-queue.json";
+import links from "../../research/index/gospel-audit-links.json";
+import passages from "../../research/index/passages.json";
+const { passageId } = Astro.props;
+const decision = decisions.find(d => d.passageId === passageId);
+const audit = queue.find(r => r.passageId === passageId)?.gospelAudit;
+const units = teachings.filter(t => t.passageId === passageId);
+const related = links.filter(link => link.passages.includes(passageId)).map(link => ({
+  link, other: passages.find(p => p.id === link.passages.find(id => id !== passageId))!
+}));
+---
+{decision && <section class="panel">
+  <h2>Teaching extraction</h2>
+  <p>{decision.note}</p>
+  {decision.primaryTextCheck && <p>English passage inspected · WEBP · {decision.primaryTextCheck.date}.
+    {" "}{decision.primaryTextCheck.chapterUrls.map((url, i) => <><a href={url}>Read chapter {Number(url.match(/(\d+)\.htm$/)?.[1])}</a>{" "}</>)}
+  </p>}
+  {units.length > 0 && <ul>{units.map(t => <li><a href={"/pauline-teachings/#" + t.id}>{t.chapter}:{t.startVerse}{t.endVerse !== t.startVerse && "–" + t.endVerse} · {t.title}</a></li>)}</ul>}
+</section>}
+{audit && <section class="panel">
+  <h2>Who speaks in this passage?</h2>
+  <p>{audit.disposition.replaceAll("-", " ")} · English text inspected · <a href={audit.sourceUrl}>WEBP</a> · {audit.date}</p>
+  <p>{audit.note}</p>
+  {audit.units.length > 0 && <ul>{audit.units.map(u => <li><strong>{u.startVerse}{u.endVerse !== u.startVerse && "–" + u.endVerse}</strong> · {u.summary} · {u.form.replaceAll("-", " ")} · {u.audience}</li>)}</ul>}
+  {related.length > 0 && <><h3>Compare accounts and sayings</h3><ul>{related.map(({link, other}) => <li><a href={"/passages/" + other.id + "/"}>{other.reference}</a> · {link.relationship.replaceAll("-", " ")} (candidate). {link.note}</li>)}</ul></>}
+</section>}

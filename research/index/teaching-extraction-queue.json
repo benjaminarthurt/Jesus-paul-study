@@ -1111,28 +1111,104 @@
     "existingSpeechIds": [
       "jn-s-03-03-08",
       "jn-s-03-10-15"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
+      "note": "Nicodemus speaks in 2, 4 and 9. Jesus answers in 3, 5–8 and 10–15. The scope of the following discourse in 16–21 is separately qualified.",
+      "units": [
+        {
+          "startVerse": 3,
+          "endVerse": 3,
+          "form": "teaching",
+          "audience": "Nicodemus",
+          "summary": "New birth required for seeing God's kingdom"
+        },
+        {
+          "startVerse": 5,
+          "endVerse": 8,
+          "form": "teaching",
+          "audience": "Nicodemus",
+          "summary": "Birth of water and Spirit and the comparison with wind"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 12,
+          "form": "question",
+          "audience": "Nicodemus",
+          "summary": "The teacher's incomprehension and reception of testimony"
+        },
+        {
+          "startVerse": 13,
+          "endVerse": 15,
+          "form": "claim",
+          "audience": "Nicodemus",
+          "summary": "The Son of Man descends and must be lifted up"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-03-16-21",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "ambiguous-speaker",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
+      "note": "WEBP continues the discourse. The transition after 15 can also be read as narrator commentary. Quotation punctuation alone cannot settle the speaker.",
+      "units": [
+        {
+          "startVerse": 16,
+          "endVerse": 18,
+          "form": "claim",
+          "audience": "audience depends on speaker boundary",
+          "summary": "God's sending of the Son, salvation and judgment"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 21,
+          "form": "teaching",
+          "audience": "audience depends on speaker boundary",
+          "summary": "Light exposes deeds and divides responses"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-03-22-30",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
+      "note": "The disciples address John the Baptist and John answers them in 27–30. His testimony about Jesus is not Jesus speaking.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-03-31-36",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "ambiguous-speaker",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN03.htm",
+      "note": "Either continuation of the Baptist's testimony or narrator reflection. Neither reading identifies this as Jesus addressing Nicodemus.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-04-01-06",
@@ -1345,14 +1421,52 @@
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+      "note": "Departure to individual homes opens the disputed episode continuing in 8:1–11. No words of Jesus appear here.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-08-01-11",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "disputed-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN08.htm",
+      "note": "The disputed story begins at 7:53. Verse 2 reports teaching without its content. The accusers speak in 4–5. Writing on the ground in 6 and 8 has no reported content. The woman answers first in 11.",
+      "units": [
+        {
+          "startVerse": 7,
+          "endVerse": 7,
+          "form": "instruction",
+          "audience": "accusers",
+          "summary": "Challenge the person without sin to cast the first stone"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 10,
+          "form": "question",
+          "audience": "woman brought by the accusers",
+          "summary": "Ask where the accusers are and whether anyone condemned her"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 11,
+          "form": "instruction",
+          "audience": "woman brought by the accusers",
+          "summary": "After her reply, Jesus declines to condemn and directs her to leave sin behind"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-08-12-20",
@@ -1761,7 +1875,15 @@
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+      "note": "Mary speaks to Peter and the other disciple. The observation about Scripture in 9 belongs to the narrator.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-20-11-18",
@@ -1770,7 +1892,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-20-15-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+      "note": "The angels question Mary in 13. Jesus questions her in 15. Mary answers in the same verse and again in 16. Her report in 18 closes the scene.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "question",
+          "audience": "Mary Magdalene",
+          "summary": "Jesus asks why she weeps and whom she seeks"
+        },
+        {
+          "startVerse": 16,
+          "endVerse": 16,
+          "form": "greeting",
+          "audience": "Mary Magdalene",
+          "summary": "Jesus addresses Mary by name"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "instruction",
+          "audience": "Mary Magdalene",
+          "summary": "Release him and report his ascent to the Father"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-20-19-23",
@@ -1779,7 +1931,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-20-19-23"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+      "note": "The disciples are behind closed doors. Showing hands and side in 20 and breathing in 22 are narrated actions.",
+      "units": [
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "greeting",
+          "audience": "assembled disciples",
+          "summary": "Peace greeting"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 21,
+          "form": "instruction",
+          "audience": "assembled disciples",
+          "summary": "Peace repeated and disciples sent as the Father sent Jesus"
+        },
+        {
+          "startVerse": 22,
+          "endVerse": 23,
+          "form": "teaching",
+          "audience": "assembled disciples",
+          "summary": "Receive the Spirit and hear the declaration about forgiving or retaining sins"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-20-24-29",
@@ -1788,14 +1970,52 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-20-26-29"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+      "note": "In 25 the disciples and Thomas speak. The confession in 28 is Thomas's answer to Jesus.",
+      "units": [
+        {
+          "startVerse": 26,
+          "endVerse": 26,
+          "form": "greeting",
+          "audience": "assembled disciples including Thomas",
+          "summary": "Peace greeting on a later visit"
+        },
+        {
+          "startVerse": 27,
+          "endVerse": 27,
+          "form": "instruction",
+          "audience": "Thomas",
+          "summary": "Invitation to examine the wounds and believe"
+        },
+        {
+          "startVerse": 29,
+          "endVerse": 29,
+          "form": "blessing",
+          "audience": "Thomas",
+          "summary": "Blessing extends beyond Thomas to those who believe without seeing"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-20-30-31",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN20.htm",
+      "note": "The author explains the selection and aim of the written signs. Jesus is the subject of the claim and does not deliver it.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-21-01-14",
@@ -3053,14 +3273,38 @@
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+      "note": "The two figures address the women in 5–7. They recall earlier words of Jesus rather than presenting a new speech at the tomb.",
+      "units": [
+        {
+          "startVerse": 7,
+          "endVerse": 7,
+          "form": "reported-prediction",
+          "audience": "women hearing the messengers",
+          "summary": "Earlier prediction of betrayal, crucifixion and rising recalled"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-24-12-12",
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+      "note": "Peter runs, looks and wonders. No speech is quoted.",
+      "units": []
+    }
   },
   {
     "passageId": "lk-24-13-35",
@@ -3069,7 +3313,51 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-24-17-27"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+      "note": "Cleopas and his companion supply the account in 18–24 except Jesus' brief question in 19. Verse 27 summarizes exposition. The blessing and breaking of bread in 30 are narrated without a transcript.",
+      "units": [
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "question",
+          "audience": "two travelers",
+          "summary": "Ask what the travelers are discussing"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "question",
+          "audience": "two travelers",
+          "summary": "Opening question asks for details before the travelers answer"
+        },
+        {
+          "startVerse": 25,
+          "endVerse": 26,
+          "form": "question",
+          "audience": "two travelers",
+          "summary": "Rebuke for slowness to believe and question connecting suffering with glory"
+        },
+        {
+          "startVerse": 27,
+          "endVerse": 27,
+          "form": "reported-teaching",
+          "audience": "two travelers",
+          "summary": "Scriptures interpreted concerning Jesus without quoted wording"
+        },
+        {
+          "startVerse": 30,
+          "endVerse": 30,
+          "form": "symbolic-action",
+          "audience": "two travelers",
+          "summary": "Giving thanks and breaking bread precede recognition"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-24-36-49",
@@ -3078,14 +3366,81 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-24-36-49"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+      "note": "The audience includes the gathered companions as well as the eleven. Verses 37, 40, 42–43 and 45 describe reactions or actions.",
+      "units": [
+        {
+          "startVerse": 36,
+          "endVerse": 36,
+          "form": "greeting",
+          "audience": "gathered followers",
+          "summary": "Peace greeting"
+        },
+        {
+          "startVerse": 38,
+          "endVerse": 39,
+          "form": "question",
+          "audience": "gathered followers",
+          "summary": "Question their fear and invite inspection of hands and feet"
+        },
+        {
+          "startVerse": 41,
+          "endVerse": 41,
+          "form": "question",
+          "audience": "gathered followers",
+          "summary": "Ask for food before eating in their presence"
+        },
+        {
+          "startVerse": 44,
+          "endVerse": 44,
+          "form": "claim",
+          "audience": "gathered followers",
+          "summary": "Scripture concerning Jesus must be fulfilled"
+        },
+        {
+          "startVerse": 46,
+          "endVerse": 48,
+          "form": "teaching",
+          "audience": "gathered followers",
+          "summary": "Suffering and rising ground proclamation of repentance and forgiveness"
+        },
+        {
+          "startVerse": 49,
+          "endVerse": 49,
+          "form": "instruction",
+          "audience": "gathered followers",
+          "summary": "Wait in the city for the Father's promise"
+        }
+      ]
+    }
   },
   {
     "passageId": "lk-24-50-53",
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-action",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/LUK24.htm",
+      "note": "Jesus blesses the group near Bethany. The narrator supplies no words for the blessing.",
+      "units": [
+        {
+          "startVerse": 50,
+          "endVerse": 51,
+          "form": "symbolic-action",
+          "audience": "gathered followers",
+          "summary": "Raised hands and blessing at departure"
+        }
+      ]
+    }
   },
   {
     "passageId": "mk-01-01-13",
@@ -3826,14 +4181,52 @@
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK16.htm",
+      "note": "Women speak in 3. A young man addresses them in 6–7 and recalls what Jesus had said. His Galilee announcement is the messenger's speech.",
+      "units": []
+    }
   },
   {
     "passageId": "mk-16-09-20",
     "bookId": "mk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "disputed-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MRK16.htm",
+      "note": "The longer ending is transmitted separately in the project. WEBP prints it and notes alternative endings. Verse 14 narrates a rebuke without giving its words. Verses 19–20 are narrative.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "instruction",
+          "audience": "the eleven",
+          "summary": "Commission to proclaim the gospel throughout creation"
+        },
+        {
+          "startVerse": 16,
+          "endVerse": 16,
+          "form": "warning",
+          "audience": "the eleven",
+          "summary": "Belief and baptism linked to salvation, disbelief to condemnation"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 18,
+          "form": "promise",
+          "audience": "the eleven",
+          "summary": "Signs said to accompany believers, including healing"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-01-01-17",
@@ -4918,14 +5311,45 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-28-09-10"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT28.htm",
+      "note": "The angel speaks in 5–7. Jesus meets the women after they leave the tomb. Their grasping his feet and worship in 9 are narrative.",
+      "units": [
+        {
+          "startVerse": 9,
+          "endVerse": 9,
+          "form": "greeting",
+          "audience": "women leaving the tomb",
+          "summary": "Jesus greets the women"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 10,
+          "form": "instruction",
+          "audience": "women leaving the tomb",
+          "summary": "Reassure the women and send his brothers to Galilee"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-28-11-15",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT28.htm",
+      "note": "The priests and elders tell the guards what to say. The narrator closes the episode.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-28-16-20",
@@ -4934,7 +5358,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-28-18-20"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/MAT28.htm",
+      "note": "The eleven go to the mountain in Galilee. The account of homage and doubt precedes Jesus' address.",
+      "units": [
+        {
+          "startVerse": 18,
+          "endVerse": 18,
+          "form": "claim",
+          "audience": "the eleven",
+          "summary": "Jesus claims authority in heaven and on earth"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 20,
+          "form": "instruction",
+          "audience": "the eleven",
+          "summary": "Make disciples by baptizing and teaching obedience"
+        },
+        {
+          "startVerse": 20,
+          "endVerse": 20,
+          "form": "promise",
+          "audience": "the eleven",
+          "summary": "The final clause promises continuing presence"
+        }
+      ]
+    }
   },
   {
     "passageId": "phm-01-01-07",
