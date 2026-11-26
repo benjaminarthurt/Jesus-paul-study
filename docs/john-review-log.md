@@ -26,3 +26,9 @@
 - [ ] Independent scholarly/content review before promoting any record to `source-checked`
 
 Git history records corrections and reviewer discussion.
+
+## John 1–7 passage inspection
+
+Each indexed parent through chapter 7 now has a WEBP chapter link and a passage-specific disposition. In John 1 the Baptist reports another speaker's instructions, while Philip gives his own invitation. In John 4 the woman retells the encounter and the townspeople speak for themselves. In 5:18 and 7:39 narrator explanations accompany recorded words. In 6:64 the change of voice falls inside a verse. These distinctions are recorded at the passage level, including where the earlier speech catalog groups multiple speakers within one span.
+
+Five reciprocal comparison links distinguish the feeding, water crossing and temple action from a proverb reused in another setting and a thematic resemblance between call narratives. The records give English evidence for the scope of the relationship. Literary dependence, Greek wording, textual variants and independent scholarly assessment remain open.

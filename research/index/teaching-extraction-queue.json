@@ -1040,21 +1040,45 @@
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN01.htm",
+      "note": "The prologue speaks about the Word. Verse 15 gives the Baptist's testimony.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-01-19-28",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN01.htm",
+      "note": "Jerusalem's delegation questions the Baptist. He identifies his own work and invokes Isaiah.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-01-29-34",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN01.htm",
+      "note": "The Baptist identifies Jesus and recalls instructions from the one who sent him to baptize. The reported voice in verse 33 belongs to that sender.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-01-35-42",
@@ -1064,7 +1088,37 @@
     "existingSpeechIds": [
       "jn-s-01-38-39",
       "jn-s-01-42-42"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN01.htm",
+      "note": "The Baptist identifies Jesus, two followers ask where Jesus stays, and Andrew speaks to Simon. The renaming comes from Jesus.",
+      "units": [
+        {
+          "startVerse": 38,
+          "endVerse": 38,
+          "form": "question",
+          "audience": "Two followers",
+          "summary": "What they are seeking"
+        },
+        {
+          "startVerse": 39,
+          "endVerse": 39,
+          "form": "instruction",
+          "audience": "Two followers",
+          "summary": "Invitation to come and see"
+        },
+        {
+          "startVerse": 42,
+          "endVerse": 42,
+          "form": "claim",
+          "audience": "Simon",
+          "summary": "Naming Simon Cephas"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-01-43-51",
@@ -1074,7 +1128,51 @@
     "existingSpeechIds": [
       "jn-s-01-43-43",
       "jn-s-01-47-51"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN01.htm",
+      "note": "Philip extends his own invitation in verse 46. Nathanael asks the first question in 48 and makes the confession in 49. The concluding address shifts to a plural audience.",
+      "units": [
+        {
+          "startVerse": 43,
+          "endVerse": 43,
+          "form": "instruction",
+          "audience": "Philip",
+          "summary": "Call to follow"
+        },
+        {
+          "startVerse": 47,
+          "endVerse": 47,
+          "form": "claim",
+          "audience": "Those present",
+          "summary": "Assessment of Nathanael's sincerity"
+        },
+        {
+          "startVerse": 48,
+          "endVerse": 48,
+          "form": "response",
+          "audience": "Nathanael",
+          "summary": "Seeing him under the fig tree"
+        },
+        {
+          "startVerse": 50,
+          "endVerse": 50,
+          "form": "promise",
+          "audience": "Nathanael",
+          "summary": "Greater things to see"
+        },
+        {
+          "startVerse": 51,
+          "endVerse": 51,
+          "form": "promise",
+          "audience": "Followers",
+          "summary": "Heaven opened and angels attending the Son of Man"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-02-01-12",
@@ -1084,7 +1182,30 @@
     "existingSpeechIds": [
       "jn-s-02-04-04",
       "jn-s-02-07-08"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "composite",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN02.htm",
+      "note": "Jesus answers his mother and instructs the servants. The steward's verdict and the narrator's interpretation of the sign are separate.",
+      "units": [
+        {
+          "startVerse": 4,
+          "endVerse": 4,
+          "form": "response",
+          "audience": "His mother",
+          "summary": "His hour has yet to come"
+        },
+        {
+          "startVerse": 7,
+          "endVerse": 8,
+          "form": "instruction",
+          "audience": "Servants",
+          "summary": "Fill the vessels and take a sample to the steward"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-02-13-22",
@@ -1094,14 +1215,52 @@
     "existingSpeechIds": [
       "jn-s-02-16-16",
       "jn-s-02-19-19"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "composite",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN02.htm",
+      "note": "The temple action accompanies an instruction and a reply to a demand for a sign. The body interpretation and retrospective recollection in 21–22 come from the narrator.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "symbolic-action",
+          "audience": "Temple patrons and traders",
+          "summary": "Expulsion of traders and animals and overturning of tables"
+        },
+        {
+          "startVerse": 16,
+          "endVerse": 16,
+          "form": "instruction",
+          "audience": "Dove sellers",
+          "summary": "Remove the goods from the Father's house"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "response",
+          "audience": "Those requesting a sign",
+          "summary": "The temple raised in three days"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-02-23-25",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN02.htm",
+      "note": "The narrator describes belief prompted by signs and Jesus' knowledge of people. No words are quoted.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-03-01-15",
@@ -1215,7 +1374,15 @@
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN04.htm",
+      "note": "The narrator explains the journey and distinguishes the disciples' baptizing from Jesus' activity. The encounter begins in verse 7.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-04-07-42",
@@ -1229,14 +1396,109 @@
       "jn-s-04-21-24",
       "jn-s-04-25-26",
       "jn-s-04-31-38"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN04.htm",
+      "note": "The woman and Jesus alternate until the disciples return. The woman reports the exchange in 29 and 39. The townspeople's confession in 42 is their own.",
+      "units": [
+        {
+          "startVerse": 7,
+          "endVerse": 7,
+          "form": "instruction",
+          "audience": "Samaritan woman",
+          "summary": "Request for a drink"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 10,
+          "form": "claim",
+          "audience": "Samaritan woman",
+          "summary": "The giver of living water"
+        },
+        {
+          "startVerse": 13,
+          "endVerse": 14,
+          "form": "promise",
+          "audience": "Samaritan woman",
+          "summary": "Water becoming a spring of eternal life"
+        },
+        {
+          "startVerse": 16,
+          "endVerse": 16,
+          "form": "instruction",
+          "audience": "Samaritan woman",
+          "summary": "Call her husband and return"
+        },
+        {
+          "startVerse": 17,
+          "endVerse": 18,
+          "form": "response",
+          "audience": "Samaritan woman",
+          "summary": "Acknowledgment of her account and relationship history"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 24,
+          "form": "teaching",
+          "audience": "Samaritan woman",
+          "summary": "Worship, salvation and the relation of place to spirit and truth"
+        },
+        {
+          "startVerse": 26,
+          "endVerse": 26,
+          "form": "claim",
+          "audience": "Samaritan woman",
+          "summary": "Identification in reply to her expectation of Messiah"
+        },
+        {
+          "startVerse": 32,
+          "endVerse": 32,
+          "form": "response",
+          "audience": "Disciples",
+          "summary": "Food unknown to the disciples"
+        },
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "claim",
+          "audience": "Disciples",
+          "summary": "Doing the sender's will as food"
+        },
+        {
+          "startVerse": 35,
+          "endVerse": 38,
+          "form": "teaching",
+          "audience": "Disciples",
+          "summary": "Harvest, sowers, reapers and shared labor"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-04-43-45",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN04.htm",
+      "note": "The narrator attributes the observation about a prophet's honor to Jesus. The Galileans' reception and prior attendance at the feast are narration.",
+      "units": [
+        {
+          "startVerse": 44,
+          "endVerse": 44,
+          "form": "reported-teaching",
+          "audience": "Audience unspecified",
+          "summary": "A prophet lacks honor in his own country"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-04-46-54",
@@ -1245,7 +1507,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-04-48-50"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN04.htm",
+      "note": "The official asks twice. Verse 48 uses a plural address. The servants' report and the narrator's identification of the sign remain distinct.",
+      "units": [
+        {
+          "startVerse": 48,
+          "endVerse": 48,
+          "form": "response",
+          "audience": "Official and wider hearers",
+          "summary": "Dependence on seeing signs for belief"
+        },
+        {
+          "startVerse": 50,
+          "endVerse": 50,
+          "form": "promise",
+          "audience": "Official",
+          "summary": "The son lives"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-05-01-15",
@@ -1256,7 +1541,37 @@
       "jn-s-05-06-06",
       "jn-s-05-08-09",
       "jn-s-05-14-14"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN05.htm",
+      "note": "The man explains the pool in verse 7 and later repeats the healing command in verse 11. The directions at the pool and temple are separate. The pool explanation in 3–4 has a textual variant.",
+      "units": [
+        {
+          "startVerse": 6,
+          "endVerse": 6,
+          "form": "question",
+          "audience": "Man at the pool",
+          "summary": "Whether he wishes to be healed"
+        },
+        {
+          "startVerse": 8,
+          "endVerse": 8,
+          "form": "instruction",
+          "audience": "Man at the pool",
+          "summary": "Stand, take the mat and walk"
+        },
+        {
+          "startVerse": 14,
+          "endVerse": 14,
+          "form": "warning",
+          "audience": "Healed man",
+          "summary": "Warning about sin after healing"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-05-16-18",
@@ -1265,7 +1580,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-05-17-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN05.htm",
+      "note": "Verse 17 is Jesus' reply. Verse 18 supplies the narrator's explanation of the escalating opposition.",
+      "units": [
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "claim",
+          "audience": "Sabbath opponents",
+          "summary": "The Father's continuing work and Jesus' own work"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-05-19-30",
@@ -1276,7 +1607,51 @@
       "jn-s-05-19-23",
       "jn-s-05-24-29",
       "jn-s-05-30-30"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN05.htm",
+      "note": "Jesus answers the opposition from the preceding scene. The discourse moves from dependence and honor to present life, future resurrection and just judgment.",
+      "units": [
+        {
+          "startVerse": 19,
+          "endVerse": 20,
+          "form": "claim",
+          "audience": "Opponents",
+          "summary": "The Son acts in relation to the Father's example and love"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 23,
+          "form": "claim",
+          "audience": "Opponents",
+          "summary": "Life, judgment and honor given to the Son"
+        },
+        {
+          "startVerse": 24,
+          "endVerse": 27,
+          "form": "promise",
+          "audience": "Opponents",
+          "summary": "Hearing, believing and passing from death to life"
+        },
+        {
+          "startVerse": 28,
+          "endVerse": 29,
+          "form": "claim",
+          "audience": "Opponents",
+          "summary": "Resurrection to life or judgment"
+        },
+        {
+          "startVerse": 30,
+          "endVerse": 30,
+          "form": "claim",
+          "audience": "Opponents",
+          "summary": "Dependence on the sender in judging"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-05-31-47",
@@ -1286,7 +1661,44 @@
     "existingSpeechIds": [
       "jn-s-05-31-40",
       "jn-s-05-41-47"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN05.htm",
+      "note": "The Baptist is invoked as a witness, without speaking anew. Jesus also appeals to works, the Father, scripture and Moses.",
+      "units": [
+        {
+          "startVerse": 31,
+          "endVerse": 35,
+          "form": "teaching",
+          "audience": "Opponents",
+          "summary": "Self-testimony and the Baptist's witness"
+        },
+        {
+          "startVerse": 36,
+          "endVerse": 38,
+          "form": "claim",
+          "audience": "Opponents",
+          "summary": "Works and the Father as witnesses"
+        },
+        {
+          "startVerse": 39,
+          "endVerse": 44,
+          "form": "warning",
+          "audience": "Opponents",
+          "summary": "Searching scripture, refusing life and seeking human glory"
+        },
+        {
+          "startVerse": 45,
+          "endVerse": 47,
+          "form": "question",
+          "audience": "Opponents",
+          "summary": "Moses as accuser and belief in his writings"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-01-15",
@@ -1297,7 +1709,44 @@
       "jn-s-06-05-06",
       "jn-s-06-10-10",
       "jn-s-06-12-12"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "composite",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "Philip and Andrew assess the available food. Jesus gives thanks without quoted wording. The crowd identifies a prophet and the narrator explains Jesus' withdrawal.",
+      "units": [
+        {
+          "startVerse": 5,
+          "endVerse": 5,
+          "form": "question",
+          "audience": "Philip",
+          "summary": "Where to buy bread"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 10,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Seat the people"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 11,
+          "form": "symbolic-action",
+          "audience": "Crowd",
+          "summary": "Thanksgiving and distribution of bread and fish"
+        },
+        {
+          "startVerse": 12,
+          "endVerse": 12,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Collect the remaining pieces"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-16-21",
@@ -1306,7 +1755,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-06-20-20"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "The boat crossing and fear are narrated. Verse 20 gives the words Jesus addresses to the disciples.",
+      "units": [
+        {
+          "startVerse": 20,
+          "endVerse": 20,
+          "form": "response",
+          "audience": "Disciples in the boat",
+          "summary": "Identification and reassurance"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-22-29",
@@ -1315,7 +1780,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-06-26-29"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "The crowd asks about Jesus' arrival and the works of God. Jesus answers in 26–27 and 29.",
+      "units": [
+        {
+          "startVerse": 26,
+          "endVerse": 27,
+          "form": "teaching",
+          "audience": "Crowd",
+          "summary": "Seeking enduring food beyond the immediate benefit of being fed"
+        },
+        {
+          "startVerse": 29,
+          "endVerse": 29,
+          "form": "response",
+          "audience": "Crowd",
+          "summary": "Believing the one God sent"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-30-40",
@@ -1325,7 +1813,37 @@
     "existingSpeechIds": [
       "jn-s-06-32-33",
       "jn-s-06-35-40"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "The interlocutors cite manna and request bread. Jesus identifies the giver and distinguishes his own role.",
+      "units": [
+        {
+          "startVerse": 32,
+          "endVerse": 33,
+          "form": "claim",
+          "audience": "Crowd",
+          "summary": "The Father gives life-giving bread"
+        },
+        {
+          "startVerse": 35,
+          "endVerse": 38,
+          "form": "claim",
+          "audience": "Crowd",
+          "summary": "Bread of life, welcome and the sender's will"
+        },
+        {
+          "startVerse": 39,
+          "endVerse": 40,
+          "form": "promise",
+          "audience": "Crowd",
+          "summary": "Preservation and resurrection on the last day"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-41-51",
@@ -1334,7 +1852,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-06-43-51"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "The opening complaint repeats Jesus' claim. His reply begins at verse 43 and incorporates a prophetic citation in 45.",
+      "units": [
+        {
+          "startVerse": 43,
+          "endVerse": 46,
+          "form": "teaching",
+          "audience": "Objectors",
+          "summary": "Coming to the Son through the Father's drawing and teaching"
+        },
+        {
+          "startVerse": 47,
+          "endVerse": 51,
+          "form": "promise",
+          "audience": "Objectors",
+          "summary": "Life through the bread from heaven and the gift of flesh"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-52-59",
@@ -1343,7 +1884,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-06-53-58"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "A dispute in 52 opens the exchange. Verse 59 identifies the synagogue setting.",
+      "units": [
+        {
+          "startVerse": 53,
+          "endVerse": 56,
+          "form": "teaching",
+          "audience": "Synagogue hearers",
+          "summary": "Eating, drinking, life and mutual abiding"
+        },
+        {
+          "startVerse": 57,
+          "endVerse": 58,
+          "form": "claim",
+          "audience": "Synagogue hearers",
+          "summary": "Life from the Father and the contrast with ancestral manna"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-60-66",
@@ -1352,7 +1916,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-06-61-65"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "Disciples voice the difficulty. The latter part of 64 explains Jesus' knowledge in the narrator's voice. Verse 66 records departures.",
+      "units": [
+        {
+          "startVerse": 61,
+          "endVerse": 62,
+          "form": "question",
+          "audience": "Disciples",
+          "summary": "Offense and the ascent of the Son of Man"
+        },
+        {
+          "startVerse": 63,
+          "endVerse": 64,
+          "form": "claim",
+          "audience": "Disciples",
+          "summary": "Spirit, life-giving words and unbelief"
+        },
+        {
+          "startVerse": 65,
+          "endVerse": 65,
+          "form": "teaching",
+          "audience": "Disciples",
+          "summary": "Coming to Jesus as granted by the Father"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-06-67-71",
@@ -1361,7 +1955,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-06-67-70"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN06.htm",
+      "note": "Peter answers for the Twelve in 68–69. The narrator identifies Judas in verse 71.",
+      "units": [
+        {
+          "startVerse": 67,
+          "endVerse": 67,
+          "form": "question",
+          "audience": "The Twelve",
+          "summary": "Whether they too wish to leave"
+        },
+        {
+          "startVerse": 70,
+          "endVerse": 70,
+          "form": "warning",
+          "audience": "The Twelve",
+          "summary": "The choice of the Twelve and the adversary among them"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-07-01-13",
@@ -1370,7 +1987,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-07-06-08"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+      "note": "His brothers advise a public appearance. Jesus answers in 6–8. The subsequent trip and the divided public reports are narrated separately.",
+      "units": [
+        {
+          "startVerse": 6,
+          "endVerse": 8,
+          "form": "response",
+          "audience": "His brothers",
+          "summary": "Timing, public opposition and attendance at the feast"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-07-14-24",
@@ -1380,7 +2013,37 @@
     "existingSpeechIds": [
       "jn-s-07-16-18",
       "jn-s-07-19-24"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+      "note": "The audience questions Jesus' learning and answers him in verse 20. Jesus responds about authorization, law and Sabbath healing.",
+      "units": [
+        {
+          "startVerse": 16,
+          "endVerse": 18,
+          "form": "teaching",
+          "audience": "Temple hearers",
+          "summary": "Source of teaching and the glory a speaker seeks"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "question",
+          "audience": "Temple hearers",
+          "summary": "Keeping Moses' law and the threat against Jesus"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 24,
+          "form": "instruction",
+          "audience": "Temple hearers",
+          "summary": "Circumcision, healing and just judgment"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-07-25-31",
@@ -1389,7 +2052,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-07-28-29"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+      "note": "The Jerusalem speakers debate his origin. Jesus answers in 28–29. Attempts to seize him and speculation about signs follow.",
+      "units": [
+        {
+          "startVerse": 28,
+          "endVerse": 29,
+          "form": "claim",
+          "audience": "Temple hearers",
+          "summary": "His origin and knowledge of the one who sent him"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-07-32-36",
@@ -1398,7 +2077,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-07-33-34"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+      "note": "Jesus speaks in 33–34. The interlocutors repeat the saying in verse 36 while debating its meaning.",
+      "units": [
+        {
+          "startVerse": 33,
+          "endVerse": 34,
+          "form": "warning",
+          "audience": "Hearers in the temple",
+          "summary": "Departure to the sender and inability to follow"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-07-37-39",
@@ -1407,14 +2102,38 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-07-37-38"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+      "note": "Verse 39 identifies the Spirit as the narrator's interpretation. The punctuation and referent of the water image require further review.",
+      "units": [
+        {
+          "startVerse": 37,
+          "endVerse": 38,
+          "form": "promise",
+          "audience": "Festival crowd",
+          "summary": "Invitation to the thirsty and the figure of living water"
+        }
+      ]
+    }
   },
   {
     "passageId": "jn-07-40-52",
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "sourceUrl": "https://ebible.org/engwebp/JHN07.htm",
+      "note": "The crowd, officers, Pharisees and Nicodemus speak. The officers comment on Jesus' manner of speech without reporting a new saying.",
+      "units": []
+    }
   },
   {
     "passageId": "jn-07-53-53",
