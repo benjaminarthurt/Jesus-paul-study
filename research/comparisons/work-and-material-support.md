@@ -6,6 +6,7 @@ jesus: [lk-10-01-12, lk-12-22-34]
 paul: [1co-09-01-18, 1th-04-09-12]
 sourceIds: [web-protestant-66]
 classification: different-emphasis
+reviewIds: [pauline-mission-finance]
 ---
 ## Research question
 
