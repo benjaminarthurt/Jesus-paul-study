@@ -26,6 +26,7 @@ const relatedReviews = (entry.data.reviewIds ?? []).map((id: string) => {
   if (!review) throw new Error(`Comparison ${entry.id}: unknown research review ${id}`);
   return { id, title: review.body?.match(/^#\s+(.+)$/m)?.[1] ?? id };
 });
+const relatedIssues = (await getCollection("issues")).filter(issue => issue.body?.includes(`/comparisons/${entry.id}/`)).sort((a,b) => a.data.title.localeCompare(b.data.title));
 const evaluationLabels: Record<string,string> = {
   tension: "Supports a possible tension",
   agreement: "Highlights agreement",
@@ -85,6 +86,8 @@ const evaluationLabels: Record<string,string> = {
   </section>}
 
   <article class="prose study"><Content /></article>
+
+  {relatedIssues.length > 0 && <section class="panel evidence-section"><h2>Modern applications</h2><p class="muted">These draft dossiers distinguish ancient evidence from contemporary inference.</p><ul>{relatedIssues.map(issue => <li><a href={`/modern-issues/${issue.id}/`}>{issue.data.title}</a></li>)}</ul></section>}
 
   {relatedReviews.length > 0 && <section class="panel evidence-section" aria-labelledby="related-reviews-heading">
     <h2 id="related-reviews-heading">Supporting research reviews</h2>
