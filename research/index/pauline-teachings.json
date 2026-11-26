@@ -6178,5 +6178,1360 @@
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/TIT03.htm",
     "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-01-04-07",
+    "passageId": "1co-01-01-09",
+    "bookId": "1co",
+    "chapter": 1,
+    "startVerse": 4,
+    "endVerse": 7,
+    "title": "Gifts acknowledged while the community waits for Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-01-08-09",
+    "passageId": "1co-01-01-09",
+    "bookId": "1co",
+    "chapter": 1,
+    "startVerse": 8,
+    "endVerse": 9,
+    "title": "Confidence in God's faithfulness until the day of Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-02-01-05",
+    "passageId": "1co-02-01-05",
+    "bookId": "1co",
+    "chapter": 2,
+    "startVerse": 1,
+    "endVerse": 5,
+    "title": "Preaching the crucified Christ in weakness so faith rests on divine power",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-01-02-05",
+    "passageId": "1th-01-02-10",
+    "bookId": "1th",
+    "chapter": 1,
+    "startVerse": 2,
+    "endVerse": 5,
+    "title": "Faith, love and hope in thanksgiving for the community",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-01-06-08",
+    "passageId": "1th-01-02-10",
+    "bookId": "1th",
+    "chapter": 1,
+    "startVerse": 6,
+    "endVerse": 8,
+    "title": "Receiving the message under pressure makes the community an example",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-01-09-10",
+    "passageId": "1th-01-02-10",
+    "bookId": "1th",
+    "chapter": 1,
+    "startVerse": 9,
+    "endVerse": 10,
+    "title": "Turning from idols to serve God and await the risen Son",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-02-01-04",
+    "passageId": "1th-02-01-12",
+    "bookId": "1th",
+    "chapter": 2,
+    "startVerse": 1,
+    "endVerse": 4,
+    "title": "Speaking to please the God who examines motives",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-02-05-09",
+    "passageId": "1th-02-01-12",
+    "bookId": "1th",
+    "chapter": 2,
+    "startVerse": 5,
+    "endVerse": 9,
+    "title": "Refusing flattery and supporting themselves while sharing their lives",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-02-10-12",
+    "passageId": "1th-02-01-12",
+    "bookId": "1th",
+    "chapter": 2,
+    "startVerse": 10,
+    "endVerse": 12,
+    "title": "A parental appeal to live worthily of God's call",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "exhortation",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-02-13-13",
+    "passageId": "1th-02-13-16",
+    "bookId": "1th",
+    "chapter": 2,
+    "startVerse": 13,
+    "endVerse": 13,
+    "title": "Thanksgiving for receiving the proclamation as God's word",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-02-14-16",
+    "passageId": "1th-02-13-16",
+    "bookId": "1th",
+    "chapter": 2,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "Comparing local suffering and accusing opponents of obstructing Gentile mission",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "The accusation belongs to the letter’s polemic. Its targets, transmission and historical application need separate review."
+  },
+  {
+    "id": "1th-t-02-19-20",
+    "passageId": "1th-02-17-03-13",
+    "bookId": "1th",
+    "chapter": 2,
+    "startVerse": 19,
+    "endVerse": 20,
+    "title": "The recipients themselves as the writers' joy at Christ's coming",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "rhetorical-question",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-03-03-04",
+    "passageId": "1th-02-17-03-13",
+    "bookId": "1th",
+    "chapter": 3,
+    "startVerse": 3,
+    "endVerse": 4,
+    "title": "Remember the warning that affliction would come",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "exhortation",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-03-08-10",
+    "passageId": "1th-02-17-03-13",
+    "bookId": "1th",
+    "chapter": 3,
+    "startVerse": 8,
+    "endVerse": 10,
+    "title": "The community's steadfastness prompts thanksgiving and prayer for reunion",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-03-11-13",
+    "passageId": "1th-02-17-03-13",
+    "bookId": "1th",
+    "chapter": 3,
+    "startVerse": 11,
+    "endVerse": 13,
+    "title": "Prayer for reunion, widening love and holiness at Christ's coming",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-01-12-14",
+    "passageId": "1ti-01-12-20",
+    "bookId": "1ti",
+    "chapter": 1,
+    "startVerse": 12,
+    "endVerse": 14,
+    "title": "Mercy shown to the former persecutor",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-01-15-16",
+    "passageId": "1ti-01-12-20",
+    "bookId": "1ti",
+    "chapter": 1,
+    "startVerse": 15,
+    "endVerse": 16,
+    "title": "Christ's mission to save sinners illustrated by the speaker's experience",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse 15 introduces a trustworthy saying. The speaker applies it personally in verse 16. Neither verse quotes Jesus."
+  },
+  {
+    "id": "1ti-t-01-17-17",
+    "passageId": "1ti-01-12-20",
+    "bookId": "1ti",
+    "chapter": 1,
+    "startVerse": 17,
+    "endVerse": 17,
+    "title": "Praise offered to the eternal king",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-01-18-20",
+    "passageId": "1ti-01-12-20",
+    "bookId": "1ti",
+    "chapter": 1,
+    "startVerse": 18,
+    "endVerse": 20,
+    "title": "Timothy charged to hold faith and a good conscience",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-02-01-04",
+    "passageId": "2co-02-01-04",
+    "bookId": "2co",
+    "chapter": 2,
+    "startVerse": 1,
+    "endVerse": 4,
+    "title": "A painful letter written to communicate love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-02-14-16",
+    "passageId": "2co-02-12-17",
+    "bookId": "2co",
+    "chapter": 2,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "The same proclamation evokes life and death",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-02-17-17",
+    "passageId": "2co-02-12-17",
+    "bookId": "2co",
+    "chapter": 2,
+    "startVerse": 17,
+    "endVerse": 17,
+    "title": "Sincerity before God contrasted with selling the message",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-06-14-16",
+    "passageId": "2co-06-14-07-01",
+    "bookId": "2co",
+    "chapter": 6,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "Incompatible partnerships illustrated by the contrast between God's temple and idols",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "rhetorical-question",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "6:14–16a argues by paired questions. From the citation formula in 16b the first person is God's voice within scripture. The letter resumes its own voice at 7:1."
+  },
+  {
+    "id": "2co-t-06-16-18",
+    "passageId": "2co-06-14-07-01",
+    "bookId": "2co",
+    "chapter": 6,
+    "startVerse": 16,
+    "endVerse": 18,
+    "title": "Divine dwelling, separation and reception in a chain of scriptural promises",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "scriptural-divine-speech",
+    "teachingType": "quotation",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "6:14–16a argues by paired questions. From the citation formula in 16b the first person is God's voice within scripture. The letter resumes its own voice at 7:1."
+  },
+  {
+    "id": "2co-t-07-01-01",
+    "passageId": "2co-06-14-07-01",
+    "bookId": "2co",
+    "chapter": 7,
+    "startVerse": 1,
+    "endVerse": 1,
+    "title": "The promises ground an appeal to pursue holiness",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "exhortation",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO07.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "6:14–16a argues by paired questions. From the citation formula in 16b the first person is God's voice within scripture. The letter resumes its own voice at 7:1."
+  },
+  {
+    "id": "2co-t-11-16-21",
+    "passageId": "2co-11-16-33",
+    "bookId": "2co",
+    "chapter": 11,
+    "startVerse": 16,
+    "endVerse": 21,
+    "title": "Irony exposes willingness to tolerate domineering leaders",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-11-22-30",
+    "passageId": "2co-11-16-33",
+    "bookId": "2co",
+    "chapter": 11,
+    "startVerse": 22,
+    "endVerse": 30,
+    "title": "Paul measures his boast against hardship and concern for others",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-03-16-16",
+    "passageId": "2th-03-16-18",
+    "bookId": "2th",
+    "chapter": 3,
+    "startVerse": 16,
+    "endVerse": 16,
+    "title": "Peace requested for the recipients in every circumstance",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-01-03-05",
+    "passageId": "2ti-01-01-05",
+    "bookId": "2ti",
+    "chapter": 1,
+    "startVerse": 3,
+    "endVerse": 5,
+    "title": "Thanksgiving for faith shared by Timothy, Lois and Eunice",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-01-16-18",
+    "passageId": "2ti-01-15-18",
+    "bookId": "2ti",
+    "chapter": 1,
+    "startVerse": 16,
+    "endVerse": 18,
+    "title": "Mercy requested for Onesiphorus in connection with aid to a prisoner",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-04-14-15",
+    "passageId": "2ti-04-09-22",
+    "bookId": "2ti",
+    "chapter": 4,
+    "startVerse": 14,
+    "endVerse": 15,
+    "title": "Warning Timothy about Alexander and leaving repayment to the Lord",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-04-16-16",
+    "passageId": "2ti-04-09-22",
+    "bookId": "2ti",
+    "chapter": 4,
+    "startVerse": 16,
+    "endVerse": 16,
+    "title": "A plea for those who abandoned the speaker at his defense",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-04-17-18",
+    "passageId": "2ti-04-09-22",
+    "bookId": "2ti",
+    "chapter": 4,
+    "startVerse": 17,
+    "endVerse": 18,
+    "title": "Confidence in the Lord's help and preservation for his kingdom",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "kingdom"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-01-03-06",
+    "passageId": "col-01-03-14",
+    "bookId": "col",
+    "chapter": 1,
+    "startVerse": 3,
+    "endVerse": 6,
+    "title": "Thanksgiving for faith and love associated with the spread of the gospel",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-01-09-12",
+    "passageId": "col-01-03-14",
+    "bookId": "col",
+    "chapter": 1,
+    "startVerse": 9,
+    "endVerse": 12,
+    "title": "Prayer for wisdom expressed in conduct, endurance and gratitude",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-01-13-14",
+    "passageId": "col-01-03-14",
+    "bookId": "col",
+    "chapter": 1,
+    "startVerse": 13,
+    "endVerse": 14,
+    "title": "Rescue from darkness and forgiveness in the Son",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-04-12-12",
+    "passageId": "col-04-07-18",
+    "bookId": "col",
+    "chapter": 4,
+    "startVerse": 12,
+    "endVerse": 12,
+    "title": "Epaphras prays for the recipients to stand mature in God's will",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-04-16-17",
+    "passageId": "col-04-07-18",
+    "bookId": "col",
+    "chapter": 4,
+    "startVerse": 16,
+    "endVerse": 17,
+    "title": "Exchange letters with Laodicea and remind Archippus of his service",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-01-15-19",
+    "passageId": "eph-01-15-23",
+    "bookId": "eph",
+    "chapter": 1,
+    "startVerse": 15,
+    "endVerse": 19,
+    "title": "Wisdom to grasp the hope, inheritance and power of God's calling",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-01-20-23",
+    "passageId": "eph-01-15-23",
+    "bookId": "eph",
+    "chapter": 1,
+    "startVerse": 20,
+    "endVerse": 23,
+    "title": "The risen Christ above powers and given as head to the assembly",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-03-14-19",
+    "passageId": "eph-03-14-21",
+    "bookId": "eph",
+    "chapter": 3,
+    "startVerse": 14,
+    "endVerse": 19,
+    "title": "Strength through the Spirit and shared knowledge of Christ's love",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-03-20-21",
+    "passageId": "eph-03-14-21",
+    "bookId": "eph",
+    "chapter": 3,
+    "startVerse": 20,
+    "endVerse": 21,
+    "title": "Praise for God's power at work in the community",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-06-23-24",
+    "passageId": "eph-06-21-24",
+    "bookId": "eph",
+    "chapter": 6,
+    "startVerse": 23,
+    "endVerse": 24,
+    "title": "Peace, love, faith and grace wished for the recipients",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-01-01-01",
+    "passageId": "ga-01-01-05",
+    "bookId": "ga",
+    "chapter": 1,
+    "startVerse": 1,
+    "endVerse": 1,
+    "title": "Paul claims a commission through Jesus Christ and God",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-01-03-05",
+    "passageId": "ga-01-01-05",
+    "bookId": "ga",
+    "chapter": 1,
+    "startVerse": 3,
+    "endVerse": 5,
+    "title": "Christ's self-giving for sins and deliverance from the present age",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-01-06-09",
+    "passageId": "ga-01-06-24",
+    "bookId": "ga",
+    "chapter": 1,
+    "startVerse": 6,
+    "endVerse": 9,
+    "title": "Reject a rival proclamation even from the writers or an angel",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-01-10-10",
+    "passageId": "ga-01-06-24",
+    "bookId": "ga",
+    "chapter": 1,
+    "startVerse": 10,
+    "endVerse": 10,
+    "title": "Seeking human favor tested against service to Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "rhetorical-question",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-01-11-12",
+    "passageId": "ga-01-06-24",
+    "bookId": "ga",
+    "chapter": 1,
+    "startVerse": 11,
+    "endVerse": 12,
+    "title": "Paul attributes his gospel to revelation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-01-15-16",
+    "passageId": "ga-01-06-24",
+    "bookId": "ga",
+    "chapter": 1,
+    "startVerse": 15,
+    "endVerse": 16,
+    "title": "Paul connects his calling with proclamation among Gentiles",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-04-12-12",
+    "passageId": "ga-04-12-20",
+    "bookId": "ga",
+    "chapter": 4,
+    "startVerse": 12,
+    "endVerse": 12,
+    "title": "A personal appeal for the Galatians to become like Paul",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "exhortation",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-04-16-18",
+    "passageId": "ga-04-12-20",
+    "bookId": "ga",
+    "chapter": 4,
+    "startVerse": 16,
+    "endVerse": 18,
+    "title": "Distinguishing good zeal from efforts to isolate the recipients",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "exhortation",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "phm-t-01-04-07",
+    "passageId": "phm-01-01-07",
+    "bookId": "phm",
+    "chapter": 1,
+    "startVerse": 4,
+    "endVerse": 7,
+    "title": "Prayer for active fellowship grounded in Philemon's love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-01-03-08",
+    "passageId": "php-01-03-26",
+    "bookId": "php",
+    "chapter": 1,
+    "startVerse": 3,
+    "endVerse": 8,
+    "title": "Confidence that God will complete the work begun among the Philippians",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-01-09-11",
+    "passageId": "php-01-03-26",
+    "bookId": "php",
+    "chapter": 1,
+    "startVerse": 9,
+    "endVerse": 11,
+    "title": "Prayer for love informed by discernment",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-01-12-14",
+    "passageId": "php-01-03-26",
+    "bookId": "php",
+    "chapter": 1,
+    "startVerse": 12,
+    "endVerse": 14,
+    "title": "Imprisonment encourages further proclamation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-01-15-18",
+    "passageId": "php-01-03-26",
+    "bookId": "php",
+    "chapter": 1,
+    "startVerse": 15,
+    "endVerse": 18,
+    "title": "Joy that Christ is proclaimed despite rival motives",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-01-19-26",
+    "passageId": "php-01-03-26",
+    "bookId": "php",
+    "chapter": 1,
+    "startVerse": 19,
+    "endVerse": 26,
+    "title": "Between the desire to be with Christ and continued work for the community",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-02-20-22",
+    "passageId": "php-02-19-30",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 20,
+    "endVerse": 22,
+    "title": "Timothy's genuine concern contrasted with self-interest",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-02-29-30",
+    "passageId": "php-02-19-30",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 29,
+    "endVerse": 30,
+    "title": "Welcome Epaphroditus and honor people who risk themselves in service",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-01-02-04",
+    "passageId": "ro-01-01-15",
+    "bookId": "ro",
+    "chapter": 1,
+    "startVerse": 2,
+    "endVerse": 4,
+    "title": "The promised gospel concerns David's descendant and resurrection",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-01-05-06",
+    "passageId": "ro-01-01-15",
+    "bookId": "ro",
+    "chapter": 1,
+    "startVerse": 5,
+    "endVerse": 6,
+    "title": "Apostleship directed toward the obedience of faith among the nations",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-01-11-12",
+    "passageId": "ro-01-01-15",
+    "bookId": "ro",
+    "chapter": 1,
+    "startVerse": 11,
+    "endVerse": 12,
+    "title": "Paul expects encouragement to pass in both directions",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-01-14-15",
+    "passageId": "ro-01-01-15",
+    "bookId": "ro",
+    "chapter": 1,
+    "startVerse": 14,
+    "endVerse": 15,
+    "title": "Paul describes an obligation across cultural and educational divisions",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-09-30-32",
+    "passageId": "ro-09-30-10-03",
+    "bookId": "ro",
+    "chapter": 9,
+    "startVerse": 30,
+    "endVerse": 32,
+    "title": "Paul contrasts attaining righteousness by faith with pursuing it through works",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-09-33-33",
+    "passageId": "ro-09-30-10-03",
+    "bookId": "ro",
+    "chapter": 9,
+    "startVerse": 33,
+    "endVerse": 33,
+    "title": "Scripture's stone image supplies the warrant for the preceding argument",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "scriptural-divine-speech",
+    "teachingType": "quotation",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-10-01-01",
+    "passageId": "ro-09-30-10-03",
+    "bookId": "ro",
+    "chapter": 10,
+    "startVerse": 1,
+    "endVerse": 1,
+    "title": "Paul prays for Israel's salvation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "prayer",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-10-02-03",
+    "passageId": "ro-09-30-10-03",
+    "bookId": "ro",
+    "chapter": 10,
+    "startVerse": 2,
+    "endVerse": 3,
+    "title": "Zeal and the attempt to establish one's own righteousness",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-15-14-16",
+    "passageId": "ro-15-14-24",
+    "bookId": "ro",
+    "chapter": 15,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "Gentile mission described in priestly language",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-15-17-20",
+    "passageId": "ro-15-14-24",
+    "bookId": "ro",
+    "chapter": 15,
+    "startVerse": 17,
+    "endVerse": 20,
+    "title": "Paul limits his boast and describes his aim to preach in new places",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-15-21-21",
+    "passageId": "ro-15-14-24",
+    "bookId": "ro",
+    "chapter": 15,
+    "startVerse": 21,
+    "endVerse": 21,
+    "title": "Scriptural warrant for addressing those who have yet to hear",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "scripture-citation",
+    "teachingType": "quotation",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-15-26-27",
+    "passageId": "ro-15-25-28",
+    "bookId": "ro",
+    "chapter": 15,
+    "startVerse": 26,
+    "endVerse": 27,
+    "title": "Sharing spiritual goods grounds a material obligation toward Jerusalem's poor",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "doctrinal-argument",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-15-30-32",
+    "passageId": "ro-15-29-33",
+    "bookId": "ro",
+    "chapter": 15,
+    "startVerse": 30,
+    "endVerse": 32,
+    "title": "Join in prayer for safety, acceptance of the collection and a joyful visit",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-16-01-02",
+    "passageId": "ro-16-01-02",
+    "bookId": "ro",
+    "chapter": 16,
+    "startVerse": 1,
+    "endVerse": 2,
+    "title": "Receive Phoebe and give her the help she needs",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ro-t-16-16-16",
+    "passageId": "ro-16-01-16",
+    "bookId": "ro",
+    "chapter": 16,
+    "startVerse": 16,
+    "endVerse": 16,
+    "title": "Greet one another with a holy kiss",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "instruction",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "tit-t-01-01-03",
+    "passageId": "tit-01-01-04",
+    "bookId": "tit",
+    "chapter": 1,
+    "startVerse": 1,
+    "endVerse": 3,
+    "title": "Hope in the divine promise brought to light in proclamation",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "teachingType": "confession",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm",
+    "granularity": "selected-unit"
   }
 ]

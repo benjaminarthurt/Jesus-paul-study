@@ -9,10 +9,10 @@ const groups = books.filter(b=>teachings.some(t=>t.bookId===b.id));
 ---
 <Base title="Pauline teaching catalog" description="Draft teaching candidates from thirteen traditionally attributed Pauline letters.">
   <h1>Pauline teaching catalog</h1>
-  <p class="lead">Selected teaching candidates and broad passage-level candidates. Disputed authorship is explicitly distinguished from undisputed letters.</p>
-  <p class="warning">Draft editorial paraphrases, not verified quotations or an exhaustive concordance. Broad candidates require further segmentation.</p>
+  <p class="lead">Teaching candidates arranged by letter and verse. Disputed authorship is explicitly distinguished from undisputed letters.</p>
+  <p class="warning">Draft editorial paraphrases, not verified quotations or an exhaustive concordance. A documented English-text inspection covers only the cited passage. Greek, textual and scholarly review remain separate.</p>
   <p><a href="/teachings/">Browse teachings attributed to Jesus</a></p>
   <p>{teachings.length} candidates across {groups.length} letters.</p>
   <nav aria-label="Letters">{groups.map(b=><p><a href={'#'+b.id}>{b.title}</a></p>)}</nav>
-  {groups.map(b=><section id={b.id}><h2>{b.title}</h2><div class="card-grid">{teachings.filter(t=>t.bookId===b.id).map(t=><article class="card"><div class="meta"><strong>{names.get(t.bookId)} {t.chapter}:{t.startVerse}{t.startVerse===t.endVerse?'':'–'+t.endVerse}</strong><span>{t.sourceLayer}</span><span>{t.status}</span></div><h3>{t.title}</h3><p>{t.attribution.replaceAll('-',' ')} · {t.granularity.replaceAll('-',' ')}</p>{'attributionNote' in t && <p class="warning">{t.attributionNote}</p>}<p>{parents.get(t.passageId)?.summary}</p><p><a href={'/passages/'+t.passageId+'/'}>Parent passage</a> · <a href={t.sourceUrl}>Read source chapter</a></p></article>)}</div></section>)}
+  {groups.map(b=><section id={b.id}><h2>{b.title}</h2><div class="card-grid">{teachings.filter(t=>t.bookId===b.id).sort((a,b)=>a.chapter-b.chapter || a.startVerse-b.startVerse || a.endVerse-b.endVerse).map(t=><article class="card" id={t.id}><div class="meta"><strong>{names.get(t.bookId)} {t.chapter}:{t.startVerse}{t.startVerse===t.endVerse?'':'–'+t.endVerse}</strong><span>{t.sourceLayer}</span><span>{t.status}</span></div><h3>{t.title}</h3><p>{t.attribution.replaceAll('-',' ')} · {t.teachingType?.replaceAll('-',' ') ?? 'form pending'}</p>{'attributionNote' in t && <p class="warning">{t.attributionNote}</p>}<p>{parents.get(t.passageId)?.summary}</p><p><a href={'/passages/'+t.passageId+'/'}>Parent passage</a> · <a href={t.sourceUrl}>Read source chapter</a></p></article>)}</div></section>)}
 </Base>

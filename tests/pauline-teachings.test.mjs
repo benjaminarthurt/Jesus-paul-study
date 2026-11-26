@@ -1,5 +1,26 @@
-import test from 'node:test';
-import assert from 'node:assert/strict';
-import {readFileSync} from 'node:fs';
-const load = name => JSON.parse(readFileSync(new URL('../research/index/'+name+'.json',import.meta.url),'utf8'));
-test('Pauline teaching candidates retain valid parent and authorship boundaries',()=>{const rows=load('pauline-teachings'), parents=new Map(load('passages').map(p=>[p.id,p]));assert.equal(new Set(rows.map(r=>r.id)).size,rows.length);assert.equal(new Set(rows.map(r=>r.bookId)).size,13);for(const r of rows){const p=parents.get(r.passageId);assert.ok(p,r.id);assert.equal(r.bookId,p.bookId);assert.equal(r.sourceLayer,p.sourceLayer);assert.ok(r.sourceLayer.startsWith('paul-'));const [,c,a,b]=p.id.split('-').map(Number);assert.equal(r.chapter,c);assert.ok(r.startVerse>=a&&r.endVerse<=b&&r.startVerse<=r.endVerse);assert.equal(r.sourceUrl,p.sourceUrl);assert.equal(r.status,'draft');assert.ok(r.topics.every(t=>p.topics.includes(t)));assert.ok(['letter-discourse','lord-attributed-instruction','received-jesus-tradition','reported-lord-response'].includes(r.attribution));}});
+import test from "node:test";
+import assert from "node:assert/strict";
+import {readFileSync} from "node:fs";
+import {validateExtraction} from "../scripts/validate-extraction.mjs";
+
+const load = name => JSON.parse(readFileSync(new URL("../research/index/" + name + ".json", import.meta.url)));
+
+test("validate teaching boundaries, sources, authorship, topics and Gospel links", () => {
+  assert.deepEqual(validateExtraction(), []);
+  const rows = load("pauline-teachings");
+  assert.equal(new Set(rows.map(t => t.id)).size, rows.length);
+  assert.equal(new Set(rows.map(t => t.bookId)).size, 13);
+  for (const t of rows) assert.ok(["draft", "source-checked", "reviewed"].includes(t.status));
+});
+
+test("cross-chapter decisions preserve chapter-specific sources and distinct voices", () => {
+  const rows = load("pauline-teachings");
+  const decisions = load("pauline-extraction-dispositions");
+  for (const id of ["1th-02-17-03-13", "ro-09-30-10-03", "2co-06-14-07-01"]) {
+    const urls = decisions.find(d => d.passageId === id).primaryTextCheck.chapterUrls;
+    assert.equal(new Set(urls).size, 2);
+    assert.deepEqual(new Set(rows.filter(t => t.passageId === id).map(t => t.sourceUrl)), new Set(urls));
+  }
+  assert.equal(rows.find(t => t.id === "2co-t-06-16-18").attribution, "scriptural-divine-speech");
+  assert.equal(rows.find(t => t.id === "2co-t-07-01-01").attribution, "letter-discourse");
+});

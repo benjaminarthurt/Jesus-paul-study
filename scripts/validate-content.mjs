@@ -1,3 +1,4 @@
+import { validateExtraction } from "./validate-extraction.mjs";
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import { parseFrontmatter } from "./frontmatter.mjs";
@@ -11,7 +12,7 @@ const books = readJson("research/index/books.json");
 const passages = readJson("research/index/passages.json");
 const sources = readJson("research/index/sources.json");
 const evidenceRows = readJson("research/index/evidence.json");
-const errors = [];
+const errors = validateExtraction();
 const statuses = new Set(["draft", "source-checked", "reviewed"]);
 const groups = new Set(["gospels", "acts", "paul-undisputed", "paul-disputed", "other-nt"]);
 const layers = new Set(["jesus-synoptic", "jesus-john", "paul-undisputed", "paul-disputed", "acts", "other-nt"]);

@@ -1,10 +1,21 @@
 [
   {
     "passageId": "1co-01-01-09",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-01-04-07",
+      "1co-t-01-08-09"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The address and greeting in 1–3 lead into thanksgiving for gifts and confidence about the future.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO01.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-01-10-17",
@@ -25,10 +36,20 @@
   },
   {
     "passageId": "1co-02-01-05",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1co-t-02-01-05"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Paul gives a reason for his manner of preaching in Corinth.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO02.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-02-06-16",
@@ -312,10 +333,18 @@
   },
   {
     "passageId": "1co-16-19-19",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Greetings from Asia and from a house assembly identify hosts and contacts. The verse gives no instruction about who should lead.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1CO16.htm"
+      ]
+    }
   },
   {
     "passageId": "1co-16-20-24",
@@ -329,38 +358,95 @@
   },
   {
     "passageId": "1th-01-01-01",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Senders and addressees exchange a conventional greeting.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH01.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-01-02-10",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-01-02-05",
+      "1th-t-01-06-08",
+      "1th-t-01-09-10"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Thanksgiving recalls how the Thessalonians responded to the message.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH01.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-02-01-12",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-02-01-04",
+      "1th-t-02-05-09",
+      "1th-t-02-10-12"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The writers defend their conduct by recalling their work and their relationship with the recipients.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH02.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-02-13-16",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-02-13-13",
+      "1th-t-02-14-16"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The writers compare two communities under pressure. The polemical accusation in 14–16 requires historical and textual review before wider application.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH02.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-02-17-03-13",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1th-t-02-19-20",
+      "1th-t-03-03-04",
+      "1th-t-03-08-10",
+      "1th-t-03-11-13"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "2:17–18 and 3:1–2, 5–7 explain the separation, Timothy's visit and his return. The visit gives the exhortation about suffering its setting.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TH02.htm",
+        "https://ebible.org/engwebp/1TH03.htm"
+      ]
+    }
   },
   {
     "passageId": "1th-04-01-08",
@@ -421,10 +507,18 @@
   },
   {
     "passageId": "1ti-01-01-02",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The letter introduces its claimed sender, invokes divine authorization and greets Timothy. Its Pauline authorship is disputed.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI01.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-01-03-11",
@@ -437,10 +531,23 @@
   },
   {
     "passageId": "1ti-01-12-20",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "1ti-t-01-12-14",
+      "1ti-t-01-15-16",
+      "1ti-t-01-17-17",
+      "1ti-t-01-18-20"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The autobiographical voice frames a traditional saying and then addresses Timothy. Verse 20 supplies named examples of the warning.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/1TI01.htm"
+      ]
+    }
   },
   {
     "passageId": "1ti-02-01-07",
@@ -546,10 +653,18 @@
   },
   {
     "passageId": "2co-01-01-02",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Apostolic self-identification, co-sender, recipients and greeting introduce the correspondence.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO01.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-01-03-11",
@@ -569,10 +684,20 @@
   },
   {
     "passageId": "2co-02-01-04",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-02-01-04"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The account explains why Paul wrote instead of returning for another painful visit. His aim in writing is explicit in verse 4.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO02.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-02-05-11",
@@ -584,10 +709,21 @@
   },
   {
     "passageId": "2co-02-12-17",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-02-14-16",
+      "2co-t-02-17-17"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "12–13 recount travel and anxiety about Titus. The argument changes to thanksgiving in 14.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO02.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-03-01-18",
@@ -641,9 +777,23 @@
   },
   {
     "passageId": "2co-06-14-07-01",
-    "disposition": "cross-chapter-review",
-    "teachingIds": [],
-    "reviewStatus": "pending"
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-06-14-16",
+      "2co-t-06-16-18",
+      "2co-t-07-01-01"
+    ],
+    "reviewStatus": "pending",
+    "note": "6:14–16a argues by paired questions. From the citation formula in 16b the first person is God's voice within scripture. The letter resumes its own voice at 7:1.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO06.htm",
+        "https://ebible.org/engwebp/2CO07.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-07-02-16",
@@ -704,10 +854,21 @@
   },
   {
     "passageId": "2co-11-16-33",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2co-t-11-16-21",
+      "2co-t-11-22-30"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Paul introduces ironic boasting in 16–21. The catalogue in 22–29 and escape narrative in 31–33 give the concrete content of his boast.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2CO11.htm"
+      ]
+    }
   },
   {
     "passageId": "2co-12-01-10",
@@ -740,10 +901,18 @@
   },
   {
     "passageId": "2th-01-01-02",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Joint sender formula, address and wish for grace and peace.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TH01.htm"
+      ]
+    }
   },
   {
     "passageId": "2th-01-03-12",
@@ -795,17 +964,37 @@
   },
   {
     "passageId": "2th-03-16-18",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2th-t-03-16-16"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Verse 17 claims an autograph sign. Verse 18 closes with a grace wish.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TH03.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-01-01-05",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2ti-t-01-03-05"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The opening address in 1–2 precedes prayerful recollection of a particular family's faith.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI01.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-01-06-14",
@@ -819,10 +1008,20 @@
   },
   {
     "passageId": "2ti-01-15-18",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2ti-t-01-16-18"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The report of desertion in 15 contrasts with a named visitor's care in 16–18.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI01.htm"
+      ]
+    }
   },
   {
     "passageId": "2ti-02-01-13",
@@ -879,24 +1078,56 @@
   },
   {
     "passageId": "2ti-04-09-22",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "2ti-t-04-14-15",
+      "2ti-t-04-16-16",
+      "2ti-t-04-17-18"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "9–13 and 19–22 concern travel, supplies, colleagues and greetings. The account of the defense includes a prayer for those who deserted the speaker.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/2TI04.htm"
+      ]
+    }
   },
   {
     "passageId": "col-01-01-02",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Sender, co-sender, recipients and grace greeting.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL01.htm"
+      ]
+    }
   },
   {
     "passageId": "col-01-03-14",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "col-t-01-03-06",
+      "col-t-01-09-12",
+      "col-t-01-13-14"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The report from Epaphras in 7–8 connects thanksgiving to intercession.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL01.htm"
+      ]
+    }
   },
   {
     "passageId": "col-01-15-20",
@@ -961,17 +1192,36 @@
   },
   {
     "passageId": "col-04-07-18",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "col-t-04-12-12",
+      "col-t-04-16-17"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Travel news and named greetings frame local requests. Epaphras's prayer is reported in 12. Verse 18 closes with a request to remember the writer's chains.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/COL04.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-01-01-02",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Sender and audience formula followed by a grace and peace greeting.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH01.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-01-03-14",
@@ -985,10 +1235,21 @@
   },
   {
     "passageId": "eph-01-15-23",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-01-15-19",
+      "eph-t-01-20-23"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "A prayer for understanding develops into claims about Christ's authority.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH01.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-02-01-10",
@@ -1019,10 +1280,21 @@
   },
   {
     "passageId": "eph-03-14-21",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-03-14-19",
+      "eph-t-03-20-21"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The prayer moves from petition to praise at verse 20.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH03.htm"
+      ]
+    }
   },
   {
     "passageId": "eph-04-01-16",
@@ -1100,24 +1372,58 @@
   },
   {
     "passageId": "eph-06-21-24",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "eph-t-06-23-24"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "21–22 commend Tychicus as messenger. The final blessing specifies its recipients.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/EPH06.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-01-01-05",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-01-01-01",
+      "ga-t-01-03-05"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The salutation makes claims about the origin of apostleship and the purpose of Christ's death.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL01.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-01-06-24",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-01-06-09",
+      "ga-t-01-10-10",
+      "ga-t-01-11-12",
+      "ga-t-01-15-16"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "13–24 narrate Paul's earlier persecution, calling and travels in support of his claim about the origin of his gospel.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL01.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-02-01-10",
@@ -1189,10 +1495,21 @@
   },
   {
     "passageId": "ga-04-12-20",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ga-t-04-12-12",
+      "ga-t-04-16-18"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Paul recalls illness and welcome in 13–15 and expresses distress in 19–20.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/GAL04.htm"
+      ]
+    }
   },
   {
     "passageId": "ga-04-21-31",
@@ -1274,10 +1591,20 @@
   },
   {
     "passageId": "phm-01-01-07",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "phm-t-01-04-07"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "1–3 name the household audience. The thanksgiving anticipates the personal appeal later in the letter.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHM01.htm"
+      ]
+    }
   },
   {
     "passageId": "phm-01-08-21",
@@ -1291,24 +1618,54 @@
   },
   {
     "passageId": "phm-01-22-25",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "A personal lodging request, expectation of release through prayer, greetings and closing blessing concern the immediate visit and correspondents.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHM01.htm"
+      ]
+    }
   },
   {
     "passageId": "php-01-01-02",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Co-senders address the community, including overseers and servants. Their mention supplies evidence about addressees without prescribing offices.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP01.htm"
+      ]
+    }
   },
   {
     "passageId": "php-01-03-26",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "php-t-01-03-08",
+      "php-t-01-09-11",
+      "php-t-01-12-14",
+      "php-t-01-15-18",
+      "php-t-01-19-26"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Thanksgiving and prayer precede prison news. Paul reflects on mixed preaching motives and weighs death against continued service.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP01.htm"
+      ]
+    }
   },
   {
     "passageId": "php-01-27-30",
@@ -1338,10 +1695,21 @@
   },
   {
     "passageId": "php-02-19-30",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "php-t-02-20-22",
+      "php-t-02-29-30"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Travel plans and illness reports explain the recommendations of Timothy and Epaphroditus.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP02.htm"
+      ]
+    }
   },
   {
     "passageId": "php-03-01-11",
@@ -1407,17 +1775,38 @@
   },
   {
     "passageId": "php-04-21-23",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "An instruction to convey greetings, reciprocal greetings and a final blessing close the letter.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/PHP04.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-01-01-15",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-01-02-04",
+      "ro-t-01-05-06",
+      "ro-t-01-11-12",
+      "ro-t-01-14-15"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The opening address contains a compressed gospel formulation. In 8–15 a proposed visit introduces mutual encouragement and the scope of Paul's mission.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM01.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-01-16-17",
@@ -1629,9 +2018,24 @@
   },
   {
     "passageId": "ro-09-30-10-03",
-    "disposition": "cross-chapter-review",
-    "teachingIds": [],
-    "reviewStatus": "pending"
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-09-30-32",
+      "ro-t-09-33-33",
+      "ro-t-10-01-01",
+      "ro-t-10-02-03"
+    ],
+    "reviewStatus": "pending",
+    "note": "Paul moves from a question to scriptural warrant, then prayer and explanation. His explicit desire for Israel's salvation qualifies how the accusation is read.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM09.htm",
+        "https://ebible.org/engwebp/ROM10.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-10-04-04",
@@ -1759,45 +2163,105 @@
   },
   {
     "passageId": "ro-15-14-24",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-15-14-16",
+      "ro-t-15-17-20",
+      "ro-t-15-21-21"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "The mission rationale in 14–21 explains the travel plans in 22–24.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM15.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-15-25-28",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-15-26-27"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "25 and 28 explain the itinerary. The named collection in 26 supplies the case for the argument in 27.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM15.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-15-29-33",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-15-30-32"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "A proposed visit in 29 and a closing peace wish in 33 frame the appeal.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM15.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-16-01-02",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-16-01-02"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Phoebe's commendation includes direct instructions to receive and assist her. The exact sense of her titles requires separate Greek review.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM16.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-16-01-16",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "ro-t-16-16-16"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "1–2 are catalogued under the narrower Phoebe passage. 3–15 name particular coworkers and households. Verse 16 changes to a reciprocal instruction before closing with greetings.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM16.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-16-03-07",
-    "disposition": "context-priority",
+    "disposition": "context-only",
     "teachingIds": [],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Names, descriptions and greetings to particular coworkers provide evidence about their work. The sense of Junia's description in 7 requires separate study. No general office rule is stated.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/ROM16.htm"
+      ]
+    }
   },
   {
     "passageId": "ro-16-17-27",
@@ -1811,10 +2275,20 @@
   },
   {
     "passageId": "tit-01-01-04",
-    "disposition": "context-priority",
-    "teachingIds": [],
+    "disposition": "selected-candidates",
+    "teachingIds": [
+      "tit-t-01-01-03"
+    ],
     "reviewStatus": "pending",
-    "note": "Contextual material retained for review; not a final exclusion."
+    "note": "Within the opening address, 1–3 link apostleship to hope, promise and proclamation. Verse 4 addresses Titus.",
+    "primaryTextCheck": {
+      "edition": "WEBP",
+      "date": "2026-11-26",
+      "scope": "English passage in chapter context",
+      "chapterUrls": [
+        "https://ebible.org/engwebp/TIT01.htm"
+      ]
+    }
   },
   {
     "passageId": "tit-01-05-09",

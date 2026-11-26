@@ -1,0 +1,92 @@
+[
+  {
+    "passages": [
+      "mk-16-01-08",
+      "mt-28-01-10"
+    ],
+    "relationship": "partial-parallel",
+    "note": "A tomb messenger announces resurrection and Galilee. Matthew also depicts Jesus meeting the women.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-16-01-08",
+      "lk-24-01-11"
+    ],
+    "relationship": "partial-parallel",
+    "note": "A tomb announcement to women. Luke recalls a prediction made in Galilee and narrates their report to the others.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-28-01-10",
+      "lk-24-01-11"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Women receive a resurrection announcement. Luke gives the messengers a different reminder and has no encounter with Jesus in this scene.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-24-12-12",
+      "jn-20-01-10"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Peter inspects the tomb and linen. John includes a second disciple and distinguishes their reactions.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-28-01-10",
+      "jn-20-11-18"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Jesus gives women a message for others. Matthew names Galilee as the destination. John gives Mary a message about ascent.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-28-16-20",
+      "lk-24-36-49"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "A commission involving the nations. Matthew specifies baptism and instruction, Luke repentance and forgiveness beginning in Jerusalem.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-28-16-20",
+      "jn-20-19-23"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "The risen Jesus sends disciples. John frames sending through the Father, the Spirit and forgiveness.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mk-16-09-20",
+      "mt-28-16-20"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Both commission a wide mission. Mark’s disputed longer ending connects belief, baptism and signs.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-24-36-49",
+      "jn-20-19-23"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Jesus appears among gathered followers with a greeting of peace and shows wounds. Luke adds the meal and scriptural exposition. John adds the breathing of the Spirit.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-20-19-23",
+      "jn-20-24-29"
+    ],
+    "relationship": "repeated-saying",
+    "note": "Jesus greets the group with peace on two occasions in the same Gospel. Thomas is present only on the second occasion.",
+    "status": "candidate"
+  }
+]
