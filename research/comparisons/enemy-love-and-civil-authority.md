@@ -6,6 +6,7 @@ jesus: [mt-05-21-48, lk-06-27-36]
 paul: [ro-12-14-21, ro-13-01-07, ro-13-08-10, 1th-05-12-22]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
+reviewIds: [romans-12-13-public-authority]
 ---
 ## Research question
 
