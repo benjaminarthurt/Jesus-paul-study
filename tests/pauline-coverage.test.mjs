@@ -15,3 +15,7 @@ test("all Pauline references fit provisional verse inventory",()=>{
  assert.equal(rows.flatMap(r=>r.chapters).length,87);
  for(const r of rows)for(const c of r.chapters)assert.equal(c.covered+c.gaps.reduce((s,g)=>s+g.end-g.start+1,0),c.total);
 });
+
+test("all provisional Pauline verse slots intersect an indexed reference",()=>{
+ for(const r of paulineCoverage(read("pauline-verse-counts"),read("passages"))) assert.equal(r.covered,r.total,r.bookId);
+});

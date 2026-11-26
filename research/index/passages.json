@@ -1,5 +1,17 @@
 [
   {
+    "id": "1co-01-01-09",
+    "bookId": "1co",
+    "reference": "1 Corinthians 1:1–9",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Greeting and thanksgiving emphasize grace, gifts and expectation of Christ.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+  },
+  {
     "id": "1co-01-10-17",
     "bookId": "1co",
     "reference": "1 Corinthians 1:10–17",
@@ -22,6 +34,18 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+  },
+  {
+    "id": "1co-02-01-05",
+    "bookId": "1co",
+    "reference": "1 Corinthians 2:1–5",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul describes his proclamation of the crucified Christ and reliance on divine power rather than rhetorical prestige.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm"
   },
   {
     "id": "1co-02-06-16",
@@ -217,6 +241,18 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
   },
   {
+    "id": "1co-11-01-01",
+    "bookId": "1co",
+    "reference": "1 Corinthians 11:1",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul urges imitation of himself insofar as he imitates Christ.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+  },
+  {
     "id": "1co-11-02-16",
     "bookId": "1co",
     "reference": "1 Corinthians 11:2–16",
@@ -376,6 +412,18 @@
     "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
   },
   {
+    "id": "1co-16-05-18",
+    "bookId": "1co",
+    "reference": "1 Corinthians 16:5–18",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Travel plans and coworkers accompany exhortations to vigilance, love and recognition of service.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
     "id": "1co-16-19-19",
     "bookId": "1co",
     "reference": "1 Corinthians 16:19",
@@ -386,6 +434,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
+    "id": "1co-16-20-24",
+    "bookId": "1co",
+    "reference": "1 Corinthians 16:20–24",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Closing greetings, a warning concerning love for the Lord and a blessing conclude the letter.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+  },
+  {
+    "id": "1th-01-01-01",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 1:1",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul, Silvanus and Timothy greet the Thessalonian assembly.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH01.htm"
   },
   {
     "id": "1th-01-02-10",
@@ -497,6 +569,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+  },
+  {
+    "id": "1th-05-23-28",
+    "bookId": "1th",
+    "reference": "1 Thessalonians 5:23–28",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Closing prayer, requests for prayer and greetings, and instruction to read the letter conclude the text.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+  },
+  {
+    "id": "1ti-01-01-02",
+    "bookId": "1ti",
+    "reference": "1 Timothy 1:1–2",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter opens with a claim of apostolic commission and a greeting to Timothy.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm"
   },
   {
     "id": "1ti-01-03-11",
@@ -667,6 +763,18 @@
     "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
   },
   {
+    "id": "2co-01-01-02",
+    "bookId": "2co",
+    "reference": "2 Corinthians 1:1–2",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul and Timothy greet the Corinthian community and believers in Achaia.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+  },
+  {
     "id": "2co-01-03-11",
     "bookId": "2co",
     "reference": "2 Corinthians 1:3–11",
@@ -679,6 +787,30 @@
     "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
   },
   {
+    "id": "2co-01-12-24",
+    "bookId": "2co",
+    "reference": "2 Corinthians 1:12–24",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul defends his conduct and changed travel plans, denying that he seeks to dominate the community's faith.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+  },
+  {
+    "id": "2co-02-01-04",
+    "bookId": "2co",
+    "reference": "2 Corinthians 2:1–4",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul explains a painful letter and his desire to avoid another sorrowful visit.",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
+  },
+  {
     "id": "2co-02-05-11",
     "bookId": "2co",
     "reference": "2 Corinthians 2:5–11",
@@ -686,6 +818,18 @@
     "summary": "Paul urges forgiveness, comfort and reaffirmation of love after a punishment imposed by the majority.",
     "topics": [
       "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
+  },
+  {
+    "id": "2co-02-12-17",
+    "bookId": "2co",
+    "reference": "2 Corinthians 2:12–17",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Travel and ministry are described using triumph and fragrance imagery.",
+    "topics": [
+      "mission"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
@@ -787,6 +931,18 @@
     "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
   },
   {
+    "id": "2co-08-16-24",
+    "bookId": "2co",
+    "reference": "2 Corinthians 8:16–24",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul commends delegates handling the collection and emphasizes accountable administration.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+  },
+  {
     "id": "2co-09-01-15",
     "bookId": "2co",
     "reference": "2 Corinthians 9:1–15",
@@ -871,6 +1027,18 @@
     "sourceUrl": "https://ebible.org/engwebp/2CO13.htm"
   },
   {
+    "id": "2th-01-01-02",
+    "bookId": "2th",
+    "reference": "2 Thessalonians 1:1–2",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter opens with greetings in the names of Paul, Silvanus and Timothy.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH01.htm"
+  },
+  {
     "id": "2th-01-03-12",
     "bookId": "2th",
     "reference": "2 Thessalonians 1:3–12",
@@ -929,6 +1097,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+  },
+  {
+    "id": "2th-03-16-18",
+    "bookId": "2th",
+    "reference": "2 Thessalonians 3:16–18",
+    "sourceLayer": "paul-disputed",
+    "summary": "A prayer for peace, a claim concerning the signature and a blessing close the letter.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+  },
+  {
+    "id": "2ti-01-01-05",
+    "bookId": "2ti",
+    "reference": "2 Timothy 1:1–5",
+    "sourceLayer": "paul-disputed",
+    "summary": "The greeting and thanksgiving recall Timothy's faith and family background.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm"
   },
   {
     "id": "2ti-01-06-14",
@@ -1075,6 +1267,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ACT18.htm"
   },
   {
+    "id": "col-01-01-02",
+    "bookId": "col",
+    "reference": "Colossians 1:1–2",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter opens with greetings in the names of Paul and Timothy.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+  },
+  {
     "id": "col-01-03-14",
     "bookId": "col",
     "reference": "Colossians 1:3–14",
@@ -1169,6 +1373,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/COL04.htm"
+  },
+  {
+    "id": "col-04-07-18",
+    "bookId": "col",
+    "reference": "Colossians 4:7–18",
+    "sourceLayer": "paul-disputed",
+    "summary": "Coworkers, personal greetings, exchange of letters and closing instructions are recorded.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL04.htm"
+  },
+  {
+    "id": "eph-01-01-02",
+    "bookId": "eph",
+    "reference": "Ephesians 1:1–2",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter opens with a Pauline greeting and blessing.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm"
   },
   {
     "id": "eph-01-03-14",
@@ -1339,6 +1567,30 @@
     "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
   },
   {
+    "id": "eph-06-21-24",
+    "bookId": "eph",
+    "reference": "Ephesians 6:21–24",
+    "sourceLayer": "paul-disputed",
+    "summary": "Tychicus is commended as a messenger and closing blessings are offered.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+  },
+  {
+    "id": "ga-01-01-05",
+    "bookId": "ga",
+    "reference": "Galatians 1:1–5",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The greeting asserts divine commission and describes Christ's self-giving.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL01.htm"
+  },
+  {
     "id": "ga-01-06-24",
     "bookId": "ga",
     "reference": "Galatians 1:6–24",
@@ -1472,11 +1724,35 @@
     "sourceUrl": "https://ebible.org/engwebp/GAL04.htm"
   },
   {
+    "id": "ga-05-01-01",
+    "bookId": "ga",
+    "reference": "Galatians 5:1",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The community is urged to stand firm in freedom rather than submit again to slavery.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
     "id": "ga-05-02-06",
     "bookId": "ga",
     "reference": "Galatians 5:2–6",
     "sourceLayer": "paul-undisputed",
     "summary": "Paul warns Gentile addressees against circumcision as a necessary covenant obligation and emphasizes faith expressed through love.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-05-07-12",
+    "bookId": "ga",
+    "reference": "Galatians 5:7–12",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul criticizes interference with the Galatians' course and uses severe rhetoric against circumcision advocates.",
     "topics": [
       "mosaic-law"
     ],
@@ -1491,6 +1767,18 @@
     "summary": "Paul says freedom should lead to serving others and summarizes the Law through neighbor-love.",
     "topics": [
       "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+  },
+  {
+    "id": "ga-05-15-15",
+    "bookId": "ga",
+    "reference": "Galatians 5:15",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Mutual hostility is warned against through imagery of biting and devouring.",
+    "topics": [
+      "discipleship"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
@@ -7870,6 +8158,18 @@
     "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
   },
   {
+    "id": "php-01-01-02",
+    "bookId": "php",
+    "reference": "Philippians 1:1–2",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul and Timothy greet the community, including overseers and deacons.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm"
+  },
+  {
     "id": "php-01-03-26",
     "bookId": "php",
     "reference": "Philippians 1:3–26",
@@ -7955,6 +8255,18 @@
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm"
   },
   {
+    "id": "php-04-01-01",
+    "bookId": "php",
+    "reference": "Philippians 4:1",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul expresses affection and urges steadfastness in the Lord.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
     "id": "php-04-02-03",
     "bookId": "php",
     "reference": "Philippians 4:2–3",
@@ -7980,6 +8292,18 @@
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
   },
   {
+    "id": "php-04-08-09",
+    "bookId": "php",
+    "reference": "Philippians 4:8–9",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The community is urged to attend to worthy qualities and practice what it learned and observed.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
     "id": "php-04-10-20",
     "bookId": "php",
     "reference": "Philippians 4:10–20",
@@ -7990,6 +8314,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "php-04-21-23",
+    "bookId": "php",
+    "reference": "Philippians 4:21–23",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Closing greetings and a blessing include members of Caesar's household.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+  },
+  {
+    "id": "ro-01-01-15",
+    "bookId": "ro",
+    "reference": "Romans 1:1–15",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Greeting, apostolic commission, thanksgiving and desire to visit Rome.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm"
   },
   {
     "id": "ro-01-16-17",
@@ -8016,6 +8364,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM01.htm"
   },
   {
+    "id": "ro-02-01-05",
+    "bookId": "ro",
+    "reference": "Romans 2:1–5",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Judging others while practicing similar wrongdoing is criticized; divine kindness is connected to repentance.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
+  },
+  {
     "id": "ro-02-06-16",
     "bookId": "ro",
     "reference": "Romans 2:6–16",
@@ -8028,6 +8388,30 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
   },
   {
+    "id": "ro-02-17-29",
+    "bookId": "ro",
+    "reference": "Romans 2:17–29",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Possession of Torah and outward circumcision are contrasted with obedience and inward identity.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
+  },
+  {
+    "id": "ro-03-01-20",
+    "bookId": "ro",
+    "reference": "Romans 3:1–20",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Jewish privilege, divine faithfulness and universal accountability under sin are discussed.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+  },
+  {
     "id": "ro-03-21-26",
     "bookId": "ro",
     "reference": "Romans 3:21–26",
@@ -8035,6 +8419,18 @@
     "sourceLayer": "paul-undisputed",
     "topics": [
       "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+  },
+  {
+    "id": "ro-03-27-27",
+    "bookId": "ro",
+    "reference": "Romans 3:27",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Boasting is excluded through the principle of faith.",
+    "topics": [
+      "mosaic-law"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
@@ -8141,6 +8537,18 @@
     "reference": "Romans 7:7–12",
     "sourceLayer": "paul-undisputed",
     "summary": "Paul rejects the equation of Law with sin and describes the commandment as holy, just and good.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm"
+  },
+  {
+    "id": "ro-07-13-25",
+    "bookId": "ro",
+    "reference": "Romans 7:13–25",
+    "sourceLayer": "paul-undisputed",
+    "summary": "The speaker describes conflict between desire to obey and the power of sin; the identity of the speaker is debated.",
     "topics": [
       "mosaic-law"
     ],
@@ -8318,6 +8726,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
   },
   {
+    "id": "ro-13-11-14",
+    "bookId": "ro",
+    "reference": "Romans 13:11–14",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Awareness of approaching salvation motivates vigilance and ethical conduct.",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+  },
+  {
     "id": "ro-14-01-12",
     "bookId": "ro",
     "reference": "Romans 14:1–12",
@@ -8354,6 +8774,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
   },
   {
+    "id": "ro-15-14-24",
+    "bookId": "ro",
+    "reference": "Romans 15:14–24",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul explains his Gentile ministry and intended journey toward Spain.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
+  },
+  {
     "id": "ro-15-25-28",
     "bookId": "ro",
     "reference": "Romans 15:25–28",
@@ -8361,6 +8793,18 @@
     "summary": "Paul describes bringing contributions from Gentile churches for the poor among the believers in Jerusalem.",
     "topics": [
       "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
+  },
+  {
+    "id": "ro-15-29-33",
+    "bookId": "ro",
+    "reference": "Romans 15:29–33",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Paul requests prayer concerning his journey, safety and reception in Jerusalem.",
+    "topics": [
+      "prayer"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
@@ -8397,6 +8841,18 @@
     "summary": "Paul greets Prisca, Aquila, Mary, and Junia alongside others; Junia's relation to the apostles and the significance of the role terms are debated.",
     "topics": [
       "women-authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm"
+  },
+  {
+    "id": "ro-16-17-27",
+    "bookId": "ro",
+    "reference": "Romans 16:17–27",
+    "sourceLayer": "paul-undisputed",
+    "summary": "Warnings against divisions accompany greetings and closing praise; the placement of the doxology varies in manuscripts.",
+    "topics": [
+      "leadership"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/ROM16.htm"
