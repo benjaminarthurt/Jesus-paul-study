@@ -6,6 +6,7 @@ jesus: [mt-05-21-48, lk-06-43-45]
 paul: [ro-12-14-21, ga-05-15-15, ga-05-16-26]
 sourceIds: [web-protestant-66]
 classification: agreement
+reviewIds: [romans-12-conflict-and-tradition]
 ---
 ## Research question
 

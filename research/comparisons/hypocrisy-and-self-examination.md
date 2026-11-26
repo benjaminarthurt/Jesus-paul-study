@@ -6,6 +6,7 @@ jesus: [lk-06-37-42, lk-18-09-14]
 paul: [ro-02-01-05, 2co-13-01-14]
 sourceIds: [web-protestant-66]
 classification: agreement
+reviewIds: [romans-2-self-examination]
 ---
 ## Research question
 
