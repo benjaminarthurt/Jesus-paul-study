@@ -130,7 +130,8 @@
     "passageId": "1co-09-01-18",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1co-t-09-14-18"
+      "1co-t-09-14-14",
+      "1co-t-09-15-18"
     ],
     "reviewStatus": "pending"
   },
@@ -181,7 +182,8 @@
     "disposition": "selected-candidates",
     "teachingIds": [
       "1co-t-11-20-22",
-      "1co-t-11-23-26",
+      "1co-t-11-23-25",
+      "1co-t-11-26-26",
       "1co-t-11-33-34"
     ],
     "reviewStatus": "pending"
@@ -354,7 +356,10 @@
     "passageId": "1th-04-13-18",
     "disposition": "selected-candidates",
     "teachingIds": [
-      "1th-t-04-13-18"
+      "1th-t-04-13-14",
+      "1th-t-04-15-15",
+      "1th-t-04-16-17",
+      "1th-t-04-18-18"
     ],
     "reviewStatus": "pending"
   },
@@ -655,9 +660,12 @@
   },
   {
     "passageId": "2co-12-01-10",
-    "disposition": "broad-candidate",
+    "disposition": "selected-candidates",
     "teachingIds": [
-      "2co-t-12-01-10"
+      "2co-t-12-01-06",
+      "2co-t-12-07-08",
+      "2co-t-12-09-09",
+      "2co-t-12-09-10"
     ],
     "reviewStatus": "pending"
   },

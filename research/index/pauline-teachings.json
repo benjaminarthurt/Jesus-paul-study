@@ -13,7 +13,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-01-18-31",
@@ -29,7 +30,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-02-06-16",
@@ -45,7 +47,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-03-05-09",
@@ -61,7 +64,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-04-01-21",
@@ -77,7 +81,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-05-09-13",
@@ -93,7 +98,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-06-01-08",
@@ -109,7 +115,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-06-18-20",
@@ -125,7 +132,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-07-03-05",
@@ -141,7 +149,8 @@
       "marriage-divorce"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-07-10-11",
@@ -157,7 +166,8 @@
       "marriage-divorce"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-07-12-16",
@@ -173,7 +183,8 @@
       "marriage-divorce"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-07-20-24",
@@ -190,7 +201,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-07-25-40",
@@ -206,7 +218,8 @@
       "marriage-divorce"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-08-04-06",
@@ -222,7 +235,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-08-09-13",
@@ -238,23 +252,44 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm",
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-09-14-18",
+    "id": "1co-t-09-14-14",
     "passageId": "1co-09-01-18",
     "bookId": "1co",
     "chapter": 9,
     "startVerse": 14,
+    "endVerse": 14,
+    "title": "Lord's instruction concerning support for gospel proclaimers",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "lord-attributed-instruction",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse-level editorial division; exact clause boundaries pending."
+  },
+  {
+    "id": "1co-t-09-15-18",
+    "passageId": "1co-09-01-18",
+    "bookId": "1co",
+    "chapter": 9,
+    "startVerse": 15,
     "endVerse": 18,
-    "title": "Support for proclaimers and voluntary renunciation of rights",
+    "title": "Paul declines to exercise his right to support",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
       "mission"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse-level editorial division; exact clause boundaries pending."
   },
   {
     "id": "1co-t-09-19-23",
@@ -270,7 +305,8 @@
       "mission"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO09.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-10-01-13",
@@ -286,7 +322,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-10-23-24",
@@ -302,7 +339,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-10-25-30",
@@ -318,7 +356,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-10-31-33",
@@ -334,7 +373,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-11-01-01",
@@ -350,7 +390,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-11-05-05",
@@ -366,7 +407,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-11-20-22",
@@ -382,23 +424,44 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm",
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-11-23-26",
+    "id": "1co-t-11-23-25",
     "passageId": "1co-11-17-34",
     "bookId": "1co",
     "chapter": 11,
     "startVerse": 23,
-    "endVerse": 26,
-    "title": "Received supper tradition attributed to Jesus",
+    "endVerse": 25,
+    "title": "Received supper tradition and words attributed to Jesus",
     "sourceLayer": "paul-undisputed",
     "attribution": "received-jesus-tradition",
     "topics": [
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse-level editorial division; exact clause boundaries pending."
+  },
+  {
+    "id": "1co-t-11-26-26",
+    "passageId": "1co-11-17-34",
+    "bookId": "1co",
+    "chapter": 11,
+    "startVerse": 26,
+    "endVerse": 26,
+    "title": "Eating and drinking proclaim the Lord's death until he comes",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse-level editorial division; exact clause boundaries pending."
   },
   {
     "id": "1co-t-11-33-34",
@@ -414,7 +477,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO11.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-12-01-03",
@@ -430,7 +494,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-12-12-27",
@@ -446,7 +511,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-13-04-07",
@@ -463,7 +529,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-13-08-13",
@@ -480,7 +547,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO13.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-14-01-05",
@@ -496,7 +564,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-14-26-33",
@@ -512,7 +581,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-14-34-35",
@@ -528,7 +598,9 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Transmitted restriction; originality, placement and speaker attribution disputed. Not an uncontested statement by historical Paul."
   },
   {
     "id": "1co-t-14-39-40",
@@ -544,7 +616,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-15-01-11",
@@ -560,7 +633,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-15-12-28",
@@ -576,7 +650,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-15-29-34",
@@ -592,7 +667,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-15-35-58",
@@ -608,7 +684,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-16-01-04",
@@ -624,7 +701,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-16-05-18",
@@ -640,7 +718,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1co-t-16-20-24",
@@ -656,7 +735,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1th-t-04-03-08",
@@ -672,7 +752,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1th-t-04-09-12",
@@ -689,23 +770,80 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm",
+    "granularity": "selected-unit"
   },
   {
-    "id": "1th-t-04-13-18",
+    "id": "1th-t-04-13-14",
     "passageId": "1th-04-13-18",
     "bookId": "1th",
     "chapter": 4,
     "startVerse": 13,
-    "endVerse": 18,
-    "title": "Comfort mourners through resurrection hope",
+    "endVerse": 14,
+    "title": "Resurrection hope for mourners",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
       "end-times"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Scope and origin of the word of the Lord remain debated; verse 15 is the explicit attribution marker."
+  },
+  {
+    "id": "1th-t-04-15-15",
+    "passageId": "1th-04-13-18",
+    "bookId": "1th",
+    "chapter": 4,
+    "startVerse": 15,
+    "endVerse": 15,
+    "title": "Word attributed to the Lord concerning the living and dead",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "lord-attributed-instruction",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Scope and origin of the word of the Lord remain debated; verse 15 is the explicit attribution marker."
+  },
+  {
+    "id": "1th-t-04-16-17",
+    "passageId": "1th-04-13-18",
+    "bookId": "1th",
+    "chapter": 4,
+    "startVerse": 16,
+    "endVerse": 17,
+    "title": "Description of resurrection and gathering",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Scope and origin of the word of the Lord remain debated; verse 15 is the explicit attribution marker."
+  },
+  {
+    "id": "1th-t-04-18-18",
+    "passageId": "1th-04-13-18",
+    "bookId": "1th",
+    "chapter": 4,
+    "startVerse": 18,
+    "endVerse": 18,
+    "title": "Comfort one another with these words",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH04.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Scope and origin of the word of the Lord remain debated; verse 15 is the explicit attribution marker."
   },
   {
     "id": "1th-t-05-01-11",
@@ -721,7 +859,8 @@
       "end-times"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1th-t-05-12-13",
@@ -739,7 +878,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1th-t-05-14-15",
@@ -757,7 +897,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1th-t-05-16-18",
@@ -775,7 +916,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1th-t-05-19-22",
@@ -793,7 +935,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1th-t-05-23-28",
@@ -809,7 +952,8 @@
       "prayer"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1ti-t-01-03-11",
@@ -825,7 +969,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1ti-t-02-01-02",
@@ -841,7 +986,8 @@
       "prayer"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-02-11-15",
@@ -857,7 +1003,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-03-01-07",
@@ -873,7 +1020,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-03-08-13",
@@ -889,7 +1037,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-03-14-16",
@@ -905,7 +1054,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1ti-t-04-01-05",
@@ -921,7 +1071,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1ti-t-04-06-16",
@@ -937,7 +1088,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1ti-t-05-03-08",
@@ -953,7 +1105,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-05-17-21",
@@ -969,7 +1122,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-06-01-02",
@@ -985,7 +1139,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-06-03-05",
@@ -1001,7 +1156,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "1ti-t-06-06-10",
@@ -1017,7 +1173,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-06-17-19",
@@ -1033,7 +1190,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-06-20-21",
@@ -1049,7 +1207,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-01-03-07",
@@ -1065,7 +1224,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-01-24-24",
@@ -1081,7 +1241,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-02-05-11",
@@ -1097,7 +1258,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-03-01-18",
@@ -1113,7 +1275,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-04-01-18",
@@ -1129,7 +1292,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-05-01-10",
@@ -1145,7 +1309,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-05-18-21",
@@ -1161,7 +1326,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-06-01-13",
@@ -1177,7 +1343,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-07-02-16",
@@ -1193,7 +1360,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO07.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-08-08-09",
@@ -1209,7 +1377,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-08-12-15",
@@ -1225,7 +1394,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-08-20-21",
@@ -1241,7 +1411,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO08.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-09-06-07",
@@ -1257,7 +1428,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-09-08-11",
@@ -1273,7 +1445,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO09.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-10-01-18",
@@ -1289,7 +1462,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO10.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-11-01-15",
@@ -1305,23 +1479,80 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm",
+    "granularity": "broad-summary"
   },
   {
-    "id": "2co-t-12-01-10",
+    "id": "2co-t-12-01-06",
     "passageId": "2co-12-01-10",
     "bookId": "2co",
     "chapter": 12,
     "startVerse": 1,
-    "endVerse": 10,
-    "title": "Visions and weakness are discussed in relation to Christ's power.",
+    "endVerse": 6,
+    "title": "Account of visions and restraint in boasting",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse 9 contains both reported speech and the letter writer's response; overlapping ranges are intentional."
+  },
+  {
+    "id": "2co-t-12-07-08",
+    "passageId": "2co-12-01-10",
+    "bookId": "2co",
+    "chapter": 12,
+    "startVerse": 7,
+    "endVerse": 8,
+    "title": "Affliction and repeated prayer for relief",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse 9 contains both reported speech and the letter writer's response; overlapping ranges are intentional."
+  },
+  {
+    "id": "2co-t-12-09-09",
+    "passageId": "2co-12-01-10",
+    "bookId": "2co",
+    "chapter": 12,
+    "startVerse": 9,
+    "endVerse": 9,
+    "title": "Reported response of the Lord concerning grace and power",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "reported-lord-response",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse 9 contains both reported speech and the letter writer's response; overlapping ranges are intentional."
+  },
+  {
+    "id": "2co-t-12-09-10",
+    "passageId": "2co-12-01-10",
+    "bookId": "2co",
+    "chapter": 12,
+    "startVerse": 9,
+    "endVerse": 10,
+    "title": "Paul's response: weakness and Christ's power",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
+    "granularity": "selected-unit",
+    "attributionNote": "Verse 9 contains both reported speech and the letter writer's response; overlapping ranges are intentional."
   },
   {
     "id": "2co-t-12-11-21",
@@ -1337,7 +1568,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2co-t-13-05-05",
@@ -1353,7 +1585,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2CO13.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2CO13.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2th-t-01-03-12",
@@ -1369,7 +1602,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TH01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TH01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2th-t-02-01-12",
@@ -1385,7 +1619,8 @@
       "end-times"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2th-t-02-13-17",
@@ -1401,7 +1636,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2th-t-03-01-05",
@@ -1417,7 +1653,8 @@
       "prayer"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2th-t-03-06-12",
@@ -1433,7 +1670,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2th-t-03-13-15",
@@ -1449,7 +1687,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2ti-t-01-06-14",
@@ -1465,7 +1704,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2ti-t-02-02-02",
@@ -1481,7 +1721,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2ti-t-02-14-21",
@@ -1497,7 +1738,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2ti-t-02-22-26",
@@ -1513,7 +1755,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2ti-t-03-01-09",
@@ -1529,7 +1772,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "2ti-t-03-14-17",
@@ -1545,7 +1789,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2ti-t-04-01-08",
@@ -1561,7 +1806,8 @@
       "mission"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "col-t-01-15-20",
@@ -1577,7 +1823,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "col-t-01-21-29",
@@ -1593,7 +1840,8 @@
       "mission"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "col-t-02-01-07",
@@ -1609,7 +1857,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "col-t-02-16-23",
@@ -1625,7 +1874,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "col-t-03-12-15",
@@ -1641,7 +1891,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "col-t-03-18-19",
@@ -1657,7 +1908,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "col-t-03-20-21",
@@ -1673,7 +1925,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "col-t-03-22-25",
@@ -1689,7 +1942,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "col-t-04-01-01",
@@ -1705,7 +1959,8 @@
       "prayer"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/COL04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/COL04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-01-03-14",
@@ -1721,7 +1976,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "eph-t-02-08-10",
@@ -1737,7 +1993,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-02-11-22",
@@ -1753,7 +2010,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "eph-t-03-01-13",
@@ -1769,7 +2027,8 @@
       "mission"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "eph-t-04-01-06",
@@ -1785,7 +2044,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-04-11-16",
@@ -1801,7 +2061,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-04-17-24",
@@ -1817,7 +2078,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "eph-t-04-25-28",
@@ -1833,7 +2095,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-04-29-32",
@@ -1849,7 +2112,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-05-01-20",
@@ -1865,7 +2129,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "eph-t-05-21-24",
@@ -1881,7 +2146,8 @@
       "marriage-divorce"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-05-25-33",
@@ -1897,7 +2163,8 @@
       "marriage-divorce"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-06-01-04",
@@ -1913,7 +2180,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-06-05-09",
@@ -1929,7 +2197,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-06-10-20",
@@ -1945,7 +2214,8 @@
       "prayer"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-02-10-10",
@@ -1962,7 +2232,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-02-11-14",
@@ -1978,7 +2249,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-03-01-09",
@@ -1994,7 +2266,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-03-10-14",
@@ -2010,7 +2283,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-03-15-22",
@@ -2026,7 +2300,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-03-23-25",
@@ -2042,7 +2317,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-03-26-29",
@@ -2058,7 +2334,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-04-01-11",
@@ -2074,7 +2351,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-04-21-31",
@@ -2090,7 +2368,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-05-01-01",
@@ -2106,7 +2385,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-05-06-06",
@@ -2122,7 +2402,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-05-07-12",
@@ -2138,7 +2419,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-05-13-14",
@@ -2154,7 +2436,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-05-15-15",
@@ -2170,7 +2453,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ga-t-05-16-21",
@@ -2186,7 +2470,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-05-22-26",
@@ -2202,7 +2487,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-06-01-02",
@@ -2218,7 +2504,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-06-07-10",
@@ -2234,7 +2521,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-06-11-18",
@@ -2250,7 +2538,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "phm-t-01-08-14",
@@ -2268,7 +2557,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "phm-t-01-15-17",
@@ -2286,7 +2576,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "phm-t-01-18-21",
@@ -2304,7 +2595,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHM01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-01-27-30",
@@ -2320,7 +2612,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "php-t-02-01-04",
@@ -2337,7 +2630,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-02-05-11",
@@ -2354,7 +2648,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-02-14-16",
@@ -2370,7 +2665,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-03-01-11",
@@ -2386,7 +2682,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "php-t-03-12-21",
@@ -2402,7 +2699,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "php-t-04-01-01",
@@ -2418,7 +2716,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "php-t-04-02-03",
@@ -2434,7 +2733,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-04-04-07",
@@ -2451,7 +2751,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-04-08-09",
@@ -2467,7 +2768,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-04-10-20",
@@ -2483,7 +2785,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-01-16-17",
@@ -2499,7 +2802,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-01-18-32",
@@ -2515,7 +2819,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-02-01-05",
@@ -2531,7 +2836,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-02-06-16",
@@ -2547,7 +2853,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-02-17-29",
@@ -2563,7 +2870,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-03-01-20",
@@ -2579,7 +2887,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-03-21-26",
@@ -2595,7 +2904,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-03-27-27",
@@ -2611,7 +2921,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-03-28-31",
@@ -2627,7 +2938,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM03.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-04-01-12",
@@ -2643,7 +2955,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-04-13-25",
@@ -2659,7 +2972,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM04.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-05-01-11",
@@ -2675,7 +2989,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-05-12-21",
@@ -2691,7 +3006,8 @@
       "identity-resurrection"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM05.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-06-01-14",
@@ -2707,7 +3023,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-06-15-23",
@@ -2723,7 +3040,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM06.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-07-01-06",
@@ -2739,7 +3057,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-07-07-12",
@@ -2755,7 +3074,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-07-13-25",
@@ -2771,7 +3091,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM07.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-08-01-04",
@@ -2787,7 +3108,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-08-05-17",
@@ -2803,7 +3125,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-08-18-39",
@@ -2819,7 +3142,8 @@
       "suffering"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM08.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-09-01-29",
@@ -2835,7 +3159,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM09.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-10-04-04",
@@ -2851,7 +3176,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-10-05-21",
@@ -2867,7 +3193,8 @@
       "mission"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM10.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-11-01-24",
@@ -2883,7 +3210,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-11-25-36",
@@ -2899,7 +3227,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM11.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-12-01-08",
@@ -2915,7 +3244,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-12-09-09",
@@ -2931,7 +3261,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-10-10",
@@ -2947,7 +3278,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-11-12",
@@ -2963,7 +3295,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-13-13",
@@ -2979,7 +3312,8 @@
       "wealth-poverty"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-14-14",
@@ -2996,7 +3330,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-15-16",
@@ -3013,7 +3348,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-17-18",
@@ -3030,7 +3366,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-12-19-21",
@@ -3047,7 +3384,8 @@
       "forgiveness"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-13-01-05",
@@ -3064,7 +3402,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-13-06-07",
@@ -3081,7 +3420,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-13-08-10",
@@ -3097,7 +3437,8 @@
       "mosaic-law"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-13-11-14",
@@ -3113,7 +3454,8 @@
       "end-times"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM13.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "ro-t-14-01-04",
@@ -3129,7 +3471,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-14-05-09",
@@ -3145,7 +3488,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-14-10-12",
@@ -3161,7 +3505,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-14-13-18",
@@ -3177,7 +3522,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-14-19-23",
@@ -3193,7 +3539,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM14.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-15-01-03",
@@ -3209,7 +3556,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-15-07-07",
@@ -3225,7 +3573,8 @@
       "inclusion"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM15.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-16-17-27",
@@ -3241,7 +3590,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm"
+    "sourceUrl": "https://ebible.org/engwebp/ROM16.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "tit-t-01-05-09",
@@ -3257,7 +3607,8 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-01-10-16",
@@ -3273,7 +3624,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "tit-t-02-01-02",
@@ -3289,7 +3641,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "tit-t-02-03-05",
@@ -3305,7 +3658,8 @@
       "women-authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-02-09-10",
@@ -3321,7 +3675,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-02-11-15",
@@ -3337,7 +3692,8 @@
       "discipleship"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
+    "granularity": "broad-summary"
   },
   {
     "id": "tit-t-03-01-02",
@@ -3353,7 +3709,8 @@
       "authority"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-03-09-11",
@@ -3369,6 +3726,7 @@
       "leadership"
     ],
     "status": "draft",
-    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm"
+    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm",
+    "granularity": "selected-unit"
   }
 ]
