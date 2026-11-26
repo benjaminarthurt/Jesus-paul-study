@@ -1288,13 +1288,13 @@
     "attributionNote": "Scope and origin of the word of the Lord remain debated; verse 15 is the explicit attribution marker."
   },
   {
-    "id": "1th-t-05-01-11",
+    "id": "1th-t-05-01-03",
     "passageId": "1th-05-01-11",
     "bookId": "1th",
     "chapter": 5,
     "startVerse": 1,
-    "endVerse": 11,
-    "title": "Paul describes the day of the Lord as unexpected and urges vigilance.",
+    "endVerse": 3,
+    "title": "Unexpected arrival of the day of the Lord",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1302,7 +1302,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-05-04-08",
+    "passageId": "1th-05-01-11",
+    "bookId": "1th",
+    "chapter": 5,
+    "startVerse": 4,
+    "endVerse": 8,
+    "title": "Vigilance and sobriety",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1th-t-05-09-11",
+    "passageId": "1th-05-01-11",
+    "bookId": "1th",
+    "chapter": 5,
+    "startVerse": 9,
+    "endVerse": 11,
+    "title": "Hope of salvation and mutual encouragement",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1th-t-05-12-13",
@@ -1381,13 +1415,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1th-t-05-23-28",
+    "id": "1th-t-05-23-24",
     "passageId": "1th-05-23-28",
     "bookId": "1th",
     "chapter": 5,
     "startVerse": 23,
-    "endVerse": 28,
-    "title": "Closing prayer, requests for prayer and greetings, and instruction to read the letter conclude the text.",
+    "endVerse": 24,
+    "title": "Prayer for sanctification",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1395,16 +1429,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1ti-t-01-03-11",
+    "id": "1th-t-05-25-28",
+    "passageId": "1th-05-23-28",
+    "bookId": "1th",
+    "chapter": 5,
+    "startVerse": 25,
+    "endVerse": 28,
+    "title": "Prayer, greetings and public reading",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-01-03-07",
     "passageId": "1ti-01-03-11",
     "bookId": "1ti",
     "chapter": 1,
     "startVerse": 3,
-    "endVerse": 11,
-    "title": "The letter opposes certain teachings and discusses appropriate use of law.",
+    "endVerse": 7,
+    "title": "Warning against speculative teaching",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1412,7 +1463,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-01-08-11",
+    "passageId": "1ti-01-03-11",
+    "bookId": "1ti",
+    "chapter": 1,
+    "startVerse": 8,
+    "endVerse": 11,
+    "title": "Proper use of law",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-02-01-02",
@@ -1483,13 +1551,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1ti-t-03-14-16",
+    "id": "1ti-t-03-14-15",
     "passageId": "1ti-03-14-16",
     "bookId": "1ti",
     "chapter": 3,
     "startVerse": 14,
-    "endVerse": 16,
-    "title": "Instructions for conduct in God's household accompany a confession about Christ.",
+    "endVerse": 15,
+    "title": "Conduct in God's household",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1497,16 +1565,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1ti-t-04-01-05",
+    "id": "1ti-t-03-16-16",
+    "passageId": "1ti-03-14-16",
+    "bookId": "1ti",
+    "chapter": 3,
+    "startVerse": 16,
+    "endVerse": 16,
+    "title": "Confessional statement about Christ",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-04-01-03",
     "passageId": "1ti-04-01-05",
     "bookId": "1ti",
     "chapter": 4,
     "startVerse": 1,
-    "endVerse": 5,
-    "title": "The letter rejects prohibitions on marriage and certain foods.",
+    "endVerse": 3,
+    "title": "Warning against prohibitions on marriage and foods",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1514,16 +1599,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1ti-t-04-06-16",
+    "id": "1ti-t-04-04-05",
+    "passageId": "1ti-04-01-05",
+    "bookId": "1ti",
+    "chapter": 4,
+    "startVerse": 4,
+    "endVerse": 5,
+    "title": "Receive creation with thanksgiving",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-04-06-10",
     "passageId": "1ti-04-06-16",
     "bookId": "1ti",
     "chapter": 4,
     "startVerse": 6,
-    "endVerse": 16,
-    "title": "The recipient is urged to teach, cultivate godliness and model conduct.",
+    "endVerse": 10,
+    "title": "Training in godliness",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1531,7 +1633,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-04-11-13",
+    "passageId": "1ti-04-06-16",
+    "bookId": "1ti",
+    "chapter": 4,
+    "startVerse": 11,
+    "endVerse": 13,
+    "title": "Teaching and exemplary conduct",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1ti-t-04-14-16",
+    "passageId": "1ti-04-06-16",
+    "bookId": "1ti",
+    "chapter": 4,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "Cultivate gifts and persevere",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-05-03-08",
@@ -1591,7 +1727,7 @@
     "chapter": 6,
     "startVerse": 3,
     "endVerse": 5,
-    "title": "Disputes over teaching and treating godliness as a means of gain are criticized.",
+    "title": "Critique of contentious teaching and financial motives",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1599,7 +1735,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI06.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "1ti-t-06-06-10",
@@ -1642,7 +1778,7 @@
     "chapter": 6,
     "startVerse": 20,
     "endVerse": 21,
-    "title": "The recipient is urged to guard what has been entrusted and avoid certain disputes.",
+    "title": "Guard entrusted teaching and avoid empty disputes",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1650,7 +1786,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI06.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-01-03-07",
@@ -2354,13 +2490,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2th-t-01-03-12",
+    "id": "2th-t-01-03-05",
     "passageId": "2th-01-03-12",
     "bookId": "2th",
     "chapter": 1,
     "startVerse": 3,
-    "endVerse": 12,
-    "title": "Second Thessalonians links endurance under persecution with divine judgment and relief.",
+    "endVerse": 5,
+    "title": "Endurance under persecution",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2368,16 +2504,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TH01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "2th-t-02-01-12",
+    "id": "2th-t-01-06-10",
+    "passageId": "2th-01-03-12",
+    "bookId": "2th",
+    "chapter": 1,
+    "startVerse": 6,
+    "endVerse": 10,
+    "title": "Divine judgment and relief",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-01-11-12",
+    "passageId": "2th-01-03-12",
+    "bookId": "2th",
+    "chapter": 1,
+    "startVerse": 11,
+    "endVerse": 12,
+    "title": "Prayer for worthy conduct",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-02-01-03",
     "passageId": "2th-02-01-12",
     "bookId": "2th",
     "chapter": 2,
     "startVerse": 1,
-    "endVerse": 12,
-    "title": "Second Thessalonians cautions against claims that the day of the Lord has arrived and describes preceding events.",
+    "endVerse": 3,
+    "title": "Warning against premature claims about the day",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2385,16 +2555,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "2th-t-02-13-17",
+    "id": "2th-t-02-04-08",
+    "passageId": "2th-02-01-12",
+    "bookId": "2th",
+    "chapter": 2,
+    "startVerse": 4,
+    "endVerse": 8,
+    "title": "Lawlessness and restraint",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-02-09-12",
+    "passageId": "2th-02-01-12",
+    "bookId": "2th",
+    "chapter": 2,
+    "startVerse": 9,
+    "endVerse": 12,
+    "title": "Deception and judgment",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "end-times"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-02-13-14",
     "passageId": "2th-02-13-17",
     "bookId": "2th",
     "chapter": 2,
     "startVerse": 13,
-    "endVerse": 17,
-    "title": "The community is urged to hold to received traditions and remain steadfast.",
+    "endVerse": 14,
+    "title": "Thanksgiving for salvation and calling",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2402,16 +2606,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "2th-t-03-01-05",
+    "id": "2th-t-02-15-15",
+    "passageId": "2th-02-13-17",
+    "bookId": "2th",
+    "chapter": 2,
+    "startVerse": 15,
+    "endVerse": 15,
+    "title": "Hold received traditions",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-02-16-17",
+    "passageId": "2th-02-13-17",
+    "bookId": "2th",
+    "chapter": 2,
+    "startVerse": 16,
+    "endVerse": 17,
+    "title": "Prayer for encouragement",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-03-01-02",
     "passageId": "2th-03-01-05",
     "bookId": "2th",
     "chapter": 3,
     "startVerse": 1,
-    "endVerse": 5,
-    "title": "Prayer for the spread of the message and protection accompanies encouragement.",
+    "endVerse": 2,
+    "title": "Prayer for proclamation and deliverance",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2419,7 +2657,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TH03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2th-t-03-03-05",
+    "passageId": "2th-03-01-05",
+    "bookId": "2th",
+    "chapter": 3,
+    "startVerse": 3,
+    "endVerse": 5,
+    "title": "Confidence and steadfastness",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2th-t-03-06-12",
@@ -2456,13 +2711,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2ti-t-01-06-14",
+    "id": "2ti-t-01-06-08",
     "passageId": "2ti-01-06-14",
     "bookId": "2ti",
     "chapter": 1,
     "startVerse": 6,
-    "endVerse": 14,
-    "title": "Second Timothy urges courage, fidelity to received teaching and willingness to suffer.",
+    "endVerse": 8,
+    "title": "Courage and willingness to suffer",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2470,7 +2725,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TI01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-01-09-12",
+    "passageId": "2ti-01-06-14",
+    "bookId": "2ti",
+    "chapter": 1,
+    "startVerse": 9,
+    "endVerse": 12,
+    "title": "Grace and calling",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-01-13-14",
+    "passageId": "2ti-01-06-14",
+    "bookId": "2ti",
+    "chapter": 1,
+    "startVerse": 13,
+    "endVerse": 14,
+    "title": "Guard received teaching",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2ti-t-02-02-02",
@@ -2490,13 +2779,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2ti-t-02-14-21",
+    "id": "2ti-t-02-14-16",
     "passageId": "2ti-02-14-21",
     "bookId": "2ti",
     "chapter": 2,
     "startVerse": 14,
-    "endVerse": 21,
-    "title": "The recipient is urged to avoid destructive disputes and pursue faithful teaching.",
+    "endVerse": 16,
+    "title": "Avoid destructive disputes and handle teaching faithfully",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2504,7 +2793,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TI02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-02-17-19",
+    "passageId": "2ti-02-14-21",
+    "bookId": "2ti",
+    "chapter": 2,
+    "startVerse": 17,
+    "endVerse": 19,
+    "title": "Warning against false resurrection claims",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-02-20-21",
+    "passageId": "2ti-02-14-21",
+    "bookId": "2ti",
+    "chapter": 2,
+    "startVerse": 20,
+    "endVerse": 21,
+    "title": "Vessels and readiness for good work",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2ti-t-02-22-26",
@@ -2524,13 +2847,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2ti-t-03-01-09",
+    "id": "2ti-t-03-01-05",
     "passageId": "2ti-03-01-09",
     "bookId": "2ti",
     "chapter": 3,
     "startVerse": 1,
-    "endVerse": 9,
-    "title": "The letter describes anticipated wrongdoing and warns against deceptive teachers.",
+    "endVerse": 5,
+    "title": "Warning about destructive conduct",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2538,7 +2861,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TI03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-03-06-09",
+    "passageId": "2ti-03-01-09",
+    "bookId": "2ti",
+    "chapter": 3,
+    "startVerse": 6,
+    "endVerse": 9,
+    "title": "Critique of deceptive teachers",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2ti-t-03-14-17",
@@ -2558,13 +2898,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2ti-t-04-01-08",
+    "id": "2ti-t-04-01-02",
     "passageId": "2ti-04-01-08",
     "bookId": "2ti",
     "chapter": 4,
     "startVerse": 1,
-    "endVerse": 8,
-    "title": "Second Timothy urges proclamation and perseverance while anticipating judgment and describing the speaker's approaching death.",
+    "endVerse": 2,
+    "title": "Proclaim and correct patiently",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2572,16 +2912,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2TI04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "col-t-01-15-20",
+    "id": "2ti-t-04-03-05",
+    "passageId": "2ti-04-01-08",
+    "bookId": "2ti",
+    "chapter": 4,
+    "startVerse": 3,
+    "endVerse": 5,
+    "title": "Persevere amid resistance",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2ti-t-04-06-08",
+    "passageId": "2ti-04-01-08",
+    "bookId": "2ti",
+    "chapter": 4,
+    "startVerse": 6,
+    "endVerse": 8,
+    "title": "Approaching death and anticipated reward",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-01-15-17",
     "passageId": "col-01-15-20",
     "bookId": "col",
     "chapter": 1,
     "startVerse": 15,
-    "endVerse": 20,
-    "title": "Colossians presents Christ as image of the invisible God and relates him to creation and reconciliation.",
+    "endVerse": 17,
+    "title": "Christ and creation",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2589,16 +2963,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "col-t-01-21-29",
+    "id": "col-t-01-18-20",
+    "passageId": "col-01-15-20",
+    "bookId": "col",
+    "chapter": 1,
+    "startVerse": 18,
+    "endVerse": 20,
+    "title": "Christ, resurrection and reconciliation",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-01-21-23",
     "passageId": "col-01-21-29",
     "bookId": "col",
     "chapter": 1,
     "startVerse": 21,
-    "endVerse": 29,
-    "title": "Reconciliation and the author's ministry among the Gentiles are discussed.",
+    "endVerse": 23,
+    "title": "Reconciliation and continuing in faith",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2606,16 +2997,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "col-t-02-01-07",
+    "id": "col-t-01-24-29",
+    "passageId": "col-01-21-29",
+    "bookId": "col",
+    "chapter": 1,
+    "startVerse": 24,
+    "endVerse": 29,
+    "title": "Ministry, suffering and revealed mystery",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-02-01-05",
     "passageId": "col-02-01-07",
     "bookId": "col",
     "chapter": 2,
     "startVerse": 1,
-    "endVerse": 7,
-    "title": "The community is urged to remain rooted in Christ and resist deceptive arguments.",
+    "endVerse": 5,
+    "title": "Encouragement against deceptive arguments",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2623,7 +3031,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/COL02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "col-t-02-06-07",
+    "passageId": "col-02-01-07",
+    "bookId": "col",
+    "chapter": 2,
+    "startVerse": 6,
+    "endVerse": 7,
+    "title": "Remain rooted in Christ",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "col-t-02-16-23",
@@ -2728,13 +3153,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "eph-t-01-03-14",
+    "id": "eph-t-01-03-06",
     "passageId": "eph-01-03-14",
     "bookId": "eph",
     "chapter": 1,
     "startVerse": 3,
-    "endVerse": 14,
-    "title": "Blessing, election, redemption and inheritance are described in relation to Christ.",
+    "endVerse": 6,
+    "title": "Blessing and adoption",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2742,7 +3167,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-01-07-10",
+    "passageId": "eph-01-03-14",
+    "bookId": "eph",
+    "chapter": 1,
+    "startVerse": 7,
+    "endVerse": 10,
+    "title": "Redemption and divine purpose",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-01-11-14",
+    "passageId": "eph-01-03-14",
+    "bookId": "eph",
+    "chapter": 1,
+    "startVerse": 11,
+    "endVerse": 14,
+    "title": "Inheritance and sealing by the Spirit",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-02-08-10",
@@ -2762,13 +3221,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "eph-t-02-11-22",
+    "id": "eph-t-02-11-13",
     "passageId": "eph-02-11-22",
     "bookId": "eph",
     "chapter": 2,
     "startVerse": 11,
-    "endVerse": 22,
-    "title": "Ephesians depicts reconciliation of Gentiles and Jews through Christ and a shared household of God.",
+    "endVerse": 13,
+    "title": "Gentiles brought near",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2776,16 +3235,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "eph-t-03-01-13",
+    "id": "eph-t-02-14-18",
+    "passageId": "eph-02-11-22",
+    "bookId": "eph",
+    "chapter": 2,
+    "startVerse": 14,
+    "endVerse": 18,
+    "title": "Reconciliation and peace",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-02-19-22",
+    "passageId": "eph-02-11-22",
+    "bookId": "eph",
+    "chapter": 2,
+    "startVerse": 19,
+    "endVerse": 22,
+    "title": "Shared household and temple",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "inclusion"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-03-01-06",
     "passageId": "eph-03-01-13",
     "bookId": "eph",
     "chapter": 3,
     "startVerse": 1,
-    "endVerse": 13,
-    "title": "The Gentile mission is described as participation in a revealed mystery.",
+    "endVerse": 6,
+    "title": "Gentiles as fellow heirs",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2793,7 +3286,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-03-07-13",
+    "passageId": "eph-03-01-13",
+    "bookId": "eph",
+    "chapter": 3,
+    "startVerse": 7,
+    "endVerse": 13,
+    "title": "Ministry and divine purpose",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-04-01-06",
@@ -2830,13 +3340,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "eph-t-04-17-24",
+    "id": "eph-t-04-17-19",
     "passageId": "eph-04-17-24",
     "bookId": "eph",
     "chapter": 4,
     "startVerse": 17,
-    "endVerse": 24,
-    "title": "Former conduct is contrasted with renewed life and a new self.",
+    "endVerse": 19,
+    "title": "Contrast with former conduct",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2844,7 +3354,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-04-20-24",
+    "passageId": "eph-04-17-24",
+    "bookId": "eph",
+    "chapter": 4,
+    "startVerse": 20,
+    "endVerse": 24,
+    "title": "Renewed mind and new self",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-04-25-28",
@@ -2881,13 +3408,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "eph-t-05-01-20",
+    "id": "eph-t-05-01-02",
     "passageId": "eph-05-01-20",
     "bookId": "eph",
     "chapter": 5,
     "startVerse": 1,
-    "endVerse": 20,
-    "title": "Love, ethical conduct, discernment and communal worship are urged.",
+    "endVerse": 2,
+    "title": "Imitation of God and love",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2895,7 +3422,75 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-05-03-07",
+    "passageId": "eph-05-01-20",
+    "bookId": "eph",
+    "chapter": 5,
+    "startVerse": 3,
+    "endVerse": 7,
+    "title": "Warnings against wrongdoing",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-05-08-14",
+    "passageId": "eph-05-01-20",
+    "bookId": "eph",
+    "chapter": 5,
+    "startVerse": 8,
+    "endVerse": 14,
+    "title": "Walk as children of light",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-05-15-17",
+    "passageId": "eph-05-01-20",
+    "bookId": "eph",
+    "chapter": 5,
+    "startVerse": 15,
+    "endVerse": 17,
+    "title": "Wise use of time",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-05-18-20",
+    "passageId": "eph-05-01-20",
+    "bookId": "eph",
+    "chapter": 5,
+    "startVerse": 18,
+    "endVerse": 20,
+    "title": "Spirit-filled worship and thanksgiving",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "eph-t-05-21-24",
@@ -2966,13 +3561,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "eph-t-06-10-20",
+    "id": "eph-t-06-10-13",
     "passageId": "eph-06-10-20",
     "bookId": "eph",
     "chapter": 6,
     "startVerse": 10,
-    "endVerse": 20,
-    "title": "Spiritual armor imagery accompanies exhortations to perseverance and prayer.",
+    "endVerse": 13,
+    "title": "Strength and spiritual conflict",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -2980,7 +3575,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH06.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-06-14-17",
+    "passageId": "eph-06-10-20",
+    "bookId": "eph",
+    "chapter": 6,
+    "startVerse": 14,
+    "endVerse": 17,
+    "title": "Armor imagery",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "eph-t-06-18-20",
+    "passageId": "eph-06-10-20",
+    "bookId": "eph",
+    "chapter": 6,
+    "startVerse": 18,
+    "endVerse": 20,
+    "title": "Persevering prayer",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-02-10-10",
@@ -3018,13 +3647,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "ga-t-03-01-09",
+    "id": "ga-t-03-01-05",
     "passageId": "ga-03-01-09",
     "bookId": "ga",
     "chapter": 3,
     "startVerse": 1,
-    "endVerse": 9,
-    "title": "Paul contrasts reception of the Spirit by faith with works of law.",
+    "endVerse": 5,
+    "title": "Reception of Spirit and works of law",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3032,16 +3661,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ga-t-03-10-14",
+    "id": "ga-t-03-06-09",
+    "passageId": "ga-03-01-09",
+    "bookId": "ga",
+    "chapter": 3,
+    "startVerse": 6,
+    "endVerse": 9,
+    "title": "Abraham and blessing through faith",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-03-10-12",
     "passageId": "ga-03-10-14",
     "bookId": "ga",
     "chapter": 3,
     "startVerse": 10,
-    "endVerse": 14,
-    "title": "Paul links reliance on works of the Law to a curse and relates the Abrahamic promise to faith and the Spirit.",
+    "endVerse": 12,
+    "title": "Law and curse argument",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3049,16 +3695,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ga-t-03-15-22",
+    "id": "ga-t-03-13-14",
+    "passageId": "ga-03-10-14",
+    "bookId": "ga",
+    "chapter": 3,
+    "startVerse": 13,
+    "endVerse": 14,
+    "title": "Redemption and Abrahamic blessing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-03-15-18",
     "passageId": "ga-03-15-22",
     "bookId": "ga",
     "chapter": 3,
     "startVerse": 15,
-    "endVerse": 22,
-    "title": "Paul discusses the relationship between promise and law.",
+    "endVerse": 18,
+    "title": "Promise and inheritance",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3066,7 +3729,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-03-19-22",
+    "passageId": "ga-03-15-22",
+    "bookId": "ga",
+    "chapter": 3,
+    "startVerse": 19,
+    "endVerse": 22,
+    "title": "Purpose and limits of law",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-03-23-25",
@@ -3075,7 +3755,7 @@
     "chapter": 3,
     "startVerse": 23,
     "endVerse": 25,
-    "title": "Paul describes the Law's supervisory role and a changed relationship to it through faith.",
+    "title": "Law as guardian and changed relationship through faith",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3083,7 +3763,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-03-26-29",
@@ -3103,13 +3783,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "ga-t-04-01-11",
+    "id": "ga-t-04-01-07",
     "passageId": "ga-04-01-11",
     "bookId": "ga",
     "chapter": 4,
     "startVerse": 1,
-    "endVerse": 11,
-    "title": "Inheritance, adoption and former religious observances are contrasted.",
+    "endVerse": 7,
+    "title": "Adoption and inheritance",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3117,16 +3797,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "ga-t-04-21-31",
+    "id": "ga-t-04-08-11",
+    "passageId": "ga-04-01-11",
+    "bookId": "ga",
+    "chapter": 4,
+    "startVerse": 8,
+    "endVerse": 11,
+    "title": "Warning against returning to former bondage",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-04-21-27",
     "passageId": "ga-04-21-31",
     "bookId": "ga",
     "chapter": 4,
     "startVerse": 21,
-    "endVerse": 31,
-    "title": "Paul uses Hagar and Sarah allegorically to contrast slavery and freedom.",
+    "endVerse": 27,
+    "title": "Hagar and Sarah allegory",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3134,7 +3831,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-04-28-31",
+    "passageId": "ga-04-21-31",
+    "bookId": "ga",
+    "chapter": 4,
+    "startVerse": 28,
+    "endVerse": 31,
+    "title": "Children of promise and freedom",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-05-01-01",
@@ -3171,13 +3885,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "ga-t-05-07-12",
+    "id": "ga-t-05-07-10",
     "passageId": "ga-05-07-12",
     "bookId": "ga",
     "chapter": 5,
     "startVerse": 7,
-    "endVerse": 12,
-    "title": "Paul criticizes interference with the Galatians' course and uses severe rhetoric against circumcision advocates.",
+    "endVerse": 10,
+    "title": "Warning against interference and persuasion",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3185,7 +3899,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-05-11-12",
+    "passageId": "ga-05-07-12",
+    "bookId": "ga",
+    "chapter": 5,
+    "startVerse": 11,
+    "endVerse": 12,
+    "title": "Polemic concerning circumcision",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-05-13-14",
@@ -3211,7 +3942,7 @@
     "chapter": 5,
     "startVerse": 15,
     "endVerse": 15,
-    "title": "Mutual hostility is warned against through imagery of biting and devouring.",
+    "title": "Warning against mutual hostility",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3219,7 +3950,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "ga-t-05-16-21",
@@ -3290,13 +4021,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "ga-t-06-11-18",
+    "id": "ga-t-06-11-13",
     "passageId": "ga-06-11-18",
     "bookId": "ga",
     "chapter": 6,
     "startVerse": 11,
-    "endVerse": 18,
-    "title": "Paul contrasts circumcision-based boasting with the cross and new creation.",
+    "endVerse": 13,
+    "title": "Critique of circumcision-based boasting",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3304,7 +4035,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/GAL06.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-06-14-16",
+    "passageId": "ga-06-11-18",
+    "bookId": "ga",
+    "chapter": 6,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "Cross and new creation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "ga-t-06-17-18",
+    "passageId": "ga-06-11-18",
+    "bookId": "ga",
+    "chapter": 6,
+    "startVerse": 17,
+    "endVerse": 18,
+    "title": "Closing appeal and blessing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/GAL06.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "phm-t-01-08-14",
@@ -3364,13 +4129,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "php-t-01-27-30",
+    "id": "php-t-01-27-28",
     "passageId": "php-01-27-30",
     "bookId": "php",
     "chapter": 1,
     "startVerse": 27,
-    "endVerse": 30,
-    "title": "The community is urged to stand together amid opposition.",
+    "endVerse": 28,
+    "title": "Unity and courage amid opposition",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3378,7 +4143,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-01-29-30",
+    "passageId": "php-01-27-30",
+    "bookId": "php",
+    "chapter": 1,
+    "startVerse": 29,
+    "endVerse": 30,
+    "title": "Suffering for Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-02-01-04",
@@ -3434,13 +4216,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "php-t-03-01-11",
+    "id": "php-t-03-01-03",
     "passageId": "php-03-01-11",
     "bookId": "php",
     "chapter": 3,
     "startVerse": 1,
-    "endVerse": 11,
-    "title": "Paul contrasts inherited credentials with righteousness associated with Christ.",
+    "endVerse": 3,
+    "title": "Warning against rival claims",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3448,16 +4230,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "php-t-03-12-21",
+    "id": "php-t-03-04-06",
+    "passageId": "php-03-01-11",
+    "bookId": "php",
+    "chapter": 3,
+    "startVerse": 4,
+    "endVerse": 6,
+    "title": "Inherited credentials",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-03-07-11",
+    "passageId": "php-03-01-11",
+    "bookId": "php",
+    "chapter": 3,
+    "startVerse": 7,
+    "endVerse": 11,
+    "title": "Righteousness and knowing Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-03-12-16",
     "passageId": "php-03-12-21",
     "bookId": "php",
     "chapter": 3,
     "startVerse": 12,
-    "endVerse": 21,
-    "title": "Paul describes pursuit of the goal and heavenly citizenship.",
+    "endVerse": 16,
+    "title": "Press toward the goal",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3465,7 +4281,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-03-17-19",
+    "passageId": "php-03-12-21",
+    "bookId": "php",
+    "chapter": 3,
+    "startVerse": 17,
+    "endVerse": 19,
+    "title": "Examples and contrasting conduct",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-03-20-21",
+    "passageId": "php-03-12-21",
+    "bookId": "php",
+    "chapter": 3,
+    "startVerse": 20,
+    "endVerse": 21,
+    "title": "Heavenly citizenship and transformation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-04-01-01",
@@ -3474,7 +4324,7 @@
     "chapter": 4,
     "startVerse": 1,
     "endVerse": 1,
-    "title": "Paul expresses affection and urges steadfastness in the Lord.",
+    "title": "Stand firm in the Lord",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3482,7 +4332,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "php-t-04-02-03",
@@ -3537,13 +4387,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "php-t-04-10-20",
+    "id": "php-t-04-10-13",
     "passageId": "php-04-10-20",
     "bookId": "php",
     "chapter": 4,
     "startVerse": 10,
-    "endVerse": 20,
-    "title": "Paul discusses contentment and the community's material support.",
+    "endVerse": 13,
+    "title": "Contentment in varied circumstances",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -3551,7 +4401,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-04-14-18",
+    "passageId": "php-04-10-20",
+    "bookId": "php",
+    "chapter": 4,
+    "startVerse": 14,
+    "endVerse": 18,
+    "title": "Material partnership and support",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "php-t-04-19-20",
+    "passageId": "php-04-10-20",
+    "bookId": "php",
+    "chapter": 4,
+    "startVerse": 19,
+    "endVerse": 20,
+    "title": "Divine provision and praise",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "ro-t-01-16-16",
@@ -5109,13 +5993,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "tit-t-01-10-16",
+    "id": "tit-t-01-10-11",
     "passageId": "tit-01-10-16",
     "bookId": "tit",
     "chapter": 1,
     "startVerse": 10,
-    "endVerse": 16,
-    "title": "The letter condemns rival teaching and uses polemical language about opponents.",
+    "endVerse": 11,
+    "title": "Warning against disruptive teaching",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -5123,7 +6007,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/TIT01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "tit-t-01-12-14",
+    "passageId": "tit-01-10-16",
+    "bookId": "tit",
+    "chapter": 1,
+    "startVerse": 12,
+    "endVerse": 14,
+    "title": "Polemical quotation and correction",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "tit-t-01-15-16",
+    "passageId": "tit-01-10-16",
+    "bookId": "tit",
+    "chapter": 1,
+    "startVerse": 15,
+    "endVerse": 16,
+    "title": "Purity and conduct",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-02-01-02",
@@ -5132,7 +6050,7 @@
     "chapter": 2,
     "startVerse": 1,
     "endVerse": 2,
-    "title": "Older men are instructed in sober and faithful conduct.",
+    "title": "Sound teaching and conduct of older men",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -5140,7 +6058,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-02-03-05",
@@ -5177,13 +6095,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "tit-t-02-11-15",
+    "id": "tit-t-02-11-12",
     "passageId": "tit-02-11-15",
     "bookId": "tit",
     "chapter": 2,
     "startVerse": 11,
-    "endVerse": 15,
-    "title": "Grace is connected to ethical conduct, hope and good works.",
+    "endVerse": 12,
+    "title": "Grace and ethical conduct",
     "sourceLayer": "paul-disputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -5191,7 +6109,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "tit-t-02-13-14",
+    "passageId": "tit-02-11-15",
+    "bookId": "tit",
+    "chapter": 2,
+    "startVerse": 13,
+    "endVerse": 14,
+    "title": "Hope and good works",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "tit-t-02-15-15",
+    "passageId": "tit-02-11-15",
+    "bookId": "tit",
+    "chapter": 2,
+    "startVerse": 15,
+    "endVerse": 15,
+    "title": "Teaching and correction",
+    "sourceLayer": "paul-disputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "tit-t-03-01-02",
