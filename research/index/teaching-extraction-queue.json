@@ -1149,6 +1149,7 @@
     "existingSpeechIds": [
       "jn-s-04-07-10",
       "jn-s-04-13-14",
+      "jn-s-04-16-18",
       "jn-s-04-21-24",
       "jn-s-04-25-26",
       "jn-s-04-31-38"
@@ -1176,7 +1177,9 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "jn-s-05-08-09"
+      "jn-s-05-06-06",
+      "jn-s-05-08-09",
+      "jn-s-05-14-14"
     ]
   },
   {
@@ -1195,7 +1198,8 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-05-19-23",
-      "jn-s-05-24-29"
+      "jn-s-05-24-29",
+      "jn-s-05-30-30"
     ]
   },
   {
@@ -1213,7 +1217,11 @@
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "jn-s-06-05-06",
+      "jn-s-06-10-10",
+      "jn-s-06-12-12"
+    ]
   },
   {
     "passageId": "jn-06-16-21",
@@ -1239,6 +1247,7 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "jn-s-06-32-33",
       "jn-s-06-35-40"
     ]
   },
@@ -1361,6 +1370,7 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "jn-s-08-21-22",
       "jn-s-08-23-29"
     ]
   },
@@ -1371,6 +1381,7 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-08-31-36",
+      "jn-s-08-37-41",
       "jn-s-08-42-47"
     ]
   },
@@ -1380,6 +1391,7 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "jn-s-08-49-50",
       "jn-s-08-51-59"
     ]
   },
@@ -1406,7 +1418,8 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "jn-s-09-35-39"
+      "jn-s-09-35-39",
+      "jn-s-09-41-41"
     ]
   },
   {
@@ -1443,6 +1456,7 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "jn-s-10-32-32",
       "jn-s-10-34-38"
     ]
   },
@@ -1453,6 +1467,7 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-11-04-04",
+      "jn-s-11-07-10",
       "jn-s-11-11-15"
     ]
   },
@@ -1462,6 +1477,7 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "jn-s-11-23-23",
       "jn-s-11-25-27"
     ]
   },
@@ -1470,7 +1486,9 @@
     "bookId": "jn",
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "jn-s-11-34-34"
+    ]
   },
   {
     "passageId": "jn-11-38-44",
@@ -1478,7 +1496,9 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "jn-s-11-40-43"
+      "jn-s-11-39-39",
+      "jn-s-11-40-43",
+      "jn-s-11-44-44"
     ]
   },
   {
@@ -1520,6 +1540,7 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "jn-s-12-27-32",
+      "jn-s-12-34-36",
       "jn-s-12-35-36"
     ]
   },
@@ -1679,7 +1700,8 @@
     "sourceLayer": "jesus-john",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "jn-s-18-04-09"
+      "jn-s-18-04-09",
+      "jn-s-18-11-11"
     ]
   },
   {
@@ -1956,6 +1978,7 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-04-18-21",
+      "lk-s-04-23-23",
       "lk-s-04-24-27"
     ]
   },
@@ -1964,7 +1987,9 @@
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "lk-s-04-35-35"
+    ]
   },
   {
     "passageId": "lk-04-38-41",
@@ -1988,6 +2013,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-05-04-04",
       "lk-s-05-10-10"
     ]
   },
@@ -1996,7 +2022,9 @@
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "lk-s-05-13-14"
+    ]
   },
   {
     "passageId": "lk-05-17-26",
@@ -2013,6 +2041,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-05-27-27",
       "lk-s-05-31-32"
     ]
   },
@@ -2031,6 +2060,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-06-03-04",
       "lk-s-06-05-05"
     ]
   },
@@ -2040,7 +2070,9 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "lk-s-06-09-09"
+      "lk-s-06-08-08",
+      "lk-s-06-09-09",
+      "lk-s-06-10-10"
     ]
   },
   {
@@ -2135,7 +2167,9 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "lk-s-07-28-28"
+      "lk-s-07-24-27",
+      "lk-s-07-28-28",
+      "lk-s-07-31-35"
     ]
   },
   {
@@ -2145,6 +2179,7 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-07-40-47",
+      "lk-s-07-48-48",
       "lk-s-07-50-50"
     ]
   },
@@ -2188,6 +2223,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-08-22-22",
       "lk-s-08-25-25"
     ]
   },
@@ -2197,6 +2233,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-08-30-30",
       "lk-s-08-39-39"
     ]
   },
@@ -2206,8 +2243,11 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-08-45-46",
       "lk-s-08-48-48",
-      "lk-s-08-50-50"
+      "lk-s-08-50-50",
+      "lk-s-08-52-52",
+      "lk-s-08-54-54"
     ]
   },
   {
@@ -2241,6 +2281,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-09-18-19",
       "lk-s-09-20-22"
     ]
   },
@@ -2265,14 +2306,18 @@
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "lk-s-09-41-41"
+    ]
   },
   {
     "passageId": "lk-09-44-45",
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "lk-s-09-44-44"
+    ]
   },
   {
     "passageId": "lk-09-46-48",
@@ -2332,6 +2377,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-10-18-18",
       "lk-s-10-19-20"
     ]
   },
@@ -2433,6 +2479,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-12-14-14",
       "lk-s-12-15-15",
       "lk-s-12-16-21"
     ]
@@ -2516,6 +2563,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-13-32-33",
       "lk-s-13-34-35"
     ]
   },
@@ -2561,7 +2609,8 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
-      "lk-s-14-26-33"
+      "lk-s-14-26-33",
+      "lk-s-14-34-35"
     ]
   },
   {
@@ -2605,7 +2654,9 @@
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "lk-s-16-15-15"
+    ]
   },
   {
     "passageId": "lk-16-16-17",
@@ -2748,6 +2799,7 @@
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
     "existingSpeechIds": [
+      "lk-s-19-29-31",
       "lk-s-19-40-40"
     ]
   },
@@ -2878,7 +2930,10 @@
     "bookId": "lk",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [
+      "lk-s-22-08-08",
+      "lk-s-22-10-12"
+    ]
   },
   {
     "passageId": "lk-22-14-23",
@@ -2896,6 +2951,7 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "lk-s-22-25-27",
+      "lk-s-22-28-30",
       "lk-s-22-31-34",
       "lk-s-22-35-38"
     ]
