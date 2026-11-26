@@ -277,5 +277,50 @@
     "relationship": "direct-synoptic-parallel",
     "note": "A wealthy inquirer and instruction about wealth lead to discussion with disciples. Matthew includes thrones and judging Israel in the reply to Peter.",
     "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-02-13-22",
+      "mk-11-12-19"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both depict disruption of temple commerce. John places the episode early and adds the temple-body exchange. Mark surrounds the action with the fig tree and cites the house of prayer.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-04-43-45",
+      "mk-06-01-06"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Both report a saying about a prophet's honor. John recalls it while describing a return to Galilee. Mark gives it as Jesus' response to offense in his hometown.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-06-01-15",
+      "mk-06-30-44"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Five loaves, two fish and twelve baskets appear in both. John names Philip and Andrew, introduces a boy and narrates an attempt to make Jesus king.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-06-16-21",
+      "mk-06-45-52"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both recount the water crossing after the feeding and Jesus' reassurance. Mark emphasizes wind and the disciples' misunderstanding. John ends with the boat reaching its destination.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-01-35-42",
+      "mk-01-16-20"
+    ],
+    "relationship": "thematic-resemblance",
+    "note": "Both introduce Simon and Andrew as followers. John begins with the Baptist's testimony and Andrew bringing Simon. Mark gives a shoreside call to fishermen. The sequence and initiating speakers differ.",
+    "status": "candidate"
   }
 ]
