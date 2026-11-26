@@ -499,6 +499,42 @@
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm"
   },
   {
+    "id": "1ti-01-03-11",
+    "bookId": "1ti",
+    "reference": "1 Timothy 1:3–11",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter opposes certain teachings and discusses appropriate use of law.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm"
+  },
+  {
+    "id": "1ti-01-12-20",
+    "bookId": "1ti",
+    "reference": "1 Timothy 1:12–20",
+    "sourceLayer": "paul-disputed",
+    "summary": "Mercy, commission and disciplinary action are described through the author's voice.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI01.htm"
+  },
+  {
+    "id": "1ti-02-01-07",
+    "bookId": "1ti",
+    "reference": "1 Timothy 2:1–7",
+    "sourceLayer": "paul-disputed",
+    "summary": "Prayer for all people and rulers is connected with salvation and mediation.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI02.htm"
+  },
+  {
     "id": "1ti-02-08-15",
     "bookId": "1ti",
     "reference": "1 Timothy 2:8–15",
@@ -523,6 +559,90 @@
     "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
   },
   {
+    "id": "1ti-03-14-16",
+    "bookId": "1ti",
+    "reference": "1 Timothy 3:14–16",
+    "sourceLayer": "paul-disputed",
+    "summary": "Instructions for conduct in God's household accompany a confession about Christ.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI03.htm"
+  },
+  {
+    "id": "1ti-04-01-05",
+    "bookId": "1ti",
+    "reference": "1 Timothy 4:1–5",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter rejects prohibitions on marriage and certain foods.",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm"
+  },
+  {
+    "id": "1ti-04-06-16",
+    "bookId": "1ti",
+    "reference": "1 Timothy 4:6–16",
+    "sourceLayer": "paul-disputed",
+    "summary": "The recipient is urged to teach, cultivate godliness and model conduct.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI04.htm"
+  },
+  {
+    "id": "1ti-05-01-16",
+    "bookId": "1ti",
+    "reference": "1 Timothy 5:1–16",
+    "sourceLayer": "paul-disputed",
+    "summary": "Instructions address family responsibilities and support for widows.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm"
+  },
+  {
+    "id": "1ti-05-17-25",
+    "bookId": "1ti",
+    "reference": "1 Timothy 5:17–25",
+    "sourceLayer": "paul-disputed",
+    "summary": "Elders, compensation, accusations and impartial discipline are discussed.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI05.htm"
+  },
+  {
+    "id": "1ti-06-01-02",
+    "bookId": "1ti",
+    "reference": "1 Timothy 6:1–2",
+    "sourceLayer": "paul-disputed",
+    "summary": "Enslaved people are instructed regarding their masters, including believing masters.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
+    "id": "1ti-06-03-05",
+    "bookId": "1ti",
+    "reference": "1 Timothy 6:3–5",
+    "sourceLayer": "paul-disputed",
+    "summary": "Disputes over teaching and treating godliness as a means of gain are criticized.",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
     "id": "1ti-06-06-19",
     "bookId": "1ti",
     "reference": "1 Timothy 6:6–19",
@@ -530,6 +650,18 @@
     "summary": "A later or disputed Pauline letter warns against love of money and instructs wealthy believers in generosity and good deeds.",
     "topics": [
       "wealth-poverty"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
+  },
+  {
+    "id": "1ti-06-20-21",
+    "bookId": "1ti",
+    "reference": "1 Timothy 6:20–21",
+    "sourceLayer": "paul-disputed",
+    "summary": "The recipient is urged to guard what has been entrusted and avoid certain disputes.",
+    "topics": [
+      "authority"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TI06.htm"
@@ -763,6 +895,30 @@
     "sourceUrl": "https://ebible.org/engwebp/2TH02.htm"
   },
   {
+    "id": "2th-02-13-17",
+    "bookId": "2th",
+    "reference": "2 Thessalonians 2:13–17",
+    "sourceLayer": "paul-disputed",
+    "summary": "The community is urged to hold to received traditions and remain steadfast.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH02.htm"
+  },
+  {
+    "id": "2th-03-01-05",
+    "bookId": "2th",
+    "reference": "2 Thessalonians 3:1–5",
+    "sourceLayer": "paul-disputed",
+    "summary": "Prayer for the spread of the message and protection accompanies encouragement.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TH03.htm"
+  },
+  {
     "id": "2th-03-06-15",
     "bookId": "2th",
     "reference": "2 Thessalonians 3:6–15",
@@ -787,11 +943,35 @@
     "sourceUrl": "https://ebible.org/engwebp/2TI01.htm"
   },
   {
+    "id": "2ti-01-15-18",
+    "bookId": "2ti",
+    "reference": "2 Timothy 1:15–18",
+    "sourceLayer": "paul-disputed",
+    "summary": "Examples of abandonment and faithful assistance are recalled.",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI01.htm"
+  },
+  {
     "id": "2ti-02-01-13",
     "bookId": "2ti",
     "reference": "2 Timothy 2:1–13",
     "sourceLayer": "paul-disputed",
     "summary": "Second Timothy describes transmitting teaching, enduring hardship and remembering Jesus' resurrection.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
+  },
+  {
+    "id": "2ti-02-14-21",
+    "bookId": "2ti",
+    "reference": "2 Timothy 2:14–21",
+    "sourceLayer": "paul-disputed",
+    "summary": "The recipient is urged to avoid destructive disputes and pursue faithful teaching.",
     "topics": [
       "leadership"
     ],
@@ -811,6 +991,18 @@
     "sourceUrl": "https://ebible.org/engwebp/2TI02.htm"
   },
   {
+    "id": "2ti-03-01-09",
+    "bookId": "2ti",
+    "reference": "2 Timothy 3:1–9",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter describes anticipated wrongdoing and warns against deceptive teachers.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI03.htm"
+  },
+  {
     "id": "2ti-03-10-17",
     "bookId": "2ti",
     "reference": "2 Timothy 3:10–17",
@@ -828,6 +1020,18 @@
     "reference": "2 Timothy 4:1–8",
     "sourceLayer": "paul-disputed",
     "summary": "Second Timothy urges proclamation and perseverance while anticipating judgment and describing the speaker's approaching death.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2TI04.htm"
+  },
+  {
+    "id": "2ti-04-09-22",
+    "bookId": "2ti",
+    "reference": "2 Timothy 4:9–22",
+    "sourceLayer": "paul-disputed",
+    "summary": "Personal requests, abandonment, assistance and closing greetings are recorded.",
     "topics": [
       "mission"
     ],
@@ -871,6 +1075,18 @@
     "sourceUrl": "https://ebible.org/engwebp/ACT18.htm"
   },
   {
+    "id": "col-01-03-14",
+    "bookId": "col",
+    "reference": "Colossians 1:3–14",
+    "sourceLayer": "paul-disputed",
+    "summary": "Thanksgiving and prayer concern knowledge, endurance and redemption.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+  },
+  {
     "id": "col-01-15-20",
     "bookId": "col",
     "reference": "Colossians 1:15–20",
@@ -881,6 +1097,30 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+  },
+  {
+    "id": "col-01-21-29",
+    "bookId": "col",
+    "reference": "Colossians 1:21–29",
+    "sourceLayer": "paul-disputed",
+    "summary": "Reconciliation and the author's ministry among the Gentiles are discussed.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL01.htm"
+  },
+  {
+    "id": "col-02-01-07",
+    "bookId": "col",
+    "reference": "Colossians 2:1–7",
+    "sourceLayer": "paul-disputed",
+    "summary": "The community is urged to remain rooted in Christ and resist deceptive arguments.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/COL02.htm"
   },
   {
     "id": "col-02-08-23",
@@ -931,6 +1171,30 @@
     "sourceUrl": "https://ebible.org/engwebp/COL04.htm"
   },
   {
+    "id": "eph-01-03-14",
+    "bookId": "eph",
+    "reference": "Ephesians 1:3–14",
+    "sourceLayer": "paul-disputed",
+    "summary": "Blessing, election, redemption and inheritance are described in relation to Christ.",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm"
+  },
+  {
+    "id": "eph-01-15-23",
+    "bookId": "eph",
+    "reference": "Ephesians 1:15–23",
+    "sourceLayer": "paul-disputed",
+    "summary": "Thanksgiving and prayer concern knowledge, hope and Christ's exaltation.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH01.htm"
+  },
+  {
     "id": "eph-02-01-10",
     "bookId": "eph",
     "reference": "Ephesians 2:1–10",
@@ -955,6 +1219,30 @@
     "sourceUrl": "https://ebible.org/engwebp/EPH02.htm"
   },
   {
+    "id": "eph-03-01-13",
+    "bookId": "eph",
+    "reference": "Ephesians 3:1–13",
+    "sourceLayer": "paul-disputed",
+    "summary": "The Gentile mission is described as participation in a revealed mystery.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm"
+  },
+  {
+    "id": "eph-03-14-21",
+    "bookId": "eph",
+    "reference": "Ephesians 3:14–21",
+    "sourceLayer": "paul-disputed",
+    "summary": "Prayer for spiritual strength and knowledge of Christ's love concludes the section.",
+    "topics": [
+      "prayer"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH03.htm"
+  },
+  {
     "id": "eph-04-01-16",
     "bookId": "eph",
     "reference": "Ephesians 4:1–16",
@@ -962,6 +1250,18 @@
     "summary": "Ephesians urges unity and describes diverse ministry roles contributing to communal maturity.",
     "topics": [
       "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
+  },
+  {
+    "id": "eph-04-17-24",
+    "bookId": "eph",
+    "reference": "Ephesians 4:17–24",
+    "sourceLayer": "paul-disputed",
+    "summary": "Former conduct is contrasted with renewed life and a new self.",
+    "topics": [
+      "discipleship"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
@@ -979,6 +1279,18 @@
     "sourceUrl": "https://ebible.org/engwebp/EPH04.htm"
   },
   {
+    "id": "eph-05-01-20",
+    "bookId": "eph",
+    "reference": "Ephesians 5:1–20",
+    "sourceLayer": "paul-disputed",
+    "summary": "Love, ethical conduct, discernment and communal worship are urged.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
+  },
+  {
     "id": "eph-05-21-33",
     "bookId": "eph",
     "reference": "Ephesians 5:21–33",
@@ -991,6 +1303,18 @@
     "sourceUrl": "https://ebible.org/engwebp/EPH05.htm"
   },
   {
+    "id": "eph-06-01-04",
+    "bookId": "eph",
+    "reference": "Ephesians 6:1–4",
+    "sourceLayer": "paul-disputed",
+    "summary": "Children and parents receive reciprocal household instructions.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+  },
+  {
     "id": "eph-06-05-09",
     "bookId": "eph",
     "reference": "Ephesians 6:5–9",
@@ -998,6 +1322,18 @@
     "summary": "Ephesians addresses enslaved persons and masters, instructing masters against threats without explicitly abolishing slavery.",
     "topics": [
       "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
+  },
+  {
+    "id": "eph-06-10-20",
+    "bookId": "eph",
+    "reference": "Ephesians 6:10–20",
+    "sourceLayer": "paul-disputed",
+    "summary": "Spiritual armor imagery accompanies exhortations to perseverance and prayer.",
+    "topics": [
+      "prayer"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/EPH06.htm"
@@ -8066,6 +8402,54 @@
     "sourceUrl": "https://ebible.org/engwebp/ROM16.htm"
   },
   {
+    "id": "tit-01-01-04",
+    "bookId": "tit",
+    "reference": "Titus 1:1–4",
+    "sourceLayer": "paul-disputed",
+    "summary": "The greeting connects apostolic commission, faith and hope of eternal life.",
+    "topics": [
+      "mission"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm"
+  },
+  {
+    "id": "tit-01-05-09",
+    "bookId": "tit",
+    "reference": "Titus 1:5–9",
+    "sourceLayer": "paul-disputed",
+    "summary": "Qualifications for appointed elders and overseers are specified.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm"
+  },
+  {
+    "id": "tit-01-10-16",
+    "bookId": "tit",
+    "reference": "Titus 1:10–16",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter condemns rival teaching and uses polemical language about opponents.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT01.htm"
+  },
+  {
+    "id": "tit-02-01-02",
+    "bookId": "tit",
+    "reference": "Titus 2:1–2",
+    "sourceLayer": "paul-disputed",
+    "summary": "Older men are instructed in sober and faithful conduct.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+  },
+  {
     "id": "tit-02-03-05",
     "bookId": "tit",
     "reference": "Titus 2:3–5",
@@ -8076,5 +8460,53 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+  },
+  {
+    "id": "tit-02-06-10",
+    "bookId": "tit",
+    "reference": "Titus 2:6–10",
+    "sourceLayer": "paul-disputed",
+    "summary": "Younger men and enslaved people receive conduct instructions.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+  },
+  {
+    "id": "tit-02-11-15",
+    "bookId": "tit",
+    "reference": "Titus 2:11–15",
+    "sourceLayer": "paul-disputed",
+    "summary": "Grace is connected to ethical conduct, hope and good works.",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT02.htm"
+  },
+  {
+    "id": "tit-03-01-08",
+    "bookId": "tit",
+    "reference": "Titus 3:1–8",
+    "sourceLayer": "paul-disputed",
+    "summary": "Civil submission, gentleness, mercy and good works are urged.",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm"
+  },
+  {
+    "id": "tit-03-09-15",
+    "bookId": "tit",
+    "reference": "Titus 3:9–15",
+    "sourceLayer": "paul-disputed",
+    "summary": "The letter addresses disputes, divisive persons and practical support for coworkers.",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/TIT03.htm"
   }
 ]
