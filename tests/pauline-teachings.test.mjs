@@ -24,3 +24,16 @@ test("cross-chapter decisions preserve chapter-specific sources and distinct voi
   assert.equal(rows.find(t => t.id === "2co-t-06-16-18").attribution, "scriptural-divine-speech");
   assert.equal(rows.find(t => t.id === "2co-t-07-01-01").attribution, "letter-discourse");
 });
+
+test("inspected chapters locate all numbered verses and preserve disputed voices", () => {
+  const rows = load("pauline-teachings");
+  const lengths = load("pauline-verse-counts");
+  for (const [book, chapter] of [["1co",7], ["1co",9], ["1co",11], ["1co",14], ["1th",4], ["2co",12]]) {
+    const units = rows.filter(t => t.bookId === book && t.chapter === chapter);
+    for (let verse = 1; verse <= lengths[book][chapter - 1]; verse++) {
+      assert.ok(units.some(t => t.startVerse <= verse && t.endVerse >= verse), book + " " + chapter + ":" + verse);
+    }
+  }
+  assert.equal(rows.find(t => t.id === "1co-t-14-34-35").attribution, "contested-voice");
+  assert.equal(rows.find(t => t.id === "1co-t-14-37-38").attribution, "claimed-lord-authority");
+});

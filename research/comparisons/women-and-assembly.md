@@ -8,6 +8,7 @@ context: [ac-18-24-26, 1ti-02-08-15, 1ti-03-01-13, tit-02-03-05]
 sourceIds: [web-protestant-66, sybrandi-2024-romans16, burer-wallace-2001-junia, niccum-1997-cor14, wilson-2022-cor14, tolmie-2014-gal328, collins-2010-pastorals, bfc-2023-1tim2, baum-2014-cor14, bird-cor14-nottingham]
 classification: apparent-tension
 reviewIds:
+  - pauline-lord-attributions
   - women-authority-claim-synthesis
   - gospel-women-witnesses
   - romans-16-women-coworkers

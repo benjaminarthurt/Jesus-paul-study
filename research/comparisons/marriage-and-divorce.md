@@ -7,7 +7,7 @@ paul: [1co-07-10-16]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
 context: [eph-05-21-33, col-03-18-25]
-reviewIds: [1-corinthians-7-divorce-context]
+reviewIds: [1-corinthians-7-divorce-context, pauline-lord-attributions]
 ---
 ## Research question
 
