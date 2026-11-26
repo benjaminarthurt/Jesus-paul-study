@@ -71,24 +71,30 @@
   },
   {
     "reviewId": "didache-ethical-reception",
-    "verification": "pending-recheck",
+    "verification": "selected-english-text-rechecked",
     "criticalEdition": "pending",
     "independentScholarship": "pending",
-    "publicationStatus": "draft"
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-26",
+    "recheckNote": "Chapters 1–6: generosity qualified by recipient need and discernment; household slave obedience alongside common divine authority; differentiated obligations and caution on idol food. Ephesians and Colossians links are editorial cross-references, not explicit citations."
   },
   {
     "reviewId": "ignatius-authority-reception",
-    "verification": "pending-recheck",
+    "verification": "selected-english-text-rechecked",
     "criticalEdition": "pending",
     "independentScholarship": "pending",
-    "publicationStatus": "draft"
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-26",
+    "recheckNote": "Chapters 2–10: bishop, presbyters and deacons; obedience connected with divine authority; chapter 9 English rendering explicitly mentions Lord's Day, Greek interpretation pending. Chapter 10 polemic should not be endorsed."
   },
   {
     "reviewId": "ignatius-unity-reception",
-    "verification": "pending-recheck",
+    "verification": "selected-english-text-rechecked",
     "criticalEdition": "pending",
     "independentScholarship": "pending",
-    "publicationStatus": "draft"
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-26",
+    "recheckNote": "Chapters 1–9: bishop's meekness; repentance and unity in chapters 3 and 8; single Eucharist in 4; divine witness in 7. Galatians 1:1 link is editorial; verbal resemblance is not proven dependence."
   },
   {
     "reviewId": "irenaeus-succession-reception",
