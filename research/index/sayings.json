@@ -8044,6 +8044,66 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT03.htm"
   },
   {
+    "id": "mt-s-04-04-04",
+    "passageId": "mt-04-01-11",
+    "bookId": "mt",
+    "chapter": 4,
+    "startVerse": 4,
+    "endVerse": 4,
+    "reference": "Matthew 4:4",
+    "title": "Bread and God's word",
+    "summary": "Jesus responds to temptation by citing scripture about dependence on God's word.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT04.htm"
+  },
+  {
+    "id": "mt-s-04-07-07",
+    "passageId": "mt-04-01-11",
+    "bookId": "mt",
+    "chapter": 4,
+    "startVerse": 7,
+    "endVerse": 7,
+    "reference": "Matthew 4:7",
+    "title": "Do not test God",
+    "summary": "Jesus answers the temptation with a prohibition on testing God.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT04.htm"
+  },
+  {
+    "id": "mt-s-04-10-10",
+    "passageId": "mt-04-01-11",
+    "bookId": "mt",
+    "chapter": 4,
+    "startVerse": 10,
+    "endVerse": 10,
+    "reference": "Matthew 4:10",
+    "title": "Worship God alone",
+    "summary": "Jesus rejects the temptation to worship another and cites exclusive service to God.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT04.htm"
+  },
+  {
     "id": "mt-s-04-17-17",
     "passageId": "mt-04-12-17",
     "bookId": "mt",
@@ -8367,6 +8427,27 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
   },
   {
+    "id": "mt-s-06-05-08",
+    "passageId": "mt-06-05-15",
+    "bookId": "mt",
+    "chapter": 6,
+    "startVerse": 5,
+    "endVerse": 8,
+    "reference": "Matthew 6:5–8",
+    "title": "Prayer without display",
+    "summary": "Jesus warns against ostentatious prayer and empty repetition.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "prayer",
+      "forgiveness"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+  },
+  {
     "id": "mt-s-06-09-13",
     "passageId": "mt-06-05-15",
     "bookId": "mt",
@@ -8471,6 +8552,26 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
   },
   {
+    "id": "mt-s-06-22-23",
+    "passageId": "mt-06-19-24",
+    "bookId": "mt",
+    "chapter": 6,
+    "startVerse": 22,
+    "endVerse": 23,
+    "reference": "Matthew 6:22–23",
+    "title": "Eye as lamp",
+    "summary": "Jesus uses the eye and light as imagery for the body's condition.",
+    "audience": "disciples",
+    "speechType": "illustration",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT06.htm"
+  },
+  {
     "id": "mt-s-06-24-24",
     "passageId": "mt-06-19-24",
     "bookId": "mt",
@@ -8547,6 +8648,26 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
+  },
+  {
+    "id": "mt-s-07-06-06",
+    "passageId": "mt-07-01-06",
+    "bookId": "mt",
+    "chapter": 7,
+    "startVerse": 6,
+    "endVerse": 6,
+    "reference": "Matthew 7:6",
+    "title": "Holy things and pearls",
+    "summary": "Jesus warns against giving sacred things where they will be rejected, using animal imagery.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
@@ -8719,6 +8840,27 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT07.htm"
   },
   {
+    "id": "mt-s-08-03-03",
+    "passageId": "mt-08-01-04",
+    "bookId": "mt",
+    "chapter": 8,
+    "startVerse": 3,
+    "endVerse": 3,
+    "reference": "Matthew 8:3",
+    "title": "Willingness to cleanse",
+    "summary": "Jesus expresses willingness and commands cleansing.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
     "id": "mt-s-08-04-04",
     "passageId": "mt-08-01-04",
     "bookId": "mt",
@@ -8781,6 +8923,152 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
   },
   {
+    "id": "mt-s-08-20-20",
+    "passageId": "mt-08-18-22",
+    "bookId": "mt",
+    "chapter": 8,
+    "startVerse": 20,
+    "endVerse": 20,
+    "reference": "Matthew 8:20",
+    "title": "Cost of following",
+    "summary": "Jesus describes the Son of Man's lack of a resting place.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-s-08-22-22",
+    "passageId": "mt-08-18-22",
+    "bookId": "mt",
+    "chapter": 8,
+    "startVerse": 22,
+    "endVerse": 22,
+    "reference": "Matthew 8:22",
+    "title": "Follow me",
+    "summary": "Jesus calls a would-be follower to prioritize following over burial obligations.",
+    "audience": "individual",
+    "speechType": "call",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-s-08-26-26",
+    "passageId": "mt-08-23-27",
+    "bookId": "mt",
+    "chapter": 8,
+    "startVerse": 26,
+    "endVerse": 26,
+    "reference": "Matthew 8:26",
+    "title": "Fear and little faith",
+    "summary": "Jesus questions the disciples' fear before calming the storm.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-s-08-32-32",
+    "passageId": "mt-08-28-34",
+    "bookId": "mt",
+    "chapter": 8,
+    "startVerse": 32,
+    "endVerse": 32,
+    "reference": "Matthew 8:32",
+    "title": "Departure of spirits",
+    "summary": "Jesus permits the spirits to depart.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT08.htm"
+  },
+  {
+    "id": "mt-s-09-02-02",
+    "passageId": "mt-09-01-08",
+    "bookId": "mt",
+    "chapter": 9,
+    "startVerse": 2,
+    "endVerse": 2,
+    "reference": "Matthew 9:2",
+    "title": "Forgiveness pronounced",
+    "summary": "Jesus encourages the paralyzed man and pronounces forgiveness.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "authority",
+      "forgiveness"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-s-09-04-06",
+    "passageId": "mt-09-01-08",
+    "bookId": "mt",
+    "chapter": 9,
+    "startVerse": 4,
+    "endVerse": 6,
+    "reference": "Matthew 9:4–6",
+    "title": "Authority to forgive",
+    "summary": "Jesus challenges the critics' reasoning and commands the man to rise.",
+    "audience": "onlookers",
+    "speechType": "argument",
+    "topics": [
+      "healing",
+      "authority",
+      "forgiveness"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-s-09-09-09",
+    "passageId": "mt-09-09-13",
+    "bookId": "mt",
+    "chapter": 9,
+    "startVerse": 9,
+    "endVerse": 9,
+    "reference": "Matthew 9:9",
+    "title": "Matthew called",
+    "summary": "Jesus calls Matthew to follow him.",
+    "audience": "individual",
+    "speechType": "call",
+    "topics": [
+      "discipleship",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
     "id": "mt-s-09-12-13",
     "passageId": "mt-09-09-13",
     "bookId": "mt",
@@ -8810,6 +9098,86 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-s-09-15-17",
+    "passageId": "mt-09-14-17",
+    "bookId": "mt",
+    "chapter": 9,
+    "startVerse": 15,
+    "endVerse": 17,
+    "reference": "Matthew 9:15–17",
+    "title": "Fasting and new wine",
+    "summary": "Jesus answers the fasting question with wedding, cloth and wineskin imagery.",
+    "audience": "questioners",
+    "speechType": "illustration",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-s-09-22-22",
+    "passageId": "mt-09-18-26",
+    "bookId": "mt",
+    "chapter": 9,
+    "startVerse": 22,
+    "endVerse": 22,
+    "reference": "Matthew 9:22",
+    "title": "Faith and healing",
+    "summary": "Jesus encourages the woman and attributes healing to faith.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-s-09-24-24",
+    "passageId": "mt-09-18-26",
+    "bookId": "mt",
+    "chapter": 9,
+    "startVerse": 24,
+    "endVerse": 24,
+    "reference": "Matthew 9:24",
+    "title": "The girl sleeps",
+    "summary": "Jesus directs the mourners to withdraw and describes the girl as sleeping.",
+    "audience": "onlookers",
+    "speechType": "response",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
+  },
+  {
+    "id": "mt-s-09-28-30",
+    "passageId": "mt-09-27-34",
+    "bookId": "mt",
+    "chapter": 9,
+    "startVerse": 28,
+    "endVerse": 30,
+    "reference": "Matthew 9:28–30",
+    "title": "Faith and restored sight",
+    "summary": "Jesus asks about belief, responds to the blind men and warns against disclosure; other speakers appear.",
+    "audience": "individuals",
+    "speechType": "dialogue",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT09.htm"
@@ -8905,6 +9273,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT10.htm"
+  },
+  {
+    "id": "mt-s-10-21-25",
+    "passageId": "mt-10-16-25",
+    "bookId": "mt",
+    "chapter": 10,
+    "startVerse": 21,
+    "endVerse": 25,
+    "reference": "Matthew 10:21–25",
+    "title": "Division and persecution",
+    "summary": "Jesus anticipates family betrayal, persecution and hostility toward disciples.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "mission",
+      "suffering"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT10.htm"
@@ -9034,6 +9423,68 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
   },
   {
+    "id": "mt-s-11-07-15",
+    "passageId": "mt-11-07-19",
+    "bookId": "mt",
+    "chapter": 11,
+    "startVerse": 7,
+    "endVerse": 15,
+    "reference": "Matthew 11:7–15",
+    "title": "John and the kingdom",
+    "summary": "Jesus describes John's prophetic role and speaks of the kingdom; interpretation of verse 12 is contested.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "authority",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
+    "id": "mt-s-11-16-19",
+    "passageId": "mt-11-07-19",
+    "bookId": "mt",
+    "chapter": 11,
+    "startVerse": 16,
+    "endVerse": 19,
+    "reference": "Matthew 11:16–19",
+    "title": "This generation",
+    "summary": "Jesus compares the generation to children dissatisfied with contrasting approaches.",
+    "audience": "crowd",
+    "speechType": "critique",
+    "topics": [
+      "authority",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
+    "id": "mt-s-11-21-24",
+    "passageId": "mt-11-20-24",
+    "bookId": "mt",
+    "chapter": 11,
+    "startVerse": 21,
+    "endVerse": 24,
+    "reference": "Matthew 11:21–24",
+    "title": "Woes to towns",
+    "summary": "Jesus warns unresponsive towns of judgment and compares them with other cities.",
+    "audience": "public",
+    "speechType": "warning",
+    "topics": [
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
     "id": "mt-s-11-25-30",
     "passageId": "mt-11-25-30",
     "bookId": "mt",
@@ -9060,6 +9511,27 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT11.htm"
+  },
+  {
+    "id": "mt-s-12-03-06",
+    "passageId": "mt-12-01-14",
+    "bookId": "mt",
+    "chapter": 12,
+    "startVerse": 3,
+    "endVerse": 6,
+    "reference": "Matthew 12:3–6",
+    "title": "David and Sabbath service",
+    "summary": "Jesus cites David and priestly service in response to Sabbath objections.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
   },
   {
     "id": "mt-s-12-07-08",
@@ -9091,6 +9563,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-s-12-11-13",
+    "passageId": "mt-12-01-14",
+    "bookId": "mt",
+    "chapter": 12,
+    "startVerse": 11,
+    "endVerse": 13,
+    "reference": "Matthew 12:11–13",
+    "title": "Doing good on Sabbath",
+    "summary": "Jesus uses the example of rescuing a sheep and directs the man to extend his hand.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law",
+      "healing"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
@@ -9129,6 +9622,46 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
   },
   {
+    "id": "mt-s-12-30-32",
+    "passageId": "mt-12-22-37",
+    "bookId": "mt",
+    "chapter": 12,
+    "startVerse": 30,
+    "endVerse": 32,
+    "reference": "Matthew 12:30–32",
+    "title": "Allegiance and blasphemy",
+    "summary": "Jesus speaks of allegiance and warns about blasphemy against the Spirit.",
+    "audience": "crowd",
+    "speechType": "warning",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-s-12-33-37",
+    "passageId": "mt-12-22-37",
+    "bookId": "mt",
+    "chapter": 12,
+    "startVerse": 33,
+    "endVerse": 37,
+    "reference": "Matthew 12:33–37",
+    "title": "Fruit and accountability for words",
+    "summary": "Jesus connects speech with character and accountability.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
     "id": "mt-s-12-38-42",
     "passageId": "mt-12-38-45",
     "bookId": "mt",
@@ -9151,6 +9684,26 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
+  },
+  {
+    "id": "mt-s-12-43-45",
+    "passageId": "mt-12-38-45",
+    "bookId": "mt",
+    "chapter": 12,
+    "startVerse": 43,
+    "endVerse": 45,
+    "reference": "Matthew 12:43–45",
+    "title": "Returning unclean spirit",
+    "summary": "Jesus describes a returning spirit as an image of worsening condition.",
+    "audience": "crowd",
+    "speechType": "illustration",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT12.htm"
@@ -9223,6 +9776,48 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
   },
   {
+    "id": "mt-s-13-11-17",
+    "passageId": "mt-13-10-23",
+    "bookId": "mt",
+    "chapter": 13,
+    "startVerse": 11,
+    "endVerse": 17,
+    "reference": "Matthew 13:11–17",
+    "title": "Parables and perception",
+    "summary": "Jesus explains differences in reception and invokes Isaiah.",
+    "audience": "disciples",
+    "speechType": "explanation",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-s-13-18-23",
+    "passageId": "mt-13-10-23",
+    "bookId": "mt",
+    "chapter": 13,
+    "startVerse": 18,
+    "endVerse": 23,
+    "reference": "Matthew 13:18–23",
+    "title": "Sower interpreted",
+    "summary": "Jesus explains the soils as different responses to the kingdom message.",
+    "audience": "disciples",
+    "speechType": "explanation",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
     "id": "mt-s-13-24-30",
     "passageId": "mt-13-24-30",
     "bookId": "mt",
@@ -9278,6 +9873,27 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
   },
   {
+    "id": "mt-s-13-37-43",
+    "passageId": "mt-13-36-43",
+    "bookId": "mt",
+    "chapter": 13,
+    "startVerse": 37,
+    "endVerse": 43,
+    "reference": "Matthew 13:37–43",
+    "title": "Weeds interpreted",
+    "summary": "Jesus explains the field, harvest and judgment imagery.",
+    "audience": "disciples",
+    "speechType": "explanation",
+    "topics": [
+      "parables",
+      "end-times"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
     "id": "mt-s-13-44-46",
     "passageId": "mt-13-44-52",
     "bookId": "mt",
@@ -9313,6 +9929,47 @@
     "topics": [
       "parables",
       "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-s-13-51-52",
+    "passageId": "mt-13-44-52",
+    "bookId": "mt",
+    "chapter": 13,
+    "startVerse": 51,
+    "endVerse": 52,
+    "reference": "Matthew 13:51–52",
+    "title": "Understanding and treasures",
+    "summary": "Jesus asks about understanding and compares a trained scribe to a householder; disciples also speak.",
+    "audience": "disciples",
+    "speechType": "dialogue",
+    "topics": [
+      "parables",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT13.htm"
+  },
+  {
+    "id": "mt-s-13-57-57",
+    "passageId": "mt-13-53-58",
+    "bookId": "mt",
+    "chapter": 13,
+    "startVerse": 57,
+    "endVerse": 57,
+    "reference": "Matthew 13:57",
+    "title": "Prophet without honor",
+    "summary": "Jesus observes the lack of honor in familiar surroundings.",
+    "audience": "crowd",
+    "speechType": "observation",
+    "topics": [
+      "authority"
     ],
     "parallels": [],
     "status": "draft",
@@ -9404,6 +10061,26 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT14.htm"
   },
   {
+    "id": "mt-s-15-03-09",
+    "passageId": "mt-15-01-20",
+    "bookId": "mt",
+    "chapter": 15,
+    "startVerse": 3,
+    "endVerse": 9,
+    "reference": "Matthew 15:3–9",
+    "title": "Tradition and honoring parents",
+    "summary": "Jesus criticizes tradition that undermines parental obligations and cites Isaiah.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
+  },
+  {
     "id": "mt-s-15-10-20",
     "passageId": "mt-15-01-20",
     "bookId": "mt",
@@ -9459,6 +10136,129 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
   },
   {
+    "id": "mt-s-15-32-32",
+    "passageId": "mt-15-32-39",
+    "bookId": "mt",
+    "chapter": 15,
+    "startVerse": 32,
+    "endVerse": 32,
+    "reference": "Matthew 15:32",
+    "title": "Compassion for hungry people",
+    "summary": "Jesus expresses concern for the crowd's lack of food.",
+    "audience": "disciples",
+    "speechType": "observation",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
+  },
+  {
+    "id": "mt-s-15-34-34",
+    "passageId": "mt-15-32-39",
+    "bookId": "mt",
+    "chapter": 15,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Matthew 15:34",
+    "title": "Available loaves",
+    "summary": "Jesus asks about the available bread.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT15.htm"
+  },
+  {
+    "id": "mt-s-16-02-04",
+    "passageId": "mt-16-01-12",
+    "bookId": "mt",
+    "chapter": 16,
+    "startVerse": 2,
+    "endVerse": 4,
+    "reference": "Matthew 16:2–4",
+    "title": "Signs and Jonah",
+    "summary": "Jesus rejects the demand for a sign apart from Jonah; part of the weather imagery is textually disputed.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-16-06-06",
+    "passageId": "mt-16-01-12",
+    "bookId": "mt",
+    "chapter": 16,
+    "startVerse": 6,
+    "endVerse": 6,
+    "reference": "Matthew 16:6",
+    "title": "Leaven of religious leaders",
+    "summary": "Jesus warns against the leaven of Pharisees and Sadducees.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-16-08-11",
+    "passageId": "mt-16-01-12",
+    "bookId": "mt",
+    "chapter": 16,
+    "startVerse": 8,
+    "endVerse": 11,
+    "reference": "Matthew 16:8–11",
+    "title": "Understanding the warning",
+    "summary": "Jesus challenges the disciples' interpretation and recalls the feedings.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-16-13-13",
+    "passageId": "mt-16-13-20",
+    "bookId": "mt",
+    "chapter": 16,
+    "startVerse": 13,
+    "endVerse": 13,
+    "reference": "Matthew 16:13",
+    "title": "Public views of identity",
+    "summary": "Jesus asks what people say about the Son of Man.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
     "id": "mt-s-16-15-19",
     "passageId": "mt-16-13-20",
     "bookId": "mt",
@@ -9488,6 +10288,48 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-16-20-20",
+    "passageId": "mt-16-13-20",
+    "bookId": "mt",
+    "chapter": 16,
+    "startVerse": 20,
+    "endVerse": 20,
+    "reference": "Matthew 16:20",
+    "title": "Silence about identity",
+    "summary": "Jesus directs the disciples not to disclose his messianic identity.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "authority",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-16-23-23",
+    "passageId": "mt-16-21-28",
+    "bookId": "mt",
+    "chapter": 16,
+    "startVerse": 23,
+    "endVerse": 23,
+    "reference": "Matthew 16:23",
+    "title": "Rebuke of Peter",
+    "summary": "Jesus rebukes Peter for prioritizing human concerns.",
+    "audience": "individual",
+    "speechType": "critique",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
@@ -9525,6 +10367,87 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-16-27-28",
+    "passageId": "mt-16-21-28",
+    "bookId": "mt",
+    "chapter": 16,
+    "startVerse": 27,
+    "endVerse": 28,
+    "reference": "Matthew 16:27–28",
+    "title": "Coming and recompense",
+    "summary": "Jesus speaks of the Son of Man's coming, recompense and some present seeing the kingdom.",
+    "audience": "disciples",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT16.htm"
+  },
+  {
+    "id": "mt-s-17-07-07",
+    "passageId": "mt-17-01-13",
+    "bookId": "mt",
+    "chapter": 17,
+    "startVerse": 7,
+    "endVerse": 7,
+    "reference": "Matthew 17:7",
+    "title": "Rise without fear",
+    "summary": "Jesus reassures the disciples after the transfiguration.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
+  },
+  {
+    "id": "mt-s-17-09-09",
+    "passageId": "mt-17-01-13",
+    "bookId": "mt",
+    "chapter": 17,
+    "startVerse": 9,
+    "endVerse": 9,
+    "reference": "Matthew 17:9",
+    "title": "Silence until resurrection",
+    "summary": "Jesus directs disciples not to report the vision until resurrection.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
+  },
+  {
+    "id": "mt-s-17-11-12",
+    "passageId": "mt-17-01-13",
+    "bookId": "mt",
+    "chapter": 17,
+    "startVerse": 11,
+    "endVerse": 12,
+    "reference": "Matthew 17:11–12",
+    "title": "Elijah and suffering",
+    "summary": "Jesus discusses Elijah and the suffering of the Son of Man.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT17.htm"
   },
   {
     "id": "mt-s-17-17-20",
@@ -9620,6 +10543,48 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT18.htm"
+  },
+  {
+    "id": "mt-s-18-06-09",
+    "passageId": "mt-18-01-09",
+    "bookId": "mt",
+    "chapter": 18,
+    "startVerse": 6,
+    "endVerse": 9,
+    "reference": "Matthew 18:6–9",
+    "title": "Stumbling and severe imagery",
+    "summary": "Jesus warns against causing others to stumble and uses severe imagery about one's own stumbling.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT18.htm"
+  },
+  {
+    "id": "mt-s-18-10-14",
+    "passageId": "mt-18-10-14",
+    "bookId": "mt",
+    "chapter": 18,
+    "startVerse": 10,
+    "endVerse": 14,
+    "reference": "Matthew 18:10–14",
+    "title": "Little ones and lost sheep",
+    "summary": "Jesus warns against despising little ones and illustrates concern for the lost; verse 11 is textually disputed.",
+    "audience": "disciples",
+    "speechType": "illustration",
+    "topics": [
+      "parables",
+      "inclusion"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT18.htm"
@@ -9736,6 +10701,27 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
   },
   {
+    "id": "mt-s-19-11-12",
+    "passageId": "mt-19-01-12",
+    "bookId": "mt",
+    "chapter": 19,
+    "startVerse": 11,
+    "endVerse": 12,
+    "reference": "Matthew 19:11–12",
+    "title": "Marriage and continence",
+    "summary": "Jesus discusses differing capacities for accepting continence.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "marriage-divorce",
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
+  },
+  {
     "id": "mt-s-19-14-14",
     "passageId": "mt-19-13-15",
     "bookId": "mt",
@@ -9765,6 +10751,26 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
+  },
+  {
+    "id": "mt-s-19-17-19",
+    "passageId": "mt-19-16-30",
+    "bookId": "mt",
+    "chapter": 19,
+    "startVerse": 17,
+    "endVerse": 19,
+    "reference": "Matthew 19:17–19",
+    "title": "Commandments and goodness",
+    "summary": "Jesus responds to the seeker by discussing goodness and commandments.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
@@ -9803,6 +10809,26 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
   },
   {
+    "id": "mt-s-19-28-30",
+    "passageId": "mt-19-16-30",
+    "bookId": "mt",
+    "chapter": 19,
+    "startVerse": 28,
+    "endVerse": 30,
+    "reference": "Matthew 19:28–30",
+    "title": "Rewards and reversal",
+    "summary": "Jesus describes rewards for followers and reversal of first and last.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT19.htm"
+  },
+  {
     "id": "mt-s-20-01-16",
     "passageId": "mt-20-01-16",
     "bookId": "mt",
@@ -9817,6 +10843,48 @@
     "topics": [
       "parables",
       "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
+  },
+  {
+    "id": "mt-s-20-18-19",
+    "passageId": "mt-20-17-19",
+    "bookId": "mt",
+    "chapter": 20,
+    "startVerse": 18,
+    "endVerse": 19,
+    "reference": "Matthew 20:18–19",
+    "title": "Jerusalem prediction",
+    "summary": "Jesus predicts condemnation, abuse, death and resurrection.",
+    "audience": "disciples",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
+  },
+  {
+    "id": "mt-s-20-21-23",
+    "passageId": "mt-20-20-28",
+    "bookId": "mt",
+    "chapter": 20,
+    "startVerse": 21,
+    "endVerse": 23,
+    "reference": "Matthew 20:21–23",
+    "title": "Places of honor",
+    "summary": "Jesus questions the request and discusses suffering and places of honor; other speakers appear.",
+    "audience": "individuals",
+    "speechType": "dialogue",
+    "topics": [
+      "leadership",
+      "discipleship"
     ],
     "parallels": [],
     "status": "draft",
@@ -9858,6 +10926,46 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
   },
   {
+    "id": "mt-s-20-32-32",
+    "passageId": "mt-20-29-34",
+    "bookId": "mt",
+    "chapter": 20,
+    "startVerse": 32,
+    "endVerse": 32,
+    "reference": "Matthew 20:32",
+    "title": "What do you want?",
+    "summary": "Jesus asks the blind men what they want him to do.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT20.htm"
+  },
+  {
+    "id": "mt-s-21-02-03",
+    "passageId": "mt-21-01-11",
+    "bookId": "mt",
+    "chapter": 21,
+    "startVerse": 2,
+    "endVerse": 3,
+    "reference": "Matthew 21:2–3",
+    "title": "Preparing the entry",
+    "summary": "Jesus directs disciples to obtain animals for the entry.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
     "id": "mt-s-21-13-13",
     "passageId": "mt-21-12-17",
     "bookId": "mt",
@@ -9886,6 +10994,88 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-s-21-16-16",
+    "passageId": "mt-21-12-17",
+    "bookId": "mt",
+    "chapter": 21,
+    "startVerse": 16,
+    "endVerse": 16,
+    "reference": "Matthew 21:16",
+    "title": "Praise from children",
+    "summary": "Jesus answers objections to children's praise with scripture.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-s-21-19-19",
+    "passageId": "mt-21-18-22",
+    "bookId": "mt",
+    "chapter": 21,
+    "startVerse": 19,
+    "endVerse": 19,
+    "reference": "Matthew 21:19",
+    "title": "Fig tree pronouncement",
+    "summary": "Jesus pronounces against the fig tree.",
+    "audience": "onlookers",
+    "speechType": "symbolic-action",
+    "topics": [
+      "prayer",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-s-21-21-22",
+    "passageId": "mt-21-18-22",
+    "bookId": "mt",
+    "chapter": 21,
+    "startVerse": 21,
+    "endVerse": 22,
+    "reference": "Matthew 21:21–22",
+    "title": "Faith and prayer",
+    "summary": "Jesus connects faith, prayer and the fig tree event.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "prayer",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
+  },
+  {
+    "id": "mt-s-21-24-27",
+    "passageId": "mt-21-23-27",
+    "bookId": "mt",
+    "chapter": 21,
+    "startVerse": 24,
+    "endVerse": 27,
+    "reference": "Matthew 21:24–27",
+    "title": "Authority and John's baptism",
+    "summary": "Jesus counters the authority question with a question about John's baptism; opponents also speak.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT21.htm"
@@ -9969,6 +11159,26 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
+  },
+  {
+    "id": "mt-s-22-18-20",
+    "passageId": "mt-22-15-22",
+    "bookId": "mt",
+    "chapter": 22,
+    "startVerse": 18,
+    "endVerse": 20,
+    "reference": "Matthew 22:18–20",
+    "title": "Tax question and coin",
+    "summary": "Jesus challenges the questioners and asks about the coin's image and inscription.",
+    "audience": "opponents",
+    "speechType": "question",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
@@ -10075,6 +11285,27 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
   },
   {
+    "id": "mt-s-22-42-45",
+    "passageId": "mt-22-41-46",
+    "bookId": "mt",
+    "chapter": 22,
+    "startVerse": 42,
+    "endVerse": 45,
+    "reference": "Matthew 22:42–45",
+    "title": "David's son and Lord",
+    "summary": "Jesus questions how the Messiah is described as David's son.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT22.htm"
+  },
+  {
     "id": "mt-s-23-01-12",
     "passageId": "mt-23-01-12",
     "bookId": "mt",
@@ -10131,6 +11362,47 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT23.htm"
   },
   {
+    "id": "mt-s-23-37-39",
+    "passageId": "mt-23-37-39",
+    "bookId": "mt",
+    "chapter": 23,
+    "startVerse": 37,
+    "endVerse": 39,
+    "reference": "Matthew 23:37–39",
+    "title": "Lament over Jerusalem",
+    "summary": "Jesus laments Jerusalem and describes its unwillingness to be gathered.",
+    "audience": "public",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT23.htm"
+  },
+  {
+    "id": "mt-s-24-02-02",
+    "passageId": "mt-24-01-14",
+    "bookId": "mt",
+    "chapter": 24,
+    "startVerse": 2,
+    "endVerse": 2,
+    "reference": "Matthew 24:2",
+    "title": "Temple destruction",
+    "summary": "Jesus predicts the destruction of the temple buildings.",
+    "audience": "disciples",
+    "speechType": "proclamation",
+    "topics": [
+      "end-times",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
     "id": "mt-s-24-04-14",
     "passageId": "mt-24-01-14",
     "bookId": "mt",
@@ -10165,6 +11437,66 @@
     "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
   },
   {
+    "id": "mt-s-24-15-22",
+    "passageId": "mt-24-15-31",
+    "bookId": "mt",
+    "chapter": 24,
+    "startVerse": 15,
+    "endVerse": 22,
+    "reference": "Matthew 24:15–22",
+    "title": "Danger and flight",
+    "summary": "Jesus warns about distress and urges flight in the described circumstances.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-s-24-23-28",
+    "passageId": "mt-24-15-31",
+    "bookId": "mt",
+    "chapter": 24,
+    "startVerse": 23,
+    "endVerse": 28,
+    "reference": "Matthew 24:23–28",
+    "title": "Deceptive messianic claims",
+    "summary": "Jesus warns against false messiahs and misleading reports.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "end-times"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-s-24-29-31",
+    "passageId": "mt-24-15-31",
+    "bookId": "mt",
+    "chapter": 24,
+    "startVerse": 29,
+    "endVerse": 31,
+    "reference": "Matthew 24:29–31",
+    "title": "Coming of the Son of Man",
+    "summary": "Jesus describes cosmic upheaval and gathering of the chosen.",
+    "audience": "disciples",
+    "speechType": "proclamation",
+    "topics": [
+      "end-times"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
     "id": "mt-s-24-32-35",
     "passageId": "mt-24-32-44",
     "bookId": "mt",
@@ -10194,6 +11526,48 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-s-24-36-44",
+    "passageId": "mt-24-32-44",
+    "bookId": "mt",
+    "chapter": 24,
+    "startVerse": 36,
+    "endVerse": 44,
+    "reference": "Matthew 24:36–44",
+    "title": "Unknown timing and readiness",
+    "summary": "Jesus stresses unknown timing and readiness using examples from ordinary life.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "end-times",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
+  },
+  {
+    "id": "mt-s-24-45-51",
+    "passageId": "mt-24-45-51",
+    "bookId": "mt",
+    "chapter": 24,
+    "startVerse": 45,
+    "endVerse": 51,
+    "reference": "Matthew 24:45–51",
+    "title": "Faithful and abusive servants",
+    "summary": "Jesus contrasts responsible service with abuse and warns of accountability.",
+    "audience": "disciples",
+    "speechType": "parable",
+    "topics": [
+      "parables",
+      "leadership"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT24.htm"
@@ -10269,6 +11643,88 @@
     "caution": "The identity of the people described as 'the least of these' is debated. A narrated judgment scene should not be treated as a modern policy blueprint."
   },
   {
+    "id": "mt-s-26-02-02",
+    "passageId": "mt-26-01-16",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 2,
+    "endVerse": 2,
+    "reference": "Matthew 26:2",
+    "title": "Passover and crucifixion",
+    "summary": "Jesus predicts being handed over for crucifixion.",
+    "audience": "disciples",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-10-13",
+    "passageId": "mt-26-01-16",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 10,
+    "endVerse": 13,
+    "reference": "Matthew 26:10–13",
+    "title": "Defense of anointing",
+    "summary": "Jesus defends the woman's action and connects it with burial and remembrance.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-18-18",
+    "passageId": "mt-26-17-30",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 18,
+    "endVerse": 18,
+    "reference": "Matthew 26:18",
+    "title": "Passover arrangements",
+    "summary": "Jesus directs disciples to arrange the Passover meal.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-21-25",
+    "passageId": "mt-26-17-30",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 21,
+    "endVerse": 25,
+    "reference": "Matthew 26:21–25",
+    "title": "Betrayal at the meal",
+    "summary": "Jesus predicts betrayal and responds to questions; other speakers appear.",
+    "audience": "disciples",
+    "speechType": "dialogue",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
     "id": "mt-s-26-26-29",
     "passageId": "mt-26-17-30",
     "bookId": "mt",
@@ -10297,6 +11753,69 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-31-32",
+    "passageId": "mt-26-31-35",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 31,
+    "endVerse": 32,
+    "reference": "Matthew 26:31–32",
+    "title": "Desertion and reunion",
+    "summary": "Jesus predicts desertion and a meeting in Galilee after resurrection.",
+    "audience": "disciples",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-34-34",
+    "passageId": "mt-26-31-35",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "Matthew 26:34",
+    "title": "Peter's denial",
+    "summary": "Jesus predicts Peter's repeated denial.",
+    "audience": "individual",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-36-38",
+    "passageId": "mt-26-36-46",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 36,
+    "endVerse": 38,
+    "reference": "Matthew 26:36–38",
+    "title": "Sorrow and watchfulness",
+    "summary": "Jesus directs disciples to wait and watch and expresses distress.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
@@ -10331,6 +11850,150 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-40-41",
+    "passageId": "mt-26-36-46",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 40,
+    "endVerse": 41,
+    "reference": "Matthew 26:40–41",
+    "title": "Watch and pray",
+    "summary": "Jesus urges watchfulness and prayer against temptation.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-42-42",
+    "passageId": "mt-26-36-46",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 42,
+    "endVerse": 42,
+    "reference": "Matthew 26:42",
+    "title": "Submission in prayer",
+    "summary": "Jesus prays in submission to God's will.",
+    "audience": "God",
+    "speechType": "prayer",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-45-46",
+    "passageId": "mt-26-36-46",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 45,
+    "endVerse": 46,
+    "reference": "Matthew 26:45–46",
+    "title": "Hour of betrayal",
+    "summary": "Jesus announces the approaching betrayal and directs disciples to rise.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "prayer",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-50-50",
+    "passageId": "mt-26-47-56",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 50,
+    "endVerse": 50,
+    "reference": "Matthew 26:50",
+    "title": "Address to Judas",
+    "summary": "Jesus addresses Judas at the arrest; wording and punctuation vary by translation.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-52-54",
+    "passageId": "mt-26-47-56",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 52,
+    "endVerse": 54,
+    "reference": "Matthew 26:52–54",
+    "title": "Sword and fulfillment",
+    "summary": "Jesus directs that the sword be put away and discusses violence and scriptural fulfillment.",
+    "audience": "disciples",
+    "speechType": "warning",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-55-56",
+    "passageId": "mt-26-47-56",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 55,
+    "endVerse": 56,
+    "reference": "Matthew 26:55–56",
+    "title": "Arrest and public teaching",
+    "summary": "Jesus questions the manner of arrest and refers to his public teaching and fulfillment.",
+    "audience": "crowd",
+    "speechType": "response",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
+  },
+  {
+    "id": "mt-s-26-64-64",
+    "passageId": "mt-26-57-68",
+    "bookId": "mt",
+    "chapter": 26,
+    "startVerse": 64,
+    "endVerse": 64,
+    "reference": "Matthew 26:64",
+    "title": "Identity and vindication",
+    "summary": "Jesus answers the high priest and speaks of the Son of Man's vindication.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT26.htm"
@@ -10376,6 +12039,26 @@
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/MAT27.htm",
     "caution": "The lament relates to Psalm 22 and resembles Mark 15:34, but source language and wording differ; do not replace the Lukan and Johannine death accounts with a harmonized speech sequence."
+  },
+  {
+    "id": "mt-s-28-09-10",
+    "passageId": "mt-28-01-10",
+    "bookId": "mt",
+    "chapter": 28,
+    "startVerse": 9,
+    "endVerse": 10,
+    "reference": "Matthew 28:9–10",
+    "title": "Greeting and Galilee",
+    "summary": "Jesus greets the women and directs them to tell his followers to go to Galilee.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/MAT28.htm"
   },
   {
     "id": "mt-s-28-18-20",
