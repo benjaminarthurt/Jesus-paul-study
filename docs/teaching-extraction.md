@@ -1,0 +1,3 @@
+# Teaching extraction queue
+
+Each Gospel and Pauline passage has a pending editorial review row. Existing selected Jesus speech IDs are linked, not promoted to verified or exhaustive status. Reviewers must inspect the chosen edition, distinguish narrative, quotation, reported speech, authorial instruction, and uncertain attribution, split compound claims into independently meaningful units, and record exclusions with reasons. A completed review requires explicit disposition and source evidence; the initial queue makes no completion claims. Pauline disputed authorship must remain separate from historical Paul. Overlapping passages require deduplication at the teaching-unit level.
