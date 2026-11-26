@@ -7,6 +7,7 @@ paul: [ga-02-11-21, ro-03-28-31, ro-02-06-16, 2co-05-01-10, ga-05-02-06]
 context: [jn-03-16-21, eph-02-01-10]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
+reviewIds: [romans-2-faith-deeds-judgment]
 ---
 ## Research question
 
