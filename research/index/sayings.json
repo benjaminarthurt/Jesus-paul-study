@@ -264,6 +264,26 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
   },
   {
+    "id": "jn-s-04-16-18",
+    "passageId": "jn-04-07-42",
+    "bookId": "jn",
+    "chapter": 4,
+    "startVerse": 16,
+    "endVerse": 18,
+    "reference": "John 4:16–18",
+    "title": "The woman's household",
+    "summary": "Jesus asks the woman to call her husband and responds to her account; she also speaks.",
+    "audience": "individual",
+    "speechType": "dialogue",
+    "topics": [
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
+  },
+  {
     "id": "jn-s-04-21-24",
     "passageId": "jn-04-07-42",
     "bookId": "jn",
@@ -352,6 +372,27 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN04.htm"
   },
   {
+    "id": "jn-s-05-06-06",
+    "passageId": "jn-05-01-15",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 6,
+    "endVerse": 6,
+    "reference": "John 5:6",
+    "title": "Desire for healing",
+    "summary": "Jesus asks the man whether he wants to be made well.",
+    "audience": "individual",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
     "id": "jn-s-05-08-09",
     "passageId": "jn-05-01-15",
     "bookId": "jn",
@@ -375,6 +416,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-05-14-14",
+    "passageId": "jn-05-01-15",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 14,
+    "endVerse": 14,
+    "reference": "John 5:14",
+    "title": "Conduct after healing",
+    "summary": "Jesus addresses the healed man and warns against sin.",
+    "audience": "individual",
+    "speechType": "warning",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
@@ -443,6 +505,27 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
   },
   {
+    "id": "jn-s-05-30-30",
+    "passageId": "jn-05-19-30",
+    "bookId": "jn",
+    "chapter": 5,
+    "startVerse": 30,
+    "endVerse": 30,
+    "reference": "John 5:30",
+    "title": "Judgment and the sender's will",
+    "summary": "Jesus describes judgment in relation to the will of the one who sent him.",
+    "audience": "opponents",
+    "speechType": "teaching",
+    "topics": [
+      "identity-resurrection",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
     "id": "jn-s-05-31-40",
     "passageId": "jn-05-31-47",
     "bookId": "jn",
@@ -483,6 +566,69 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/JHN05.htm"
+  },
+  {
+    "id": "jn-s-06-05-06",
+    "passageId": "jn-06-01-15",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 5,
+    "endVerse": 6,
+    "reference": "John 6:5–6",
+    "title": "Bread for the crowd",
+    "summary": "Jesus asks Philip where bread can be bought; verse 6 supplies narrator context.",
+    "audience": "individual",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-10-10",
+    "passageId": "jn-06-01-15",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 10,
+    "endVerse": 10,
+    "reference": "John 6:10",
+    "title": "Seat the crowd",
+    "summary": "Jesus directs that the people sit down.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-12-12",
+    "passageId": "jn-06-01-15",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 12,
+    "endVerse": 12,
+    "reference": "John 6:12",
+    "title": "Gather leftovers",
+    "summary": "Jesus directs disciples to collect remaining fragments.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
   },
   {
     "id": "jn-s-06-20-20",
@@ -526,6 +672,27 @@
     "speechType": "teaching",
     "topics": [
       "discipleship",
+      "kingdom"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN06.htm"
+  },
+  {
+    "id": "jn-s-06-32-33",
+    "passageId": "jn-06-30-40",
+    "bookId": "jn",
+    "chapter": 6,
+    "startVerse": 32,
+    "endVerse": 33,
+    "reference": "John 6:32–33",
+    "title": "True bread from heaven",
+    "summary": "Jesus distinguishes the Father's gift of true bread from Moses' role.",
+    "audience": "crowd",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection",
       "kingdom"
     ],
     "parallels": [],
@@ -810,6 +977,26 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
   },
   {
+    "id": "jn-s-08-21-22",
+    "passageId": "jn-08-21-30",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 21,
+    "endVerse": 22,
+    "reference": "John 8:21–22",
+    "title": "Departure and sin",
+    "summary": "Jesus speaks of departure and dying in sin; verse 22 records others' response.",
+    "audience": "opponents",
+    "speechType": "warning",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
     "id": "jn-s-08-23-29",
     "passageId": "jn-08-21-30",
     "bookId": "jn",
@@ -851,6 +1038,27 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
   },
   {
+    "id": "jn-s-08-37-41",
+    "passageId": "jn-08-31-47",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 37,
+    "endVerse": 41,
+    "reference": "John 8:37–41",
+    "title": "Abraham and conduct",
+    "summary": "Jesus contrasts claimed descent from Abraham with conduct; interlocutors also speak.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "discipleship",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
     "id": "jn-s-08-42-47",
     "passageId": "jn-08-31-47",
     "bookId": "jn",
@@ -865,6 +1073,27 @@
     "topics": [
       "discipleship",
       "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN08.htm"
+  },
+  {
+    "id": "jn-s-08-49-50",
+    "passageId": "jn-08-48-59",
+    "bookId": "jn",
+    "chapter": 8,
+    "startVerse": 49,
+    "endVerse": 50,
+    "reference": "John 8:49–50",
+    "title": "Honor and glory",
+    "summary": "Jesus rejects the accusation against him and distinguishes his honor from self-seeking glory.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection",
+      "authority"
     ],
     "parallels": [],
     "status": "draft",
@@ -962,6 +1191,27 @@
     "caution": "John 9:35 differs across textual witnesses between Son of Man and Son of God; its wording needs Greek apparatus review."
   },
   {
+    "id": "jn-s-09-41-41",
+    "passageId": "jn-09-35-41",
+    "bookId": "jn",
+    "chapter": 9,
+    "startVerse": 41,
+    "endVerse": 41,
+    "reference": "John 9:41",
+    "title": "Blindness and accountability",
+    "summary": "Jesus responds to the Pharisees' question about blindness and sin.",
+    "audience": "opponents",
+    "speechType": "response",
+    "topics": [
+      "identity-resurrection",
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN09.htm"
+  },
+  {
     "id": "jn-s-10-01-06",
     "passageId": "jn-10-01-10",
     "bookId": "jn",
@@ -1046,6 +1296,27 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
   },
   {
+    "id": "jn-s-10-32-32",
+    "passageId": "jn-10-31-42",
+    "bookId": "jn",
+    "chapter": 10,
+    "startVerse": 32,
+    "endVerse": 32,
+    "reference": "John 10:32",
+    "title": "Works and accusation",
+    "summary": "Jesus asks which good work prompts the threat against him.",
+    "audience": "opponents",
+    "speechType": "question",
+    "topics": [
+      "mosaic-law",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN10.htm"
+  },
+  {
     "id": "jn-s-10-34-38",
     "passageId": "jn-10-31-42",
     "bookId": "jn",
@@ -1088,6 +1359,27 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
   },
   {
+    "id": "jn-s-11-07-10",
+    "passageId": "jn-11-01-16",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 7,
+    "endVerse": 10,
+    "reference": "John 11:7–10",
+    "title": "Return to Judea",
+    "summary": "Jesus proposes returning and uses daylight imagery; disciples also speak.",
+    "audience": "disciples",
+    "speechType": "dialogue",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
     "id": "jn-s-11-11-15",
     "passageId": "jn-11-01-16",
     "bookId": "jn",
@@ -1101,6 +1393,27 @@
     "speechType": "dialogue",
     "topics": [
       "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-s-11-23-23",
+    "passageId": "jn-11-17-27",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 23,
+    "endVerse": 23,
+    "reference": "John 11:23",
+    "title": "Brother will rise",
+    "summary": "Jesus tells Martha her brother will rise.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "women-authority",
       "identity-resurrection"
     ],
     "parallels": [],
@@ -1130,6 +1443,48 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
   },
   {
+    "id": "jn-s-11-34-34",
+    "passageId": "jn-11-28-37",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 34,
+    "endVerse": 34,
+    "reference": "John 11:34",
+    "title": "Where is he laid?",
+    "summary": "Jesus asks where Lazarus has been laid; others answer.",
+    "audience": "individuals",
+    "speechType": "question",
+    "topics": [
+      "women-authority",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-s-11-39-39",
+    "passageId": "jn-11-38-44",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 39,
+    "endVerse": 39,
+    "reference": "John 11:39",
+    "title": "Remove the stone",
+    "summary": "Jesus directs removal of the stone; Martha objects.",
+    "audience": "individuals",
+    "speechType": "instruction",
+    "topics": [
+      "identity-resurrection",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
     "id": "jn-s-11-40-43",
     "passageId": "jn-11-38-44",
     "bookId": "jn",
@@ -1141,6 +1496,27 @@
     "summary": "Jesus prays aloud before calling Lazarus out of the tomb.",
     "audience": "public",
     "speechType": "prayer",
+    "topics": [
+      "identity-resurrection",
+      "prayer"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN11.htm"
+  },
+  {
+    "id": "jn-s-11-44-44",
+    "passageId": "jn-11-38-44",
+    "bookId": "jn",
+    "chapter": 11,
+    "startVerse": 44,
+    "endVerse": 44,
+    "reference": "John 11:44",
+    "title": "Release Lazarus",
+    "summary": "Jesus directs that Lazarus be unbound and allowed to go.",
+    "audience": "onlookers",
+    "speechType": "instruction",
     "topics": [
       "identity-resurrection",
       "prayer"
@@ -1218,6 +1594,27 @@
     "summary": "Jesus reflects on the approaching hour, judgment and being lifted up.",
     "audience": "crowd",
     "speechType": "teaching",
+    "topics": [
+      "suffering",
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN12.htm"
+  },
+  {
+    "id": "jn-s-12-34-36",
+    "passageId": "jn-12-27-36",
+    "bookId": "jn",
+    "chapter": 12,
+    "startVerse": 34,
+    "endVerse": 36,
+    "reference": "John 12:34–36",
+    "title": "Light and departure",
+    "summary": "The crowd asks about the Son of Man and Jesus urges walking and believing in the light.",
+    "audience": "crowd",
+    "speechType": "dialogue",
     "topics": [
       "suffering",
       "identity-resurrection"
@@ -1768,6 +2165,27 @@
     "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
   },
   {
+    "id": "jn-s-18-11-11",
+    "passageId": "jn-18-01-11",
+    "bookId": "jn",
+    "chapter": 18,
+    "startVerse": 11,
+    "endVerse": 11,
+    "reference": "John 18:11",
+    "title": "Sword and cup",
+    "summary": "Jesus tells Peter to put away the sword and refers to the cup given by the Father.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "suffering",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/JHN18.htm"
+  },
+  {
     "id": "jn-s-18-20-23",
     "passageId": "jn-18-12-27",
     "bookId": "jn",
@@ -2158,6 +2576,27 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
   },
   {
+    "id": "lk-s-04-23-23",
+    "passageId": "lk-04-16-30",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 23,
+    "endVerse": 23,
+    "reference": "Luke 4:23",
+    "title": "Proverb at Nazareth",
+    "summary": "Jesus anticipates a demand to perform hometown works.",
+    "audience": "crowd",
+    "speechType": "response",
+    "topics": [
+      "mission",
+      "inclusion"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
     "id": "lk-s-04-24-27",
     "passageId": "lk-04-16-30",
     "bookId": "lk",
@@ -2192,6 +2631,27 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
   },
   {
+    "id": "lk-s-04-35-35",
+    "passageId": "lk-04-31-37",
+    "bookId": "lk",
+    "chapter": 4,
+    "startVerse": 35,
+    "endVerse": 35,
+    "reference": "Luke 4:35",
+    "title": "Command to spirit",
+    "summary": "Jesus commands silence and departure.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
     "id": "lk-s-04-43-43",
     "passageId": "lk-04-42-44",
     "bookId": "lk",
@@ -2218,6 +2678,27 @@
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK04.htm"
+  },
+  {
+    "id": "lk-s-05-04-04",
+    "passageId": "lk-05-01-11",
+    "bookId": "lk",
+    "chapter": 5,
+    "startVerse": 4,
+    "endVerse": 4,
+    "reference": "Luke 5:4",
+    "title": "Let down the nets",
+    "summary": "Jesus directs Simon to fish in deep water.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "mission",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
   },
   {
     "id": "lk-s-05-10-10",
@@ -2254,6 +2735,27 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
   },
   {
+    "id": "lk-s-05-13-14",
+    "passageId": "lk-05-12-16",
+    "bookId": "lk",
+    "chapter": 5,
+    "startVerse": 13,
+    "endVerse": 14,
+    "reference": "Luke 5:13–14",
+    "title": "Cleansing and testimony",
+    "summary": "Jesus expresses willingness to cleanse and directs the man to fulfill the prescribed offering.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
     "id": "lk-s-05-20-24",
     "passageId": "lk-05-17-26",
     "bookId": "lk",
@@ -2284,6 +2786,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
+  },
+  {
+    "id": "lk-s-05-27-27",
+    "passageId": "lk-05-27-32",
+    "bookId": "lk",
+    "chapter": 5,
+    "startVerse": 27,
+    "endVerse": 27,
+    "reference": "Luke 5:27",
+    "title": "Levi called",
+    "summary": "Jesus calls Levi to follow him.",
+    "audience": "individual",
+    "speechType": "call",
+    "topics": [
+      "inclusion",
+      "discipleship"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
@@ -2356,6 +2879,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK05.htm"
   },
   {
+    "id": "lk-s-06-03-04",
+    "passageId": "lk-06-01-05",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 3,
+    "endVerse": 4,
+    "reference": "Luke 6:3–4",
+    "title": "David and sacred bread",
+    "summary": "Jesus invokes David's conduct in response to the Sabbath objection.",
+    "audience": "opponents",
+    "speechType": "argument",
+    "topics": [
+      "mosaic-law"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
     "id": "lk-s-06-05-05",
     "passageId": "lk-06-01-05",
     "bookId": "lk",
@@ -2384,6 +2927,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-08-08",
+    "passageId": "lk-06-06-11",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 8,
+    "endVerse": 8,
+    "reference": "Luke 6:8",
+    "title": "Stand forward",
+    "summary": "Jesus directs the man with the injured hand to stand.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
@@ -2418,6 +2982,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
+  },
+  {
+    "id": "lk-s-06-10-10",
+    "passageId": "lk-06-06-11",
+    "bookId": "lk",
+    "chapter": 6,
+    "startVerse": 10,
+    "endVerse": 10,
+    "reference": "Luke 6:10",
+    "title": "Extend your hand",
+    "summary": "Jesus directs the man to extend his hand.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "mosaic-law"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK06.htm"
@@ -2639,6 +3224,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
   },
   {
+    "id": "lk-s-07-24-27",
+    "passageId": "lk-07-24-35",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 24,
+    "endVerse": 27,
+    "reference": "Luke 7:24–27",
+    "title": "John as messenger",
+    "summary": "Jesus questions the crowd about John and identifies his prophetic role.",
+    "audience": "crowd",
+    "speechType": "teaching",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
     "id": "lk-s-07-28-28",
     "passageId": "lk-07-24-35",
     "bookId": "lk",
@@ -2666,6 +3271,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
   },
   {
+    "id": "lk-s-07-31-35",
+    "passageId": "lk-07-24-35",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 31,
+    "endVerse": 35,
+    "reference": "Luke 7:31–35",
+    "title": "This generation",
+    "summary": "Jesus contrasts responses to John and the Son of Man.",
+    "audience": "crowd",
+    "speechType": "critique",
+    "topics": [
+      "authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
     "id": "lk-s-07-40-47",
     "passageId": "lk-07-36-50",
     "bookId": "lk",
@@ -2677,6 +3302,28 @@
     "summary": "Jesus offers a debt illustration to interpret an anointing woman's actions.",
     "audience": "individual",
     "speechType": "parable",
+    "topics": [
+      "forgiveness",
+      "inclusion",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK07.htm"
+  },
+  {
+    "id": "lk-s-07-48-48",
+    "passageId": "lk-07-36-50",
+    "bookId": "lk",
+    "chapter": 7,
+    "startVerse": 48,
+    "endVerse": 48,
+    "reference": "Luke 7:48",
+    "title": "Forgiveness pronounced",
+    "summary": "Jesus tells the woman her sins are forgiven.",
+    "audience": "individual",
+    "speechType": "response",
     "topics": [
       "forgiveness",
       "inclusion",
@@ -2804,6 +3451,27 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
   },
   {
+    "id": "lk-s-08-22-22",
+    "passageId": "lk-08-22-25",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 22,
+    "endVerse": 22,
+    "reference": "Luke 8:22",
+    "title": "Crossing the lake",
+    "summary": "Jesus proposes crossing the lake.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
     "id": "lk-s-08-25-25",
     "passageId": "lk-08-22-25",
     "bookId": "lk",
@@ -2838,6 +3506,27 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
   },
   {
+    "id": "lk-s-08-30-30",
+    "passageId": "lk-08-26-39",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 30,
+    "endVerse": 30,
+    "reference": "Luke 8:30",
+    "title": "Name of the spirit",
+    "summary": "Jesus asks the name in the healing encounter.",
+    "audience": "individual",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "mission"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
     "id": "lk-s-08-39-39",
     "passageId": "lk-08-26-39",
     "bookId": "lk",
@@ -2861,6 +3550,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-45-46",
+    "passageId": "lk-08-40-56",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 45,
+    "endVerse": 46,
+    "reference": "Luke 8:45–46",
+    "title": "Who touched me?",
+    "summary": "Jesus asks who touched him and describes perceiving power go out; others speak.",
+    "audience": "crowd",
+    "speechType": "question",
+    "topics": [
+      "healing",
+      "women-authority"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
@@ -2923,6 +3633,48 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-52-52",
+    "passageId": "lk-08-40-56",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 52,
+    "endVerse": 52,
+    "reference": "Luke 8:52",
+    "title": "The child sleeps",
+    "summary": "Jesus tells mourners not to weep and describes the child as sleeping.",
+    "audience": "onlookers",
+    "speechType": "response",
+    "topics": [
+      "healing",
+      "women-authority"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
+  },
+  {
+    "id": "lk-s-08-54-54",
+    "passageId": "lk-08-40-56",
+    "bookId": "lk",
+    "chapter": 8,
+    "startVerse": 54,
+    "endVerse": 54,
+    "reference": "Luke 8:54",
+    "title": "Child told to rise",
+    "summary": "Jesus directs the child to arise.",
+    "audience": "individual",
+    "speechType": "instruction",
+    "topics": [
+      "healing",
+      "women-authority"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK08.htm"
@@ -2995,6 +3747,27 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
   },
   {
+    "id": "lk-s-09-18-19",
+    "passageId": "lk-09-18-22",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 18,
+    "endVerse": 19,
+    "reference": "Luke 9:18–19",
+    "title": "Public views of identity",
+    "summary": "Jesus asks who the crowds say he is; disciples supply answers.",
+    "audience": "disciples",
+    "speechType": "question",
+    "topics": [
+      "identity-resurrection",
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
     "id": "lk-s-09-20-22",
     "passageId": "lk-09-18-22",
     "bookId": "lk",
@@ -3058,6 +3831,46 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-41-41",
+    "passageId": "lk-09-37-43",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 41,
+    "endVerse": 41,
+    "reference": "Luke 9:41",
+    "title": "Faithless generation",
+    "summary": "Jesus expresses frustration and directs that the boy be brought to him.",
+    "audience": "crowd",
+    "speechType": "response",
+    "topics": [
+      "healing"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
+  },
+  {
+    "id": "lk-s-09-44-44",
+    "passageId": "lk-09-44-45",
+    "bookId": "lk",
+    "chapter": 9,
+    "startVerse": 44,
+    "endVerse": 44,
+    "reference": "Luke 9:44",
+    "title": "Betrayal prediction",
+    "summary": "Jesus warns that the Son of Man will be delivered into human hands.",
+    "audience": "disciples",
+    "speechType": "proclamation",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK09.htm"
@@ -3202,6 +4015,26 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
+  },
+  {
+    "id": "lk-s-10-18-18",
+    "passageId": "lk-10-17-20",
+    "bookId": "lk",
+    "chapter": 10,
+    "startVerse": 18,
+    "endVerse": 18,
+    "reference": "Luke 10:18",
+    "title": "Satan falling",
+    "summary": "Jesus describes seeing Satan fall in response to the mission report.",
+    "audience": "disciples",
+    "speechType": "response",
+    "topics": [
+      "mission"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK10.htm"
@@ -3557,6 +4390,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
   },
   {
+    "id": "lk-s-12-14-14",
+    "passageId": "lk-12-13-21",
+    "bookId": "lk",
+    "chapter": 12,
+    "startVerse": 14,
+    "endVerse": 14,
+    "reference": "Luke 12:14",
+    "title": "Dispute over inheritance",
+    "summary": "Jesus questions his appointment as judge or divider in the dispute.",
+    "audience": "individual",
+    "speechType": "response",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK12.htm"
+  },
+  {
     "id": "lk-s-12-15-15",
     "passageId": "lk-12-13-21",
     "bookId": "lk",
@@ -3833,6 +4686,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
   },
   {
+    "id": "lk-s-13-32-33",
+    "passageId": "lk-13-31-35",
+    "bookId": "lk",
+    "chapter": 13,
+    "startVerse": 32,
+    "endVerse": 33,
+    "reference": "Luke 13:32–33",
+    "title": "Journey and Herod",
+    "summary": "Jesus responds to the warning about Herod and describes his continuing journey.",
+    "audience": "individuals",
+    "speechType": "response",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK13.htm"
+  },
+  {
     "id": "lk-s-13-34-35",
     "passageId": "lk-13-31-35",
     "bookId": "lk",
@@ -3978,6 +4851,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
   },
   {
+    "id": "lk-s-14-34-35",
+    "passageId": "lk-14-25-35",
+    "bookId": "lk",
+    "chapter": 14,
+    "startVerse": 34,
+    "endVerse": 35,
+    "reference": "Luke 14:34–35",
+    "title": "Salt losing flavor",
+    "summary": "Jesus uses salt imagery and calls for attentive hearing.",
+    "audience": "crowd",
+    "speechType": "illustration",
+    "topics": [
+      "discipleship"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK14.htm"
+  },
+  {
     "id": "lk-s-15-03-07",
     "passageId": "lk-15-01-07",
     "bookId": "lk",
@@ -4073,6 +4966,26 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
+  },
+  {
+    "id": "lk-s-16-15-15",
+    "passageId": "lk-16-14-15",
+    "bookId": "lk",
+    "chapter": 16,
+    "startVerse": 15,
+    "endVerse": 15,
+    "reference": "Luke 16:15",
+    "title": "Human approval and God",
+    "summary": "Jesus criticizes self-justification and contrasts human esteem with God's knowledge.",
+    "audience": "opponents",
+    "speechType": "critique",
+    "topics": [
+      "wealth-poverty"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK16.htm"
@@ -4470,6 +5383,26 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
   },
   {
+    "id": "lk-s-19-29-31",
+    "passageId": "lk-19-28-40",
+    "bookId": "lk",
+    "chapter": 19,
+    "startVerse": 29,
+    "endVerse": 31,
+    "reference": "Luke 19:29–31",
+    "title": "Preparing the entry",
+    "summary": "Jesus directs disciples to obtain a colt and supplies a response to questions.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK19.htm"
+  },
+  {
     "id": "lk-s-19-40-40",
     "passageId": "lk-19-28-40",
     "bookId": "lk",
@@ -4844,6 +5777,46 @@
     "sourceUrl": "https://ebible.org/engwebp/LUK21.htm"
   },
   {
+    "id": "lk-s-22-08-08",
+    "passageId": "lk-22-07-13",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 8,
+    "endVerse": 8,
+    "reference": "Luke 22:8",
+    "title": "Prepare Passover",
+    "summary": "Jesus sends Peter and John to prepare the meal.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-s-22-10-12",
+    "passageId": "lk-22-07-13",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 10,
+    "endVerse": 12,
+    "reference": "Luke 22:10–12",
+    "title": "Finding the room",
+    "summary": "Jesus describes how the disciples will locate the room for the meal.",
+    "audience": "disciples",
+    "speechType": "instruction",
+    "topics": [
+      "suffering"
+    ],
+    "parallels": [],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
     "id": "lk-s-22-15-23",
     "passageId": "lk-22-14-23",
     "bookId": "lk",
@@ -4908,6 +5881,27 @@
         "status": "candidate"
       }
     ],
+    "status": "draft",
+    "sourceEdition": "World English Bible (Protestant edition)",
+    "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
+  },
+  {
+    "id": "lk-s-22-28-30",
+    "passageId": "lk-22-24-38",
+    "bookId": "lk",
+    "chapter": 22,
+    "startVerse": 28,
+    "endVerse": 30,
+    "reference": "Luke 22:28–30",
+    "title": "Kingdom and endurance",
+    "summary": "Jesus acknowledges the disciples' endurance and describes kingdom participation.",
+    "audience": "disciples",
+    "speechType": "teaching",
+    "topics": [
+      "leadership",
+      "discipleship"
+    ],
+    "parallels": [],
     "status": "draft",
     "sourceEdition": "World English Bible (Protestant edition)",
     "sourceUrl": "https://ebible.org/engwebp/LUK22.htm"
