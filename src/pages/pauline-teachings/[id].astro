@@ -1,0 +1,41 @@
+---
+import Base from "../../layouts/Base.astro";
+import books from "../../../research/index/books.json";
+import teachings from "../../../research/index/pauline-teachings.json";
+import passages from "../../../research/index/passages.json";
+import decisions from "../../../research/index/pauline-extraction-dispositions.json";
+import { getCollection } from "astro:content";
+export function getStaticPaths() {
+  return teachings.map(teaching => ({params: {id: teaching.id}, props: {teaching}}));
+}
+const {teaching} = Astro.props;
+const parent = passages.find(p => p.id === teaching.passageId)!;
+const book = books.find(b => b.id === teaching.bookId)!;
+const reference = book.title + " " + teaching.chapter + ":" + teaching.startVerse +
+  (teaching.startVerse === teaching.endVerse ? "" : "–" + teaching.endVerse);
+const decision = decisions.find(d => d.passageId === parent.id)!;
+const comparisons = (await getCollection("comparisons")).filter(c => c.data.paul.includes(parent.id) || c.data.context?.includes(parent.id));
+const topics = await getCollection("topics");
+---
+<Base title={reference + " · " + teaching.title} description={teaching.title}>
+  <article class="study">
+    <p><a href={"/pauline-teachings/#" + teaching.id}>Pauline teaching catalog</a> · <a href={"/books/" + book.id + "/"}>{book.title}</a></p>
+    <p class="eyebrow">{reference} · Draft teaching candidate</p>
+    <h1>{teaching.title}</h1>
+    <dl class="source-facts">
+      <div><dt>Authorship</dt><dd>{teaching.sourceLayer === "paul-disputed" ? "Disputed Pauline authorship" : "Generally undisputed Pauline letter"}</dd></div>
+      <div><dt>Attributed voice</dt><dd>{teaching.attribution.replaceAll("-", " ")}</dd></div>
+      <div><dt>Literary form</dt><dd>{teaching.teachingType?.replaceAll("-", " ") ?? "Awaiting assessment"}</dd></div>
+      <div><dt>Primary source</dt><dd><a href={teaching.sourceUrl}>Read {book.title} {teaching.chapter} in WEBP</a></dd></div>
+    </dl>
+    {teaching.attributionNote && <p class="warning">{teaching.attributionNote}</p>}
+    <section class="panel"><h2>Passage and inspection</h2>
+      <p><a href={"/passages/" + parent.id + "/"}>{parent.reference}</a> · {parent.summary}</p>
+      {decision.primaryTextCheck ? <><p>English passage inspected on {decision.primaryTextCheck.date}. Independent scholarly review remains pending.</p><p>{decision.note}</p></> : <p>Primary-text collation is pending for this candidate.</p>}
+    </section>
+    <section class="panel"><h2>Research topics</h2><ul>{teaching.topics.map(id =>
+      <li><a href={"/topics/" + id + "/"}>{topics.find(t => t.id === id)?.data.title ?? id}</a></li>)}</ul></section>
+    {comparisons.length > 0 && <section class="panel"><h2>Comparisons citing the parent passage</h2><ul>{comparisons.map(c =>
+      <li><a href={"/comparisons/" + c.id + "/"}>{c.data.title}</a></li>)}</ul></section>}
+  </article>
+</Base>

@@ -1331,7 +1331,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "doctrinal-argument"
   },
   {
     "id": "1th-t-05-04-08",
@@ -1344,11 +1345,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "end-times"
+      "discipleship"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "1th-t-05-09-11",
@@ -1361,11 +1363,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "end-times"
+      "identity-resurrection"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "doctrinal-argument"
   },
   {
     "id": "1th-t-05-12-13",
@@ -1378,13 +1381,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "leadership",
-      "prayer",
-      "discipleship"
+      "leadership"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "instruction"
   },
   {
     "id": "1th-t-05-14-15",
@@ -1397,13 +1399,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "leadership",
-      "prayer",
-      "discipleship"
+      "forgiveness"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "1th-t-05-16-18",
@@ -1416,13 +1417,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "leadership",
-      "prayer",
-      "discipleship"
+      "prayer"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "1th-t-05-19-22",
@@ -1435,13 +1435,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "leadership",
-      "prayer",
       "discipleship"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "instruction"
   },
   {
     "id": "1th-t-05-23-24",
@@ -1454,11 +1453,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "prayer"
+      "end-times"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "prayer"
   },
   {
     "id": "1th-t-05-25-28",
@@ -1475,7 +1475,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1TH05.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "instruction"
   },
   {
     "id": "1ti-t-01-03-07",
@@ -4118,13 +4119,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "inclusion",
-      "authority",
       "leadership"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHM01.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "phm-t-01-15-17",
@@ -4137,13 +4137,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "inclusion",
-      "authority",
-      "leadership"
+      "inclusion"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHM01.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "instruction"
   },
   {
     "id": "phm-t-01-18-21",
@@ -4156,13 +4155,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "inclusion",
-      "authority",
-      "leadership"
+      "wealth-poverty"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHM01.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "narrative-example"
   },
   {
     "id": "php-t-01-27-28",
@@ -4175,11 +4173,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "suffering"
+      "discipleship"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-01-29-30",
@@ -4196,7 +4195,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP01.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "doctrinal-argument"
   },
   {
     "id": "php-t-02-01-04",
@@ -4209,12 +4209,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "leadership",
-      "discipleship"
+      "leadership"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-02-05-11",
@@ -4227,12 +4227,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "leadership",
-      "discipleship"
+      "identity-resurrection"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "confession"
   },
   {
     "id": "php-t-02-14-16",
@@ -4249,7 +4249,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-03-01-03",
@@ -4266,7 +4267,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-03-04-06",
@@ -4283,7 +4285,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "narrative-example"
   },
   {
     "id": "php-t-03-07-11",
@@ -4296,11 +4299,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "mosaic-law"
+      "identity-resurrection"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "doctrinal-argument"
   },
   {
     "id": "php-t-03-12-16",
@@ -4317,7 +4321,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-03-17-19",
@@ -4334,7 +4339,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-03-20-21",
@@ -4347,11 +4353,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "discipleship"
+      "identity-resurrection"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP03.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "confession"
   },
   {
     "id": "php-t-04-01-01",
@@ -4368,7 +4375,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-04-02-03",
@@ -4385,7 +4393,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-04-04-07",
@@ -4398,12 +4407,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "prayer",
-      "discipleship"
+      "prayer"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-04-08-09",
@@ -4420,7 +4429,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   },
   {
     "id": "php-t-04-10-13",
@@ -4437,7 +4447,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "narrative-example"
   },
   {
     "id": "php-t-04-14-18",
@@ -4454,7 +4465,8 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "narrative-example"
   },
   {
     "id": "php-t-04-19-20",
@@ -4467,11 +4479,12 @@
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
-      "wealth-poverty"
+      "prayer"
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/PHP04.htm",
-    "granularity": "selected-unit"
+    "granularity": "selected-unit",
+    "teachingType": "prayer"
   },
   {
     "id": "ro-t-01-16-16",
@@ -8006,5 +8019,41 @@
     "sourceUrl": "https://ebible.org/engwebp/1TH04.htm",
     "granularity": "selected-unit",
     "attributionNote": "Instructions are described as given through Jesus. The writers do not reproduce a saying here."
+  },
+  {
+    "id": "php-t-02-12-13",
+    "passageId": "php-02-12-18",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 12,
+    "endVerse": 13,
+    "title": "Work out salvation in response to God at work among the recipients",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
+  },
+  {
+    "id": "php-t-02-17-18",
+    "passageId": "php-02-12-18",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 17,
+    "endVerse": 18,
+    "title": "Paul invites the community to share his joy even if his life is poured out",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit",
+    "teachingType": "exhortation"
   }
 ]
