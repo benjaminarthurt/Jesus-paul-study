@@ -9,3 +9,7 @@ test("Gospel references fit provisional verse numbering",()=>{
  assert.equal(rows.flatMap(r=>r.chapters).length,89);
  for(const r of rows)for(const c of r.chapters)assert.equal(c.covered+c.gaps.reduce((s,g)=>s+g.end-g.start+1,0),c.total);
 });
+
+test("all provisional Gospel verse slots intersect indexed references",()=>{
+ for(const r of paulineCoverage(read("gospel-verse-counts"),read("passages")))assert.equal(r.covered,r.total,r.bookId);
+});

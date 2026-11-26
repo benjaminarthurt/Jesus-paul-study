@@ -1,0 +1,5159 @@
+[
+  {
+    "passageId": "1co-01-01-09",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-01-10-17",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-01-18-31",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-02-01-05",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-02-06-16",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-03-01-23",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-04-01-21",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-05-01-13",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-06-01-11",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-06-12-20",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-07-01-09",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-07-10-16",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-07-17-24",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-07-25-40",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-08-01-13",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-08-04-06",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-09-01-18",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-09-19-27",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-10-01-13",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-10-14-33",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-11-01-01",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-11-02-16",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-11-17-34",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-12-01-03",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-12-04-31",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-13-01-13",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-14-01-25",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-14-26-40",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-14-34-35",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-15-01-11",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-15-12-28",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-15-29-34",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-15-35-58",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-16-01-04",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-16-05-18",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-16-19-19",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1co-16-20-24",
+    "bookId": "1co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-01-01-01",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-01-02-10",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-02-01-12",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-02-13-16",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-02-17-03-13",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-04-01-08",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-04-09-12",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-04-13-18",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-05-01-11",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-05-12-22",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1th-05-23-28",
+    "bookId": "1th",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-01-01-02",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-01-03-11",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-01-12-20",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-02-01-07",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-02-08-15",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-03-01-13",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-03-14-16",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-04-01-05",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-04-06-16",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-05-01-16",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-05-17-25",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-06-01-02",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-06-03-05",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-06-06-19",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "1ti-06-20-21",
+    "bookId": "1ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-01-01-02",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-01-03-11",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-01-12-24",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-02-01-04",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-02-05-11",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-02-12-17",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-03-01-18",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-04-01-18",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-05-01-10",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-05-11-21",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-06-01-13",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-06-14-07-01",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-07-02-16",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-08-01-15",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-08-16-24",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-09-01-15",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-10-01-18",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-11-01-15",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-11-16-33",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-12-01-10",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-12-11-21",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2co-13-01-14",
+    "bookId": "2co",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2th-01-01-02",
+    "bookId": "2th",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2th-01-03-12",
+    "bookId": "2th",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2th-02-01-12",
+    "bookId": "2th",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2th-02-13-17",
+    "bookId": "2th",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2th-03-01-05",
+    "bookId": "2th",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2th-03-06-15",
+    "bookId": "2th",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2th-03-16-18",
+    "bookId": "2th",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-01-01-05",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-01-06-14",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-01-15-18",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-02-01-13",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-02-14-21",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-02-22-26",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-03-01-09",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-03-10-17",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-04-01-08",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "2ti-04-09-22",
+    "bookId": "2ti",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-01-01-02",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-01-03-14",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-01-15-20",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-01-21-29",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-02-01-07",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-02-08-23",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-03-01-17",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-03-18-25",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-04-01-06",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "col-04-07-18",
+    "bookId": "col",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-01-01-02",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-01-03-14",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-01-15-23",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-02-01-10",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-02-11-22",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-03-01-13",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-03-14-21",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-04-01-16",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-04-17-24",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-04-25-32",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-05-01-20",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-05-21-33",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-06-01-04",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-06-05-09",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-06-10-20",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "eph-06-21-24",
+    "bookId": "eph",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-01-01-05",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-01-06-24",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-02-01-10",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-02-11-21",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-03-01-09",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-03-10-14",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-03-15-22",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-03-23-25",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-03-26-29",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-04-01-11",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-04-12-20",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-04-21-31",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-05-01-01",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-05-02-06",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-05-07-12",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-05-13-14",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-05-15-15",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-05-16-26",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-06-01-10",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ga-06-11-18",
+    "bookId": "ga",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-01-01-18",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-01-19-28",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-01-29-34",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-01-35-42",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-01-38-39",
+      "jn-s-01-42-42"
+    ]
+  },
+  {
+    "passageId": "jn-01-43-51",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-01-43-43",
+      "jn-s-01-47-51"
+    ]
+  },
+  {
+    "passageId": "jn-02-01-12",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-02-04-04",
+      "jn-s-02-07-08"
+    ]
+  },
+  {
+    "passageId": "jn-02-13-22",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-02-16-16",
+      "jn-s-02-19-19"
+    ]
+  },
+  {
+    "passageId": "jn-02-23-25",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-03-01-15",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-03-03-08",
+      "jn-s-03-10-15"
+    ]
+  },
+  {
+    "passageId": "jn-03-16-21",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-03-22-30",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-03-31-36",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-04-01-06",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-04-07-42",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-04-07-10",
+      "jn-s-04-13-14",
+      "jn-s-04-21-24",
+      "jn-s-04-25-26",
+      "jn-s-04-31-38"
+    ]
+  },
+  {
+    "passageId": "jn-04-43-45",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-04-46-54",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-04-48-50"
+    ]
+  },
+  {
+    "passageId": "jn-05-01-15",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-05-08-09"
+    ]
+  },
+  {
+    "passageId": "jn-05-16-18",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-05-17-17"
+    ]
+  },
+  {
+    "passageId": "jn-05-19-30",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-05-19-23",
+      "jn-s-05-24-29"
+    ]
+  },
+  {
+    "passageId": "jn-05-31-47",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-05-31-40",
+      "jn-s-05-41-47"
+    ]
+  },
+  {
+    "passageId": "jn-06-01-15",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-06-16-21",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-06-20-20"
+    ]
+  },
+  {
+    "passageId": "jn-06-22-29",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-06-26-29"
+    ]
+  },
+  {
+    "passageId": "jn-06-30-40",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-06-35-40"
+    ]
+  },
+  {
+    "passageId": "jn-06-41-51",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-06-43-51"
+    ]
+  },
+  {
+    "passageId": "jn-06-52-59",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-06-53-58"
+    ]
+  },
+  {
+    "passageId": "jn-06-60-66",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-06-61-65"
+    ]
+  },
+  {
+    "passageId": "jn-06-67-71",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-06-67-70"
+    ]
+  },
+  {
+    "passageId": "jn-07-01-13",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-07-06-08"
+    ]
+  },
+  {
+    "passageId": "jn-07-14-24",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-07-16-18",
+      "jn-s-07-19-24"
+    ]
+  },
+  {
+    "passageId": "jn-07-25-31",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-07-28-29"
+    ]
+  },
+  {
+    "passageId": "jn-07-32-36",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-07-33-34"
+    ]
+  },
+  {
+    "passageId": "jn-07-37-39",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-07-37-38"
+    ]
+  },
+  {
+    "passageId": "jn-07-40-52",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-07-53-53",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-08-01-11",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-08-12-20",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-08-12-12",
+      "jn-s-08-14-19"
+    ]
+  },
+  {
+    "passageId": "jn-08-21-30",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-08-23-29"
+    ]
+  },
+  {
+    "passageId": "jn-08-31-47",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-08-31-36",
+      "jn-s-08-42-47"
+    ]
+  },
+  {
+    "passageId": "jn-08-48-59",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-08-51-59"
+    ]
+  },
+  {
+    "passageId": "jn-09-01-12",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-09-03-05",
+      "jn-s-09-07-07"
+    ]
+  },
+  {
+    "passageId": "jn-09-13-34",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-09-35-41",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-09-35-39"
+    ]
+  },
+  {
+    "passageId": "jn-10-01-10",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-10-01-06",
+      "jn-s-10-07-10"
+    ]
+  },
+  {
+    "passageId": "jn-10-11-21",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-10-11-18"
+    ]
+  },
+  {
+    "passageId": "jn-10-22-30",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-10-25-30"
+    ]
+  },
+  {
+    "passageId": "jn-10-31-42",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-10-34-38"
+    ]
+  },
+  {
+    "passageId": "jn-11-01-16",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-11-04-04",
+      "jn-s-11-11-15"
+    ]
+  },
+  {
+    "passageId": "jn-11-17-27",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-11-25-27"
+    ]
+  },
+  {
+    "passageId": "jn-11-28-37",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-11-38-44",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-11-40-43"
+    ]
+  },
+  {
+    "passageId": "jn-11-45-57",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-12-01-11",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-12-07-08"
+    ]
+  },
+  {
+    "passageId": "jn-12-12-19",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-12-20-26",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-12-23-26"
+    ]
+  },
+  {
+    "passageId": "jn-12-27-36",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-12-27-32",
+      "jn-s-12-35-36"
+    ]
+  },
+  {
+    "passageId": "jn-12-37-43",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-12-44-50",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-12-44-50"
+    ]
+  },
+  {
+    "passageId": "jn-13-01-17",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-13-06-11",
+      "jn-s-13-12-17"
+    ]
+  },
+  {
+    "passageId": "jn-13-18-30",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-13-18-20",
+      "jn-s-13-21-27"
+    ]
+  },
+  {
+    "passageId": "jn-13-31-38",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-13-31-35",
+      "jn-s-13-36-38"
+    ]
+  },
+  {
+    "passageId": "jn-14-01-14",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-14-01-07",
+      "jn-s-14-08-14"
+    ]
+  },
+  {
+    "passageId": "jn-14-15-24",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-14-15-21",
+      "jn-s-14-22-24"
+    ]
+  },
+  {
+    "passageId": "jn-14-25-31",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-14-25-31"
+    ]
+  },
+  {
+    "passageId": "jn-15-01-17",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-15-01-08",
+      "jn-s-15-09-17"
+    ]
+  },
+  {
+    "passageId": "jn-15-18-27",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-15-18-25",
+      "jn-s-15-26-27"
+    ]
+  },
+  {
+    "passageId": "jn-16-01-15",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-16-01-04",
+      "jn-s-16-05-15"
+    ]
+  },
+  {
+    "passageId": "jn-16-16-24",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-16-16-24"
+    ]
+  },
+  {
+    "passageId": "jn-16-25-33",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-16-25-33"
+    ]
+  },
+  {
+    "passageId": "jn-17-01-05",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-17-01-05"
+    ]
+  },
+  {
+    "passageId": "jn-17-06-19",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-17-06-19"
+    ]
+  },
+  {
+    "passageId": "jn-17-20-26",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-17-20-26"
+    ]
+  },
+  {
+    "passageId": "jn-18-01-11",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-18-04-09"
+    ]
+  },
+  {
+    "passageId": "jn-18-12-27",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-18-20-23"
+    ]
+  },
+  {
+    "passageId": "jn-18-28-40",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-18-33-38"
+    ]
+  },
+  {
+    "passageId": "jn-19-01-16",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-19-09-11"
+    ]
+  },
+  {
+    "passageId": "jn-19-17-27",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-19-26-27"
+    ]
+  },
+  {
+    "passageId": "jn-19-28-37",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-19-28-30"
+    ]
+  },
+  {
+    "passageId": "jn-19-38-42",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-20-01-10",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-20-11-18",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-20-15-17"
+    ]
+  },
+  {
+    "passageId": "jn-20-19-23",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-20-19-23"
+    ]
+  },
+  {
+    "passageId": "jn-20-24-29",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-20-26-29"
+    ]
+  },
+  {
+    "passageId": "jn-20-30-31",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "jn-21-01-14",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-21-05-06",
+      "jn-s-21-10-13"
+    ]
+  },
+  {
+    "passageId": "jn-21-15-19",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-21-15-19"
+    ]
+  },
+  {
+    "passageId": "jn-21-20-23",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "jn-s-21-20-23"
+    ]
+  },
+  {
+    "passageId": "jn-21-24-25",
+    "bookId": "jn",
+    "sourceLayer": "jesus-john",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-01-01-04",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-01-05-25",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-01-26-38",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-01-39-45",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-01-46-56",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-01-57-66",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-01-67-80",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-02-01-07",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-02-08-20",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-02-21-24",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-02-25-38",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-02-39-40",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-02-41-52",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-02-49-49"
+    ]
+  },
+  {
+    "passageId": "lk-03-01-06",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-03-07-20",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-03-21-22",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-03-23-38",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-04-01-13",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-04-04-04",
+      "lk-s-04-08-08",
+      "lk-s-04-12-12"
+    ]
+  },
+  {
+    "passageId": "lk-04-14-15",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-04-16-30",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-04-18-21",
+      "lk-s-04-24-27"
+    ]
+  },
+  {
+    "passageId": "lk-04-31-37",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-04-38-41",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-04-42-44",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-04-43-43"
+    ]
+  },
+  {
+    "passageId": "lk-05-01-11",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-05-10-10"
+    ]
+  },
+  {
+    "passageId": "lk-05-12-16",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-05-17-26",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-05-20-24"
+    ]
+  },
+  {
+    "passageId": "lk-05-27-32",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-05-31-32"
+    ]
+  },
+  {
+    "passageId": "lk-05-33-39",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-05-34-39"
+    ]
+  },
+  {
+    "passageId": "lk-06-01-05",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-06-05-05"
+    ]
+  },
+  {
+    "passageId": "lk-06-06-11",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-06-09-09"
+    ]
+  },
+  {
+    "passageId": "lk-06-12-16",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-06-17-19",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-06-20-26",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-06-20-26"
+    ]
+  },
+  {
+    "passageId": "lk-06-27-36",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-06-27-36"
+    ]
+  },
+  {
+    "passageId": "lk-06-37-42",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-06-37-42"
+    ]
+  },
+  {
+    "passageId": "lk-06-43-45",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-06-43-45"
+    ]
+  },
+  {
+    "passageId": "lk-06-46-49",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-06-46-49"
+    ]
+  },
+  {
+    "passageId": "lk-07-01-10",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-07-09-09"
+    ]
+  },
+  {
+    "passageId": "lk-07-11-17",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-07-13-14"
+    ]
+  },
+  {
+    "passageId": "lk-07-18-23",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-07-22-23"
+    ]
+  },
+  {
+    "passageId": "lk-07-24-35",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-07-28-28"
+    ]
+  },
+  {
+    "passageId": "lk-07-36-50",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-07-40-47",
+      "lk-s-07-50-50"
+    ]
+  },
+  {
+    "passageId": "lk-08-01-03",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-08-04-15",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-08-05-15"
+    ]
+  },
+  {
+    "passageId": "lk-08-16-18",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-08-16-18"
+    ]
+  },
+  {
+    "passageId": "lk-08-19-21",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-08-21-21"
+    ]
+  },
+  {
+    "passageId": "lk-08-22-25",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-08-25-25"
+    ]
+  },
+  {
+    "passageId": "lk-08-26-39",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-08-39-39"
+    ]
+  },
+  {
+    "passageId": "lk-08-40-56",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-08-48-48",
+      "lk-s-08-50-50"
+    ]
+  },
+  {
+    "passageId": "lk-09-01-06",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-09-03-05"
+    ]
+  },
+  {
+    "passageId": "lk-09-07-09",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-09-10-17",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-09-13-14"
+    ]
+  },
+  {
+    "passageId": "lk-09-18-22",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-09-20-22"
+    ]
+  },
+  {
+    "passageId": "lk-09-23-27",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-09-23-27"
+    ]
+  },
+  {
+    "passageId": "lk-09-28-36",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-09-37-43",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-09-44-45",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-09-46-48",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-09-48-48"
+    ]
+  },
+  {
+    "passageId": "lk-09-49-50",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-09-50-50"
+    ]
+  },
+  {
+    "passageId": "lk-09-51-56",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-09-57-62",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-09-58-62"
+    ]
+  },
+  {
+    "passageId": "lk-10-01-12",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-10-02-12"
+    ]
+  },
+  {
+    "passageId": "lk-10-13-16",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-10-13-16"
+    ]
+  },
+  {
+    "passageId": "lk-10-17-20",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-10-19-20"
+    ]
+  },
+  {
+    "passageId": "lk-10-21-24",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-10-21-24"
+    ]
+  },
+  {
+    "passageId": "lk-10-25-37",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-10-25-28",
+      "lk-s-10-30-37"
+    ]
+  },
+  {
+    "passageId": "lk-10-38-42",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-10-41-42"
+    ]
+  },
+  {
+    "passageId": "lk-11-01-13",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-11-02-04",
+      "lk-s-11-05-13"
+    ]
+  },
+  {
+    "passageId": "lk-11-14-23",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-11-17-23"
+    ]
+  },
+  {
+    "passageId": "lk-11-24-28",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-11-24-28"
+    ]
+  },
+  {
+    "passageId": "lk-11-29-32",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-11-29-32"
+    ]
+  },
+  {
+    "passageId": "lk-11-33-36",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-11-33-36"
+    ]
+  },
+  {
+    "passageId": "lk-11-37-54",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-11-39-52"
+    ]
+  },
+  {
+    "passageId": "lk-12-01-12",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-12-02-12"
+    ]
+  },
+  {
+    "passageId": "lk-12-13-21",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-12-15-15",
+      "lk-s-12-16-21"
+    ]
+  },
+  {
+    "passageId": "lk-12-22-34",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-12-22-34"
+    ]
+  },
+  {
+    "passageId": "lk-12-35-48",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-12-35-48"
+    ]
+  },
+  {
+    "passageId": "lk-12-49-53",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-12-49-53"
+    ]
+  },
+  {
+    "passageId": "lk-12-54-59",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-12-54-59"
+    ]
+  },
+  {
+    "passageId": "lk-13-01-09",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-13-02-05",
+      "lk-s-13-06-09"
+    ]
+  },
+  {
+    "passageId": "lk-13-10-17",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-13-12-17"
+    ]
+  },
+  {
+    "passageId": "lk-13-18-21",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-13-18-21"
+    ]
+  },
+  {
+    "passageId": "lk-13-22-30",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-13-24-30"
+    ]
+  },
+  {
+    "passageId": "lk-13-31-35",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-13-34-35"
+    ]
+  },
+  {
+    "passageId": "lk-14-01-06",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-14-03-05"
+    ]
+  },
+  {
+    "passageId": "lk-14-07-11",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-14-08-11"
+    ]
+  },
+  {
+    "passageId": "lk-14-12-14",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-14-12-14"
+    ]
+  },
+  {
+    "passageId": "lk-14-15-24",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-14-16-24"
+    ]
+  },
+  {
+    "passageId": "lk-14-25-35",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-14-26-33"
+    ]
+  },
+  {
+    "passageId": "lk-15-01-07",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-15-03-07"
+    ]
+  },
+  {
+    "passageId": "lk-15-08-10",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-15-08-10"
+    ]
+  },
+  {
+    "passageId": "lk-15-11-32",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-15-11-32"
+    ]
+  },
+  {
+    "passageId": "lk-16-01-13",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-16-01-13"
+    ]
+  },
+  {
+    "passageId": "lk-16-14-15",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-16-16-17",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-16-16-17"
+    ]
+  },
+  {
+    "passageId": "lk-16-18-18",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-16-18-18"
+    ]
+  },
+  {
+    "passageId": "lk-16-19-31",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-16-19-31"
+    ]
+  },
+  {
+    "passageId": "lk-17-01-10",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-17-01-10"
+    ]
+  },
+  {
+    "passageId": "lk-17-11-19",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-17-14-19"
+    ]
+  },
+  {
+    "passageId": "lk-17-20-21",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-17-20-21"
+    ]
+  },
+  {
+    "passageId": "lk-17-22-37",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-17-22-37"
+    ]
+  },
+  {
+    "passageId": "lk-18-01-08",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-18-01-08"
+    ]
+  },
+  {
+    "passageId": "lk-18-09-14",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-18-09-14"
+    ]
+  },
+  {
+    "passageId": "lk-18-15-17",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-18-16-17"
+    ]
+  },
+  {
+    "passageId": "lk-18-18-30",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-18-18-30"
+    ]
+  },
+  {
+    "passageId": "lk-18-31-34",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-18-31-34"
+    ]
+  },
+  {
+    "passageId": "lk-18-35-43",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-18-41-42"
+    ]
+  },
+  {
+    "passageId": "lk-19-01-10",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-19-05-10"
+    ]
+  },
+  {
+    "passageId": "lk-19-11-27",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-19-12-27"
+    ]
+  },
+  {
+    "passageId": "lk-19-28-40",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-19-40-40"
+    ]
+  },
+  {
+    "passageId": "lk-19-41-44",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-19-41-44"
+    ]
+  },
+  {
+    "passageId": "lk-19-45-48",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-19-46-46"
+    ]
+  },
+  {
+    "passageId": "lk-20-01-08",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-20-03-08"
+    ]
+  },
+  {
+    "passageId": "lk-20-09-19",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-20-09-18"
+    ]
+  },
+  {
+    "passageId": "lk-20-20-26",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-20-24-25"
+    ]
+  },
+  {
+    "passageId": "lk-20-27-40",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-20-34-38"
+    ]
+  },
+  {
+    "passageId": "lk-20-41-47",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-20-41-47"
+    ]
+  },
+  {
+    "passageId": "lk-21-01-04",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-21-01-04"
+    ]
+  },
+  {
+    "passageId": "lk-21-05-19",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-21-06-19"
+    ]
+  },
+  {
+    "passageId": "lk-21-20-24",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-21-20-24"
+    ]
+  },
+  {
+    "passageId": "lk-21-25-28",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-21-25-28"
+    ]
+  },
+  {
+    "passageId": "lk-21-29-36",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-21-29-36"
+    ]
+  },
+  {
+    "passageId": "lk-21-37-38",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-22-01-06",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-22-07-13",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-22-14-23",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-22-15-23"
+    ]
+  },
+  {
+    "passageId": "lk-22-24-38",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-22-25-27",
+      "lk-s-22-31-34",
+      "lk-s-22-35-38"
+    ]
+  },
+  {
+    "passageId": "lk-22-39-46",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-22-40-46"
+    ]
+  },
+  {
+    "passageId": "lk-22-47-53",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-22-48-53"
+    ]
+  },
+  {
+    "passageId": "lk-22-54-62",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-22-63-71",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-22-67-70"
+    ]
+  },
+  {
+    "passageId": "lk-23-01-07",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-23-03-03"
+    ]
+  },
+  {
+    "passageId": "lk-23-08-12",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-23-13-25",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-23-26-31",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-23-28-31"
+    ]
+  },
+  {
+    "passageId": "lk-23-32-43",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-23-34-34",
+      "lk-s-23-43-43"
+    ]
+  },
+  {
+    "passageId": "lk-23-44-49",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-23-46-46"
+    ]
+  },
+  {
+    "passageId": "lk-23-50-56",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-24-01-11",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-24-12-12",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "lk-24-13-35",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-24-17-27"
+    ]
+  },
+  {
+    "passageId": "lk-24-36-49",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "lk-s-24-36-49"
+    ]
+  },
+  {
+    "passageId": "lk-24-50-53",
+    "bookId": "lk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-01-01-13",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-01-14-15",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-01-15-15"
+    ]
+  },
+  {
+    "passageId": "mk-01-16-20",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-01-17-17"
+    ]
+  },
+  {
+    "passageId": "mk-01-21-28",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-01-29-34",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-01-35-39",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-01-40-45",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-01-44-44"
+    ]
+  },
+  {
+    "passageId": "mk-02-01-12",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-02-13-17",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-02-17-17"
+    ]
+  },
+  {
+    "passageId": "mk-02-18-22",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-02-19-22"
+    ]
+  },
+  {
+    "passageId": "mk-02-23-28",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-02-27-28"
+    ]
+  },
+  {
+    "passageId": "mk-03-01-06",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-03-04-04"
+    ]
+  },
+  {
+    "passageId": "mk-03-07-19",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-03-20-30",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-03-31-35",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-03-35-35"
+    ]
+  },
+  {
+    "passageId": "mk-04-01-20",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-04-03-09",
+      "mk-s-04-14-20"
+    ]
+  },
+  {
+    "passageId": "mk-04-21-25",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-04-26-29",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-04-26-29"
+    ]
+  },
+  {
+    "passageId": "mk-04-30-34",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-04-30-32"
+    ]
+  },
+  {
+    "passageId": "mk-04-35-41",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-05-01-20",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-05-19-19"
+    ]
+  },
+  {
+    "passageId": "mk-05-21-43",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-06-01-06",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-06-07-13",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-06-10-11"
+    ]
+  },
+  {
+    "passageId": "mk-06-14-29",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-06-30-44",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-06-45-52",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-06-53-56",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-07-01-13",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-07-06-13"
+    ]
+  },
+  {
+    "passageId": "mk-07-01-23",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-07-14-23",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-07-14-15",
+      "mk-s-07-18-23"
+    ]
+  },
+  {
+    "passageId": "mk-07-24-30",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-07-27-27",
+      "mk-s-07-29-29"
+    ]
+  },
+  {
+    "passageId": "mk-07-31-37",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-08-01-10",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-08-11-13",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-08-14-21",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-08-22-26",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-08-27-33",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-08-34-38",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-08-34-38"
+    ]
+  },
+  {
+    "passageId": "mk-09-01-13",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-09-14-29",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-09-30-32",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-09-33-37",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-09-35-37"
+    ]
+  },
+  {
+    "passageId": "mk-09-38-41",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-09-39-41"
+    ]
+  },
+  {
+    "passageId": "mk-09-42-50",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-10-01-01",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-10-02-12",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-10-05-09",
+      "mk-s-10-11-12"
+    ]
+  },
+  {
+    "passageId": "mk-10-13-16",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-10-14-15"
+    ]
+  },
+  {
+    "passageId": "mk-10-17-31",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-10-18-21",
+      "mk-s-10-23-27"
+    ]
+  },
+  {
+    "passageId": "mk-10-32-34",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-10-35-45",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-10-42-45"
+    ]
+  },
+  {
+    "passageId": "mk-10-46-52",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-11-01-11",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-11-12-19",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-11-17-17"
+    ]
+  },
+  {
+    "passageId": "mk-11-20-26",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-11-22-25"
+    ]
+  },
+  {
+    "passageId": "mk-11-27-33",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-12-01-12",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-12-13-17",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-12-15-17"
+    ]
+  },
+  {
+    "passageId": "mk-12-18-27",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-12-28-34",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-12-29-31"
+    ]
+  },
+  {
+    "passageId": "mk-12-35-37",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-12-38-40",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-12-38-40"
+    ]
+  },
+  {
+    "passageId": "mk-12-41-44",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-12-43-44"
+    ]
+  },
+  {
+    "passageId": "mk-13-01-08",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-13-05-08"
+    ]
+  },
+  {
+    "passageId": "mk-13-09-13",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-13-14-23",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-13-24-27",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-13-28-37",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-13-32-37"
+    ]
+  },
+  {
+    "passageId": "mk-14-01-11",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-14-06-09"
+    ]
+  },
+  {
+    "passageId": "mk-14-12-21",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-14-22-25",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-14-22-25"
+    ]
+  },
+  {
+    "passageId": "mk-14-26-31",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-14-32-42",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-14-36-36",
+      "mk-s-14-37-38"
+    ]
+  },
+  {
+    "passageId": "mk-14-43-65",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-14-61-62"
+    ]
+  },
+  {
+    "passageId": "mk-14-66-72",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-15-01-05",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-15-02-02"
+    ]
+  },
+  {
+    "passageId": "mk-15-06-32",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-15-33-39",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mk-s-15-34-34"
+    ]
+  },
+  {
+    "passageId": "mk-15-40-47",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-16-01-08",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mk-16-09-20",
+    "bookId": "mk",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-01-01-17",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-01-18-25",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-02-01-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-02-13-23",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-03-01-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-03-13-17",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-03-15-15"
+    ]
+  },
+  {
+    "passageId": "mt-04-01-11",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-04-12-17",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-04-17-17"
+    ]
+  },
+  {
+    "passageId": "mt-04-18-22",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-04-19-19"
+    ]
+  },
+  {
+    "passageId": "mt-04-23-25",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-05-01-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-05-03-12"
+    ]
+  },
+  {
+    "passageId": "mt-05-13-16",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-05-13-16"
+    ]
+  },
+  {
+    "passageId": "mt-05-17-20",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-05-17-20"
+    ]
+  },
+  {
+    "passageId": "mt-05-21-48",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-05-21-26",
+      "mt-s-05-27-30",
+      "mt-s-05-31-32",
+      "mt-s-05-33-37",
+      "mt-s-05-38-42",
+      "mt-s-05-43-48"
+    ]
+  },
+  {
+    "passageId": "mt-06-01-04",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-06-01-04"
+    ]
+  },
+  {
+    "passageId": "mt-06-05-15",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-06-09-13",
+      "mt-s-06-14-15"
+    ]
+  },
+  {
+    "passageId": "mt-06-16-18",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-06-16-18"
+    ]
+  },
+  {
+    "passageId": "mt-06-19-24",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-06-19-21",
+      "mt-s-06-24-24"
+    ]
+  },
+  {
+    "passageId": "mt-06-25-34",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-06-25-34"
+    ]
+  },
+  {
+    "passageId": "mt-07-01-06",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-07-01-05"
+    ]
+  },
+  {
+    "passageId": "mt-07-07-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-07-07-11",
+      "mt-s-07-12-12"
+    ]
+  },
+  {
+    "passageId": "mt-07-13-23",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-07-13-14",
+      "mt-s-07-15-20",
+      "mt-s-07-21-23"
+    ]
+  },
+  {
+    "passageId": "mt-07-24-27",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-07-24-27"
+    ]
+  },
+  {
+    "passageId": "mt-07-28-29",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-08-01-04",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-08-04-04"
+    ]
+  },
+  {
+    "passageId": "mt-08-05-13",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-08-07-13"
+    ]
+  },
+  {
+    "passageId": "mt-08-14-17",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-08-18-22",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-08-23-27",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-08-28-34",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-09-01-08",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-09-09-13",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-09-12-13"
+    ]
+  },
+  {
+    "passageId": "mt-09-14-17",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-09-18-26",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-09-27-34",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-09-35-38",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-09-37-38"
+    ]
+  },
+  {
+    "passageId": "mt-10-01-04",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-10-05-15",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-10-05-15"
+    ]
+  },
+  {
+    "passageId": "mt-10-16-25",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-10-16-20"
+    ]
+  },
+  {
+    "passageId": "mt-10-26-33",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-10-26-33"
+    ]
+  },
+  {
+    "passageId": "mt-10-34-42",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-10-34-39",
+      "mt-s-10-40-42"
+    ]
+  },
+  {
+    "passageId": "mt-11-01-06",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-11-04-06"
+    ]
+  },
+  {
+    "passageId": "mt-11-07-19",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-11-20-24",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-11-25-30",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-11-25-30"
+    ]
+  },
+  {
+    "passageId": "mt-12-01-14",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-12-07-08"
+    ]
+  },
+  {
+    "passageId": "mt-12-15-21",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-12-22-37",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-12-25-29"
+    ]
+  },
+  {
+    "passageId": "mt-12-38-45",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-12-38-42"
+    ]
+  },
+  {
+    "passageId": "mt-12-46-50",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-12-48-50"
+    ]
+  },
+  {
+    "passageId": "mt-13-01-09",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-13-03-09"
+    ]
+  },
+  {
+    "passageId": "mt-13-10-23",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-13-24-30",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-13-24-30"
+    ]
+  },
+  {
+    "passageId": "mt-13-31-35",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-13-31-33"
+    ]
+  },
+  {
+    "passageId": "mt-13-36-43",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-13-44-52",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-13-44-46",
+      "mt-s-13-47-50"
+    ]
+  },
+  {
+    "passageId": "mt-13-53-58",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-14-01-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-14-13-21",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-14-16-18"
+    ]
+  },
+  {
+    "passageId": "mt-14-22-33",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-14-27-27",
+      "mt-s-14-29-29",
+      "mt-s-14-31-31"
+    ]
+  },
+  {
+    "passageId": "mt-14-34-36",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-15-01-20",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-15-10-20"
+    ]
+  },
+  {
+    "passageId": "mt-15-21-28",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-15-24-28"
+    ]
+  },
+  {
+    "passageId": "mt-15-29-31",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-15-32-39",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-16-01-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-16-13-20",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-16-15-19"
+    ]
+  },
+  {
+    "passageId": "mt-16-21-28",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-16-24-26"
+    ]
+  },
+  {
+    "passageId": "mt-17-01-13",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-17-14-21",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-17-17-20"
+    ]
+  },
+  {
+    "passageId": "mt-17-22-23",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-17-22-23"
+    ]
+  },
+  {
+    "passageId": "mt-17-24-27",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-17-25-27"
+    ]
+  },
+  {
+    "passageId": "mt-18-01-09",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-18-01-05"
+    ]
+  },
+  {
+    "passageId": "mt-18-10-14",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-18-15-20",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-18-15-20"
+    ]
+  },
+  {
+    "passageId": "mt-18-21-35",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-18-21-22",
+      "mt-s-18-23-35"
+    ]
+  },
+  {
+    "passageId": "mt-19-01-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-19-04-09"
+    ]
+  },
+  {
+    "passageId": "mt-19-13-15",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-19-14-14"
+    ]
+  },
+  {
+    "passageId": "mt-19-16-30",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-19-21-26"
+    ]
+  },
+  {
+    "passageId": "mt-20-01-16",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-20-01-16"
+    ]
+  },
+  {
+    "passageId": "mt-20-17-19",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-20-20-28",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-20-25-28"
+    ]
+  },
+  {
+    "passageId": "mt-20-29-34",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-21-01-11",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-21-12-17",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-21-13-13"
+    ]
+  },
+  {
+    "passageId": "mt-21-18-22",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-21-23-27",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-21-28-32",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-21-28-32"
+    ]
+  },
+  {
+    "passageId": "mt-21-33-46",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-21-33-44"
+    ]
+  },
+  {
+    "passageId": "mt-22-01-14",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-22-01-14"
+    ]
+  },
+  {
+    "passageId": "mt-22-15-22",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-22-21-21"
+    ]
+  },
+  {
+    "passageId": "mt-22-23-33",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-22-29-32"
+    ]
+  },
+  {
+    "passageId": "mt-22-34-40",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-22-37-40"
+    ]
+  },
+  {
+    "passageId": "mt-22-41-46",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-23-01-12",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-23-01-12"
+    ]
+  },
+  {
+    "passageId": "mt-23-13-36",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-23-13-36"
+    ]
+  },
+  {
+    "passageId": "mt-23-37-39",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-24-01-14",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-24-04-14"
+    ]
+  },
+  {
+    "passageId": "mt-24-15-31",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-24-32-44",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-24-32-35"
+    ]
+  },
+  {
+    "passageId": "mt-24-45-51",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-25-01-13",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-25-01-13"
+    ]
+  },
+  {
+    "passageId": "mt-25-14-30",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-25-14-30"
+    ]
+  },
+  {
+    "passageId": "mt-25-31-46",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-25-31-46"
+    ]
+  },
+  {
+    "passageId": "mt-26-01-16",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-26-17-30",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-26-26-29"
+    ]
+  },
+  {
+    "passageId": "mt-26-31-35",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-26-36-46",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-26-39-39"
+    ]
+  },
+  {
+    "passageId": "mt-26-47-56",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-26-57-68",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-26-69-75",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-27-01-10",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-27-11-26",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-27-11-11"
+    ]
+  },
+  {
+    "passageId": "mt-27-27-44",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-27-45-56",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-27-46-46"
+    ]
+  },
+  {
+    "passageId": "mt-27-57-66",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-28-01-10",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-28-11-15",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "mt-28-16-20",
+    "bookId": "mt",
+    "sourceLayer": "jesus-synoptic",
+    "reviewStatus": "pending",
+    "existingSpeechIds": [
+      "mt-s-28-18-20"
+    ]
+  },
+  {
+    "passageId": "phm-01-01-07",
+    "bookId": "phm",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "phm-01-08-21",
+    "bookId": "phm",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "phm-01-22-25",
+    "bookId": "phm",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-01-01-02",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-01-03-26",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-01-27-30",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-02-01-11",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-02-12-18",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-02-19-30",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-03-01-11",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-03-12-21",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-04-01-01",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-04-02-03",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-04-04-07",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-04-08-09",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-04-10-20",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "php-04-21-23",
+    "bookId": "php",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-01-01-15",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-01-16-17",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-01-18-32",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-02-01-05",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-02-06-16",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-02-17-29",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-03-01-20",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-03-21-26",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-03-27-27",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-03-28-31",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-04-01-12",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-04-13-25",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-05-01-11",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-05-12-21",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-06-01-14",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-06-15-23",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-07-01-06",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-07-07-12",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-07-13-25",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-08-01-04",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-08-05-17",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-08-18-39",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-09-01-29",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-09-30-10-03",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-10-04-04",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-10-05-21",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-11-01-24",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-11-25-36",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-12-01-08",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-12-09-13",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-12-14-21",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-13-01-07",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-13-08-10",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-13-11-14",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-14-01-12",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-14-13-23",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-15-01-13",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-15-14-24",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-15-25-28",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-15-29-33",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-16-01-02",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-16-01-16",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-16-03-07",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "ro-16-17-27",
+    "bookId": "ro",
+    "sourceLayer": "paul-undisputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-01-01-04",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-01-05-09",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-01-10-16",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-02-01-02",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-02-03-05",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-02-06-10",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-02-11-15",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-03-01-08",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  },
+  {
+    "passageId": "tit-03-09-15",
+    "bookId": "tit",
+    "sourceLayer": "paul-disputed",
+    "reviewStatus": "pending",
+    "existingSpeechIds": []
+  }
+]
