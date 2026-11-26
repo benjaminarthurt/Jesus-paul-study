@@ -17,13 +17,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-01-18-31",
+    "id": "1co-t-01-18-25",
     "passageId": "1co-01-18-31",
     "bookId": "1co",
     "chapter": 1,
     "startVerse": 18,
-    "endVerse": 31,
-    "title": "The cross is contrasted with worldly wisdom and status.",
+    "endVerse": 25,
+    "title": "Cross and the reversal of worldly wisdom",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -31,16 +31,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO01.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-02-06-16",
+    "id": "1co-t-01-26-31",
+    "passageId": "1co-01-18-31",
+    "bookId": "1co",
+    "chapter": 1,
+    "startVerse": 26,
+    "endVerse": 31,
+    "title": "Divine choice of the lowly excludes boasting",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO01.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-02-06-09",
     "passageId": "1co-02-06-16",
     "bookId": "1co",
     "chapter": 2,
     "startVerse": 6,
-    "endVerse": 16,
-    "title": "Paul discusses divine wisdom and discernment through the Spirit.",
+    "endVerse": 9,
+    "title": "Divine wisdom hidden from rulers",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -48,7 +65,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO02.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-02-10-13",
+    "passageId": "1co-02-06-16",
+    "bookId": "1co",
+    "chapter": 2,
+    "startVerse": 10,
+    "endVerse": 13,
+    "title": "Wisdom disclosed through the Spirit",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-02-14-16",
+    "passageId": "1co-02-06-16",
+    "bookId": "1co",
+    "chapter": 2,
+    "startVerse": 14,
+    "endVerse": 16,
+    "title": "Spiritual discernment and the mind of Christ",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO02.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-03-05-09",
@@ -68,13 +119,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-04-01-21",
+    "id": "1co-t-04-01-05",
     "passageId": "1co-04-01-21",
     "bookId": "1co",
     "chapter": 4,
     "startVerse": 1,
-    "endVerse": 21,
-    "title": "Paul discusses stewardship, judgment, apostolic example and correction.",
+    "endVerse": 5,
+    "title": "Faithful stewardship and judgment by the Lord",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -82,7 +133,75 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-04-06-07",
+    "passageId": "1co-04-01-21",
+    "bookId": "1co",
+    "chapter": 4,
+    "startVerse": 6,
+    "endVerse": 7,
+    "title": "Do not boast over others",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-04-08-13",
+    "passageId": "1co-04-01-21",
+    "bookId": "1co",
+    "chapter": 4,
+    "startVerse": 8,
+    "endVerse": 13,
+    "title": "Apostolic hardship contrasted with Corinthian status",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-04-14-17",
+    "passageId": "1co-04-01-21",
+    "bookId": "1co",
+    "chapter": 4,
+    "startVerse": 14,
+    "endVerse": 17,
+    "title": "Correction and imitation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-04-18-21",
+    "passageId": "1co-04-01-21",
+    "bookId": "1co",
+    "chapter": 4,
+    "startVerse": 18,
+    "endVerse": 21,
+    "title": "Power rather than arrogant speech",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO04.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-05-09-13",
@@ -205,13 +324,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-07-25-40",
+    "id": "1co-t-07-25-28",
     "passageId": "1co-07-25-40",
     "bookId": "1co",
     "chapter": 7,
     "startVerse": 25,
-    "endVerse": 40,
-    "title": "Paul offers counsel on marriage and singleness in view of present circumstances.",
+    "endVerse": 28,
+    "title": "Counsel on marriage amid present distress",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -219,16 +338,84 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-08-04-06",
+    "id": "1co-t-07-29-31",
+    "passageId": "1co-07-25-40",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 29,
+    "endVerse": 31,
+    "title": "Transience of present circumstances",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-07-32-35",
+    "passageId": "1co-07-25-40",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 32,
+    "endVerse": 35,
+    "title": "Undivided devotion and practical concerns",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-07-36-38",
+    "passageId": "1co-07-25-40",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 36,
+    "endVerse": 38,
+    "title": "Marriage decision; relationship terminology debated",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-07-39-40",
+    "passageId": "1co-07-25-40",
+    "bookId": "1co",
+    "chapter": 7,
+    "startVerse": 39,
+    "endVerse": 40,
+    "title": "Widowhood and freedom to remarry in the Lord",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "marriage-divorce"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO07.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-08-04-05",
     "passageId": "1co-08-04-06",
     "bookId": "1co",
     "chapter": 8,
     "startVerse": 4,
-    "endVerse": 6,
-    "title": "Paul discusses idols and identifies one God the Father and one Lord Jesus Christ in relation to creation.",
+    "endVerse": 5,
+    "title": "Idols and claims about gods",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -236,7 +423,24 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO08.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-08-06-06",
+    "passageId": "1co-08-04-06",
+    "bookId": "1co",
+    "chapter": 8,
+    "startVerse": 6,
+    "endVerse": 6,
+    "title": "One God and one Lord in relation to creation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO08.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-08-09-13",
@@ -309,13 +513,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-10-01-13",
+    "id": "1co-t-10-01-05",
     "passageId": "1co-10-01-13",
     "bookId": "1co",
     "chapter": 10,
     "startVerse": 1,
-    "endVerse": 13,
-    "title": "Israel's wilderness experiences are used as warnings against wrongdoing.",
+    "endVerse": 5,
+    "title": "Israel's wilderness experience",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -323,7 +527,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO10.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-10-06-10",
+    "passageId": "1co-10-01-13",
+    "bookId": "1co",
+    "chapter": 10,
+    "startVerse": 6,
+    "endVerse": 10,
+    "title": "Warnings against idolatry and wrongdoing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-10-11-13",
+    "passageId": "1co-10-01-13",
+    "bookId": "1co",
+    "chapter": 10,
+    "startVerse": 11,
+    "endVerse": 13,
+    "title": "Warning against presumption and encouragement in testing",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO10.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-10-23-24",
@@ -383,7 +621,7 @@
     "chapter": 11,
     "startVerse": 1,
     "endVerse": 1,
-    "title": "Paul urges imitation of himself insofar as he imitates Christ.",
+    "title": "Imitate Paul as he imitates Christ",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -391,7 +629,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO11.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-11-05-05",
@@ -487,7 +725,7 @@
     "chapter": 12,
     "startVerse": 1,
     "endVerse": 3,
-    "title": "Speech about Jesus is discussed in relation to the Spirit.",
+    "title": "Speech concerning Jesus and the Spirit",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -495,7 +733,7 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO12.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-12-12-27",
@@ -620,13 +858,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-15-01-11",
+    "id": "1co-t-15-01-02",
     "passageId": "1co-15-01-11",
     "bookId": "1co",
     "chapter": 15,
     "startVerse": 1,
-    "endVerse": 11,
-    "title": "Paul recounts received resurrection proclamation and his apostolic calling.",
+    "endVerse": 2,
+    "title": "Hold to the received gospel",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -634,16 +872,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-15-12-28",
+    "id": "1co-t-15-03-08",
+    "passageId": "1co-15-01-11",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 3,
+    "endVerse": 8,
+    "title": "Received resurrection proclamation and appearances",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-09-11",
+    "passageId": "1co-15-01-11",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 9,
+    "endVerse": 11,
+    "title": "Grace and apostolic calling",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-12-19",
     "passageId": "1co-15-12-28",
     "bookId": "1co",
     "chapter": 15,
     "startVerse": 12,
-    "endVerse": 28,
-    "title": "Paul argues that Christ's resurrection and the resurrection of the dead are inseparable, describing an ordered sequence of events.",
+    "endVerse": 19,
+    "title": "Consequences of denying resurrection",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -651,16 +923,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-15-29-34",
+    "id": "1co-t-15-20-23",
+    "passageId": "1co-15-12-28",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 20,
+    "endVerse": 23,
+    "title": "Christ as firstfruits and resurrection order",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-24-28",
+    "passageId": "1co-15-12-28",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 24,
+    "endVerse": 28,
+    "title": "Kingdom, defeat of death and subjection",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-29-32",
     "passageId": "1co-15-29-34",
     "bookId": "1co",
     "chapter": 15,
     "startVerse": 29,
-    "endVerse": 34,
-    "title": "Paul argues for resurrection using community practices and moral exhortation.",
+    "endVerse": 32,
+    "title": "Argument from practices and hardship",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -668,16 +974,33 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-15-35-58",
+    "id": "1co-t-15-33-34",
+    "passageId": "1co-15-29-34",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 33,
+    "endVerse": 34,
+    "title": "Warning against corrupting influence and sin",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-35-41",
     "passageId": "1co-15-35-58",
     "bookId": "1co",
     "chapter": 15,
     "startVerse": 35,
-    "endVerse": 58,
-    "title": "Paul discusses the transformed resurrection body and victory over death.",
+    "endVerse": 41,
+    "title": "Seed and bodily diversity analogies",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -685,7 +1008,58 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-42-49",
+    "passageId": "1co-15-35-58",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 42,
+    "endVerse": 49,
+    "title": "Transformation of resurrection bodies",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-50-57",
+    "passageId": "1co-15-35-58",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 50,
+    "endVerse": 57,
+    "title": "Transformation and victory over death",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-15-58-58",
+    "passageId": "1co-15-35-58",
+    "bookId": "1co",
+    "chapter": 15,
+    "startVerse": 58,
+    "endVerse": 58,
+    "title": "Steadfastness in the Lord's work",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "identity-resurrection"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO15.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1co-t-16-01-04",
@@ -705,13 +1079,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-16-05-18",
+    "id": "1co-t-16-05-12",
     "passageId": "1co-16-05-18",
     "bookId": "1co",
     "chapter": 16,
     "startVerse": 5,
-    "endVerse": 18,
-    "title": "Travel plans and coworkers accompany exhortations to vigilance, love and recognition of service.",
+    "endVerse": 12,
+    "title": "Travel and coworker arrangements",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -719,16 +1093,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "1co-t-16-20-24",
+    "id": "1co-t-16-13-14",
+    "passageId": "1co-16-05-18",
+    "bookId": "1co",
+    "chapter": 16,
+    "startVerse": 13,
+    "endVerse": 14,
+    "title": "Vigilance, courage and love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-16-15-18",
+    "passageId": "1co-16-05-18",
+    "bookId": "1co",
+    "chapter": 16,
+    "startVerse": 15,
+    "endVerse": 18,
+    "title": "Recognition of devoted service",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-16-20-21",
     "passageId": "1co-16-20-24",
     "bookId": "1co",
     "chapter": 16,
     "startVerse": 20,
-    "endVerse": 24,
-    "title": "Closing greetings, a warning concerning love for the Lord and a blessing conclude the letter.",
+    "endVerse": 21,
+    "title": "Greetings and signature",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -736,7 +1144,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-16-22-22",
+    "passageId": "1co-16-20-24",
+    "bookId": "1co",
+    "chapter": 16,
+    "startVerse": 22,
+    "endVerse": 22,
+    "title": "Warning concerning love for the Lord",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "1co-t-16-23-24",
+    "passageId": "1co-16-20-24",
+    "bookId": "1co",
+    "chapter": 16,
+    "startVerse": 23,
+    "endVerse": 24,
+    "title": "Closing blessing and love",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/1CO16.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "1th-t-04-03-08",
@@ -1262,13 +1704,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2co-t-03-01-18",
+    "id": "2co-t-03-01-06",
     "passageId": "2co-03-01-18",
     "bookId": "2co",
     "chapter": 3,
     "startVerse": 1,
-    "endVerse": 18,
-    "title": "Paul contrasts covenant ministries using letter, Spirit and veil imagery.",
+    "endVerse": 6,
+    "title": "Community as letter and ministry of the new covenant",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1276,16 +1718,67 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO03.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "2co-t-04-01-18",
+    "id": "2co-t-03-07-11",
+    "passageId": "2co-03-01-18",
+    "bookId": "2co",
+    "chapter": 3,
+    "startVerse": 7,
+    "endVerse": 11,
+    "title": "Contrast of covenant ministries",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-03-12-16",
+    "passageId": "2co-03-01-18",
+    "bookId": "2co",
+    "chapter": 3,
+    "startVerse": 12,
+    "endVerse": 16,
+    "title": "Veil imagery and turning to the Lord",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-03-17-18",
+    "passageId": "2co-03-01-18",
+    "bookId": "2co",
+    "chapter": 3,
+    "startVerse": 17,
+    "endVerse": 18,
+    "title": "Spirit, freedom and transformation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "mosaic-law"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO03.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-04-01-06",
     "passageId": "2co-04-01-18",
     "bookId": "2co",
     "chapter": 4,
     "startVerse": 1,
-    "endVerse": 18,
-    "title": "Ministry, bodily vulnerability and unseen hope are contrasted.",
+    "endVerse": 6,
+    "title": "Open proclamation and divine illumination",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1293,16 +1786,67 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO04.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "2co-t-05-01-10",
+    "id": "2co-t-04-07-12",
+    "passageId": "2co-04-01-18",
+    "bookId": "2co",
+    "chapter": 4,
+    "startVerse": 7,
+    "endVerse": 12,
+    "title": "Treasure in fragile vessels and suffering",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-04-13-15",
+    "passageId": "2co-04-01-18",
+    "bookId": "2co",
+    "chapter": 4,
+    "startVerse": 13,
+    "endVerse": 15,
+    "title": "Faith, speech and resurrection hope",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-04-16-18",
+    "passageId": "2co-04-01-18",
+    "bookId": "2co",
+    "chapter": 4,
+    "startVerse": 16,
+    "endVerse": 18,
+    "title": "Renewal and unseen eternal hope",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO04.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-05-01-05",
     "passageId": "2co-05-01-10",
     "bookId": "2co",
     "chapter": 5,
     "startVerse": 1,
-    "endVerse": 10,
-    "title": "Paul discusses mortal existence, hope and accountability before Christ's judgment seat for deeds done in the body.",
+    "endVerse": 5,
+    "title": "Mortal dwelling and future life",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1310,7 +1854,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO05.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-05-06-08",
+    "passageId": "2co-05-01-10",
+    "bookId": "2co",
+    "chapter": 5,
+    "startVerse": 6,
+    "endVerse": 8,
+    "title": "Walking by faith rather than sight",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-05-09-10",
+    "passageId": "2co-05-01-10",
+    "bookId": "2co",
+    "chapter": 5,
+    "startVerse": 9,
+    "endVerse": 10,
+    "title": "Pleasing Christ and judgment according to deeds",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "discipleship"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO05.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-05-18-21",
@@ -1330,13 +1908,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2co-t-06-01-13",
+    "id": "2co-t-06-01-02",
     "passageId": "2co-06-01-13",
     "bookId": "2co",
     "chapter": 6,
     "startVerse": 1,
-    "endVerse": 13,
-    "title": "Paul describes ministry hardships and appeals for mutual openness.",
+    "endVerse": 2,
+    "title": "Receive grace and recognize the time of salvation",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1344,16 +1922,50 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO06.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "2co-t-07-02-16",
+    "id": "2co-t-06-03-10",
+    "passageId": "2co-06-01-13",
+    "bookId": "2co",
+    "chapter": 6,
+    "startVerse": 3,
+    "endVerse": 10,
+    "title": "Ministry conduct amid hardship",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-06-11-13",
+    "passageId": "2co-06-01-13",
+    "bookId": "2co",
+    "chapter": 6,
+    "startVerse": 11,
+    "endVerse": 13,
+    "title": "Appeal for mutual openness",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO06.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-07-02-07",
     "passageId": "2co-07-02-16",
     "bookId": "2co",
     "chapter": 7,
     "startVerse": 2,
-    "endVerse": 16,
-    "title": "Paul discusses grief, repentance and renewed confidence in the community.",
+    "endVerse": 7,
+    "title": "Appeal and comfort through Titus",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1361,7 +1973,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO07.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-07-08-11",
+    "passageId": "2co-07-02-16",
+    "bookId": "2co",
+    "chapter": 7,
+    "startVerse": 8,
+    "endVerse": 11,
+    "title": "Grief leading to repentance",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO07.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-07-12-16",
+    "passageId": "2co-07-02-16",
+    "bookId": "2co",
+    "chapter": 7,
+    "startVerse": 12,
+    "endVerse": 16,
+    "title": "Renewed confidence in the community",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "forgiveness"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO07.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-08-08-09",
@@ -1449,13 +2095,13 @@
     "granularity": "selected-unit"
   },
   {
-    "id": "2co-t-10-01-18",
+    "id": "2co-t-10-01-06",
     "passageId": "2co-10-01-18",
     "bookId": "2co",
     "chapter": 10,
     "startVerse": 1,
-    "endVerse": 18,
-    "title": "Paul defends his authority and distinguishes his ministry from self-commendation.",
+    "endVerse": 6,
+    "title": "Ministry conflict and non-fleshly weapons",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1463,16 +2109,67 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO10.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
   },
   {
-    "id": "2co-t-11-01-15",
+    "id": "2co-t-10-07-11",
+    "passageId": "2co-10-01-18",
+    "bookId": "2co",
+    "chapter": 10,
+    "startVerse": 7,
+    "endVerse": 11,
+    "title": "Authority for building up rather than destruction",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-10-12-16",
+    "passageId": "2co-10-01-18",
+    "bookId": "2co",
+    "chapter": 10,
+    "startVerse": 12,
+    "endVerse": 16,
+    "title": "Limits of boasting and ministry",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-10-17-18",
+    "passageId": "2co-10-01-18",
+    "bookId": "2co",
+    "chapter": 10,
+    "startVerse": 17,
+    "endVerse": 18,
+    "title": "Boast in the Lord rather than self-commendation",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "authority"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO10.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-11-01-04",
     "passageId": "2co-11-01-15",
     "bookId": "2co",
     "chapter": 11,
     "startVerse": 1,
-    "endVerse": 15,
-    "title": "Paul warns against rival apostles and competing proclamations.",
+    "endVerse": 4,
+    "title": "Warning against competing proclamations",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1480,7 +2177,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO11.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-11-05-12",
+    "passageId": "2co-11-01-15",
+    "bookId": "2co",
+    "chapter": 11,
+    "startVerse": 5,
+    "endVerse": 12,
+    "title": "Defense of ministry and financial conduct",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-11-13-15",
+    "passageId": "2co-11-01-15",
+    "bookId": "2co",
+    "chapter": 11,
+    "startVerse": 13,
+    "endVerse": 15,
+    "title": "Warning against deceptive apostles",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO11.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-12-01-06",
@@ -1555,13 +2286,13 @@
     "attributionNote": "Verse 9 contains both reported speech and the letter writer's response; overlapping ranges are intentional."
   },
   {
-    "id": "2co-t-12-11-21",
+    "id": "2co-t-12-11-13",
     "passageId": "2co-12-11-21",
     "bookId": "2co",
     "chapter": 12,
     "startVerse": 11,
-    "endVerse": 21,
-    "title": "Paul defends his conduct and expresses concern about community wrongdoing.",
+    "endVerse": 13,
+    "title": "Defense of apostolic credentials",
     "sourceLayer": "paul-undisputed",
     "attribution": "letter-discourse",
     "topics": [
@@ -1569,7 +2300,41 @@
     ],
     "status": "draft",
     "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
-    "granularity": "broad-summary"
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-12-14-18",
+    "passageId": "2co-12-11-21",
+    "bookId": "2co",
+    "chapter": 12,
+    "startVerse": 14,
+    "endVerse": 18,
+    "title": "Refusal to burden the community",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
+    "granularity": "selected-unit"
+  },
+  {
+    "id": "2co-t-12-19-21",
+    "passageId": "2co-12-11-21",
+    "bookId": "2co",
+    "chapter": 12,
+    "startVerse": 19,
+    "endVerse": 21,
+    "title": "Concern for communal wrongdoing and repentance",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "topics": [
+      "leadership"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/2CO12.htm",
+    "granularity": "selected-unit"
   },
   {
     "id": "2co-t-13-05-05",
