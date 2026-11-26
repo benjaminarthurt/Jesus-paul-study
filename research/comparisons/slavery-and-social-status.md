@@ -7,6 +7,7 @@ paul: [1co-07-17-24, phm-01-08-21, ga-03-26-29]
 sourceIds: [web-protestant-66]
 classification: different-emphasis
 context: [eph-06-05-09, col-03-18-25, col-04-01-06]
+reviewIds: [philemon-slavery-manumission]
 ---
 ## Textual comparison
 Jesus' sayings in Mark 10 and Matthew 23 reverse conventional status rankings among disciples. Luke 12 uses household servants and punishment as imagery for accountability. Metaphorical use of slavery is neither an explicit abolition program nor sufficient evidence of endorsement of every historical practice.
