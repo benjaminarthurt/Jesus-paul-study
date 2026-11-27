@@ -28,3 +28,5 @@ The Git history preserves subsequent corrections and changes.
 ## English inspection of Matthew 1–7
 
 All 24 indexed passages have source-linked dispositions. The infancy narratives distinguish angelic and scriptural voices, the baptism separates Jesus' answer from the heavenly voice, and each response in the temptation narrative has its own locator. The Sermon on the Mount distinguishes Jesus' instructions from sayings he introduces for discussion, imagined interlocutors and a prayer he gives the disciples to use. The chapter notes identify English-edition variants at 5:22, 6:1 and 6:13 without adjudicating manuscripts. Six candidate parallels specify how much of each passage is comparable.
+
+Matthew 8–10 adds seventeen WEBP dispositions. The centurion's analogy, Jesus' separate addresses to him and his followers, the narrator's use of Isaiah and Jesus' use of Hosea can each be located independently. Ten comparison links record agreements alongside differences in recipients, equipment and sequence. The mission comparison links the Israel-only directive to the distinct commissions and practices described in Matthew 28, Galatians 2 and Romans 15.

@@ -439,5 +439,95 @@
     "relationship": "related-in-different-context",
     "note": "Both invoke a lamp placed on a stand. Matthew applies it to visible good works, while Mark connects it to disclosure and hearing.",
     "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-08-01-04",
+      "mk-01-40-45"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "A request for cleansing, touch and priestly presentation occur in both. Mark adds the effect of publicity on where Jesus can enter.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-08-18-22",
+      "lk-09-57-62"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Lodging and burial replies recur. Luke sets them on the journey and adds an encounter about farewell and the plow.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-08-23-27",
+      "mk-04-35-41"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "In Matthew Jesus challenges the disciples before addressing the storm. Mark places the questions about fear and faith after it becomes calm.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-08-28-34",
+      "mk-05-01-20"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both have demons, pigs and a request for Jesus to leave. Matthew narrates two men, while Mark concentrates on one and adds a commission to report what happened.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-09-01-08",
+      "mk-02-01-12"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both connect a healing command with authority to forgive. Mark narrates opening a roof and lowering the man.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-09-09-13",
+      "mk-02-13-17"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "The tax booth call leads to a meal and a physician saying. Matthew names Matthew and adds the Hosea citation; Mark names Levi.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-09-14-17",
+      "mk-02-18-22"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both answer the fasting question with bridegroom, cloth and wine images. Matthew presents the question explicitly from John’s disciples.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-09-18-26",
+      "mk-05-21-43"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both interweave two healings. Matthew introduces the girl as already dead and omits the words that Mark addresses to her.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-10-05-15",
+      "mk-06-07-13"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Shared instructions concern travel, lodging and rejection. Mark permits a staff and directs the travelers to wear sandals. Matthew places staff and sandals in the list of things not to acquire.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-10-05-15",
+      "lk-09-01-06"
+    ],
+    "relationship": "partial-parallel",
+    "note": "The Twelve receive a healing and proclamation mission with directions about lodging. Matthew adds the Israel-only destination and an explicit comparison with Sodom and Gomorrah.",
+    "status": "candidate"
   }
 ]
