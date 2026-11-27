@@ -1,0 +1,21 @@
+---
+import decisions from "../../research/index/teaching-extraction-queue.json";
+import teachings from "../../research/index/pauline-teachings.json";
+import { gospelUnitAnchor } from "../lib/gospel-unit.mjs";
+
+const { passage } = Astro.props;
+const audit = decisions.find(row => row.passageId === passage.id)?.gospelAudit;
+const units = audit ? audit.units.map(unit => ({
+  href: `/passages/${passage.id}/#${gospelUnitAnchor(unit)}`,
+  label: unit.summary,
+  reference: String(unit.startVerse) + (unit.endVerse === unit.startVerse ? "" : "–" + unit.endVerse)
+})) : teachings.filter(t => t.passageId === passage.id).map(t => ({
+  href: `/pauline-teachings/${t.id}/`,
+  label: t.title,
+  reference: t.chapter + ":" + t.startVerse + (t.endVerse === t.startVerse ? "" : "–" + t.endVerse)
+}));
+---
+{units.length > 0 && <details>
+  <summary>Inspect {units.length} {units.length === 1 ? "unit" : "units"} in {passage.reference}</summary>
+  <ul>{units.map(unit => <li><a href={unit.href}>{unit.reference} · {unit.label}</a></li>)}</ul>
+</details>}

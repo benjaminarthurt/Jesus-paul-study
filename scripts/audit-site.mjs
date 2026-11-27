@@ -95,6 +95,16 @@ function requirePageLink(from, to) {
     failures.push(from + ": missing required evidence link " + to);
   }
 }
+const parallelPage = join(dist, "gospel-parallels/passages/index.html");
+const indexedPairs = existsSync(parallelPage)
+  ? matchAttr(readFileSync(parallelPage, "utf8"), "href").map(href => new URL(unescapeHtml(href), origin))
+      .filter(url => url.pathname === sitePath("/compare/", base) && url.searchParams.has("left") && url.searchParams.has("right"))
+      .map(url => [url.searchParams.get("left"), url.searchParams.get("right")].sort().join("/"))
+  : [];
+const expectedPairs = indexData("gospel-audit-links").map(link => [...link.passages].sort().join("/"));
+if (JSON.stringify(indexedPairs.sort()) !== JSON.stringify(expectedPairs.sort())) {
+  failures.push("Gospel passage-pair directory must link each registered pair exactly once.");
+}
 for (const {passages: [left, right]} of indexData("gospel-audit-links")) {
   requirePageLink("passages/" + left, "/passages/" + right + "/");
   requirePageLink("passages/" + right, "/passages/" + left + "/");

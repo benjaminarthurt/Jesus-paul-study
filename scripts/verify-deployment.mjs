@@ -7,7 +7,7 @@ assert.equal(root.protocol, "https:");
 assert.match(revision, /^[0-9a-f]{40}$/);
 
 async function check() {
-  for (const route of ["", "compare/", "passages/mk-16-09-20/", "pauline-teachings/1co-t-07-10-11/"]) {
+  for (const route of ["", "compare/", "gospel-parallels/passages/", "passages/mk-16-09-20/", "pauline-teachings/1co-t-07-10-11/"]) {
     const url = new URL(route, root);
     const response = await fetch(url, {signal: AbortSignal.timeout(15000), cache: "no-store"});
     assert.equal(response.status, 200, url.href);
