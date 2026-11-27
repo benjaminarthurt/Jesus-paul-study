@@ -36,11 +36,13 @@ test("John distinguishes narrator explanations, reported sayings and other speak
 });
 
 test("Matthew's opening chapters distinguish Jesus from John, heaven and the narrator", () => {
-  for (const p of load("passages").filter(p => p.bookId === "mt" && Number(p.id.split("-")[1]) <= 10)) {
+  for (const p of load("passages").filter(p => p.bookId === "mt")) {
     assert.equal(decisions.get(p.id)?.sourceUrl, p.sourceUrl, p.id);
   }
   assert.deepEqual(decisions.get("mt-03-01-12").units, []);
   assert.deepEqual(decisions.get("mt-03-13-17").units.map(u => u.startVerse), [15]);
   assert.deepEqual(decisions.get("mt-04-01-11").units.map(u => u.startVerse), [4, 7, 10]);
   assert.deepEqual(decisions.get("mt-07-28-29").units, []);
+  assert.deepEqual(decisions.get("mt-26-57-68").units.map(u => u.startVerse), [64]);
+  assert.equal(decisions.get("mt-27-57-66").disposition, "reported-speech");
 });
