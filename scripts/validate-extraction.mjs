@@ -63,6 +63,11 @@ export function validateExtraction() {
           u.startVerse > u.endVerse || !forms.has(u.form) || !u.audience || !u.summary) errors.push("Invalid Gospel unit: " + p.id);
     }
   }
+  for (const p of parents.values()) {
+    if (["mt", "mk", "lk", "jn"].includes(p.bookId) && !audited.has(p.id)) {
+      errors.push("Missing Gospel passage disposition: " + p.id);
+    }
+  }
   const pairs = new Set();
   for (const link of load("gospel-audit-links")) {
     const [a, b] = link.passages;

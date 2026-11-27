@@ -46,3 +46,13 @@ test("Matthew's opening chapters distinguish Jesus from John, heaven and the nar
   assert.deepEqual(decisions.get("mt-26-57-68").units.map(u => u.startVerse), [64]);
   assert.equal(decisions.get("mt-27-57-66").disposition, "reported-speech");
 });
+
+test("Luke retains the speakers of economically and ethically consequential sayings", () => {
+  const parents = load("passages").filter(p => p.bookId === "lk");
+  for (const p of parents) assert.equal(decisions.get(p.id)?.sourceUrl, p.sourceUrl, p.id);
+  assert.equal(decisions.get("lk-03-07-20").disposition, "other-speakers");
+  assert.ok(decisions.get("lk-10-25-37").units.every(u => u.startVerse !== 27));
+  assert.equal(decisions.get("lk-19-11-27").units.at(-1).form, "parable");
+  assert.equal(decisions.get("lk-22-54-62").units[0].form, "reported-prediction");
+  assert.match(decisions.get("lk-23-32-43").note, /disputed/);
+});

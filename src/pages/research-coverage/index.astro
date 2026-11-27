@@ -20,7 +20,9 @@ const comparisonRows = comparisons.map(c=>({id:c.id,title:c.data.title,status:c.
 <Base title="Research coverage">
 <p class="eyebrow">Research inventory</p><h1>Research coverage</h1>
 <p class="lead">Live counts generated from the repository at build time. Indexed passages are selected units, not a measure of complete verse coverage.</p>
-<section class="panel"><h2>Teaching extraction review queue</h2><p>{extractionQueue.length} passage units queued for individual teaching and attribution review; {extractionQueue.filter(r=>r.existingSpeechIds.length>0).length} already have selected Jesus speech records. English-text inspection is documented for {decisions.filter(d=>d.primaryTextCheck).length} Pauline passages and {extractionQueue.filter(r=>r.gospelAudit).length} Gospel passages. Scholarly review is tracked separately.</p><ul>{books.filter(b=>extractionQueue.some(r=>r.bookId===b.id)).map(b=><li>{b.title}: {extractionQueue.filter(r=>r.bookId===b.id && r.reviewStatus==="pending").length} pending passage reviews</li>)}</ul></section>
+<section class="panel"><h2>Primary-text inspection</h2>
+<p>The four Gospels have {extractionQueue.filter(r=>r.gospelAudit).length} passage-level inspections in the World English Bible. The thirteen Pauline letters have {decisions.filter(d=>d.primaryTextCheck).length}. Each inspection records the source and the editor’s decision about speech, action, teaching or context.</p>
+<p>{passages.filter(p=>p.bookId==="ac").length} passages from Acts serve as contextual evidence. Independent scholarly review, Greek collation and evaluation of textual variants are tracked separately from English inspection.</p></section>
 <section class="panel"><h2>English-text inspection by book</h2>
 <table><thead><tr><th scope="col">Book</th><th scope="col">Inspected passages</th><th scope="col">Indexed passages</th></tr></thead><tbody>
 {books.filter(b => extractionQueue.some(r => r.bookId === b.id)).map(b => <tr><th scope="row"><a href={"/books/" + b.id + "/"}>{b.title}</a></th>

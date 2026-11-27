@@ -26,3 +26,9 @@
 - [ ] Independent research and accessibility QA
 
 The project will preserve disagreements and publication-access limits when adding sources.
+
+## English inspection across Luke
+
+All 143 indexed passages now have WEBP dispositions. The audit covers infancy hymns, the Baptist's economic instructions, Galilean teaching, the journey to Jerusalem and the passion and resurrection accounts. Luke 3:11–14 attributes the sharing and wage instructions to John. Luke 10:27 assigns the double love command to the lawyer and 10:28 gives Jesus' assent. Luke 19:27 is spoken by the ruler inside the minas parable. Luke 22:61 reports Peter remembering Jesus' prediction. The prayer at 23:34 retains a textual qualification. These distinctions are visible on the passage pages and overlapping teaching records.
+
+Twenty-six additional candidate relationships give both passage endpoints, specify the material compared and identify differences of order, speaker or setting. The links include partial parallels and thematic resemblances. Greek wording, manuscript witnesses, additional parallels and independent historical assessment still require investigation.
