@@ -826,5 +826,239 @@
     "relationship": "partial-parallel",
     "note": "Both report the cry of abandonment and the misunderstanding about Elijah. Matthew adds an earthquake and opened tombs.",
     "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-02-41-52",
+      "jn-02-13-22"
+    ],
+    "relationship": "thematic-resemblance",
+    "note": "Both connect Jesus, his Father and the temple. Luke narrates a childhood exchange with parents and John a public confrontation in adulthood.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-03-21-22",
+      "mt-03-13-17"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both include a descent and heavenly declaration. Luke emphasizes prayer and omits Matthew's dialogue between Jesus and John.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-04-01-13",
+      "mt-04-01-11"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both narrate three temptations with scripture on the lips of Jesus and the devil. Their second and third settings occur in reverse order.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-04-16-30",
+      "mt-13-53-58"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Hometown rejection and a prophetic proverb overlap. Luke adds the Isaiah reading, Elijah and Elisha examples and attempted violence.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-05-01-11",
+      "mt-04-18-22"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Fishermen leave to follow in both. Luke places a catch and Simon's exchange with Jesus before the departure.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-05-33-39",
+      "mt-09-14-17"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both use bridegroom, cloth and wine in response to a fasting question. Luke gives the further saying about preferring old wine.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-06-20-26",
+      "mt-05-01-12"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Blessings for poverty, hunger and persecution overlap. Luke uses direct address and pairs blessings with woes. Matthew qualifies poverty and hunger differently.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-06-27-36",
+      "mt-05-21-48"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both include enemy love and resistance to reciprocity. Compare Matthew 5:38–48 in particular. Luke concludes with the Father's mercy and explicitly discusses lending.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-06-37-42",
+      "mt-07-01-06"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both join judgment and the speck-and-beam illustration. Luke also speaks of giving and blind guides, while Matthew includes dogs and pearls.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-06-46-49",
+      "mt-07-24-27"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both finish a discourse with two builders and the need to act on Jesus' words. Luke describes digging deep and a swollen river.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-07-01-10",
+      "mt-08-05-13"
+    ],
+    "relationship": "partial-parallel",
+    "note": "The authority analogy and praise of a centurion's faith overlap. Luke uses elders and friends as intermediaries, while Matthew stages direct speech.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-07-18-23",
+      "mt-11-01-06"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "John's messengers receive an answer through a list of signs and a blessing. Luke narrates healings at the time of the inquiry.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-07-36-50",
+      "mk-14-01-11"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Anointing at a meal attracts objections. Luke focuses on hospitality, debt and forgiveness, while Mark frames the act in relation to burial. The women are not identified as the same person.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-08-26-39",
+      "mk-05-01-20"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both include the name Legion and a commission to the healed man. Luke explicitly reports his request to accompany Jesus before the direction to return home.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-10-01-12",
+      "mt-10-05-15"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Travel, greetings, food and rejected towns overlap. Luke addresses an additional group after the Twelve's mission. Matthew specifies the Twelve and an Israel-only destination.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-10-21-24",
+      "mt-11-25-30"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Thanksgiving and sayings about Father and Son overlap. Luke moves to a private blessing of the disciples. Matthew continues with rest for the burdened.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-11-01-13",
+      "mt-06-05-15"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Compare Luke 11:2–4 and Matthew 6:9–13. Luke situates the prayer in a response to a disciple and follows it with the midnight request. Matthew situates it within the sermon.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-11-29-32",
+      "mt-12-38-45"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Jonah, Nineveh and the Queen of the South recur. Matthew explicitly compares Jonah's three days with the Son of Man's time in the earth.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-12-22-34",
+      "mt-06-25-34"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Birds and flowers illustrate care and the limits of anxiety. Luke continues directly to selling possessions and giving alms.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-14-15-24",
+      "mt-22-01-14"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Refused invitations lead to a widened guest list. Matthew depicts a royal wedding, violence and the guest without a wedding garment. Luke develops specific excuses and the host's further invitations.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-15-01-07",
+      "mt-18-10-14"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Both use a straying sheep. Luke replies to complaints about receiving sinners and emphasizes repentance. Matthew addresses the treatment of little ones.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-19-11-27",
+      "mt-25-14-30"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both use entrusted money and returning authority. Luke adds opponents of a nobleman's kingship. Matthew distinguishes the initial sums entrusted.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-21-20-24",
+      "mt-24-15-31"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both instruct flight from Judea and anticipate distress. Luke identifies surrounding armies and captivity; Matthew refers to the desolating sacrilege.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-22-14-23",
+      "mk-14-22-25"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Bread and cup sayings overlap. Luke describes a cup before the bread as well as a cup afterward in the longer textual form.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-22-47-53",
+      "mt-26-47-56"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both describe arrest and injury by sword. Luke reports healing the ear. Matthew gives the longer rebuke about the sword and angelic aid.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-23-44-49",
+      "mt-27-45-56"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both include darkness, Jesus' death and a centurion's response. Luke gives a prayer of entrusting the spirit and a different declaration by the centurion.",
+    "status": "candidate"
   }
 ]
