@@ -1362,5 +1362,59 @@
     "sourceIds": [
       "web-protestant-66"
     ]
+  },
+  {
+    "id": "hospitality-and-shared-meals-host",
+    "comparisonId": "hospitality-and-shared-meals",
+    "status": "draft",
+    "kind": "textual-observation",
+    "assessment": "agreement",
+    "title": "The ability to repay an invitation",
+    "observation": "Luke directs the host to invite guests who cannot repay, while naming resurrection as a horizon of recompense.",
+    "alternateReading": "The instruction can be read as challenging the dominant motive for an invitation or as requiring a more radical replacement of the guest list.",
+    "limitation": "The narrative does not record the host adopting either practice.",
+    "passageIds": [
+      "lk-14-12-14"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "braun-luke-dinner-rules"
+    ]
+  },
+  {
+    "id": "hospitality-and-shared-meals-meal",
+    "comparisonId": "hospitality-and-shared-meals",
+    "status": "draft",
+    "kind": "source-comparison",
+    "assessment": "interpretation-dependent",
+    "title": "Unequal food and contested explanations",
+    "observation": "Paul explicitly describes hunger, drunkenness and shaming. Kloppenborg disputes the inference that working hours explain late arrival.",
+    "alternateReading": "Competitive allocation of portions is an alternative reconstruction informed by comparison with association meals.",
+    "limitation": "Neither the assembly floor plan nor the arrival times are supplied in the letter.",
+    "passageIds": [
+      "1co-11-17-34"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "kloppenborg-corinth-precedence"
+    ]
+  },
+  {
+    "id": "hospitality-and-shared-meals-scope",
+    "comparisonId": "hospitality-and-shared-meals",
+    "status": "draft",
+    "kind": "counterexample",
+    "assessment": "tension",
+    "title": "Eating at home and opening the table",
+    "observation": "Paul can direct a hungry participant to eat at home while Luke challenges a host to invite people who lack the means to reciprocate.",
+    "alternateReading": "Paul may be restraining competitive private consumption at a communal rite. Luke addresses admission to a social meal.",
+    "limitation": "A direct contradiction would require both instructions to apply to the same host, guests and meal.",
+    "passageIds": [
+      "lk-14-12-14",
+      "1co-11-17-34"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ]
   }
 ]
