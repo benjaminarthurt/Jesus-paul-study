@@ -23,11 +23,13 @@ test("use the council's question, Peter's recollection and the narrator's gloss 
   assert.ok(decisions.get("mk-03-20-30").units.every(u => u.endVerse < 30));
 });
 
-test("John 1–7 distinguishes narrator explanations, reported sayings and other speakers", () => {
-  for (const p of load("passages").filter(p => p.bookId === "jn" && Number(p.id.split("-")[1]) <= 7)) {
+test("John distinguishes narrator explanations, reported sayings and other speakers", () => {
+  for (const p of load("passages").filter(p => p.bookId === "jn")) {
     assert.equal(decisions.get(p.id)?.sourceUrl, p.sourceUrl, p.id);
   }
   assert.deepEqual(decisions.get("jn-01-29-34").units, []);
+  assert.deepEqual(decisions.get("jn-09-13-34").units, []);
+  assert.equal(decisions.get("jn-18-01-11").units.find(u => u.startVerse === 9).form, "reported-teaching");
   assert.equal(decisions.get("jn-04-43-45").units[0].form, "reported-teaching");
   assert.deepEqual(decisions.get("jn-05-16-18").units.map(u => u.endVerse), [17]);
   assert.deepEqual(decisions.get("jn-07-37-39").units.map(u => u.endVerse), [38]);

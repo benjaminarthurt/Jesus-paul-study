@@ -322,5 +322,68 @@
     "relationship": "thematic-resemblance",
     "note": "Both introduce Simon and Andrew as followers. John begins with the Baptist's testimony and Andrew bringing Simon. Mark gives a shoreside call to fishermen. The sequence and initiating speakers differ.",
     "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-12-01-11",
+      "mk-14-01-11"
+    ],
+    "relationship": "partial-parallel",
+    "note": "A costly anointing and an objection about the poor. John names Mary and Judas and describes feet and hair. Mark describes an unnamed woman anointing the head.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-12-12-19",
+      "mk-11-01-11"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Entry and acclamation overlap. Mark narrates instructions to obtain a colt. John describes Jesus finding a young donkey and the disciples remembering afterward.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-13-31-38",
+      "mk-14-26-31"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both predict Peter's denials. In John the exchange follows Peter's question about following Jesus. Mark places it after a prediction of wider desertion on the way to the Mount of Olives.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-18-01-11",
+      "mk-14-43-65"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Arrest and the injury to a servant overlap. John names Peter and Malchus and reports the exchange about the cup. Mark narrates a kiss and leaves the armed individual unnamed.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-18-28-40",
+      "mk-15-01-05"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Pilate questions Jesus about kingship. John develops the origin of the kingdom and testimony to truth. Mark emphasizes the brief response and silence under accusation.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-19-28-37",
+      "mk-15-33-39"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Both narrate the death and sour wine. The recorded final words and the witnesses emphasized in the narratives differ.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "jn-19-38-42",
+      "mk-15-40-47"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Joseph obtains the body. John includes Nicodemus and spices. Mark reports Pilate checking the death and women observing the burial place.",
+    "status": "candidate"
   }
 ]
