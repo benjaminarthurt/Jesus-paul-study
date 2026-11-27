@@ -9023,7 +9023,30 @@
     "existingSpeechIds": [
       "mt-s-08-03-03",
       "mt-s-08-04-04"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT08.htm",
+      "note": "The man expresses confidence in Jesus' ability in 2. Jesus answers and touches him, then directs him to the priest and the Mosaic offering.",
+      "units": [
+        {
+          "startVerse": 3,
+          "endVerse": 3,
+          "form": "response",
+          "audience": "Man seeking cleansing",
+          "summary": "Willingness to cleanse"
+        },
+        {
+          "startVerse": 4,
+          "endVerse": 4,
+          "form": "instruction",
+          "audience": "Healed man",
+          "summary": "Silence, presentation to the priest and the prescribed gift"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-08-05-13",
@@ -9032,14 +9055,60 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-08-07-13"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT08.htm",
+      "note": "The centurion supplies the analogy of orders in 8–9. Jesus alternates between addressing him and addressing those following.",
+      "units": [
+        {
+          "startVerse": 7,
+          "endVerse": 7,
+          "form": "response",
+          "audience": "Centurion",
+          "summary": "Offer to come and heal"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 12,
+          "form": "warning",
+          "audience": "Followers",
+          "summary": "The centurion's faith and reversal at the kingdom banquet"
+        },
+        {
+          "startVerse": 13,
+          "endVerse": 13,
+          "form": "promise",
+          "audience": "Centurion",
+          "summary": "Healing in keeping with his trust"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-08-14-17",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-action",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT08.htm",
+      "note": "Jesus touches Peter's mother-in-law. Verse 16 reports an effective word without its wording. The narrator quotes Isaiah in 17.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "symbolic-action",
+          "audience": "Peter's mother-in-law",
+          "summary": "Touching her hand as the fever leaves"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-08-18-22",
@@ -9049,7 +9118,37 @@
     "existingSpeechIds": [
       "mt-s-08-20-20",
       "mt-s-08-22-22"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT08.htm",
+      "note": "Verse 18 reports a crossing order. The scribe volunteers to follow and a second disciple asks to bury his father.",
+      "units": [
+        {
+          "startVerse": 18,
+          "endVerse": 18,
+          "form": "reported-teaching",
+          "audience": "Companions",
+          "summary": "Order to cross the water"
+        },
+        {
+          "startVerse": 20,
+          "endVerse": 20,
+          "form": "response",
+          "audience": "Scribe",
+          "summary": "The Son of Man's lack of lodging"
+        },
+        {
+          "startVerse": 22,
+          "endVerse": 22,
+          "form": "instruction",
+          "audience": "Disciple requesting delay",
+          "summary": "Follow despite the competing burial obligation"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-08-23-27",
@@ -9058,7 +9157,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-08-26-26"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "composite",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT08.htm",
+      "note": "The disciples ask for help. Jesus questions them, then rebukes the winds and sea without quoted words. The closing question belongs to the witnesses.",
+      "units": [
+        {
+          "startVerse": 26,
+          "endVerse": 26,
+          "form": "question",
+          "audience": "Disciples",
+          "summary": "Fear and little faith"
+        },
+        {
+          "startVerse": 26,
+          "endVerse": 26,
+          "form": "symbolic-action",
+          "audience": "Disciples in the boat",
+          "summary": "Rebuke of winds and sea"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-08-28-34",
@@ -9067,7 +9189,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-08-32-32"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT08.htm",
+      "note": "Two possessed men approach. The demonic speakers identify Jesus and request transfer to pigs. WEBP flags the place name in 28.",
+      "units": [
+        {
+          "startVerse": 32,
+          "endVerse": 32,
+          "form": "instruction",
+          "audience": "Demons",
+          "summary": "Leave for the herd"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-09-01-08",
@@ -9077,7 +9215,37 @@
     "existingSpeechIds": [
       "mt-s-09-02-02",
       "mt-s-09-04-06"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT09.htm",
+      "note": "The scribes judge Jesus' words in 3. In 6 Jesus turns from the authority claim to the command addressed to the man.",
+      "units": [
+        {
+          "startVerse": 2,
+          "endVerse": 2,
+          "form": "promise",
+          "audience": "Paralyzed man",
+          "summary": "Courage and forgiveness of sins"
+        },
+        {
+          "startVerse": 4,
+          "endVerse": 6,
+          "form": "question",
+          "audience": "Scribes",
+          "summary": "Challenge about forgiveness, healing and the Son of Man's authority"
+        },
+        {
+          "startVerse": 6,
+          "endVerse": 6,
+          "form": "instruction",
+          "audience": "Paralyzed man",
+          "summary": "Stand, pick up the bed and return home"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-09-09-13",
@@ -9087,7 +9255,30 @@
     "existingSpeechIds": [
       "mt-s-09-09-09",
       "mt-s-09-12-13"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT09.htm",
+      "note": "Matthew is called by name. The Pharisees question the disciples but Jesus answers with a medical analogy and a quotation from Hosea.",
+      "units": [
+        {
+          "startVerse": 9,
+          "endVerse": 9,
+          "form": "instruction",
+          "audience": "Matthew",
+          "summary": "Call to follow"
+        },
+        {
+          "startVerse": 12,
+          "endVerse": 13,
+          "form": "response",
+          "audience": "Pharisees",
+          "summary": "The sick, mercy and the call of sinners"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-09-14-17",
@@ -9096,7 +9287,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-09-15-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT09.htm",
+      "note": "John's disciples ask about fasting. Jesus answers about the bridegroom, then introduces two material analogies.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "response",
+          "audience": "John's disciples",
+          "summary": "The bridegroom's presence and later fasting"
+        },
+        {
+          "startVerse": 16,
+          "endVerse": 17,
+          "form": "teaching",
+          "audience": "John's disciples",
+          "summary": "Unshrunk cloth and new wine as images of incompatibility"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-09-18-26",
@@ -9106,7 +9320,30 @@
     "existingSpeechIds": [
       "mt-s-09-22-22",
       "mt-s-09-24-24"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT09.htm",
+      "note": "The ruler describes his daughter as already dead. The woman reasons to herself in 21. Jesus addresses her and later the people in the house.",
+      "units": [
+        {
+          "startVerse": 22,
+          "endVerse": 22,
+          "form": "response",
+          "audience": "Woman with bleeding",
+          "summary": "Encouragement and recognition of faith"
+        },
+        {
+          "startVerse": 24,
+          "endVerse": 24,
+          "form": "instruction",
+          "audience": "People at the house",
+          "summary": "Make room for the girl described as sleeping"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-09-27-34",
@@ -9115,7 +9352,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-09-28-30"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT09.htm",
+      "note": "Jesus addresses the blind men. The later exorcism gives the crowd's reaction and an accusation from Pharisees.",
+      "units": [
+        {
+          "startVerse": 28,
+          "endVerse": 28,
+          "form": "question",
+          "audience": "Two blind men",
+          "summary": "Trust in his ability to heal"
+        },
+        {
+          "startVerse": 29,
+          "endVerse": 29,
+          "form": "response",
+          "audience": "Two blind men",
+          "summary": "Healing in accordance with trust"
+        },
+        {
+          "startVerse": 30,
+          "endVerse": 30,
+          "form": "instruction",
+          "audience": "Healed men",
+          "summary": "Keep the healing from becoming known"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-09-35-38",
@@ -9124,14 +9391,38 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-09-37-38"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT09.htm",
+      "note": "The narrator describes itinerant activity and compassion. The harvest image and request for prayer are addressed to the disciples.",
+      "units": [
+        {
+          "startVerse": 37,
+          "endVerse": 38,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Ask the harvest's master to send workers"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-10-01-04",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "reported-action",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT10.htm",
+      "note": "The narrator records a grant of authority and names the Twelve. The quoted instructions open in verse 5.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-10-05-15",
@@ -9140,7 +9431,51 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-10-05-15"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT10.htm",
+      "note": "This speech addresses the Twelve. The kingdom proclamation in verse 7 is wording they are to deliver. WEBP flags an additional healing instruction at verse 8.",
+      "units": [
+        {
+          "startVerse": 5,
+          "endVerse": 6,
+          "form": "instruction",
+          "audience": "The Twelve",
+          "summary": "Limit this journey to the lost sheep of Israel"
+        },
+        {
+          "startVerse": 7,
+          "endVerse": 8,
+          "form": "instruction",
+          "audience": "The Twelve",
+          "summary": "Announce the kingdom, heal and give freely"
+        },
+        {
+          "startVerse": 9,
+          "endVerse": 10,
+          "form": "instruction",
+          "audience": "The Twelve",
+          "summary": "Travel equipment and the worker's right to food"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 13,
+          "form": "instruction",
+          "audience": "The Twelve",
+          "summary": "Lodging, greeting and peace in a household"
+        },
+        {
+          "startVerse": 14,
+          "endVerse": 15,
+          "form": "warning",
+          "audience": "The Twelve",
+          "summary": "Leaving an unwelcoming town and the prospect of judgment"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-10-16-25",
@@ -9150,7 +9485,44 @@
     "existingSpeechIds": [
       "mt-s-10-16-20",
       "mt-s-10-21-25"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT10.htm",
+      "note": "The mission address anticipates hearings beyond the starting towns. Verse 20 describes future Spirit-enabled speech rather than quoting the Spirit.",
+      "units": [
+        {
+          "startVerse": 16,
+          "endVerse": 18,
+          "form": "warning",
+          "audience": "The Twelve",
+          "summary": "Prudence under threats from councils and rulers"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 20,
+          "form": "promise",
+          "audience": "The Twelve",
+          "summary": "Words for testimony under arrest"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 23,
+          "form": "instruction",
+          "audience": "The Twelve",
+          "summary": "Endurance, flight and the coming of the Son of Man"
+        },
+        {
+          "startVerse": 24,
+          "endVerse": 25,
+          "form": "teaching",
+          "audience": "The Twelve",
+          "summary": "Teacher and disciple share exposure to hostility"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-10-26-33",
@@ -9159,7 +9531,44 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-10-26-33"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT10.htm",
+      "note": "Contrasts between concealed and disclosed speech, bodily harm and ultimate accountability shape the commands about fear.",
+      "units": [
+        {
+          "startVerse": 26,
+          "endVerse": 27,
+          "form": "instruction",
+          "audience": "The Twelve",
+          "summary": "Speak publicly what was received privately"
+        },
+        {
+          "startVerse": 28,
+          "endVerse": 28,
+          "form": "warning",
+          "audience": "The Twelve",
+          "summary": "The scope and limits of human power to harm"
+        },
+        {
+          "startVerse": 29,
+          "endVerse": 31,
+          "form": "promise",
+          "audience": "The Twelve",
+          "summary": "Sparrows, numbered hairs and divine care"
+        },
+        {
+          "startVerse": 32,
+          "endVerse": 33,
+          "form": "warning",
+          "audience": "The Twelve",
+          "summary": "Acknowledgment or denial before others"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-10-34-42",
@@ -9169,7 +9578,37 @@
     "existingSpeechIds": [
       "mt-s-10-34-39",
       "mt-s-10-40-42"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT10.htm",
+      "note": "Household division interprets the sword image in its immediate setting. The final sayings turn from the costs of following to the reception of those sent.",
+      "units": [
+        {
+          "startVerse": 34,
+          "endVerse": 36,
+          "form": "warning",
+          "audience": "The Twelve",
+          "summary": "Division within households"
+        },
+        {
+          "startVerse": 37,
+          "endVerse": 39,
+          "form": "instruction",
+          "audience": "The Twelve",
+          "summary": "Family loyalty, the cross and the loss of life"
+        },
+        {
+          "startVerse": 40,
+          "endVerse": 42,
+          "form": "promise",
+          "audience": "The Twelve",
+          "summary": "Receiving messengers and even small acts of support"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-11-01-06",
