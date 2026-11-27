@@ -1,5 +1,7 @@
 import { readFileSync, existsSync } from "node:fs";
 
+import { gospelUnitAnchor } from "../src/lib/gospel-unit.mjs";
+
 const load = name => JSON.parse(readFileSync(new URL("../research/index/" + name + ".json", import.meta.url)));
 const attributions = new Set(["letter-discourse", "lord-attributed-instruction", "received-jesus-tradition", "reported-lord-response", "scriptural-divine-speech", "scripture-citation", "claimed-lord-authority", "contested-voice", "reported-spirit-speech", "quoted-human-speech", "received-saying"]);
 const teachingTypes = new Set(["greeting", "instruction", "exhortation", "rhetorical-question", "doctrinal-argument", "prayer", "narrative-example", "confession", "quotation"]);
@@ -54,6 +56,8 @@ export function validateExtraction() {
     }
     audited.add(p.id);
     const [, , start, end] = p.id.split("-").map(Number);
+    const anchors = a.units.map(gospelUnitAnchor);
+    if (new Set(anchors).size !== anchors.length) errors.push("Duplicate Gospel unit anchor: " + p.id);
     for (const u of a.units) {
       if (!Number.isInteger(u.startVerse) || !Number.isInteger(u.endVerse) || u.startVerse < start || u.endVerse > end ||
           u.startVerse > u.endVerse || !forms.has(u.form) || !u.audience || !u.summary) errors.push("Invalid Gospel unit: " + p.id);
