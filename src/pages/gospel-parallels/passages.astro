@@ -1,0 +1,48 @@
+---
+import Base from "../../layouts/Base.astro";
+import links from "../../../research/index/gospel-audit-links.json";
+import passages from "../../../research/index/passages.json";
+import books from "../../../research/index/books.json";
+import { compareHref } from "../../lib/passage-search.mjs";
+
+const gospels = books.filter(book => ["mt", "mk", "lk", "jn"].includes(book.id));
+const byId = new Map(passages.map(p => [p.id, p]));
+const bookOrder = new Map(gospels.map((gospel, index) => [gospel.id, index]));
+const groups = new Map<string, {title: string, rows: {left: typeof passages[number], right: typeof passages[number], link: typeof links[number]}[]}>();
+for (const link of links) {
+  const [left, right] = link.passages.map(id => byId.get(id)!).sort((a, b) =>
+    bookOrder.get(a.bookId)! - bookOrder.get(b.bookId)! || a.id.localeCompare(b.id)
+  );
+  const id = left.bookId + "-" + right.bookId;
+  const first = gospels[bookOrder.get(left.bookId)!].title;
+  const second = gospels[bookOrder.get(right.bookId)!].title;
+  const title = first === second ? "Within " + first : first + " and " + second;
+  if (!groups.has(id)) groups.set(id, {title, rows: []});
+  groups.get(id)!.rows.push({left, right, link});
+}
+const sections = [...groups].sort(([a], [b]) => {
+  const [a1, a2] = a.split("-");
+  const [b1, b2] = b.split("-");
+  return bookOrder.get(a1)! - bookOrder.get(b1)! || bookOrder.get(a2)! - bookOrder.get(b2)!;
+}).map(([id, group]) => ({
+  id, title: group.title, rows: group.rows.sort((a, b) =>
+    a.left.id.localeCompare(b.left.id) || a.right.id.localeCompare(b.right.id))
+}));
+---
+<Base title="Gospel parallels by passage" description="Browse passage pairs by Gospel, read the reasons for each proposed relationship, and compare both accounts.">
+  <p><a href="/gospel-parallels/">Four-Gospel comparison studies</a></p>
+  <h1>Gospel parallels by passage</h1>
+  <p class="lead">{links.length} proposed relationships between inspected passages. Each entry identifies the overlap and records differences in setting, speaker or wording.</p>
+  <nav aria-label="Jump to a pair of Gospels"><ul>{sections.map(group =>
+    <li><a href={"#" + group.id}>{group.title}</a> ({group.rows.length})</li>
+  )}</ul></nav>
+  {sections.map(group => <section aria-labelledby={group.id}>
+    <h2 id={group.id}>{group.title}</h2>
+    <ul class="compact-list">{group.rows.map(({left, right, link}) => <li>
+      <p><strong><a href={`/passages/${left.id}/`}>{left.reference}</a> · <a href={`/passages/${right.id}/`}>{right.reference}</a></strong></p>
+      <p class="meta">{link.relationship.replaceAll("-", " ")} · candidate</p>
+      <p>{link.note}</p>
+      <a href={compareHref(left.id, right.id)}>Compare {left.reference} and {right.reference} side by side</a>
+    </li>)}</ul>
+  </section>)}
+</Base>

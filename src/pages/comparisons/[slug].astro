@@ -1,4 +1,5 @@
 ---
+import ComparisonUnits from "../../components/ComparisonUnits.astro";
 import Base from "../../layouts/Base.astro";
 import { getCollection, render } from "astro:content";
 import passages from "../../../research/index/passages.json";
@@ -43,11 +44,11 @@ const evaluationLabels: Record<string,string> = {
   <section class="split" aria-label="Passages being compared">
     <div class="panel">
       <h2>Jesus in the Gospels</h2>
-      {jesusRefs.map(ref => ref && <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}</div>)}
+      {jesusRefs.map(ref => ref && <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}<ComparisonUnits passage={ref} /></div>)}
     </div>
     <div class="panel">
       <h2>Paul / writings attributed to Paul</h2>
-      {paulRefs.map(ref => ref && <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}{"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}</div>)}
+      {paulRefs.map(ref => ref && <div class="reference"><strong><a href={"/passages/" + ref.id + "/"}>{ref.reference}</a></strong><span>{ref.summary}</span><div class="meta">{ref.sourceLayer === "paul-disputed" ? "Authorship debated" : "Generally undisputed Pauline letter"}</div>{"sourceUrl" in ref && ref.sourceUrl && <p><a href={ref.sourceUrl} target="_blank" rel="noopener noreferrer">Read source chapter</a></p>}{"textualNote" in ref && ref.textualNote && <p class="warning">{ref.textualNote}</p>}<ComparisonUnits passage={ref} /></div>)}
     </div>
   </section>
 
@@ -77,7 +78,7 @@ const evaluationLabels: Record<string,string> = {
         <p>{row.limitation}</p>
         <div class="evidence-refs">
           <strong>Passages:</strong>
-          <span>{row.passageIds.map(id => passageById.get(id)?.reference ?? id).join("; ")}</span>
+          <span>{row.passageIds.map((id, i) => <>{i > 0 && " · "}<a href={`/passages/${id}/`}>{passageById.get(id)?.reference ?? id}</a></>)}</span>
         </div>
         <div class="evidence-refs">
           <strong>Sources:</strong>
