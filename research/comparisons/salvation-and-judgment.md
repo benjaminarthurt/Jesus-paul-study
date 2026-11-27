@@ -7,7 +7,7 @@ paul: [ga-02-11-21, ro-03-28-31, ro-02-06-16, 2co-05-01-10, ga-05-02-06]
 context: [jn-03-16-21, eph-02-01-10]
 sourceIds: [web-protestant-66]
 classification: apparent-tension
-reviewIds: [romans-2-faith-deeds-judgment, augustine-grace-reception]
+reviewIds: [romans-2-faith-deeds-judgment, augustine-grace-reception, luther-chief-article, calvin-james-and-paul, oca-final-judgment]
 ---
 ## Research question
 
@@ -50,3 +50,7 @@ Review Greek justification and faith terminology, Matthew 25's referent debate, 
 ## Disputed-authorship contextual witnesses
 
 Ephesians 2 juxtaposes grace through faith with good works as the purpose of renewed life. It is relevant to the reception of Pauline salvation language, not independent proof of historical Paul's position. These references are provisional contextual evidence, not an attribution of their claims to the historical Paul. No change to the comparison classification or verification status is warranted by indexing alone.
+
+## How later readers frame the question
+
+Luther cites Romans to identify the ground on which justification is received. Calvin addresses an apparent disagreement between James and Paul by distinguishing being accounted righteous from showing righteousness in action. A modern Orthodox Church in America catechetical text puts Matthew's judgment scene at the center and reads service to those in distress as service to Christ. These are documented acts of interpretation. Their different questions help explain how distinct conclusions can arise, while leaving open what each biblical writer intended. [Luther](/research-reviews/luther-chief-article/) · [Calvin](/research-reviews/calvin-james-and-paul/) · [Orthodox catechesis](/research-reviews/oca-final-judgment/)

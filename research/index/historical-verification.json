@@ -365,5 +365,50 @@
       "salvation-and-judgment",
       "law-and-faith"
     ]
+  },
+  {
+    "reviewId": "luther-chief-article",
+    "verification": "selected-english-text-rechecked",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-27",
+    "recheckNote": "Luther explicitly cites Romans 3 and 4 in an article whose other scriptural witnesses include the Baptist in John and Isaiah. Its direct question concerns the ground of justification.",
+    "recheckUrl": "https://bookofconcord.org/smalcald-articles/ii/first-and-chief-article/",
+    "recheckScope": "Part II, Article I, paragraphs 1–5.",
+    "period": "reformation",
+    "comparisonIds": [
+      "salvation-and-judgment"
+    ]
+  },
+  {
+    "reviewId": "calvin-james-and-paul",
+    "verification": "selected-english-text-rechecked",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-27",
+    "recheckNote": "Calvin differentiates saving trust from assent and uses the sequence of Abraham’s faith and later offering of Isaac to distinguish justification from its manifestation.",
+    "recheckUrl": "https://ccel.org/ccel/calvin/institutes/institutes.v.xviii.html",
+    "recheckScope": "Book III, chapter 17, selected discussion of Abraham in sections 11–12.",
+    "period": "reformation",
+    "comparisonIds": [
+      "salvation-and-judgment"
+    ]
+  },
+  {
+    "reviewId": "oca-final-judgment",
+    "verification": "selected-english-text-rechecked",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-27",
+    "recheckNote": "Matthew 25 and John 5 support a catechetical account of judgment by Christ and service to Christ in those who suffer. Colossians supplies image language. Patristic quotations have not been rechecked against their originals.",
+    "recheckUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/the-kingdom-of-heaven/the-final-judgment",
+    "recheckScope": "The Orthodox Faith, volume IV, section on final judgment.",
+    "period": "modern",
+    "comparisonIds": [
+      "salvation-and-judgment"
+    ]
   }
 ]
