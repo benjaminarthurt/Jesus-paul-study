@@ -16,3 +16,9 @@ Compare Matthew 5, Luke 6, Romans 12 and the household instructions of Ephesians
 ## Limitations
 
 Date, compositional layers, Greek wording, literary dependencies and independent scholarship remain unverified. Later chapters require separate review.
+
+## Travelers, residents and support for teachers
+
+Chapters 11–13 address hosts who must decide what to provide, for how long and to whom. Chapter 11 distinguishes a traveling apostle taking bread for the road from one requesting money. It separately distinguishes a prophet soliciting a gift for personal use from one asking on behalf of others in need. Chapter 12 calls for initial welcome, then assessment, and treats a passing traveler differently from someone wishing to settle. Chapter 13 gives resident prophets and teachers a claim to support and directs first fruits to the poor where there is no prophet.
+
+This is evidence of a community differentiating obligations by role, length of stay and beneficiary. The biblical cross-references printed on the English webpage are editorial aids. They do not by themselves demonstrate that the compiler copied Paul, or that the limits on an itinerant apostle govern every guest. Chapters 11–13 of the English translation were inspected on November 27, 2026. Greek textual comparison and independent scholarship on these chapters remain pending. [English text](/sources/#source-didache-hospitality) · [Comparison of hospitality and shared meals](/comparisons/hospitality-and-shared-meals/)

@@ -442,5 +442,40 @@
     "url": "https://doi.org/10.1017/S0028688522000224",
     "accessScope": "selected-excerpt",
     "note": "Inspected the publisher abstract and opening discussion in the accessible PDF. The manuscript images and ECM apparatus cited by the author were not independently inspected."
+  },
+  {
+    "id": "braun-luke-dinner-rules",
+    "type": "academic-book",
+    "author": "Willi Braun",
+    "title": "Feasting and Social Rhetoric in Luke 14",
+    "publisher": "Cambridge University Press",
+    "location": "Chapter summary, Uncommon symposium rules (14.7–11, 12–14).",
+    "url": "https://www.cambridge.org/core/books/abs/feasting-and-social-rhetoric-in-luke-14/uncommon-symposium-rules-14711-1214/E78F75B6B065FE21E9D9BBBB43306C6F",
+    "accessScope": "selected-excerpt",
+    "note": "The publicly displayed chapter summary was inspected, including its distinction between instructions to guests and hosts.",
+    "year": 1995
+  },
+  {
+    "id": "kloppenborg-corinth-precedence",
+    "type": "peer-reviewed-article",
+    "author": "John S. Kloppenborg",
+    "title": "Precedence at the Communal Meal in Corinth",
+    "publisher": "Novum Testamentum",
+    "location": "Volume 58, issue 2, pp. 167–203. Abstract and opening discussion inspected in the author-posted copy.",
+    "url": "https://www.academia.edu/15228119/_Precedence_at_the_Communal_Meal_in_Corinth_Novum_Testamentum_58_2_2016_167_203",
+    "accessScope": "selected-excerpt",
+    "note": "Consulted for competing reconstructions of arrival, meal contributions and status. The inscriptions discussed by the author were not independently inspected.",
+    "year": 2016
+  },
+  {
+    "id": "didache-hospitality",
+    "type": "primary-edition",
+    "author": "Anonymous",
+    "title": "Didache, chapters 11–13",
+    "publisher": "New Advent",
+    "location": "English translation, chapters 11–13.",
+    "url": "https://www.newadvent.org/fathers/0714.htm",
+    "accessScope": "selected-excerpt",
+    "note": "Inspected the English rules for reception, discernment, length of stay and support. Webpage cross-references are editorial aids."
   }
 ]
