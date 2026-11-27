@@ -385,5 +385,59 @@
     "relationship": "partial-parallel",
     "note": "Joseph obtains the body. John includes Nicodemus and spices. Mark reports Pilate checking the death and women observing the burial place.",
     "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-03-13-17",
+      "mk-01-01-13"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both report baptism and the heavenly voice. Matthew records an exchange about righteousness and gives the voice in the third person.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-04-01-11",
+      "mk-01-01-13"
+    ],
+    "relationship": "partial-parallel",
+    "note": "The wilderness testing follows baptism in each account. Mark gives no dialogue or sequence of three tests.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-04-12-17",
+      "mk-01-14-15"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "Both connect the arrest of John to proclamation in Galilee. Mark includes a call to believe the good news. Matthew sets the move to Capernaum alongside Isaiah.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-04-18-22",
+      "mk-01-16-20"
+    ],
+    "relationship": "direct-synoptic-parallel",
+    "note": "The same two pairs of brothers are called by the lake. Mark also mentions hired workers left with Zebedee.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-05-21-48",
+      "lk-16-18-18"
+    ],
+    "relationship": "partial-parallel",
+    "note": "Only the divorce saying in Matthew 5:31–32 is compared. Luke places his saying in a different discourse and gives no explicit exception.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "mt-05-13-16",
+      "mk-04-21-25"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Both invoke a lamp placed on a stand. Matthew applies it to visible good works, while Mark connects it to disclosure and hearing.",
+    "status": "candidate"
   }
 ]

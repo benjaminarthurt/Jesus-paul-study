@@ -8265,35 +8265,75 @@
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT01.htm",
+      "note": "The genealogy and the grouping of generations are the evangelist's framing of Jesus' ancestry.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-01-18-25",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT01.htm",
+      "note": "An angel directs Joseph in a dream. The fulfillment citation and explanation of the name Emmanuel belong to the narrative frame.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-02-01-12",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT02.htm",
+      "note": "Visitors, Herod and the answering priests and scribes speak. The child receives gifts without speaking.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-02-13-23",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT02.htm",
+      "note": "An angel directs Joseph to leave and later to return. The narrator relates the movements and violence to prophetic texts.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-03-01-12",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "other-speakers",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT03.htm",
+      "note": "John preaches repentance and warns Pharisees and Sadducees. His announcement in verse 2 resembles Jesus' later proclamation in 4:17.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-03-13-17",
@@ -8302,7 +8342,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-03-15-15"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT03.htm",
+      "note": "John's objection comes in verse 14. Jesus answers before the baptism. The approving words in 17 come from heaven.",
+      "units": [
+        {
+          "startVerse": 15,
+          "endVerse": 15,
+          "form": "response",
+          "audience": "John the Baptist",
+          "summary": "Permit the baptism to fulfill righteousness"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-04-01-11",
@@ -8313,7 +8369,37 @@
       "mt-s-04-04-04",
       "mt-s-04-07-07",
       "mt-s-04-10-10"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT04.htm",
+      "note": "The tempter speaks in 3, 6 and 9 and even cites scripture in 6. Jesus' three scriptural responses can be located separately.",
+      "units": [
+        {
+          "startVerse": 4,
+          "endVerse": 4,
+          "form": "response",
+          "audience": "Tempter",
+          "summary": "Life depends on what God speaks"
+        },
+        {
+          "startVerse": 7,
+          "endVerse": 7,
+          "form": "response",
+          "audience": "Tempter",
+          "summary": "Refusal to put God to the test"
+        },
+        {
+          "startVerse": 10,
+          "endVerse": 10,
+          "form": "instruction",
+          "audience": "Tempter",
+          "summary": "Dismissal and exclusive worship of God"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-04-12-17",
@@ -8322,7 +8408,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-04-17-17"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT04.htm",
+      "note": "The Isaiah citation explains the Galilean setting. Verse 17 introduces the proclamation as Jesus' own.",
+      "units": [
+        {
+          "startVerse": 17,
+          "endVerse": 17,
+          "form": "instruction",
+          "audience": "Galilean hearers",
+          "summary": "Repent in view of the approaching kingdom"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-04-18-22",
@@ -8331,14 +8433,45 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-04-19-19"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT04.htm",
+      "note": "Jesus addresses Simon and Andrew in 19. Matthew reports a second call to James and John in 21 without repeating its wording.",
+      "units": [
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "instruction",
+          "audience": "Simon and Andrew",
+          "summary": "Follow Jesus and become fishers of people"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 21,
+          "form": "reported-teaching",
+          "audience": "James and John",
+          "summary": "A second call beside the lake"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-04-23-25",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT04.htm",
+      "note": "The summary describes teaching, proclamation and cures. It supplies neither the wording of a saying nor an individual command.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-05-01-12",
@@ -8347,7 +8480,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-05-03-12"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT05.htm",
+      "note": "The disciples approach in verses 1–2. The blessings shift to direct second-person address in verse 11. The crowds' reaction follows in 7:28.",
+      "units": [
+        {
+          "startVerse": 3,
+          "endVerse": 6,
+          "form": "blessing",
+          "audience": "Disciples",
+          "summary": "Blessings for the poor in spirit, mourners, the gentle and those seeking righteousness"
+        },
+        {
+          "startVerse": 7,
+          "endVerse": 10,
+          "form": "blessing",
+          "audience": "Disciples",
+          "summary": "Mercy, purity, peacemaking and persecution for righteousness"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 12,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Rejoice under persecution on Jesus' account"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-05-13-16",
@@ -8356,7 +8519,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-05-13-16"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT05.htm",
+      "note": "Jesus addresses his listeners as salt and light. Verse 16 specifies the intended response of those who see their deeds.",
+      "units": [
+        {
+          "startVerse": 13,
+          "endVerse": 13,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Salt losing its usefulness"
+        },
+        {
+          "startVerse": 14,
+          "endVerse": 16,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Let good works direct attention to the Father"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-05-17-20",
@@ -8365,7 +8551,37 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-05-17-20"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT05.htm",
+      "note": "Jesus first speaks about his own mission, then about practicing and teaching commands and entering the kingdom.",
+      "units": [
+        {
+          "startVerse": 17,
+          "endVerse": 18,
+          "form": "claim",
+          "audience": "Disciples",
+          "summary": "Fulfillment and the endurance of the law"
+        },
+        {
+          "startVerse": 19,
+          "endVerse": 19,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Practicing, relaxing and teaching commandments"
+        },
+        {
+          "startVerse": 20,
+          "endVerse": 20,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Righteousness required for entry"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-05-21-48",
@@ -8379,7 +8595,72 @@
       "mt-s-05-33-37",
       "mt-s-05-38-42",
       "mt-s-05-43-48"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT05.htm",
+      "note": "Jesus introduces earlier sayings and then responds. Hatred of enemies in 43 is part of the position he challenges. WEBP flags the qualification of anger in verse 22 as variant.",
+      "units": [
+        {
+          "startVerse": 21,
+          "endVerse": 22,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Murder, anger, insults and judgment"
+        },
+        {
+          "startVerse": 23,
+          "endVerse": 24,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Seek reconciliation before completing an offering"
+        },
+        {
+          "startVerse": 25,
+          "endVerse": 26,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Come to terms with an adversary on the way to court"
+        },
+        {
+          "startVerse": 27,
+          "endVerse": 30,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Adultery, desire and severe imagery of removing a cause of stumbling"
+        },
+        {
+          "startVerse": 31,
+          "endVerse": 32,
+          "form": "teaching",
+          "audience": "Disciples",
+          "summary": "Divorce, the stated exception and remarriage"
+        },
+        {
+          "startVerse": 33,
+          "endVerse": 37,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Avoid oaths and speak plainly"
+        },
+        {
+          "startVerse": 38,
+          "endVerse": 42,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Responses to injury, litigation, forced service and requests"
+        },
+        {
+          "startVerse": 43,
+          "endVerse": 48,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Love enemies and extend goodwill beyond those who reciprocate"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-06-01-04",
@@ -8388,7 +8669,30 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-06-01-04"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT06.htm",
+      "note": "The repeated examples turn on the reward sought. WEBP notes a difference between charitable giving and a broader reference to righteous acts at 6:1.",
+      "units": [
+        {
+          "startVerse": 1,
+          "endVerse": 1,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Doing good for the purpose of attracting public notice"
+        },
+        {
+          "startVerse": 2,
+          "endVerse": 4,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Give without advertising the gift"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-06-05-15",
@@ -8399,7 +8703,51 @@
       "mt-s-06-05-08",
       "mt-s-06-09-13",
       "mt-s-06-14-15"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT06.htm",
+      "note": "Jesus instructs disciples how to pray and gives them words addressed to the Father. WEBP includes a doxology and flags its omission in the edition identified in its note.",
+      "units": [
+        {
+          "startVerse": 5,
+          "endVerse": 6,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Pray without performing for onlookers"
+        },
+        {
+          "startVerse": 7,
+          "endVerse": 8,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Avoid reliance on repeated words to gain a hearing"
+        },
+        {
+          "startVerse": 9,
+          "endVerse": 10,
+          "form": "prayer",
+          "audience": "Disciples learning to address the Father",
+          "summary": "Petitions concerning God's name, kingdom and will"
+        },
+        {
+          "startVerse": 11,
+          "endVerse": 13,
+          "form": "prayer",
+          "audience": "Disciples learning to address the Father",
+          "summary": "Bread, forgiveness, testing and deliverance"
+        },
+        {
+          "startVerse": 14,
+          "endVerse": 15,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Forgiving others and receiving forgiveness"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-06-16-18",
@@ -8408,7 +8756,23 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-06-16-18"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT06.htm",
+      "note": "The concern is that a fast be visible to the Father without using appearance to solicit admiration.",
+      "units": [
+        {
+          "startVerse": 16,
+          "endVerse": 18,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Ordinary outward care while fasting"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-06-19-24",
@@ -8419,7 +8783,37 @@
       "mt-s-06-19-21",
       "mt-s-06-22-23",
       "mt-s-06-24-24"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT06.htm",
+      "note": "Three images connect valuables, perception and allegiance. The last names wealth as a rival master.",
+      "units": [
+        {
+          "startVerse": 19,
+          "endVerse": 21,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Store treasure where it endures"
+        },
+        {
+          "startVerse": 22,
+          "endVerse": 23,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "The eye as the body's lamp"
+        },
+        {
+          "startVerse": 24,
+          "endVerse": 24,
+          "form": "claim",
+          "audience": "Disciples",
+          "summary": "Incompatible service to God and wealth"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-06-25-34",
@@ -8428,7 +8822,44 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-06-25-34"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT06.htm",
+      "note": "The examples of birds and vegetation concern food and clothing. The voices asking what to eat or wear in 31 are examples within the address.",
+      "units": [
+        {
+          "startVerse": 25,
+          "endVerse": 27,
+          "form": "teaching",
+          "audience": "Disciples",
+          "summary": "Food, life and the limits of anxiety"
+        },
+        {
+          "startVerse": 28,
+          "endVerse": 30,
+          "form": "teaching",
+          "audience": "Disciples",
+          "summary": "Clothing and the example of wildflowers"
+        },
+        {
+          "startVerse": 31,
+          "endVerse": 33,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Give priority to the kingdom and righteousness"
+        },
+        {
+          "startVerse": 34,
+          "endVerse": 34,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Attend to today's trouble"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-07-01-06",
@@ -8438,7 +8869,37 @@
     "existingSpeechIds": [
       "mt-s-07-01-05",
       "mt-s-07-06-06"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT07.htm",
+      "note": "The imagined offer to remove another's speck occurs inside Jesus' illustration. The images of dogs and pigs in 6 introduce a separate caution.",
+      "units": [
+        {
+          "startVerse": 1,
+          "endVerse": 2,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "The measure used in judgment"
+        },
+        {
+          "startVerse": 3,
+          "endVerse": 5,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Examine one's own fault before correcting another"
+        },
+        {
+          "startVerse": 6,
+          "endVerse": 6,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Discernment about what is holy and valuable"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-07-07-12",
@@ -8448,7 +8909,30 @@
     "existingSpeechIds": [
       "mt-s-07-07-11",
       "mt-s-07-12-12"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT07.htm",
+      "note": "The questions about a parent's gifts support confidence in the Father. Verse 12 formulates a rule for action toward others.",
+      "units": [
+        {
+          "startVerse": 7,
+          "endVerse": 11,
+          "form": "promise",
+          "audience": "Disciples",
+          "summary": "Ask, seek and knock in light of the Father's generosity"
+        },
+        {
+          "startVerse": 12,
+          "endVerse": 12,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Treat others as one would wish to be treated"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-07-13-23",
@@ -8459,7 +8943,37 @@
       "mt-s-07-13-14",
       "mt-s-07-15-20",
       "mt-s-07-21-23"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT07.htm",
+      "note": "The false prophets are introduced in 15. Verse 22 imagines the claimants' own defense and verse 23 gives Jesus' anticipated reply.",
+      "units": [
+        {
+          "startVerse": 13,
+          "endVerse": 14,
+          "form": "instruction",
+          "audience": "Disciples",
+          "summary": "Enter by the narrow gate"
+        },
+        {
+          "startVerse": 15,
+          "endVerse": 20,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Recognize dangerous prophets by their fruit"
+        },
+        {
+          "startVerse": 21,
+          "endVerse": 23,
+          "form": "warning",
+          "audience": "Disciples",
+          "summary": "Doing the Father's will and rejected claims of mighty works"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-07-24-27",
@@ -8468,14 +8982,38 @@
     "reviewStatus": "pending",
     "existingSpeechIds": [
       "mt-s-07-24-27"
-    ]
+    ],
+    "gospelAudit": {
+      "disposition": "direct-speech",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT07.htm",
+      "note": "Two matched accounts of storm and construction distinguish hearing accompanied by action from hearing alone.",
+      "units": [
+        {
+          "startVerse": 24,
+          "endVerse": 27,
+          "form": "parable",
+          "audience": "Disciples",
+          "summary": "Builders on rock and sand"
+        }
+      ]
+    }
   },
   {
     "passageId": "mt-07-28-29",
     "bookId": "mt",
     "sourceLayer": "jesus-synoptic",
     "reviewStatus": "pending",
-    "existingSpeechIds": []
+    "existingSpeechIds": [],
+    "gospelAudit": {
+      "disposition": "narrative",
+      "edition": "WEBP",
+      "date": "2026-11-27",
+      "sourceUrl": "https://ebible.org/engwebp/MAT07.htm",
+      "note": "The narrator reports the crowds' astonishment and describes the authority they perceived. Jesus' discourse has ended.",
+      "units": []
+    }
   },
   {
     "passageId": "mt-08-01-04",
