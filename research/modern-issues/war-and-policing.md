@@ -17,3 +17,5 @@ Pacifist and just-war approaches differ on whether public and personal obligatio
 ## Verification needs
 
 Review the linked comparison's evidence, relevant historical scholarship and competing modern ethical frameworks before drawing policy conclusions.
+
+A court deciding punishment after conviction faces a different question from an officer responding to an immediate threat. See the separate studies of [capital punishment](/modern-issues/capital-punishment/) and [criminal justice and restoration](/modern-issues/criminal-justice-and-restoration/).
