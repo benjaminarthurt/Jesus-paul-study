@@ -440,5 +440,21 @@
     "comparisonIds": [
       "care-during-illness"
     ]
+  },
+  {
+    "reviewId": "cape-town-hospitality",
+    "period": "modern",
+    "verification": "selected-english-text-rechecked",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-28",
+    "recheckUrl": "https://lausanne.org/statement/ctcommitment",
+    "recheckScope": "Part IIC.5–6, with endnotes 75–78.",
+    "recheckNote": "Note 76 explicitly cites Matthew 25, Luke 10 and Romans 12 for hospitality. Note 77 cites Jeremiah for seeking the welfare of the host community. Section 6 extends religious-freedom advocacy to people of other faiths.",
+    "comparisonIds": [
+      "outsiders-and-community-boundaries",
+      "religious-exclusivity"
+    ]
   }
 ]

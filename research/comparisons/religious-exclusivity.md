@@ -5,6 +5,7 @@ status: draft
 jesus: [jn-14-01-14, lk-09-49-50, mk-02-13-17, mt-28-16-20]
 paul: [ga-03-26-29, ga-02-01-10, ro-03-28-31]
 sourceIds: [web-protestant-66]
+reviewIds: [cape-town-hospitality]
 classification: different-emphasis
 ---
 ## Textual comparison

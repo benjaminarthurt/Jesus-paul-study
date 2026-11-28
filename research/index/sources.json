@@ -570,5 +570,27 @@
     "accessScope": "selected-excerpt",
     "location": "Key facts and overview, including the estimate of financial hardship for 2022 and the revised indicators.",
     "note": "Publisher fact sheet inspected on 2026-11-28. Underlying survey microdata and country-level estimates were not independently analyzed."
+  },
+  {
+    "id": "lausanne-cape-town",
+    "type": "primary-edition",
+    "author": "Lausanne Movement",
+    "title": "The Cape Town Commitment",
+    "publisher": "Lausanne Movement",
+    "url": "https://lausanne.org/statement/ctcommitment",
+    "accessScope": "selected-excerpt",
+    "location": "Part II, section C, paragraphs 5–6 and endnotes 75–78.",
+    "note": "Official English statement inspected. This records a public commitment. Local implementation and the drafting history were not examined."
+  },
+  {
+    "id": "unhcr-asylum-status",
+    "type": "primary-edition",
+    "author": "United Nations High Commissioner for Refugees",
+    "title": "Asylum and refugee status",
+    "publisher": "UNHCR Help",
+    "url": "https://help.unhcr.org/global/asylum-and-refugee-status/",
+    "accessScope": "selected-excerpt",
+    "location": "Global FAQ sections on asylum, applications and responsibility for refugee status determination.",
+    "note": "Used to distinguish seeking protection from the process for determining status. Country-specific rules and individual decisions were outside the inspection."
   }
 ]
