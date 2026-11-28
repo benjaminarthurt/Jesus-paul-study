@@ -525,5 +525,50 @@
     "accessScope": "selected-excerpt",
     "location": "Volume 31, pages 1–24. Abstract and opening methods description in the archived article, cross-checked against the National Institute of Justice abstract.",
     "note": "Used for consent before random allocation, the ten eligible trials and the direction of the pooled result. The individual trials were not independently inspected."
+  },
+  {
+    "id": "ireland-least-matthew",
+    "type": "peer-reviewed-article",
+    "author": "Jerry Ireland",
+    "title": "Matthew 25:40 and 'The Least of These': Interpretive Implications for a Missional Ecclesiology",
+    "publisher": "Journal of the Evangelical Missiological Society",
+    "url": "https://www.journal-ems.org/index.php/home/article/view/178",
+    "accessScope": "publisher-abstract-only",
+    "location": "Volume 6, number 1. Publisher abstract.",
+    "note": "The abstract contrasts universal and disciple-focused readings and identifies the author’s own missionary interpretation. Full argument not inspected.",
+    "year": 2026
+  },
+  {
+    "id": "benedict-rule-36",
+    "type": "primary-edition",
+    "author": "Benedict of Nursia",
+    "title": "Rule of Benedict, chapter 36: On the Sick",
+    "publisher": "Order of Saint Benedict archive",
+    "url": "https://archive.osb.org/rb/text/rbemjo1.html",
+    "accessScope": "selected-excerpt",
+    "location": "English text of chapter 36, including its citations of Matthew 25:36 and 40.",
+    "note": "This form of the translation addresses sisters and an abbess. The Latin text and records of actual care were not inspected."
+  },
+  {
+    "id": "ama-informed-consent",
+    "type": "primary-edition",
+    "author": "American Medical Association",
+    "title": "Informed Consent",
+    "publisher": "AMA Code of Medical Ethics",
+    "url": "https://code-medical-ethics.ama-assn.org/ethics-opinions/informed-consent",
+    "accessScope": "selected-excerpt",
+    "location": "Opinion 2.1.1, core statement and numbered responsibilities.",
+    "note": "Used for professional guidance on communication and authorization. This is not a survey of law or an efficacy study."
+  },
+  {
+    "id": "who-health-coverage",
+    "type": "primary-edition",
+    "author": "World Health Organization",
+    "title": "Universal health coverage (UHC)",
+    "publisher": "World Health Organization",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc)",
+    "accessScope": "selected-excerpt",
+    "location": "Key facts and overview, including the estimate of financial hardship for 2022 and the revised indicators.",
+    "note": "Publisher fact sheet inspected on 2026-11-28. Underlying survey microdata and country-level estimates were not independently analyzed."
   }
 ]
