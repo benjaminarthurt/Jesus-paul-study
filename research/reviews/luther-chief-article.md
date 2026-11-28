@@ -1,0 +1,9 @@
+# Luther on the ground of justification
+
+In Part II, Article I of the *Smalcald Articles*, Martin Luther makes a sequence of scriptural claims do confessional work. Romans 4:25 connects Christ's death and resurrection with justification. John 1:29 identifies him as the lamb who takes away sin, and Isaiah 53 supplies the language of bearing iniquity. Luther then turns to Romans 3 to argue that justification is received through faith without merit. The article explicitly names Paul in support of its conclusion. [Primary text, Part II, Article I](https://bookofconcord.org/smalcald-articles/ii/first-and-chief-article/)
+
+The distinction of speakers matters. The words from John are the Baptist's testimony about Jesus. They are not Jesus answering a question about the relation between faith and works. Luther combines that identification with Paul's account of what Christ's work accomplishes. He then elevates the synthesis into a commitment on which his party cannot yield. That last move belongs to a confessional dispute. It is a different kind of claim from a verse-level observation in Romans. [The Baptist's testimony](/passages/jn-01-29-34/) · [Paul on justification and one God](/pauline-teachings/ro-t-03-28-30/)
+
+The article directly addresses how justification is received. Reading it beside Matthew 25 raises a further question about the place of acts of mercy at judgment. The article inspected here does not provide a sustained exegesis of that scene. It would be unwarranted to infer that Luther discarded it, or to treat this one article as a survey of Lutheran teaching on ethics. [Salvation and judgment](/comparisons/salvation-and-judgment/) · [Augsburg Confession reception](/research-reviews/augsburg-justification-reception/)
+
+The English text of this article was inspected on November 27, 2026. Original-language comparison and independent historical scholarship on its composition and reception remain pending.
