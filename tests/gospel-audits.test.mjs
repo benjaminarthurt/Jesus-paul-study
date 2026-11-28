@@ -51,7 +51,11 @@ test("Luke retains the speakers of economically and ethically consequential sayi
   const parents = load("passages").filter(p => p.bookId === "lk");
   for (const p of parents) assert.equal(decisions.get(p.id)?.sourceUrl, p.sourceUrl, p.id);
   assert.equal(decisions.get("lk-03-07-20").disposition, "other-speakers");
-  assert.ok(decisions.get("lk-10-25-37").units.every(u => u.startVerse !== 27));
+  const exchange = decisions.get("lk-10-25-37").units;
+  assert.deepEqual(exchange.map(u => [u.startVerse, u.endVerse, u.form]), [
+    [26, 26, "question"], [28, 28, "instruction"], [30, 35, "parable"],
+    [36, 36, "question"], [37, 37, "instruction"]
+  ]);
   assert.equal(decisions.get("lk-19-11-27").units.at(-1).form, "parable");
   assert.equal(decisions.get("lk-22-54-62").units[0].form, "reported-prediction");
   assert.match(decisions.get("lk-23-32-43").note, /disputed/);

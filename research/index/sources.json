@@ -592,5 +592,16 @@
     "accessScope": "selected-excerpt",
     "location": "Global FAQ sections on asylum, applications and responsibility for refugee status determination.",
     "note": "Used to distinguish seeking protection from the process for determining status. Country-specific rules and individual decisions were outside the inspection."
+  },
+  {
+    "id": "sblgnt-luke10-neighbor",
+    "type": "primary-edition",
+    "author": "Michael W. Holmes, editor",
+    "title": "SBL Greek New Testament, Luke 10:29–37",
+    "publisher": "Society of Biblical Literature and Logos Bible Software",
+    "url": "https://www.biblegateway.com/passage/?search=Luke+10%3A29-37&version=SBLGNT",
+    "accessScope": "selected-excerpt",
+    "location": "Displayed Greek text of Luke 10:29–37, especially verses 29, 35–37 and notes on 36–37.",
+    "note": "Edition comparisons in the displayed footnotes were inspected. No manuscript images or witness apparatus were collated."
   }
 ]

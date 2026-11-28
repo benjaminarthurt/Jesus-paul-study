@@ -26,7 +26,7 @@ const related = links.filter(link => link.passages.includes(passageId)).map(link
 {audit && <section class="panel">
   <h2>Who speaks in this passage?</h2>
   <p>{audit.disposition.replaceAll("-", " ")} · English text inspected · <a href={audit.sourceUrl}>WEBP</a> · {audit.date}</p>
-  <p>{audit.note}</p>
+  <p id={passageId === "lk-10-25-37" ? "unit-36-37-instruction" : undefined}>{audit.note}</p>
   {audit.units.length > 0 && <ul>{audit.units.map(u => <li id={gospelUnitAnchor(u)}><a href={"#" + gospelUnitAnchor(u)} aria-label={"Cite " + u.summary}><strong>{u.startVerse}{u.endVerse !== u.startVerse && "–" + u.endVerse}</strong></a> · {u.summary} · {u.form.replaceAll("-", " ")} · {u.audience}</li>)}</ul>}
   {speechRecords.length > 0 && <><h3>Cataloged speech spans</h3><ul>{speechRecords.map(s => <li><a href={"/teachings/" + s.id + "/"}>{s.reference} · {s.title}</a></li>)}</ul></>}
   {passageId === "mk-07-01-23" && <p>See the speaker records for <a href="/passages/mk-07-01-13/">Mark 7:1–13</a> and <a href="/passages/mk-07-14-23/">Mark 7:14–23</a>.</p>}
