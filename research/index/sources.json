@@ -477,5 +477,53 @@
     "url": "https://www.newadvent.org/fathers/0714.htm",
     "accessScope": "selected-excerpt",
     "note": "Inspected the English rules for reception, discernment, length of stay and support. Webpage cross-references are editorial aids."
+  },
+  {
+    "id": "catechism-2267-2018",
+    "type": "primary-edition",
+    "author": "Congregation for the Doctrine of the Faith",
+    "title": "Revision of paragraph 2267 of the Catechism of the Catholic Church",
+    "publisher": "Holy See",
+    "year": 2018,
+    "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html",
+    "accessScope": "full-text",
+    "location": "English rescript and complete revised paragraph 2267.",
+    "note": "The earlier position is described as this document presents it. The revision is the primary witness for its own teaching."
+  },
+  {
+    "id": "usccb-criminal-justice-2000",
+    "type": "denominational-report",
+    "author": "United States Conference of Catholic Bishops",
+    "title": "Responsibility, Rehabilitation, and Restoration: A Catholic Perspective on Crime and Criminal Justice",
+    "publisher": "USCCB",
+    "year": 2000,
+    "url": "https://www.usccb.org/resources/responsibility-rehabilitation-and-restoration-catholic-perspective-crime-and-criminal",
+    "accessScope": "selected-excerpt",
+    "location": "Introduction, discussion of crime victims, and policy principles on participation, restorative justice and rehabilitation.",
+    "note": "Consulted for the bishops’ ethical argument and insistence on voluntary participation. Its crime statistics describe an earlier period."
+  },
+  {
+    "id": "nrc-deterrence-2012",
+    "type": "academic-book",
+    "author": "National Research Council",
+    "title": "Deterrence and the Death Penalty",
+    "publisher": "National Academies Press",
+    "year": 2012,
+    "url": "https://www.nationalacademies.org/publications/13363",
+    "accessScope": "selected-excerpt",
+    "location": "Publisher overview and National Academies release of April 18, 2012.",
+    "note": "The assessment concerns the research available to the committee. Individual studies and a contemporary literature update were not independently reviewed."
+  },
+  {
+    "id": "sherman-conferencing-2015",
+    "type": "peer-reviewed-article",
+    "author": "Lawrence W. Sherman, Heather Strang, Evan Mayo-Wilson, Daniel J. Woods and Barak Ariel",
+    "title": "Are Restorative Justice Conferences Effective in Reducing Repeat Offending? Findings from a Campbell Systematic Review",
+    "publisher": "Journal of Quantitative Criminology",
+    "year": 2015,
+    "url": "https://doi.org/10.1007/s10940-014-9222-9",
+    "accessScope": "selected-excerpt",
+    "location": "Volume 31, pages 1–24. Abstract and opening methods description in the archived article, cross-checked against the National Institute of Justice abstract.",
+    "note": "Used for consent before random allocation, the ten eligible trials and the direction of the pooled result. The individual trials were not independently inspected."
   }
 ]

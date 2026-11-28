@@ -410,5 +410,20 @@
     "comparisonIds": [
       "salvation-and-judgment"
     ]
+  },
+  {
+    "reviewId": "catechism-capital-punishment",
+    "verification": "selected-english-text-rechecked",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-28",
+    "recheckNote": "Inspected the official English revision of paragraph 2267, including its account of past permission, enduring dignity, penal purposes, detention and abolition.",
+    "recheckUrl": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html",
+    "recheckScope": "Rescript and revised Catechism paragraph 2267",
+    "period": "modern",
+    "comparisonIds": [
+      "enemy-love-and-civil-authority"
+    ]
   }
 ]

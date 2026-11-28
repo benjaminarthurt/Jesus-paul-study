@@ -112,14 +112,6 @@ for (const entry of comparisonEntries) {
     if (!passage || !passage.sourceLayer.startsWith("paul-")) errors.push("Invalid Pauline passage " + id + " in " + entry.id);
   }
 }
-for (const entry of collection("research/modern-issues")) {
-  statusCheck(entry.meta, "Modern issue " + entry.id);
-  for (const id of requireStrings(entry.meta.topicRefs, "Issue topicRefs " + entry.id)) {
-    if (!topicIds.has(id)) errors.push("Unknown topic " + id + " in modern issue " + entry.id);
-  }
-}
-
-
 const sourceIds = new Set();
 const accessScopes = new Set(["full-text", "publisher-abstract-only", "selected-excerpt"]);
 for (const source of sources) {
@@ -132,6 +124,15 @@ for (const source of sources) {
     const url = new URL(source.url);
     if (url.protocol !== "https:") errors.push("Source URL must be HTTPS: " + source.id);
   } catch { errors.push("Source URL malformed: " + source.id); }
+}
+for (const entry of collection("research/modern-issues")) {
+  statusCheck(entry.meta, "Modern issue " + entry.id);
+  for (const id of requireStrings(entry.meta.topicRefs, "Issue topicRefs " + entry.id)) {
+    if (!topicIds.has(id)) errors.push("Unknown topic " + id + " in modern issue " + entry.id);
+  }
+  for (const id of requireStrings(entry.meta.sourceIds ?? [], "Issue sources " + entry.id)) {
+    if (!sourceIds.has(id)) errors.push("Unknown bibliographic source " + id + " in modern issue " + entry.id);
+  }
 }
 const comparisonMap = new Map(comparisonEntries.map(entry => [entry.id, entry]));
 for (const entry of comparisonEntries) {

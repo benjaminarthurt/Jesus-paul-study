@@ -17,3 +17,5 @@ Forgiveness, reconciliation, restored trust and legal accountability are distinc
 ## Verification needs
 
 Review the linked comparison's evidence, relevant historical scholarship and competing modern ethical frameworks before drawing policy conclusions.
+
+The distinction becomes concrete when an injured person wants restitution and declines contact with the offender. A community can help pursue repair without treating a meeting as proof of forgiveness. [Criminal justice and restoration](/modern-issues/criminal-justice-and-restoration/)

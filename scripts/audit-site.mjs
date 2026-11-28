@@ -5,6 +5,7 @@
  * Usage: npm run build && npm run test:site
  * With PUBLIC_SITE_URL set, checks Astro's generated canonical URLs.
  */
+import { parseFrontmatter } from "./frontmatter.mjs";
 import { sitePath } from "../src/lib/site-path.mjs";
 import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
 import { resolve, join, dirname, relative, sep } from "node:path";
@@ -108,6 +109,14 @@ if (JSON.stringify(indexedPairs.sort()) !== JSON.stringify(expectedPairs.sort())
 for (const {passages: [left, right]} of indexData("gospel-audit-links")) {
   requirePageLink("passages/" + left, "/passages/" + right + "/");
   requirePageLink("passages/" + right, "/passages/" + left + "/");
+}
+for (const file of readdirSync("research/modern-issues").filter(file => file.endsWith(".md"))) {
+  const source = readFileSync(join("research/modern-issues", file), "utf8");
+  const issue = "modern-issues/" + file.slice(0, -3);
+  for (const id of parseFrontmatter(source, file).sourceIds ?? []) {
+    requirePageLink(issue, "/sources/#source-" + id);
+    requirePageLink("sources", "/" + issue + "/");
+  }
 }
 for (const teaching of indexData("pauline-teachings")) {
   requirePageLink("passages/" + teaching.passageId, "/pauline-teachings/" + teaching.id + "/");

@@ -42,7 +42,8 @@ export const collections = {
       title: z.string(),
       summary: z.string(),
       status,
-      topicRefs: z.array(z.string().min(1))
+      topicRefs: z.array(z.string().min(1)),
+      sourceIds: passageIds.optional()
     })
   })
 };

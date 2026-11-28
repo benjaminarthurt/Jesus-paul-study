@@ -1,7 +1,9 @@
 ---
+import { getCollection } from "astro:content";
 import Base from "../layouts/Base.astro";
 import sources from "../../research/index/sources.json";
 import evidence from "../../research/index/evidence.json";
+const issues = await getCollection("issues");
 const sorted = [...sources].sort((a,b)=>a.title.localeCompare(b.title));
 const accessLabels: Record<string,string> = {
   "full-text": "Full text or online article inspected",
@@ -26,6 +28,7 @@ const counts = new Map(sorted.map(s=>[s.id,evidence.filter(e=>e.sourceIds.includ
         <p><strong>Access:</strong> {accessLabels[s.accessScope] ?? s.accessScope}</p>
         <p>{s.note}</p>
         <div class="meta">Cited by {counts.get(s.id)} preliminary evidence claim(s)</div>
+        {issues.some(i => i.data.sourceIds?.includes(s.id)) && <ul>{issues.filter(i => i.data.sourceIds?.includes(s.id)).map(i => <li><a href={`/modern-issues/${i.id}/`}>{i.data.title}</a></li>)}</ul>}
       </article>)}
     </div>
   </section>
