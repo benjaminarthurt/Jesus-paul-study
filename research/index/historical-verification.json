@@ -425,5 +425,20 @@
     "comparisonIds": [
       "enemy-love-and-civil-authority"
     ]
+  },
+  {
+    "reviewId": "benedict-care-of-sick",
+    "period": "medieval",
+    "verification": "selected-english-text-rechecked",
+    "criticalEdition": "pending",
+    "independentScholarship": "pending",
+    "publicationStatus": "draft",
+    "recheckDate": "2026-11-28",
+    "recheckUrl": "https://archive.osb.org/rb/text/rbemjo1.html",
+    "recheckScope": "English chapter 36, On the Sick",
+    "recheckNote": "Matthew 25 explicitly grounds a rule directing the house to provide a room and attendant, adapt discipline and hold its superior responsible for neglect. The English form inspected addresses an abbess.",
+    "comparisonIds": [
+      "care-during-illness"
+    ]
   }
 ]

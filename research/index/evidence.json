@@ -1416,5 +1416,61 @@
     "sourceIds": [
       "web-protestant-66"
     ]
+  },
+  {
+    "id": "care-during-illness-conduct",
+    "comparisonId": "care-during-illness",
+    "status": "draft",
+    "kind": "source-comparison",
+    "assessment": "agreement",
+    "title": "Concrete care for vulnerable people",
+    "observation": "The Samaritan arranges continuing care. Paul arranges a coworker’s return and asks his community to welcome him.",
+    "alternateReading": "Paul commends a particular emissary for service, while Jesus tells a story about becoming a neighbor to a stranger.",
+    "limitation": "The shared conduct does not prove literary dependence or agreement on the full scope of obligation.",
+    "passageIds": [
+      "lk-10-25-37",
+      "php-02-19-30"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ]
+  },
+  {
+    "id": "care-during-illness-scope",
+    "comparisonId": "care-during-illness",
+    "status": "draft",
+    "kind": "textual-observation",
+    "assessment": "interpretation-dependent",
+    "title": "Who receives the visit in Matthew?",
+    "observation": "The king identifies with the visited sick person. The referent of the least of his brethren affects the breadth of the comparison.",
+    "alternateReading": "A reading focused on vulnerable messengers brings Matthew closer to the reception of Epaphroditus. A general reading extends the obligation to other sick people.",
+    "limitation": "The modern article was inspected at abstract level. Its exegetical argument requires further scrutiny.",
+    "passageIds": [
+      "mt-25-31-46",
+      "php-02-19-30"
+    ],
+    "sourceIds": [
+      "web-protestant-66",
+      "ireland-least-matthew"
+    ]
+  },
+  {
+    "id": "care-during-illness-cure",
+    "comparisonId": "care-during-illness",
+    "status": "draft",
+    "kind": "counterexample",
+    "assessment": "interpretation-dependent",
+    "title": "Care continues when an outcome is uncertain",
+    "observation": "The Samaritan story ends with care arranged. Paul distinguishes different gifts and recounts an appeal for relief answered in terms of grace.",
+    "alternateReading": "A believer may affirm healing gifts without taking these accounts as a pledge of recovery for each individual.",
+    "limitation": "The thorn is not medically identified. These accounts yield no estimate of treatment or prayer effectiveness.",
+    "passageIds": [
+      "lk-10-25-37",
+      "1co-12-04-31",
+      "2co-12-01-10"
+    ],
+    "sourceIds": [
+      "web-protestant-66"
+    ]
   }
 ]

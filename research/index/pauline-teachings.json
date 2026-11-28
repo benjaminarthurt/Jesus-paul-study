@@ -7573,6 +7573,25 @@
     "granularity": "selected-unit"
   },
   {
+    "id": "php-t-02-25-28",
+    "passageId": "php-02-19-30",
+    "bookId": "php",
+    "chapter": 2,
+    "startVerse": 25,
+    "endVerse": 28,
+    "title": "Epaphroditus's illness, recovery and return to the community",
+    "sourceLayer": "paul-undisputed",
+    "attribution": "letter-discourse",
+    "teachingType": "narrative-example",
+    "topics": [
+      "healing",
+      "suffering"
+    ],
+    "status": "draft",
+    "sourceUrl": "https://ebible.org/engwebp/PHP02.htm",
+    "granularity": "selected-unit"
+  },
+  {
     "id": "php-t-02-29-30",
     "passageId": "php-02-19-30",
     "bookId": "php",
