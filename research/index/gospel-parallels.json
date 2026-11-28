@@ -236,7 +236,9 @@
   {
     "status": "draft",
     "sourceIds": [
-      "kloppenborg-2023-synoptic"
+      "kloppenborg-2023-synoptic",
+      "web-protestant-66",
+      "sblgnt-luke10-neighbor"
     ],
     "id": "love-god-and-neighbor",
     "title": "The highest commands: love of God and neighbor",

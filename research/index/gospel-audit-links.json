@@ -1060,5 +1060,23 @@
     "relationship": "partial-parallel",
     "note": "Both include darkness, Jesus' death and a centurion's response. Luke gives a prayer of entrusting the spirit and a different declaration by the centurion.",
     "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-10-25-37",
+      "mk-12-28-34"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Mark places the paired commands in Jesus’ reply and gives the scribe the comparison with sacrifice. Luke puts the commands in the lawyer’s reply and follows with a separate parable.",
+    "status": "candidate"
+  },
+  {
+    "passages": [
+      "lk-10-25-37",
+      "mt-22-34-40"
+    ],
+    "relationship": "related-in-different-context",
+    "note": "Matthew’s question ranks commandments and Jesus gives both. Luke’s question concerns inheriting life and the lawyer voices both commands. The Samaritan episode has no counterpart in this Matthew passage.",
+    "status": "candidate"
   }
 ]

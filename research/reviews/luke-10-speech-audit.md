@@ -1,4 +1,4 @@
-# Luke 10:1–24 — preliminary speech and parallel audit
+# Luke 10:1–37 — speech and parallel audit
 
 **Issue:** #2 · **Status:** draft; not independently source-checked
 
@@ -51,3 +51,11 @@ These are candidate parallels, not assertions of verbatim equivalence, common ch
 - [Luke 10 (WEBP)](https://ebible.org/engwebp/LUK10.htm)
 - [Matthew 10 (WEBP)](https://ebible.org/engwebp/MAT10.htm)
 - [Matthew 11 (WEBP)](https://ebible.org/engwebp/MAT11.htm)
+
+## The lawyer, the Samaritan and Jesus in Luke 10:25–37
+
+In the two questions about the neighbor the same Greek word, **πλησίον**, occurs with a different point of reference. In 29 the lawyer asks who is his neighbor. In 36 Jesus asks which of the three seems to have become a neighbor to the injured man. **γεγονέναι** gives the second question its retrospective force. The lawyer must now judge the conduct of the travelers. The ensuing instruction asks him to act on his own answer. The lawyer voices the first part of 37, and Luke explicitly names Jesus as the speaker of the second. The Samaritan's promise in 35 is dialogue within Jesus' story. Recording it as a promise by Jesus to pay an innkeeper would change both speaker and recipient. [English passage and individual units](/passages/lk-10-25-37/) · [Greek text and inspection scope](/sources/#source-sblgnt-luke10-neighbor)
+
+The displayed Greek edition notes differences over a connective at the opening of 36 and before Jesus' final speech in 37. The alternatives leave the question, the lawyer's answer and Jesus' closing instruction distinguishable. These notes identify differences among editions. A judgment about particular manuscript witnesses would require further evidence.
+
+In Mark the scribe asks which command ranks first. Jesus answers, the scribe compares love with offerings, and Jesus responds to him. In Matthew a lawyer tests Jesus, who gives both commands and comments on their relation to the Law and Prophets. In Luke the lawyer gives both commands and Jesus endorses his answer. The shared scriptural content warrants comparison of those exchanges. Extending the parallel through the end of the Samaritan story would imply a matching narrative absent from these passages in Mark and Matthew. This check used the English texts of all three accounts and the Greek excerpt for Luke on November 28, 2026. Literary dependence and independent scholarly review remain open. [Mark 12:28–34](/passages/mk-12-28-34/) · [Matthew 22:34–40](/passages/mt-22-34-40/) · [Luke 10:25–28](/teachings/lk-s-10-25-28/)

@@ -5815,9 +5815,9 @@
     "gospelAudit": {
       "disposition": "direct-speech",
       "edition": "WEBP",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "sourceUrl": "https://ebible.org/engwebp/LUK10.htm",
-      "note": "The lawyer states the twofold love command in 27. Jesus endorses his answer, tells the story and asks him to identify the neighbor.",
+      "note": "The lawyer asks about life in 25, quotes the commands in 27 and asks about his neighbor in 29. Jesus tells the story in 30–35. The promise to reimburse the innkeeper in 35 belongs to the Samaritan inside that story. Jesus asks the question in 36. The lawyer identifies the merciful helper in the first clause of 37. Jesus gives the closing instruction in the second clause.",
       "units": [
         {
           "startVerse": 26,
@@ -5842,10 +5842,17 @@
         },
         {
           "startVerse": 36,
+          "endVerse": 36,
+          "form": "question",
+          "audience": "Law expert",
+          "summary": "Which traveler became a neighbor to the injured man?"
+        },
+        {
+          "startVerse": 37,
           "endVerse": 37,
           "form": "instruction",
           "audience": "Law expert",
-          "summary": "Identify the neighbor and imitate mercy"
+          "summary": "After the expert answers, Jesus directs him to imitate the act of mercy (closing clause only)"
         }
       ]
     }
